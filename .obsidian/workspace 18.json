@@ -1,0 +1,285 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blue Skies and Sunshine.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Blue Skies and Sunshine"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5781723b09dc1df6",
+    "type": "split",
+    "children": [
+      {
+        "id": "75acecf0c4121913",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f2208442ed165fdd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "efe47998ab0be30c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "38f77ad0379e03e6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "dcb05f90b967a810",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 265.5
+  },
+  "right": {
+    "id": "26e6b0571f47904d",
+    "type": "split",
+    "children": [
+      {
+        "id": "08f5bc16b96bd3d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84d43e8627e51096",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "9481d2579c02e774",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Blue Skies and Sunshine.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "pinned": true,
+              "icon": "links-coming-in",
+              "title": "Backlinks for Blue Skies and Sunshine"
+            }
+          },
+          {
+            "id": "b5a5e54668270348",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Blue Skies and Sunshine.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "pinned": true,
+              "icon": "links-going-out",
+              "title": "Outgoing links from Blue Skies and Sunshine"
+            }
+          },
+          {
+            "id": "8dcba8d663f826f6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "cc81ec375dcb6e5f",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Blue Skies and Sunshine.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "pinned": true,
+              "icon": "lucide-list",
+              "title": "Outline of Blue Skies and Sunshine"
+            }
+          }
+        ]
+      },
+      {
+        "id": "535605762edb467e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36f4bcf90cbcf524",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Blue Skies and Sunshine.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": -2.9,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.508761885579259,
+                  "close": true
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph of Blue Skies and Sunshine"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 320.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "graph:Open graph view": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "homepage:Open homepage": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "e7a7b303c61786dc",
+  "lastOpenFiles": [
+    "Blue Skies and Sunshine.md",
+    "2025-04-23.md",
+    "All Tasks.md",
+    "Classes/Algorithms/Dynamic Programming/Exponential Time (EXP).md",
+    "Untitled.md",
+    "Untitled/Untitled.md",
+    "All Tasks",
+    "Classes/Computer Structures/Computer Structures.md",
+    "Classes/Computer Structures/To Review.md",
+    "Classes/Algorithms/Algorithms.md",
+    "Classes/Algorithms/To Review.md",
+    "Classes/Algorithms/Finals/NP-hard.md",
+    "Classes/Algorithms/Finals/Photos/Types of Problems-1.webp",
+    "Classes/Algorithms/Finals/Polynomial-time Reductions.md",
+    "Classes/Algorithms/Finals/Types of Problems.md",
+    "Classes/Algorithms/Finals/Photos/Polynomial-time Reductions-1.webp",
+    "Classes/Algorithms/Finals/Photos/Types of Problems-1 2.webp",
+    "Classes/Algorithms/Finals/Photos/Types of Problems-1.webp",
+    "Types of Problems-1.png",
+    "Classes/Algorithms/Finals/Non-deterministic Algorithms.md",
+    "Classes/Algorithms/Finals/Non-deterministic Polynomial Time (NP).md",
+    "Classes/Algorithms/Finals/NP-complete.md",
+    "Classes/Algorithms/Finals/The Hamiltonian Path Problem.md",
+    "Classes/Algorithms/Finals/Intractable Problems.md",
+    "Classes/Algorithms/Finals/Polynomial Time (P).md",
+    "Classes/Algorithms/Finals/Deterministic Algorithms.md",
+    "Classes/Algorithms/Finals/Decision Problems.md",
+    "Classes/Algorithms/Finals/Verification Algorithm.md",
+    "Classes/Algorithms/Finals/Certificates.md",
+    "Classes/Algorithms/Finals/The Traveling Salesman Problem.md",
+    "Classes/Algorithms/Finals/Optimization Problems.md",
+    "Classes/Algorithms/Finals/The Halting Problem.md",
+    "Classes/Algorithms/Finals/Photos/The Halting Problem-1.webp",
+    "Classes/Algorithms/Finals/Photos/Exponential Time-1.webp",
+    "Classes/Algorithms/Finals/Photos/Polynomial Time-1.webp",
+    "Classes/Computer Structures/Photos/Virtual Address-1.webp"
+  ]
+}

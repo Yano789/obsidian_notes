@@ -1,0 +1,256 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e34d2a7021b6a3c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blue Skies and Sunshine.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Blue Skies and Sunshine"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "26d4f63c15d06bb4",
+    "type": "split",
+    "children": [
+      {
+        "id": "5774b83570472239",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6fe38cbd59327d1f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5068220fa4308e47",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3d06a387beb1fe24",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "9671b4552131a346",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c2f043489300821b",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d985cd8d596339a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1042144bb03341eb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "6afb00ff40a4e653",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "7ad2a37b824f862c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d95e92ab3c2a52a6",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Blue Skies and Sunshine.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "pinned": true,
+              "icon": "lucide-list",
+              "title": "Outline of Blue Skies and Sunshine"
+            }
+          },
+          {
+            "id": "8ca9290a815823be",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "b32db0b6d388dfab",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "homepage:Open homepage": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "9671b4552131a346",
+  "lastOpenFiles": [
+    "Todoist.md",
+    "Blue Skies and Sunshine.md",
+    "alpha_vault",
+    "obsidian_notes/Classes/Computer Structures/Stack and Procedures/Stack Implementation.md",
+    "obsidian_notes/Classes/Computer Structures/Stack and Procedures/Stack Pointer (SP) R29.md",
+    "obsidian_notes/Classes/Computer Structures/Stack and Procedures/Push.md",
+    "obsidian_notes/Classes/Computer Structures/Stack and Procedures/Procedure Linkage Problem.md",
+    "obsidian_notes/Classes/Computer Structures/Stack and Procedures/Procedure Linkage Convention.md",
+    "obsidian_notes/Classes/Computer Structures/Stack and Procedures/Pop.md",
+    "obsidian_notes/Classes/Computer Structures/Stack and Procedures/Linkage Pointer (LP) R28.md",
+    "obsidian_notes/Classes/Computer Structures/Stack and Procedures/Deallocate.md",
+    "obsidian_notes/Classes/Computer Structures/Stack and Procedures/Function.md",
+    "obsidian_notes/Classes/Computer Structures/Stack and Procedures/Base Pointer (BP) R27.md",
+    "obsidian_notes/Classes/Computer Structures/Stack and Procedures/Allocate.md",
+    "obsidian_notes/Classes/Computer Structures/Virtual Machine/Scheduling and Multiple Interrupts.md",
+    "obsidian_notes/Classes/Computer Structures/Virtual Machine/Operating System (OS) Kernel.md",
+    "obsidian_notes/Classes/Computer Structures/Virtual Memory/Virtual Page Number (VPN).md",
+    "obsidian_notes/Classes/Computer Structures/Virtual Machine/Effective Interrupt Load.md",
+    "obsidian_notes/Classes/Computer Structures/Virtual Memory/Virtual Memory.md",
+    "obsidian_notes/Classes/Computer Structures/Virtual Memory/Virtual Address (VA).md",
+    "obsidian_notes/Classes/Computer Structures/Virtual Memory/Translation Lookaside Buffer (TLB).md",
+    "obsidian_notes/Classes/Computer Structures/Virtual Memory/Process.md",
+    "obsidian_notes/Classes/Computer Structures/Virtual Memory/Super Locality of Reference.md",
+    "obsidian_notes/Classes/Computer Structures/Virtual Memory/Resident Bit (R).md",
+    "obsidian_notes/Classes/Computer Structures/Virtual Memory/Physical Page Number (PPN).md",
+    "obsidian_notes/Classes/Computer Structures/Virtual Memory/Page Table.md",
+    "obsidian_notes/Classes/Computer Structures/Virtual Memory/Physical Address (PA).md",
+    "obsidian_notes/Classes/Computer Structures/Photos/Virtual Address-1.webp",
+    "obsidian_notes/Classes/Computer Structures/Photos/The Cache Idea-1.webp",
+    "obsidian_notes/Classes/Computer Structures/Photos/Unified Syntax for Abstract State Machines (UASM)-1.webp",
+    "obsidian_notes/Classes/Computer Structures/Photos/Translation Lookaside Buffer (TLB)-1.webp",
+    "obsidian_notes/Classes/Computer Structures/Photos/Screenshot 2025-04-01 at 5.20.56 PM.webp",
+    "obsidian_notes/Classes/Computer Structures/Photos/Process-1.webp",
+    "obsidian_notes/Classes/Computer Structures/Photos/Pasted image 20250401180900.webp",
+    "obsidian_notes/Classes/Computer Structures/Photos/Pasted image 20250401173632.webp",
+    "obsidian_notes/Classes/Computer Structures/Photos/Pasted image 20250401175235.webp",
+    "obsidian_notes/Classes/Computer Structures/Photos/Pasted image 20250401172509.webp",
+    "obsidian_notes/Classes/Computer Structures/Stack and Procedures",
+    "obsidian_notes/Classes/Computer Structures/Virtual Machine",
+    "obsidian_notes/Classes/Computer Structures/Virtual Memory",
+    "obsidian_notes/Classes/Computer Structures/Interrupts and Faults",
+    "obsidian_notes/Classes/Computer Structures/Memory Hierarchy and Cache Design",
+    "obsidian_notes/Classes/Computer Structures/Photos",
+    "obsidian_notes/Classes/Computer Structures/Assembling and Compiling",
+    "obsidian_notes/Classes/Algorithms/Types of Problems",
+    "obsidian_notes/Classes/Algorithms/Photos"
+  ]
+}

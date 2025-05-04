@@ -1,0 +1,240 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Classes/Computer Structures/Memory Hierarchy and Cache Design/The Cache Idea.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "The Cache Idea"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "baf6a8400814617c",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "008d802f4812d0e5",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": true
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "58cadd37a8c11134",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "Doubly",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "95784c2b62517b34",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "580018f3406f5e1f",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      },
+      {
+        "id": "565b05de1b6f80e2",
+        "type": "leaf",
+        "state": {
+          "type": "mk-path-view",
+          "state": {},
+          "icon": "layout-grid",
+          "title": "Navigator"
+        }
+      }
+    ],
+    "currentTab": 4
+  },
+  "right": {
+    "id": "5cb85562a22ab06f",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "347d7bedaa5d1502",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Blue Skies and Sunshine.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "244d25e08bbc62ca",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Untitled.canvas",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "fc7d0f8c615458c9",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Untitled.canvas",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "9e7b14926952f311",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "e6a044abe448374d",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "calendar-with-checkmark",
+          "title": "Calendar"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "omnisearch:Omnisearch": false,
+      "homepage:Open homepage": false,
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e7a7b303c61786dc",
+  "lastOpenFiles": [
+    "Blue Skies and Sunshine.md",
+    "Classes/Computer Structures/Memory Hierarchy and Cache Design/Cache Hit.md",
+    "Classes/Computer Structures/Memory Hierarchy and Cache Design/Direct Mapped (DM) Cache.md",
+    "Classes/Computer Structures/Memory Hierarchy and Cache Design/Fully Associative (FA) Cache.md",
+    "Classes/Computer Structures/Memory Hierarchy and Cache Design/The Cache Idea.md",
+    "Classes/Computer Structures/Memory Hierarchy and Cache Design/Swap Space.md",
+    "Classes/Computer Structures/Memory Hierarchy and Cache Design/Cache Miss.md",
+    "Classes/Computer Structures/Memory Hierarchy and Cache Design/Memory Hierarchy.md",
+    "Classes/Computer Structures/Memory Hierarchy and Cache Design/Temporal Locality.md",
+    "Classes/Computer Structures/Memory Hierarchy and Cache Design/Static Random Access Memory (SRAM).md",
+    "Classes/Computer Structures/Memory Hierarchy and Cache Design/Spatial Locality.md",
+    "Classes/Computer Structures/Memory Hierarchy and Cache Design/Memory Addressing.md",
+    "Classes/Computer Structures/Stack and Procedures/Stack Implementation.md",
+    "Classes/Computer Structures/Stack and Procedures/Base Pointer (BP) R27.md",
+    "Classes/Computer Structures/Stack and Procedures/Linkage Pointer (LP) R28.md",
+    "Classes/Algorithms/Types of Problems/The Hamiltonian Path Problem.md",
+    "Classes/Algorithms/Types of Problems/NP-hard.md",
+    "Classes/Algorithms/Types of Problems/Types of Problem.md",
+    "Classes/Computer Structures/Stack and Procedures/Procedure Linkage Convention.md",
+    "Classes/Computer Structures/Stack and Procedures/Push.md",
+    "Classes/Computer Structures/Virtual Memory/Dirty Bit (D).md",
+    "Classes/Computer Structures/Virtual Memory/Page Table.md",
+    "The Tia File.md",
+    "Classes/Computer Structures/Memory Hierarchy and Cache Design/Dynamic Random-Access Memory (DRAM).md",
+    "Classes/Computer Structures/Virtual Memory/Virtual Memory.md",
+    "Ink/Writing/2025.4.8 - 11.20am.writing",
+    "Ink/Writing/2025.4.8 - 12.42pm.writing",
+    "Blue Skies and Sunshine-1.canvas",
+    "Classes/Computer Structures/Week 11/Page Table.md",
+    "Classes/Algorithms/Finals/Photos/image-19.webp",
+    "Classes/Algorithms/Week 10/Photos/image20.webp",
+    "image-13.png",
+    "image-13.webp",
+    "image-12.png",
+    "image-11.png",
+    "image-10.png",
+    "image-11.webp",
+    "image-10.webp",
+    "image-9.png",
+    "Classes/Algorithms/Finals",
+    "Ink/Drawing/2025.4.8 - 12.42pm.drawing",
+    "Ink/Drawing",
+    "Classes/Computer Structures/Week 11",
+    "Ink/Writing",
+    "Ink",
+    "Classes/Algorithms/Week 5/Photos",
+    "Classes/Algorithms/Week 8/Photos"
+  ]
+}
