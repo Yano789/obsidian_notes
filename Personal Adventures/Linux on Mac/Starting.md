@@ -8,7 +8,10 @@ Enter the following code on terminal
 ```
 curl https://alx.sh | sh
 ```
-Then, follow the instructions carefully
+Then, follow the instructions **VERY** carefully
+
+## Hyprland Setup
+I used JaKootLit's Fedora Hyprland script to get all the basic tools and styles/themes so I don't have to set it up myself and it saved so much time
 
 This code fixed the crashing for Obsidian:
 ```
