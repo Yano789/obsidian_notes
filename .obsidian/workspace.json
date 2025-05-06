@@ -22,8 +22,25 @@
               "icon": "lucide-file",
               "title": "Blue Skies and Sunshine"
             }
+          },
+          {
+            "id": "eded1c1f8ddb5bf1",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blue Skies and Sunshine.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Blue Skies and Sunshine"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -189,7 +206,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,15 +219,17 @@
       "command-palette:Open command palette": false,
       "homepage:Open homepage": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "remotely-save:Remotely Save": false
     }
   },
-  "active": "4e34d2a7021b6a3c",
+  "active": "4e48de9fb88f61b5",
   "lastOpenFiles": [
+    "alpha_vault",
+    "The Tia File.md",
+    "Blue Skies and Sunshine.md",
     "Classes/Archive",
     "Todoist.md",
-    "Blue Skies and Sunshine.md",
-    "alpha_vault",
     "obsidian_notes/Classes/Computer Structures/Stack and Procedures/Stack Implementation.md",
     "obsidian_notes/Classes/Computer Structures/Stack and Procedures/Stack Pointer (SP) R29.md",
     "obsidian_notes/Classes/Computer Structures/Stack and Procedures/Push.md",
@@ -232,7 +252,6 @@
     "obsidian_notes/Classes/Computer Structures/Virtual Memory/Super Locality of Reference.md",
     "obsidian_notes/Classes/Computer Structures/Virtual Memory/Resident Bit (R).md",
     "obsidian_notes/Classes/Computer Structures/Virtual Memory/Physical Page Number (PPN).md",
-    "obsidian_notes/Classes/Computer Structures/Virtual Memory/Page Table.md",
     "obsidian_notes/Classes/Computer Structures/Photos/Virtual Address-1.webp",
     "obsidian_notes/Classes/Computer Structures/Photos/The Cache Idea-1.webp",
     "obsidian_notes/Classes/Computer Structures/Photos/Unified Syntax for Abstract State Machines (UASM)-1.webp",
@@ -250,7 +269,6 @@
     "obsidian_notes/Classes/Computer Structures/Memory Hierarchy and Cache Design",
     "obsidian_notes/Classes/Computer Structures/Photos",
     "obsidian_notes/Classes/Computer Structures/Assembling and Compiling",
-    "obsidian_notes/Classes/Algorithms/Types of Problems",
-    "obsidian_notes/Classes/Algorithms/Photos"
+    "obsidian_notes/Classes/Algorithms/Types of Problems"
   ]
 }
