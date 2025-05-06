@@ -17,5 +17,3 @@ sorting:
 - priority
 autorefresh: 5
 ```
-
-hello
