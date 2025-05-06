@@ -1,8 +1,10 @@
 ---
 sticker: emoji//0031-fe0f-20e3
 ---
-## Asahi Linux - https://asahilinux.org/
+## Asahi Linux
+Link - https://asahilinux.org/
 - Runs Linux (Fedora) on Apple Macs
+- There is a Arch version but it's unofficial so I wanted to be safe
 
 Enter the following code on terminal
 ```
@@ -11,7 +13,10 @@ curl https://alx.sh | sh
 Then, follow the instructions **VERY** carefully
 
 ## Hyprland Setup
+Link - https://github.com/JaKooLit/Fedora-Hyprland
 I used JaKootLit's Fedora Hyprland script to get all the basic tools and styles/themes so I don't have to set it up myself and it saved so much time
+
+
 
 This code fixed the crashing for Obsidian:
 ```
