@@ -146,7 +146,7 @@
   "ITS@@vault-icon": false,
   "ITS@@hide-titlebar": false,
   "ITS@@slrvb-b": false,
-  "ITS@@mini": true,
+  "ITS@@mini": false,
   "ITS@@nord": false,
   "ITS@@drwn": false,
   "ITS@@t-d": false,
