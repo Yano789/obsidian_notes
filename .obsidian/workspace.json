@@ -22,8 +22,25 @@
               "icon": "lucide-file",
               "title": "Blue Skies and Sunshine"
             }
+          },
+          {
+            "id": "c0cea732cde618b6",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blue Skies and Sunshine.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Blue Skies and Sunshine"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -204,7 +221,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4e48de9fb88f61b5",
+  "active": "c0cea732cde618b6",
   "lastOpenFiles": [
     "Classes/Archive",
     "Todoist.md",
