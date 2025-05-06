@@ -52,22 +52,22 @@
     "//Ink",
     "//Classes/Classes/Computer Structures/Classes/Computer Structures/Assemblers",
     "//Classes/Classes/Algorithms/Classes/Algorithms/Hashing",
-    "//alpha_vault",
     "/",
-    "//Classes"
+    "//alpha_vault"
   ],
   "expandFolderOnClick": false,
   "spacesFolder": "Tags",
   "suppressedWarnings": [],
   "spaceSubFolder": ".space",
-  "hiddenFiles": [],
+  "hiddenFiles": [
+    "alpha_vault"
+  ],
   "hiddenExtensions": [
     ".mdb",
     "_assets",
     "_blocks"
   ],
   "newFileLocation": "current",
-  "newFileFolderPath": "",
   "inlineBacklinks": false,
   "inlineContext": true,
   "inlineBacklinksExpanded": false,
