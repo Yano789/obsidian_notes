@@ -1,5 +1,5 @@
 ---
-sticker: emoji//0031-fe0f-20e3
+sticker: emoji//1f4bb
 ---
 ## Asahi Linux
 Link - https://asahilinux.org/

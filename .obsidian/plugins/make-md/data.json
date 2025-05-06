@@ -54,15 +54,15 @@
     "//Classes/Classes/Algorithms/Classes/Algorithms/Hashing",
     "/",
     "//alpha_vault",
-    "//Personal Adventures",
-    "//Personal Adventures/Personal Adventures/Linux on Mac"
+    "//Personal Adventures/Personal Adventures/Linux on Mac",
+    "//Personal Adventures"
   ],
   "expandFolderOnClick": false,
   "spacesFolder": "Tags",
   "suppressedWarnings": [],
   "spaceSubFolder": ".space",
   "hiddenFiles": [
-    "Photos"
+    "alpha_vault"
   ],
   "hiddenExtensions": [
     ".mdb",
