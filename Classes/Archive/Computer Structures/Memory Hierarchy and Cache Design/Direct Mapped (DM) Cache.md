@@ -1,4 +1,4 @@
-![[Classes/Computer Structures/Photos/image.webp|648x376]]
+![[Classes/Archive/Computer Structures/Photos/image.webp|648x376]]
 *Uses byte addressing so ignore last 2 bits*
 
 **Characteristics**

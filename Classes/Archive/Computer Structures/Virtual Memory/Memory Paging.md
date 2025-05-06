@@ -1,6 +1,6 @@
 **Paging** is a memory management scheme that is used to store and load data from the disk (large capacity secondary storage) for use in the physical memory efficiently.
 
-![[Classes/Computer Structures/Photos/image2.webp|320x375]]
+![[image2.webp|320x375]]
 *a **page*** is a fixed-size block of data
 
 It is very useful and efficient to transfer data in bulk as pages (instead of word by word) between the physical memory and disk due to the **[[Locality of Reference]]** 

@@ -36,7 +36,7 @@ $\theta (number\ of\ sub-problems + number\ of\ other\ auxiliary\ values\ to\ be
 Easier Example: [[Fibonacci Number]] 
 What is the 10-th Fibonacci number $F_{10}$ ? What about the 13-th Fibonacci number $F_{13}$ ?
 
-![[Classes/Algorithms/Photos/image.webp]]
+![[Classes/Archive/Algorithms/Photos/image.webp]]
 
 
 New Algorithms Using **Dynamic Programming**

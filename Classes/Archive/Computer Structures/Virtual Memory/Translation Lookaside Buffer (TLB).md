@@ -1,4 +1,4 @@
-small [[Fully Associative (FA) Cache]] to store a copy of the most recently used [[page table]]
+small [[Fully Associative (FA) Cache]] to store a copy of the most recently used [[Page Table]]
 
 ![[Translation Lookaside Buffer (TLB)-1.webp]] 
 

@@ -52,9 +52,9 @@
     "//Ink",
     "//Classes/Classes/Computer Structures/Classes/Computer Structures/Assemblers",
     "//Classes/Classes/Algorithms/Classes/Algorithms/Hashing",
-    "//Classes/Classes/Computer Structures",
     "//alpha_vault",
-    "/"
+    "/",
+    "//Classes"
   ],
   "expandFolderOnClick": false,
   "spacesFolder": "Tags",
@@ -67,6 +67,7 @@
     "_blocks"
   ],
   "newFileLocation": "current",
+  "newFileFolderPath": "",
   "inlineBacklinks": false,
   "inlineContext": true,
   "inlineBacklinksExpanded": false,
