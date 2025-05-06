@@ -60,7 +60,8 @@
   "suppressedWarnings": [],
   "spaceSubFolder": ".space",
   "hiddenFiles": [
-    "alpha_vault"
+    "alpha_vault",
+    "Photos"
   ],
   "hiddenExtensions": [
     ".mdb",
@@ -68,6 +69,7 @@
     "_blocks"
   ],
   "newFileLocation": "current",
+  "newFileFolderPath": "",
   "inlineBacklinks": false,
   "inlineContext": true,
   "inlineBacklinksExpanded": false,
