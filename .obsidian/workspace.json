@@ -22,25 +22,8 @@
               "icon": "lucide-file",
               "title": "Blue Skies and Sunshine"
             }
-          },
-          {
-            "id": "eded1c1f8ddb5bf1",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Blue Skies and Sunshine.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Blue Skies and Sunshine"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,25 +167,45 @@
           {
             "id": "8ca9290a815823be",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "pinned": true,
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
             "id": "b32db0b6d388dfab",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "git-view",
               "state": {},
+              "pinned": true,
               "icon": "git-pull-request",
               "title": "Source Control"
             }
           }
         ],
         "currentTab": 5
+      },
+      {
+        "id": "bc2058d1f81adcb5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "22178942f13be1f9",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -222,11 +225,11 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "4e48de9fb88f61b5",
+  "active": "b32db0b6d388dfab",
   "lastOpenFiles": [
+    "Blue Skies and Sunshine.md",
     "alpha_vault",
     "The Tia File.md",
-    "Blue Skies and Sunshine.md",
     "Classes/Archive",
     "Todoist.md",
     "obsidian_notes/Classes/Computer Structures/Stack and Procedures/Stack Implementation.md",
