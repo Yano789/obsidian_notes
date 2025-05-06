@@ -30,15 +30,14 @@
               "type": "markdown",
               "state": {
                 "file": "Personal Adventures/Linux on Mac.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Linux on Mac"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -242,12 +241,12 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "412653a5a12843bc",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Personal Adventures/Linux on Mac.md",
+    "Blue Skies and Sunshine.md",
     "Personal Adventures/Linux on Mac/Starting.md",
     "The Tia File.md",
-    "Blue Skies and Sunshine.md",
     "Personal Adventures/Linux on Mac",
     "Personal Adventures",
     "Untitled.md",

@@ -32,18 +32,41 @@ You can follow the documentation to setup your colors and themes
 ## Installing Apps
 There are 2 ways to install apps on Linux (Fedora):
 1. Using the Terminal
-2. Using AppImage
-This code is to auto add AppImages to Applications Folder:
+2. Using AppImages
+
+
+###### Using the Terminal (Flatpak and Snap)
+There are 2 providers that make it easy to install apps 
+- Flatpak - https://flatpak.org/
+- Snap - https://snapcraft.io/
+**NOTE: Make sure the app is Arm64 Compatible** 
+
+
+###### Using AppImages
+There are many ways to launch AppImages. However, I prefer to use **AppImage-Integrator** by apapamarkou
+
+Link - https://github.com/apapamarkou/appimage-integrator
+
+Make sure to install the dependency so that it runs smoothly:
+
+```
+sudo dnf install inotify-tools git wget
+```
+
+
+Once you install the dependency, run this code is to auto create an Applications Folder in your home directory:
 
 ```
 wget -qO- https://raw.githubusercontent.com/apapamarkou/appimage-integrator/main/src/appimage-integrator-install-git | bash
 ```
 
+Once that is done, you can place your AppImages into this applications folder and you will be able to find it in rofi (Super + D).
 
-
-
-This code fixed the crashing for Obsidian:
+###### Optional
+There are times when your gpu can cause rendering issues that will cause apps to disappear after some time. If this does happen, you can go to the .desktop file of your application and include this line of code
 
 ```
 --js-flags="--nodecommit_pooled_pages"
 ```
+
+This is caused by Electron ...
