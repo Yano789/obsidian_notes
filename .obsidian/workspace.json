@@ -206,8 +206,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -223,7 +222,7 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "4e48de9fb88f61b5",
+  "active": "eded1c1f8ddb5bf1",
   "lastOpenFiles": [
     "alpha_vault",
     "The Tia File.md",
