@@ -29,15 +29,21 @@ chmod +x install.sh
 You can follow the documentation to setup your colors and themes
 
 
-This code fixed the crashing for Obsidian:
-
-```
---js-flags="--nodecommit_pooled_pages"
-```
-
-
+## Installing Apps
+There are 2 ways to install apps on Linux (Fedora):
+1. Using the Terminal
+2. Using AppImage
 This code is to auto add AppImages to Applications Folder:
 
 ```
 wget -qO- https://raw.githubusercontent.com/apapamarkou/appimage-integrator/main/src/appimage-integrator-install-git | bash
+```
+
+
+
+
+This code fixed the crashing for Obsidian:
+
+```
+--js-flags="--nodecommit_pooled_pages"
 ```
