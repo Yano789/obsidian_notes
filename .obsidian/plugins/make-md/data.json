@@ -53,14 +53,14 @@
     "//Classes/Classes/Computer Structures/Classes/Computer Structures/Assemblers",
     "//Classes/Classes/Algorithms/Classes/Algorithms/Hashing",
     "/",
-    "//alpha_vault"
+    "//alpha_vault",
+    "//Personal Adventures"
   ],
   "expandFolderOnClick": false,
   "spacesFolder": "Tags",
   "suppressedWarnings": [],
   "spaceSubFolder": ".space",
   "hiddenFiles": [
-    "alpha_vault",
     "Photos"
   ],
   "hiddenExtensions": [
