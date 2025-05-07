@@ -77,7 +77,7 @@
             }
           },
           {
-            "id": "bca1d5a12a2db546",
+            "id": "96b129ea977f50be",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -120,13 +120,72 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "2f49aed4c728e30e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "720cc3938a0f31be",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "f14a3ab043099141",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6cd3475eb05184ed",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 259
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -139,11 +198,10 @@
       "homepage:Open homepage": false,
       "obsidian-git:Open Git source control": false,
       "remotely-save:Remotely Save": false,
-      "obsidian42-brat:BRAT": false,
-      "omnisearch:Omnisearch": false
+      "obsidian42-brat:BRAT": false
     }
   },
-  "active": "b32db0b6d388dfab",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Personal Adventures/Linux on Mac.md",
     "Personal Adventures/Obsidian.md",
