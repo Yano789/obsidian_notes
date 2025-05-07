@@ -71,7 +71,7 @@ There are times when your gpu can cause rendering issues that will cause apps to
 
 This is caused by Electron ...
 
-
+##### Battery Life Optimization
 ###### TLP
 ```
 sudo dnf install tlp
@@ -93,3 +93,5 @@ Run the following code to let auto-cpufreq open on startup
 ```
 sudo auto-cpufreq-install
 ```
+
+**NOTE: DO NOT RUN BOTH OF THESE AT THE SAME TIME!** 
