@@ -73,7 +73,7 @@ This is caused by Electron ...
 
 ## Battery Life Optimization
 There are 2 options that will improve battery life:
-1. TLP - Focuses on more parts of the OS
+1. TLP - Can be customized to not enable things like Wifi, Bluetooth, etc
 2. AutoCPU-Freq - Focuses more on the CPU (has better performance in my case)
 
 ###### TLP

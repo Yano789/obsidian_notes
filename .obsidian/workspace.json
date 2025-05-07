@@ -202,14 +202,15 @@
       "homepage:Open homepage": false,
       "obsidian-git:Open Git source control": false,
       "remotely-save:Remotely Save": false,
-      "obsidian42-brat:BRAT": false
+      "obsidian42-brat:BRAT": false,
+      "omnisearch:Omnisearch": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Personal Adventures/Linux on Mac.md",
-    "Blue Skies and Sunshine.md",
     "Personal Adventures/Obsidian.md",
+    "Blue Skies and Sunshine.md",
     "Personal Adventures/Linux on Mac/Starting.md",
     "The Tia File.md",
     "Personal Adventures/Linux on Mac",
