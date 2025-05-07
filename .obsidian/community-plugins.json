@@ -1,7 +1,13 @@
 [
   "lazy-plugins",
-  "obsidian42-brat",
   "calendar",
-  "obsidian-contextual-typography",
-  "obsidian-git"
+  "obsidian-hider",
+  "home-tab",
+  "homepage",
+  "image-converter",
+  "make-md",
+  "omnisearch",
+  "obsidian-paste-image-rename",
+  "remotely-save",
+  "todoist-sync-plugin"
 ]
