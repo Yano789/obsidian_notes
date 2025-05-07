@@ -77,7 +77,7 @@
             }
           },
           {
-            "id": "296b4bb840b7441b",
+            "id": "8af0031bb6121595",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -121,8 +121,8 @@
               "type": "git-view",
               "state": {},
               "pinned": true,
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -200,10 +200,8 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
-      "remotely-save:Remotely Save": false,
       "omnisearch:Omnisearch": false,
-      "obsidian42-brat:BRAT": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "051da2c6bced5a01",
