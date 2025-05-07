@@ -72,6 +72,8 @@ There are times when your gpu can cause rendering issues that will cause apps to
 This is caused by Electron ...
 
 ##### Battery Life Optimization
+There are 2 options that will improve battery life
+
 ###### TLP
 ```
 sudo dnf install tlp
