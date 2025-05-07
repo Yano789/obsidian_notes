@@ -1,16 +1,10 @@
 [
-  "waypoint",
   "obsidian-style-settings",
   "obsidian-contextual-typography",
-  "obsidian-hider",
-  "todoist-sync-plugin",
-  "image-converter",
   "homepage",
   "make-md",
-  "obsidian-paste-image-rename",
-  "home-tab",
-  "omnisearch",
-  "calendar",
   "obsidian-git",
-  "remotely-save"
+  "remotely-save",
+  "obsidian42-brat",
+  "lazy-plugins"
 ]

@@ -1,0 +1,21 @@
+{
+  "pluginList": [
+    "alangrainger/obsidian-lazy-plugins"
+  ],
+  "pluginSubListFrozenVersion": [
+    {
+      "repo": "alangrainger/obsidian-lazy-plugins",
+      "version": "latest"
+    }
+  ],
+  "themesList": [],
+  "updateAtStartup": true,
+  "updateThemesAtStartup": true,
+  "enableAfterInstall": true,
+  "loggingEnabled": false,
+  "loggingPath": "BRAT-log",
+  "loggingVerboseEnabled": false,
+  "debuggingMode": false,
+  "notificationsEnabled": true,
+  "personalAccessToken": ""
+}

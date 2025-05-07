@@ -1,0 +1,60 @@
+{
+  "dualConfigs": false,
+  "showConsoleLog": false,
+  "desktop": {
+    "shortDelaySeconds": 2,
+    "longDelaySeconds": 10,
+    "delayBetweenPlugins": 40,
+    "defaultStartupType": "short",
+    "showDescriptions": true,
+    "enableDependencies": false,
+    "plugins": {
+      "obsidian42-brat": {
+        "startupType": "instant"
+      },
+      "calendar": {
+        "startupType": "short"
+      },
+      "obsidian-contextual-typography": {
+        "startupType": "instant"
+      },
+      "obsidian-git": {
+        "startupType": "instant"
+      },
+      "obsidian-hider": {
+        "startupType": "short"
+      },
+      "home-tab": {
+        "startupType": "short"
+      },
+      "homepage": {
+        "startupType": "instant"
+      },
+      "image-converter": {
+        "startupType": "long"
+      },
+      "make-md": {
+        "startupType": "instant"
+      },
+      "omnisearch": {
+        "startupType": "short"
+      },
+      "obsidian-paste-image-rename": {
+        "startupType": "long"
+      },
+      "remotely-save": {
+        "startupType": "instant"
+      },
+      "obsidian-style-settings": {
+        "startupType": "instant"
+      },
+      "todoist-sync-plugin": {
+        "startupType": "short"
+      },
+      "waypoint": {
+        "startupType": "disabled"
+      }
+    },
+    "loadOrder": []
+  }
+}

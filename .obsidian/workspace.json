@@ -165,16 +165,6 @@
             }
           },
           {
-            "id": "8ca9290a815823be",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          },
-          {
             "id": "b32db0b6d388dfab",
             "type": "leaf",
             "state": {
@@ -182,6 +172,16 @@
               "state": {},
               "icon": "git-pull-request",
               "title": "Source Control"
+            }
+          },
+          {
+            "id": "e7a24083a62fa481",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ],
@@ -202,10 +202,11 @@
       "homepage:Open homepage": false,
       "omnisearch:Omnisearch": false,
       "obsidian-git:Open Git source control": false,
-      "remotely-save:Remotely Save": false
+      "remotely-save:Remotely Save": false,
+      "obsidian42-brat:BRAT": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "b32db0b6d388dfab",
   "lastOpenFiles": [
     "Personal Adventures/Linux on Mac.md",
     "Blue Skies and Sunshine.md",
