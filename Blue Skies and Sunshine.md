@@ -7,9 +7,6 @@ banner: Photos/homepage thumbnail.webp
 only search bar 
 show recent files
 ```
-
-
-
 # [[Todoist]] 
 ```todoist  
 filter: "today | overdue"  

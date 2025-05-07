@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "ea6a0a23d76a1c9d",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "8421a3717938929b",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -116,9 +116,11 @@
           {
             "id": "38da0b59a1d87323",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "git-view",
               "state": {},
+              "pinned": true,
               "icon": "git-pull-request",
               "title": "Source Control"
             }
@@ -205,11 +207,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "8421a3717938929b",
   "lastOpenFiles": [
+    "Blue Skies and Sunshine.md",
     "Personal Adventures/Linux on Mac.md",
     "Personal Adventures/Obsidian.md",
-    "Blue Skies and Sunshine.md",
     "Personal Adventures/Linux on Mac/Starting.md",
     "The Tia File.md",
     "Personal Adventures/Linux on Mac",
