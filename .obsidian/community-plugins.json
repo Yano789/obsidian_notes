@@ -3,5 +3,6 @@
   "homepage",
   "make-md",
   "obsidian42-brat",
-  "lazy-plugins"
+  "lazy-plugins",
+  "todoist-sync-plugin"
 ]
