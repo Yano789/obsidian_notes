@@ -62,7 +62,7 @@ wget -qO- https://raw.githubusercontent.com/apapamarkou/appimage-integrator/main
 
 Once that is done, you can place your AppImages into this applications folder and you will be able to find it in rofi (Super + D).
 
-##### Optional
+#### Optional
 There are times when your gpu can cause rendering issues that will cause apps to disappear after some time. If this does happen, you can go to the .desktop file of your application and include this line of code
 
 ```
