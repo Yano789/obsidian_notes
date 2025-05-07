@@ -19,7 +19,7 @@
         "startupType": "instant"
       },
       "obsidian-git": {
-        "startupType": "instant"
+        "startupType": "short"
       },
       "obsidian-hider": {
         "startupType": "short"
@@ -43,13 +43,13 @@
         "startupType": "long"
       },
       "remotely-save": {
-        "startupType": "instant"
+        "startupType": "short"
       },
       "obsidian-style-settings": {
         "startupType": "instant"
       },
       "todoist-sync-plugin": {
-        "startupType": "short"
+        "startupType": "instant"
       },
       "waypoint": {
         "startupType": "disabled"

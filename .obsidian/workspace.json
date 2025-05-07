@@ -104,19 +104,23 @@
           {
             "id": "e7a24083a62fa481",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "calendar",
               "state": {},
+              "pinned": true,
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
           },
           {
-            "id": "b32db0b6d388dfab",
+            "id": "38da0b59a1d87323",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "git-view",
               "state": {},
+              "pinned": true,
               "icon": "git-pull-request",
               "title": "Source Control"
             }
@@ -181,7 +185,8 @@
               "title": "Outline"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -198,10 +203,11 @@
       "homepage:Open homepage": false,
       "obsidian-git:Open Git source control": false,
       "remotely-save:Remotely Save": false,
-      "obsidian42-brat:BRAT": false
+      "obsidian42-brat:BRAT": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "38da0b59a1d87323",
   "lastOpenFiles": [
     "Personal Adventures/Linux on Mac.md",
     "Personal Adventures/Obsidian.md",
