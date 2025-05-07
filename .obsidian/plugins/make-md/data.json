@@ -55,7 +55,8 @@
     "/",
     "//alpha_vault",
     "//Personal Adventures/Personal Adventures/Linux on Mac",
-    "//Personal Adventures"
+    "//Personal Adventures",
+    "//Photos"
   ],
   "expandFolderOnClick": false,
   "spacesFolder": "Tags",
