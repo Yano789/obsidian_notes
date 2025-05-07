@@ -114,6 +114,18 @@
             }
           },
           {
+            "id": "a471f4fb08e781a6",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "pinned": true,
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
             "id": "2f49aed4c728e30e",
             "type": "leaf",
             "state": {
@@ -173,19 +185,9 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
-          },
-          {
-            "id": "a471f4fb08e781a6",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -206,7 +208,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "3d06a387beb1fe24",
+  "active": "a471f4fb08e781a6",
   "lastOpenFiles": [
     "Blue Skies and Sunshine.md",
     "Personal Adventures/Linux on Mac.md",
