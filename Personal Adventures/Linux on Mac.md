@@ -80,3 +80,16 @@ sudo dnf install tlp
 ```
 sudo tlp start
 ```
+
+###### AutoCpu-Freq
+Link - https://github.com/AdnanHodzic/auto-cpufreq?tab=readme-ov-file#installing-auto-cpufreq
+
+```
+git clone https://github.com/AdnanHodzic/auto-cpufreq.git
+cd auto-cpufreq && sudo ./auto-cpufreq-installer
+```
+
+Run the following code to let auto-cpufreq open on startup
+```
+sudo auto-cpufreq-install
+```
