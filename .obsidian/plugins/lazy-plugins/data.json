@@ -6,7 +6,7 @@
     "longDelaySeconds": 10,
     "delayBetweenPlugins": 40,
     "defaultStartupType": null,
-    "showDescriptions": false,
+    "showDescriptions": true,
     "enableDependencies": false,
     "plugins": {
       "obsidian42-brat": {
@@ -22,31 +22,31 @@
         "startupType": "short"
       },
       "obsidian-hider": {
-        "startupType": "instant"
+        "startupType": "long"
       },
       "home-tab": {
-        "startupType": "instant"
+        "startupType": "disabled"
       },
       "homepage": {
-        "startupType": "instant"
+        "startupType": "disabled"
       },
       "image-converter": {
-        "startupType": "instant"
+        "startupType": "long"
       },
       "make-md": {
         "startupType": "instant"
       },
       "omnisearch": {
-        "startupType": "instant"
+        "startupType": "short"
       },
       "obsidian-paste-image-rename": {
-        "startupType": "instant"
+        "startupType": "long"
       },
       "remotely-save": {
-        "startupType": "instant"
+        "startupType": "short"
       },
       "todoist-sync-plugin": {
-        "startupType": "instant"
+        "startupType": "short"
       }
     },
     "loadOrder": []

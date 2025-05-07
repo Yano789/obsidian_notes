@@ -102,6 +102,18 @@
         "type": "tabs",
         "children": [
           {
+            "id": "051da2c6bced5a01",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "pinned": true,
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
             "id": "2f49aed4c728e30e",
             "type": "leaf",
             "state": {
@@ -163,16 +175,17 @@
             }
           },
           {
-            "id": "051da2c6bced5a01",
+            "id": "a471f4fb08e781a6",
             "type": "leaf",
             "state": {
-              "type": "calendar",
+              "type": "git-view",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",

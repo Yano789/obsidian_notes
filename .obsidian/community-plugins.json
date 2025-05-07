@@ -1,13 +1,5 @@
 [
   "lazy-plugins",
   "calendar",
-  "obsidian-hider",
-  "home-tab",
-  "homepage",
-  "image-converter",
-  "make-md",
-  "omnisearch",
-  "obsidian-paste-image-rename",
-  "remotely-save",
-  "todoist-sync-plugin"
+  "make-md"
 ]
