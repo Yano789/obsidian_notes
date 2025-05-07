@@ -16,7 +16,7 @@
         "startupType": "instant"
       },
       "obsidian-contextual-typography": {
-        "startupType": "long"
+        "startupType": "disabled"
       },
       "obsidian-git": {
         "startupType": "short"
@@ -37,7 +37,7 @@
         "startupType": "instant"
       },
       "omnisearch": {
-        "startupType": "short"
+        "startupType": "instant"
       },
       "obsidian-paste-image-rename": {
         "startupType": "long"
@@ -46,7 +46,7 @@
         "startupType": "short"
       },
       "todoist-sync-plugin": {
-        "startupType": "short"
+        "startupType": "instant"
       }
     },
     "loadOrder": []
