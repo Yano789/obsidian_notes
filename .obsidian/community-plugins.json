@@ -1,3 +1,7 @@
 [
-  "lazy-plugins"
+  "lazy-plugins",
+  "obsidian42-brat",
+  "calendar",
+  "obsidian-contextual-typography",
+  "obsidian-git"
 ]

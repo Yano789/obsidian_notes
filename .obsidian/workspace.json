@@ -75,19 +75,9 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
-          },
-          {
-            "id": "ceb61736c2ae7364",
-            "type": "leaf",
-            "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Navigator"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -102,35 +92,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e7a24083a62fa481",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "38da0b59a1d87323",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "pinned": true,
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
             "id": "2f49aed4c728e30e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Blue Skies and Sunshine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +107,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Blue Skies and Sunshine"
             }
           },
           {
@@ -184,9 +151,18 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "051da2c6bced5a01",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -202,10 +178,12 @@
       "command-palette:Open command palette": false,
       "obsidian42-brat:BRAT": false,
       "obsidian-git:Open Git source control": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "remotely-save:Remotely Save": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "8421a3717938929b",
+  "active": "3d06a387beb1fe24",
   "lastOpenFiles": [
     "Blue Skies and Sunshine.md",
     "Personal Adventures/Linux on Mac.md",

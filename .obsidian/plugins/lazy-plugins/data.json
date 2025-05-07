@@ -10,48 +10,42 @@
     "enableDependencies": false,
     "plugins": {
       "obsidian42-brat": {
-        "startupType": "long"
-      },
-      "calendar": {
-        "startupType": "long"
-      },
-      "obsidian-contextual-typography": {
-        "startupType": "long"
-      },
-      "obsidian-git": {
-        "startupType": "long"
-      },
-      "obsidian-hider": {
-        "startupType": "long"
-      },
-      "home-tab": {
-        "startupType": "long"
-      },
-      "homepage": {
-        "startupType": "long"
-      },
-      "image-converter": {
-        "startupType": "long"
-      },
-      "make-md": {
-        "startupType": "short"
-      },
-      "omnisearch": {
-        "startupType": "long"
-      },
-      "obsidian-paste-image-rename": {
-        "startupType": "long"
-      },
-      "remotely-save": {
-        "startupType": "long"
-      },
-      "obsidian-style-settings": {
         "startupType": "instant"
       },
-      "todoist-sync-plugin": {
-        "startupType": "long"
+      "calendar": {
+        "startupType": "instant"
       },
-      "waypoint": {
+      "obsidian-contextual-typography": {
+        "startupType": "instant"
+      },
+      "obsidian-git": {
+        "startupType": "instant"
+      },
+      "obsidian-hider": {
+        "startupType": "disabled"
+      },
+      "home-tab": {
+        "startupType": "disabled"
+      },
+      "homepage": {
+        "startupType": "disabled"
+      },
+      "image-converter": {
+        "startupType": "disabled"
+      },
+      "make-md": {
+        "startupType": "disabled"
+      },
+      "omnisearch": {
+        "startupType": "disabled"
+      },
+      "obsidian-paste-image-rename": {
+        "startupType": "disabled"
+      },
+      "remotely-save": {
+        "startupType": "disabled"
+      },
+      "todoist-sync-plugin": {
         "startupType": "disabled"
       }
     },
