@@ -5,51 +5,51 @@
     "shortDelaySeconds": 2,
     "longDelaySeconds": 10,
     "delayBetweenPlugins": 40,
-    "defaultStartupType": "short",
-    "showDescriptions": true,
+    "defaultStartupType": null,
+    "showDescriptions": false,
     "enableDependencies": false,
     "plugins": {
       "obsidian42-brat": {
-        "startupType": "instant"
+        "startupType": "long"
       },
       "calendar": {
-        "startupType": "short"
+        "startupType": "long"
       },
       "obsidian-contextual-typography": {
-        "startupType": "instant"
+        "startupType": "long"
       },
       "obsidian-git": {
-        "startupType": "short"
+        "startupType": "long"
       },
       "obsidian-hider": {
-        "startupType": "short"
+        "startupType": "long"
       },
       "home-tab": {
-        "startupType": "short"
+        "startupType": "long"
       },
       "homepage": {
-        "startupType": "instant"
+        "startupType": "long"
       },
       "image-converter": {
         "startupType": "long"
       },
       "make-md": {
-        "startupType": "instant"
+        "startupType": "short"
       },
       "omnisearch": {
-        "startupType": "short"
+        "startupType": "long"
       },
       "obsidian-paste-image-rename": {
         "startupType": "long"
       },
       "remotely-save": {
-        "startupType": "short"
+        "startupType": "long"
       },
       "obsidian-style-settings": {
         "startupType": "instant"
       },
       "todoist-sync-plugin": {
-        "startupType": "instant"
+        "startupType": "long"
       },
       "waypoint": {
         "startupType": "disabled"
