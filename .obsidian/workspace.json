@@ -52,16 +52,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6e61dcb29b355ee6",
-            "type": "leaf",
-            "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Navigator"
-            }
-          },
-          {
             "id": "6fe38cbd59327d1f",
             "type": "leaf",
             "state": {
@@ -216,18 +206,17 @@
       "command-palette:Open command palette": false,
       "omnisearch:Omnisearch": false,
       "obsidian-git:Open Git source control": false,
-      "remotely-save:Remotely Save": false,
-      "obsidian42-brat:BRAT": false
+      "remotely-save:Remotely Save": false
     }
   },
   "active": "9bb71d8be96453c1",
   "lastOpenFiles": [
-    "Todoist.md",
+    "The Tia File.md",
     "Blue Skies and Sunshine.md",
+    "Todoist.md",
     "Personal Adventures/Linux on Mac.md",
     "Personal Adventures/Obsidian.md",
     "Personal Adventures/Linux on Mac/Starting.md",
-    "The Tia File.md",
     "Personal Adventures/Linux on Mac",
     "Personal Adventures",
     "Untitled.md",

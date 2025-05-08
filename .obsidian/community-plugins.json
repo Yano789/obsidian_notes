@@ -1,7 +1,6 @@
 [
   "lazy-plugins",
   "calendar",
-  "make-md",
   "todoist-sync-plugin",
   "omnisearch"
 ]
