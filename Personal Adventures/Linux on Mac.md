@@ -1,3 +1,4 @@
+
 ## Asahi Linux
 Link - https://asahilinux.org/
 - Runs Linux (Fedora) on Apple Macs
@@ -32,14 +33,14 @@ There are 2 ways to install apps on Linux (Fedora):
 2. Using AppImages
 
 
-###### Using the Terminal (Flatpak and Snap)
+### Using the Terminal (Flatpak and Snap)
 There are 2 providers that make it easy to install apps 
 - Flatpak - https://flatpak.org/
 - Snap - https://snapcraft.io/
 **NOTE: Make sure the app is Arm64 Compatible** 
 
 
-###### Using AppImages
+### Using AppImages
 There are many ways to launch AppImages. However, I prefer to use **AppImage-Integrator** by apapamarkou
 
 Link - https://github.com/apapamarkou/appimage-integrator
@@ -73,7 +74,7 @@ There are 2 options that will improve battery life:
 1. TLP - Can be customized to not enable things like Wifi, Bluetooth, etc
 2. AutoCPU-Freq - Focuses more on the CPU (has better performance in my case)
 
-###### TLP
+### TLP
 ```
 sudo dnf install tlp
 ```
@@ -82,7 +83,7 @@ sudo dnf install tlp
 sudo tlp start
 ```
 
-###### AutoCpu-Freq
+### AutoCpu-Freq
 Link - https://github.com/AdnanHodzic/auto-cpufreq?tab=readme-ov-file#installing-auto-cpufreq
 
 ```
@@ -97,7 +98,7 @@ sudo auto-cpufreq --install
 
 **NOTE: DO NOT RUN BOTH OF THESE AT THE SAME TIME!** 
 
-#### Something Fun for You!
+## Something Fun for You!
 
 Run this code in your terminal for a surprise
 ```
