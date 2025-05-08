@@ -96,3 +96,10 @@ sudo auto-cpufreq --install
 ```
 
 **NOTE: DO NOT RUN BOTH OF THESE AT THE SAME TIME!** 
+
+#### Something Fun for You!
+
+Run this code in your terminal for a surprise
+```
+bash <(curl -s https://raw.githubusercontent.com/wick3dr0se/matrix/main/matrix)
+```
