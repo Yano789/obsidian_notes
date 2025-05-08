@@ -1,6 +1,3 @@
----
-sticker: emoji//1f4bb
----
 ## Asahi Linux
 Link - https://asahilinux.org/
 - Runs Linux (Fedora) on Apple Macs

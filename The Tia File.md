@@ -1,6 +1,3 @@
----
-sticker: emoji//1f491
----
 
 ## Personal Information
 
