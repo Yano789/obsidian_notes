@@ -92,7 +92,7 @@ cd auto-cpufreq && sudo ./auto-cpufreq-installer
 
 Run the following code to let auto-cpufreq open on startup
 ```
-sudo auto-cpufreq-install
+sudo auto-cpufreq --install
 ```
 
 **NOTE: DO NOT RUN BOTH OF THESE AT THE SAME TIME!** 
