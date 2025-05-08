@@ -125,8 +125,8 @@
               "type": "git-view",
               "state": {},
               "pinned": true,
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -190,7 +190,8 @@
               "title": "Outline"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -206,7 +207,8 @@
       "command-palette:Open command palette": false,
       "omnisearch:Omnisearch": false,
       "obsidian-git:Open Git source control": false,
-      "remotely-save:Remotely Save": false
+      "remotely-save:Remotely Save": false,
+      "obsidian42-brat:BRAT": false
     }
   },
   "active": "9bb71d8be96453c1",
