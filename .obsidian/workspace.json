@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/The World Since 1400/The World Since 1400.md",
+                "file": "Personal Adventures/Linux on Mac.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The World Since 1400"
+              "title": "Linux on Mac"
             }
           }
         ],
@@ -208,13 +208,13 @@
   },
   "active": "9bb71d8be96453c1",
   "lastOpenFiles": [
+    "Personal Adventures/Obsidian.md",
+    "Classes/The World Since 1400/The World Since 1400.md",
     "Classes/Archive/Computer Structures/Virtual Memory/Virtual Memory.md",
     "Classes/Archive/Computer Structures/Computer Structures.md",
-    "Classes/The World Since 1400/The World Since 1400.md",
     "Blue Skies and Sunshine.md",
     "Classes/The World Since 1400",
     "The Tia File.md",
-    "Personal Adventures/Obsidian.md",
     "Personal Adventures/Linux on Mac.md",
     "Classes/Archive/Algorithms/Dynamic Programming/Top-down Approach.md",
     "Classes/Archive/Algorithms/Dynamic Programming/Tabulation.md",
