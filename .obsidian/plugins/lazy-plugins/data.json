@@ -47,6 +47,9 @@
       },
       "todoist-sync-plugin": {
         "startupType": "instant"
+      },
+      "folder-notes": {
+        "startupType": "instant"
       }
     },
     "loadOrder": []
