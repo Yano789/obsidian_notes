@@ -1,5 +1,5 @@
 {
-  "dualConfigs": false,
+  "dualConfigs": true,
   "showConsoleLog": false,
   "desktop": {
     "shortDelaySeconds": 2,
@@ -13,7 +13,7 @@
         "startupType": "long"
       },
       "calendar": {
-        "startupType": "instant"
+        "startupType": "long"
       },
       "obsidian-contextual-typography": {
         "startupType": "disabled"
@@ -37,7 +37,7 @@
         "startupType": "instant"
       },
       "omnisearch": {
-        "startupType": "instant"
+        "startupType": "long"
       },
       "obsidian-paste-image-rename": {
         "startupType": "long"

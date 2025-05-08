@@ -1,6 +1,5 @@
 [
   "lazy-plugins",
-  "calendar",
   "todoist-sync-plugin",
-  "omnisearch"
+  "folder-notes"
 ]

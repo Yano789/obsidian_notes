@@ -95,7 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 261.0026054382324
   },
   "right": {
     "id": "c2f043489300821b",
@@ -105,18 +105,6 @@
         "id": "4d985cd8d596339a",
         "type": "tabs",
         "children": [
-          {
-            "id": "051da2c6bced5a01",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "pinned": true,
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          },
           {
             "id": "a471f4fb08e781a6",
             "type": "leaf",
@@ -189,9 +177,18 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "4bc93876345df19e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -213,8 +210,10 @@
   },
   "active": "9bb71d8be96453c1",
   "lastOpenFiles": [
-    "Blue Skies and Sunshine.md",
+    "Classes/Archive/Computer Structures/Virtual Memory/Virtual Memory.md",
+    "Classes/Archive/Computer Structures/Computer Structures.md",
     "Classes/The World Since 1400/The World Since 1400.md",
+    "Blue Skies and Sunshine.md",
     "Classes/The World Since 1400",
     "The Tia File.md",
     "Personal Adventures/Obsidian.md",
@@ -242,8 +241,6 @@
     "obsidian_notes/Classes/Computer Structures/Stack and Procedures/Function.md",
     "obsidian_notes/Classes/Computer Structures/Stack and Procedures/Base Pointer (BP) R27.md",
     "obsidian_notes/Classes/Computer Structures/Stack and Procedures/Allocate.md",
-    "obsidian_notes/Classes/Computer Structures/Virtual Machine/Scheduling and Multiple Interrupts.md",
-    "obsidian_notes/Classes/Computer Structures/Virtual Machine/Operating System (OS) Kernel.md",
     "obsidian_notes/Classes/Computer Structures/Photos/Virtual Address-1.webp",
     "obsidian_notes/Classes/Computer Structures/Photos/The Cache Idea-1.webp",
     "obsidian_notes/Classes/Computer Structures/Photos/Unified Syntax for Abstract State Machines (UASM)-1.webp",
