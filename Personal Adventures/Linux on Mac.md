@@ -1,3 +1,4 @@
+D
 
 ## Asahi Linux
 Link - https://asahilinux.org/

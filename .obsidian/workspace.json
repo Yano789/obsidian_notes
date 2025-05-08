@@ -203,7 +203,9 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "remotely-save:Remotely Save": false
+      "remotely-save:Remotely Save": false,
+      "obsidian42-brat:BRAT": false,
+      "omnisearch:Omnisearch": false
     }
   },
   "active": "9bb71d8be96453c1",
