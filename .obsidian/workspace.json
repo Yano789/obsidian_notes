@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal Adventures/Linux on Mac.md",
+                "file": "Blue Skies and Sunshine.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linux on Mac"
+              "title": "Blue Skies and Sunshine"
             }
           }
         ],
@@ -192,7 +192,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259
+    "width": 259,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,12 +211,20 @@
   },
   "active": "9bb71d8be96453c1",
   "lastOpenFiles": [
-    "Personal Adventures/Obsidian.md",
+    "Classes/Elements of Software Construction/Elements of Software Construction.md",
+    "Classes/Classes.md",
+    "Classes/Elements of Software Construction",
+    "Classes/Database Systems/Database Systems.md",
+    "Classes/Database Systems",
+    "Classes/Computer System Engineering/Computer System Engineering.md",
+    "Classes/Computer System Engineering",
+    "Blue Skies and Sunshine.md",
+    "50.003  Elements of Software Construction.md",
     "Personal Adventures/Linux on Mac.md",
+    "Personal Adventures/Obsidian.md",
     "Classes/The World Since 1400/The World Since 1400.md",
     "Classes/Archive/Computer Structures/Virtual Memory/Virtual Memory.md",
     "Classes/Archive/Computer Structures/Computer Structures.md",
-    "Blue Skies and Sunshine.md",
     "Classes/The World Since 1400",
     "The Tia File.md",
     "Classes/Archive/Algorithms/Dynamic Programming/Top-down Approach.md",
@@ -235,12 +244,6 @@
     "obsidian_notes/Classes/Computer Structures/Stack and Procedures/Push.md",
     "obsidian_notes/Classes/Computer Structures/Stack and Procedures/Procedure Linkage Problem.md",
     "obsidian_notes/Classes/Computer Structures/Stack and Procedures/Procedure Linkage Convention.md",
-    "obsidian_notes/Classes/Computer Structures/Stack and Procedures/Pop.md",
-    "obsidian_notes/Classes/Computer Structures/Stack and Procedures/Linkage Pointer (LP) R28.md",
-    "obsidian_notes/Classes/Computer Structures/Stack and Procedures/Deallocate.md",
-    "obsidian_notes/Classes/Computer Structures/Stack and Procedures/Function.md",
-    "obsidian_notes/Classes/Computer Structures/Stack and Procedures/Base Pointer (BP) R27.md",
-    "obsidian_notes/Classes/Computer Structures/Stack and Procedures/Allocate.md",
     "obsidian_notes/Classes/Computer Structures/Photos/Virtual Address-1.webp",
     "obsidian_notes/Classes/Computer Structures/Photos/The Cache Idea-1.webp",
     "obsidian_notes/Classes/Computer Structures/Photos/Unified Syntax for Abstract State Machines (UASM)-1.webp",
@@ -252,9 +255,6 @@
     "obsidian_notes/Classes/Computer Structures/Photos/Pasted image 20250401175235.webp",
     "obsidian_notes/Classes/Computer Structures/Photos/Pasted image 20250401172509.webp",
     "obsidian_notes/Classes/Computer Structures/Stack and Procedures",
-    "obsidian_notes/Classes/Computer Structures/Virtual Machine",
-    "obsidian_notes/Classes/Computer Structures/Virtual Memory",
-    "obsidian_notes/Classes/Computer Structures/Interrupts and Faults",
-    "obsidian_notes/Classes/Computer Structures/Memory Hierarchy and Cache Design"
+    "obsidian_notes/Classes/Computer Structures/Virtual Machine"
   ]
 }
