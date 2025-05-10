@@ -113,8 +113,20 @@
               "type": "git-view",
               "state": {},
               "pinned": true,
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "4bc93876345df19e",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -177,18 +189,9 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
-          },
-          {
-            "id": "4bc93876345df19e",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -203,11 +206,10 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "remotely-save:Remotely Save": false,
-      "omnisearch:Omnisearch": false
+      "remotely-save:Remotely Save": false
     }
   },
-  "active": "9bb71d8be96453c1",
+  "active": "4bc93876345df19e",
   "lastOpenFiles": [
     "Blue Skies and Sunshine.md",
     "Classes/Elements of Software Construction/Elements of Software Construction.md",
