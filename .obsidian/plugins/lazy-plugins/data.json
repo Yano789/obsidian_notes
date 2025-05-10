@@ -10,7 +10,7 @@
     "enableDependencies": false,
     "plugins": {
       "obsidian42-brat": {
-        "startupType": "long"
+        "startupType": "disabled"
       },
       "calendar": {
         "startupType": "long"

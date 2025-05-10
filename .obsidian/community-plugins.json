@@ -1,5 +1,11 @@
 [
   "lazy-plugins",
   "todoist-sync-plugin",
-  "folder-notes"
+  "folder-notes",
+  "calendar",
+  "obsidian-git",
+  "image-converter",
+  "omnisearch",
+  "obsidian-paste-image-rename",
+  "remotely-save"
 ]
