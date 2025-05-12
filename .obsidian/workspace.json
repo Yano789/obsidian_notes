@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Computer System Engineering/Operating System/Operating System.md",
+                "file": "Classes/Computer System Engineering/The Computer System/Operating System/User Program.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Operating System"
+              "title": "User Program"
             }
           }
         ],
@@ -229,14 +229,19 @@
   },
   "active": "635668dc7684552f",
   "lastOpenFiles": [
+    "Classes/Archive/Computer Structures/Virtual Machine/Kernel.md",
+    "Classes/Archive/Computer Structures/Virtual Machine/Scheduling and Multiple Interrupts.md",
+    "Classes/Archive/Computer Structures/Virtual Machine/Effective Interrupt Load.md",
+    "Classes/Computer System Engineering/The Computer System/Operating System/User Program.md",
+    "Classes/Archive/Computer Structures/Virtual Memory/Process.md",
     "Classes/Computer System Engineering/The Computer System/The Computer System.md",
+    "Classes/Computer System Engineering/The Computer System/Operating System/Operating System.md",
     "Classes/Computer System Engineering/Computer System Engineering.md",
     "Classes/Elements of Software Construction/Elements of Software Construction.md",
     "Classes/Computer System Engineering/The Computer System/The Computer System-1.webp",
-    "Classes/Computer System Engineering/Operating System/Operating System.md",
     "Classes/Computer System Engineering/The Computer System",
     "Blue Skies and Sunshine.md",
-    "Classes/Computer System Engineering/Operating System",
+    "Classes/Computer System Engineering/The Computer System/Operating System",
     "Personal Adventures/Linux on Mac.md",
     "Classes/Classes.md",
     "Classes/Elements of Software Construction",
@@ -259,12 +264,8 @@
     "Personal Adventures/Linux on Mac/Starting.md",
     "Personal Adventures/Linux on Mac",
     "Personal Adventures",
-    "Untitled.md",
     "alpha_vault",
     "Classes/Archive",
-    "obsidian_notes/Classes/Computer Structures/Stack and Procedures/Stack Implementation.md",
-    "obsidian_notes/Classes/Computer Structures/Stack and Procedures/Stack Pointer (SP) R29.md",
-    "obsidian_notes/Classes/Computer Structures/Stack and Procedures/Push.md",
     "obsidian_notes/Classes/Computer Structures/Photos/Virtual Address-1.webp",
     "obsidian_notes/Classes/Computer Structures/Photos/The Cache Idea-1.webp",
     "obsidian_notes/Classes/Computer Structures/Photos/Unified Syntax for Abstract State Machines (UASM)-1.webp",
