@@ -1,3 +1,4 @@
 ![[Classes/Archive/Computer Structures/Virtual Machine/Kernel|Kernel]]
 
-running at all times 
+The kernel is the **heart** of the [[Operating System]]
+- it runs on the *physical space*, therefore it only knows [[Physical Address (PA)|]]
