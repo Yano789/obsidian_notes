@@ -71,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "MMU",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -228,11 +228,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "5068220fa4308e47",
+  "active": "635668dc7684552f",
   "lastOpenFiles": [
-    "Classes/Computer System Engineering/Operating System/Operating System.md",
-    "Classes/Computer System Engineering/Operating System/Kernel.md",
     "Classes/Computer System Engineering/Operating System/User Program.md",
+    "Classes/Computer System Engineering/Operating System/Kernel.md",
+    "Classes/Computer System Engineering/Operating System/Operating System.md",
     "Classes/Computer System Engineering/Operating System/The Computer System/The Computer System.md",
     "Classes/Archive/Computer Structures/Virtual Machine/Scheduling and Multiple Interrupts.md",
     "Classes/Archive/Computer Structures/Virtual Machine/Kernel.md",

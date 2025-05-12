@@ -9,4 +9,5 @@ a specific privilege wherein the kernal has/can:
 2. Know (and lives in) the [[Physical Address (PA)]] space and manages the [[Memory Hierarchy]]
 3. **Interrupt** other [[User Program]]
 4. Receive and manage I/O requests
-5. **Manage other [[User Program]]** locations on the RAM, the MMU, and schedule user program executions
+5. **Manage other user program** locations on the RAM, the [[Memory Management Unit (MMU)]], and schedule user program executions
+
