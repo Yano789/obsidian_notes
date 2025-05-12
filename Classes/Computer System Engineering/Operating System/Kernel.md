@@ -3,7 +3,7 @@
 The kernel is the **heart** of the [[Operating System]]
 - it runs on the *physical space*, therefore it only knows [[Physical Address (PA)|physical addresses]]
 
-## Kernel Mode
+## Kernel Mode (PC31)
 a specific privilege wherein the kernal has/can:
 1. **Ultimate access** and control to all hardware in the computer system (mouse, keyboard, display, network cards, disk, RAM, CPU, etc)
 2. Know (and lives in) the [[Physical Address (PA)]] space and manages the [[Memory Hierarchy]]
