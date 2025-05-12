@@ -92,7 +92,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "5ce26def7e8c05d2",
@@ -227,7 +228,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "635668dc7684552f",
+  "active": "5068220fa4308e47",
   "lastOpenFiles": [
     "Classes/Computer System Engineering/Operating System/Operating System.md",
     "Classes/Computer System Engineering/Operating System/Kernel.md",
