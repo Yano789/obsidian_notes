@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Computer System Engineering/Operating System (OS)/Booting.md",
+                "file": "Classes/Computer System Engineering/Operating System (OS)/The Computer System/Device Controllers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Booting"
+              "title": "Device Controllers"
             }
           }
         ],
@@ -229,10 +229,13 @@
   },
   "active": "635668dc7684552f",
   "lastOpenFiles": [
-    "Classes/Computer System Engineering/Operating System (OS)/Operating System (OS).md",
-    "Classes/Computer System Engineering/Operating System (OS)/Booting.md",
-    "Classes/Computer System Engineering/Operating System (OS)/Kernel.md",
     "Classes/Computer System Engineering/Operating System (OS)/The Computer System/The Computer System.md",
+    "Classes/Computer System Engineering/Operating System (OS)/The Computer System/Device Controllers.md",
+    "Classes/Computer System Engineering/Operating System (OS)/Booting/Booting.md",
+    "Classes/Computer System Engineering/Operating System (OS)/Booting",
+    "Classes/Computer System Engineering/Operating System (OS)/Booting/Booting-1.webp",
+    "Classes/Computer System Engineering/Operating System (OS)/Kernel.md",
+    "Classes/Computer System Engineering/Operating System (OS)/Operating System (OS).md",
     "Classes/Computer System Engineering/Operating System (OS)/User Program.md",
     "Classes/Archive/Computer Structures/Virtual Machine/Scheduling and Multiple Interrupts.md",
     "Classes/Archive/Computer Structures/Virtual Machine/Kernel.md",
@@ -261,11 +264,9 @@
     "Classes/Archive/Algorithms/Dynamic Programming/Top-down Approach.md",
     "Classes/Archive/Algorithms/Dynamic Programming/Tabulation.md",
     "Classes/Archive/Algorithms/Dynamic Programming/Optimal Substructure.md",
-    "Classes/Archive/Algorithms/Dynamic Programming/Dynamic Programming (DP).md",
     "Personal Adventures/Linux on Mac",
     "Personal Adventures",
     "alpha_vault",
-    "Classes/Archive",
     "obsidian_notes/Classes/Computer Structures/Photos/Virtual Address-1.webp",
     "obsidian_notes/Classes/Computer Structures/Photos/The Cache Idea-1.webp",
     "obsidian_notes/Classes/Computer Structures/Photos/Unified Syntax for Abstract State Machines (UASM)-1.webp",
@@ -273,7 +274,6 @@
     "obsidian_notes/Classes/Computer Structures/Photos/Screenshot 2025-04-01 at 5.20.56 PM.webp",
     "obsidian_notes/Classes/Computer Structures/Photos/Process-1.webp",
     "obsidian_notes/Classes/Computer Structures/Photos/Pasted image 20250401180900.webp",
-    "obsidian_notes/Classes/Computer Structures/Photos/Pasted image 20250401173632.webp",
-    "obsidian_notes/Classes/Computer Structures/Photos/Pasted image 20250401175235.webp"
+    "obsidian_notes/Classes/Computer Structures/Photos/Pasted image 20250401173632.webp"
   ]
 }
