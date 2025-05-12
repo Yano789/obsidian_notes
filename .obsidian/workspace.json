@@ -97,7 +97,7 @@
       {
         "id": "5ce26def7e8c05d2",
         "type": "tabs",
-        "dimension": 27.419354838709676,
+        "dimension": 27.41935483870968,
         "children": [
           {
             "id": "9bb71d8be96453c1",
@@ -143,8 +143,8 @@
               "type": "calendar",
               "state": {},
               "pinned": true,
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -223,8 +223,7 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "remotely-save:Remotely Save": false,
-      "omnisearch:Omnisearch": false
+      "remotely-save:Remotely Save": false
     }
   },
   "active": "635668dc7684552f",
