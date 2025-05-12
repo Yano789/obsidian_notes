@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Computer System Engineering/The Computer System/The Computer System.md",
+                "file": "Classes/Computer System Engineering/Operating System/Operating System.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Computer System"
+              "title": "Operating System"
             }
           }
         ],
@@ -229,9 +229,9 @@
   },
   "active": "635668dc7684552f",
   "lastOpenFiles": [
+    "Classes/Computer System Engineering/The Computer System/The Computer System.md",
     "Classes/Computer System Engineering/Computer System Engineering.md",
     "Classes/Elements of Software Construction/Elements of Software Construction.md",
-    "Classes/Computer System Engineering/The Computer System/The Computer System.md",
     "Classes/Computer System Engineering/The Computer System/The Computer System-1.webp",
     "Classes/Computer System Engineering/Operating System/Operating System.md",
     "Classes/Computer System Engineering/The Computer System",

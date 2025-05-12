@@ -5,3 +5,4 @@ Three essential roles of the operating system
 2. *Controls Program Execution* - where it is stored and how it runs
 3.  *Limits Program Execution and Ensures Safety* - prevents illegal access to places it shouldn't be in
 
+Provides an *environment* such that 
