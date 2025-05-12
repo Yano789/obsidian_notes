@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Computer System Engineering/Operating System/The Computer System/The Computer System.md",
+                "file": "Classes/Computer System Engineering/Operating System/Kernel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Computer System"
+              "title": "Kernel"
             }
           }
         ],
@@ -223,16 +223,15 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "remotely-save:Remotely Save": false,
-      "omnisearch:Omnisearch": false
+      "remotely-save:Remotely Save": false
     }
   },
   "active": "635668dc7684552f",
   "lastOpenFiles": [
+    "Classes/Computer System Engineering/Operating System/The Computer System/The Computer System.md",
     "Classes/Computer System Engineering/Operating System/Kernel.md",
     "Classes/Computer System Engineering/Operating System/User Program.md",
     "Classes/Computer System Engineering/Operating System/Operating System.md",
-    "Classes/Computer System Engineering/Operating System/The Computer System/The Computer System.md",
     "Classes/Archive/Computer Structures/Virtual Machine/Scheduling and Multiple Interrupts.md",
     "Classes/Archive/Computer Structures/Virtual Machine/Kernel.md",
     "Classes/Archive/Computer Structures/Memory Hierarchy and Cache Design/Memory Hierarchy.md",

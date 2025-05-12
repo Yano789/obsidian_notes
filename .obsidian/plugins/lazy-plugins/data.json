@@ -50,6 +50,9 @@
       },
       "folder-notes": {
         "startupType": "instant"
+      },
+      "various-complements": {
+        "startupType": "instant"
       }
     },
     "loadOrder": []
