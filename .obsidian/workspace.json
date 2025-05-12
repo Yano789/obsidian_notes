@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Computer System Engineering/Operating System/Operating System.md",
+                "file": "Classes/Computer System Engineering/The Computer System/The Computer System.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Operating System"
+              "title": "The Computer System"
             }
           }
         ],
@@ -229,9 +229,11 @@
   },
   "active": "635668dc7684552f",
   "lastOpenFiles": [
+    "Classes/Computer System Engineering/Operating System/Operating System.md",
+    "Classes/Computer System Engineering/The Computer System/The Computer System.md",
+    "Classes/Computer System Engineering/The Computer System",
     "Classes/Computer System Engineering/Computer System Engineering.md",
     "Blue Skies and Sunshine.md",
-    "Classes/Computer System Engineering/Operating System/Operating System.md",
     "Classes/Computer System Engineering/Operating System",
     "Personal Adventures/Linux on Mac.md",
     "Classes/Elements of Software Construction/Elements of Software Construction.md",
@@ -263,7 +265,6 @@
     "obsidian_notes/Classes/Computer Structures/Stack and Procedures/Stack Pointer (SP) R29.md",
     "obsidian_notes/Classes/Computer Structures/Stack and Procedures/Push.md",
     "obsidian_notes/Classes/Computer Structures/Stack and Procedures/Procedure Linkage Problem.md",
-    "obsidian_notes/Classes/Computer Structures/Stack and Procedures/Procedure Linkage Convention.md",
     "obsidian_notes/Classes/Computer Structures/Photos/Virtual Address-1.webp",
     "obsidian_notes/Classes/Computer Structures/Photos/The Cache Idea-1.webp",
     "obsidian_notes/Classes/Computer Structures/Photos/Unified Syntax for Abstract State Machines (UASM)-1.webp",
@@ -273,7 +274,6 @@
     "obsidian_notes/Classes/Computer Structures/Photos/Pasted image 20250401180900.webp",
     "obsidian_notes/Classes/Computer Structures/Photos/Pasted image 20250401173632.webp",
     "obsidian_notes/Classes/Computer Structures/Photos/Pasted image 20250401175235.webp",
-    "obsidian_notes/Classes/Computer Structures/Photos/Pasted image 20250401172509.webp",
-    "obsidian_notes/Classes/Computer Structures/Stack and Procedures"
+    "obsidian_notes/Classes/Computer Structures/Photos/Pasted image 20250401172509.webp"
   ]
 }
