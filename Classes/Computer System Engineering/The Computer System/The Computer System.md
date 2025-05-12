@@ -3,3 +3,5 @@ Divided into four components:
 2. [[Operating System]]
 3. Application/User Programs
 4. Users
+
+![[The Computer System-1.webp]]
