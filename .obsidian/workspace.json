@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Computer System Engineering/The Computer System/Operating System/Operating System.md",
+                "file": "Classes/Computer System Engineering/The Computer System/Operating System/User Program.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Operating System"
+              "title": "User Program"
             }
           }
         ],
@@ -71,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ComputerSystemEngineering",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -92,8 +92,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "5ce26def7e8c05d2",
@@ -228,9 +227,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "5068220fa4308e47",
+  "active": "6fe38cbd59327d1f",
   "lastOpenFiles": [
     "Classes/Computer System Engineering/The Computer System/Operating System/Operating System.md",
+    "Classes/Archive/Computer Structures/Memory Hierarchy and Cache Design/Memory Hierarchy.md",
     "Classes/Computer System Engineering/The Computer System/Operating System/User Program.md",
     "Classes/Elements of Software Construction/Elements of Software Construction.md",
     "Classes/Archive/Computer Structures/Virtual Machine/Kernel.md",
@@ -262,7 +262,6 @@
     "Classes/Archive/Algorithms/Dynamic Programming/Dynamic Programming (DP).md",
     "Classes/Archive/Algorithms/Dynamic Programming/Bottom-Up Approach.md",
     "Todoist.md",
-    "Personal Adventures/Linux on Mac/Starting.md",
     "Personal Adventures/Linux on Mac",
     "Personal Adventures",
     "alpha_vault",
