@@ -1,6 +1,6 @@
 Divided into four components:
 1. Hardware
-2. [[Operating System]]
+2. [[Operating System (OS)]]
 3. Application/[[User Program]]
 4. Users
 
