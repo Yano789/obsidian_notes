@@ -1,0 +1,1 @@
+The operating system acts as the *middle man* between the **User** and the **Hardware** 
