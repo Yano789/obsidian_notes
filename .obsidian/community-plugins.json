@@ -2,5 +2,7 @@
   "lazy-plugins",
   "todoist-sync-plugin",
   "folder-notes",
-  "obsidian-file-color"
+  "obsidian-file-color",
+  "persistent-graph",
+  "waypoint"
 ]

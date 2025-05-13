@@ -29,16 +29,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blue Skies and Sunshine.md",
+                "file": "Classes/Computer System Engineering/Operating System (OS)/Kernel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Blue Skies and Sunshine"
+              "title": "Kernel"
+            }
+          },
+          {
+            "id": "6386307c12271da9",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -50,7 +60,6 @@
       {
         "id": "5774b83570472239",
         "type": "tabs",
-        "dimension": 72.58064516129032,
         "children": [
           {
             "id": "6fe38cbd59327d1f",
@@ -90,23 +99,6 @@
               "state": {},
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
-            }
-          }
-        ]
-      },
-      {
-        "id": "5ce26def7e8c05d2",
-        "type": "tabs",
-        "dimension": 27.41935483870968,
-        "children": [
-          {
-            "id": "9bb71d8be96453c1",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
             }
           }
         ]
@@ -223,19 +215,23 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "remotely-save:Remotely Save": false
+      "remotely-save:Remotely Save": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "6fe38cbd59327d1f",
+  "active": "6386307c12271da9",
   "lastOpenFiles": [
-    "Classes/Computer System Engineering/Operating System (OS)/The Computer System/Device Controllers.md",
+    "Classes/Computer System Engineering/Computer System Engineering.md",
+    "Classes/Archive/Algorithms/Algorithms.md",
+    "Classes/Computer System Engineering/Operating System (OS)/Kernel.md",
+    "Classes/Archive/Computer Structures/Computer Structures.md",
+    "Classes/Computer System Engineering/Operating System (OS)/Operating System (OS).md",
     "Blue Skies and Sunshine.md",
+    "Classes/Computer System Engineering/Operating System (OS)/The Computer System/Device Controllers.md",
     "Classes/Computer System Engineering/Operating System (OS)/The Computer System/The Computer System.md",
     "Classes/Computer System Engineering/Operating System (OS)/Booting/Booting.md",
     "Classes/Computer System Engineering/Operating System (OS)/Booting",
     "Classes/Computer System Engineering/Operating System (OS)/Booting/Booting-1.webp",
-    "Classes/Computer System Engineering/Operating System (OS)/Kernel.md",
-    "Classes/Computer System Engineering/Operating System (OS)/Operating System (OS).md",
     "Classes/Computer System Engineering/Operating System (OS)/User Program.md",
     "Classes/Archive/Computer Structures/Virtual Machine/Scheduling and Multiple Interrupts.md",
     "Classes/Archive/Computer Structures/Virtual Machine/Kernel.md",
@@ -243,7 +239,6 @@
     "Classes/Elements of Software Construction/Elements of Software Construction.md",
     "Classes/Archive/Computer Structures/Virtual Machine/Effective Interrupt Load.md",
     "Classes/Archive/Computer Structures/Virtual Memory/Process.md",
-    "Classes/Computer System Engineering/Computer System Engineering.md",
     "Classes/Computer System Engineering/Operating System (OS)/The Computer System/The Computer System-1.webp",
     "Classes/Computer System Engineering/Operating System (OS)/The Computer System",
     "Classes/Computer System Engineering/Operating System (OS)",
@@ -257,12 +252,10 @@
     "Personal Adventures/Obsidian.md",
     "Classes/The World Since 1400/The World Since 1400.md",
     "Classes/Archive/Computer Structures/Virtual Memory/Virtual Memory.md",
-    "Classes/Archive/Computer Structures/Computer Structures.md",
     "Classes/The World Since 1400",
     "The Tia File.md",
     "Classes/Archive/Algorithms/Dynamic Programming/Top-down Approach.md",
     "Classes/Archive/Algorithms/Dynamic Programming/Tabulation.md",
-    "Classes/Archive/Algorithms/Dynamic Programming/Optimal Substructure.md",
     "Personal Adventures/Linux on Mac",
     "Personal Adventures",
     "alpha_vault",
