@@ -52,7 +52,7 @@
         "startupType": "instant"
       },
       "various-complements": {
-        "startupType": "instant"
+        "startupType": "short"
       }
     },
     "loadOrder": []
