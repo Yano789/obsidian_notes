@@ -1,4 +1,3 @@
-
 ## Asahi Linux
 Link - https://asahilinux.org/
 - Runs Linux (Fedora) on Apple Macs
@@ -61,7 +60,7 @@ wget -qO- https://raw.githubusercontent.com/apapamarkou/appimage-integrator/main
 Once that is done, you can place your AppImages into this applications folder and you will be able to find it in rofi (Super + D).
 
 #### Optional
-There are times when your GPU can cause rendering issues that will cause apps to disappear after some time. If this does happen, you can go to the .desktop file of your application (located in `~/.local/share/applications`) and include this line of code
+There are times when your GPU can cause rendering issues that will cause apps to disappear after some time. If this does happen, you can go to the .desktop file of your application (located in `~/.local/share/applications`) and include this line of code in the *Exec line*
 
 ```
 --js-flags="--nodecommit_pooled_pages"
@@ -69,7 +68,7 @@ There are times when your GPU can cause rendering issues that will cause apps to
 
 This is caused by Electron ...
 
-## Battery Life Optimization
+## Battery Life Optimization (If you are on a Macbook)
 There are 2 options that will improve battery life:
 1. TLP - Can be customized to not enable things like Wifi, Bluetooth, etc
 2. AutoCPU-Freq - Focuses more on the CPU (has better performance in my case)
