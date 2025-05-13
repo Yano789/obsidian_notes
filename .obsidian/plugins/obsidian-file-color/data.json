@@ -1,6 +1,69 @@
 {
   "cascadeColors": false,
   "colorBackground": true,
-  "palette": [],
-  "fileColors": []
+  "palette": [
+    {
+      "id": "gL8g_Vb4nFKb5ECBNLayr",
+      "name": "Red",
+      "value": "#f38ba8"
+    },
+    {
+      "id": "GOQ-G8rOuthFSyqGyix_5",
+      "name": "Peach",
+      "value": "#fab387"
+    },
+    {
+      "id": "HrC5sAy1fQ5Vi3vZuDHNJ",
+      "name": "Green",
+      "value": "#a6e3a1"
+    },
+    {
+      "id": "dkN_BgXS8E3rJozlv7htE",
+      "name": "Blue",
+      "value": "#89b4fa"
+    },
+    {
+      "id": "zCxEtkrn75qrraNQKkqQS",
+      "name": "Mauve",
+      "value": "#cba6f7"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "Blue Skies and Sunshine.md",
+      "color": "dkN_BgXS8E3rJozlv7htE"
+    },
+    {
+      "path": "The Tia File.md",
+      "color": "GOQ-G8rOuthFSyqGyix_5"
+    },
+    {
+      "path": "Personal Adventures",
+      "color": "gL8g_Vb4nFKb5ECBNLayr"
+    },
+    {
+      "path": "Classes",
+      "color": "HrC5sAy1fQ5Vi3vZuDHNJ"
+    },
+    {
+      "path": "Classes/Computer System Engineering",
+      "color": "HrC5sAy1fQ5Vi3vZuDHNJ"
+    },
+    {
+      "path": "Classes/Database Systems",
+      "color": "HrC5sAy1fQ5Vi3vZuDHNJ"
+    },
+    {
+      "path": "Classes/Elements of Software Construction",
+      "color": "HrC5sAy1fQ5Vi3vZuDHNJ"
+    },
+    {
+      "path": "Classes/The World Since 1400",
+      "color": "HrC5sAy1fQ5Vi3vZuDHNJ"
+    },
+    {
+      "path": "Classes/Archive",
+      "color": "gL8g_Vb4nFKb5ECBNLayr"
+    }
+  ]
 }
