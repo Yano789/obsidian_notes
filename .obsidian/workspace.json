@@ -36,19 +36,9 @@
               "icon": "lucide-file",
               "title": "Kernel"
             }
-          },
-          {
-            "id": "6386307c12271da9",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,6 +50,7 @@
       {
         "id": "5774b83570472239",
         "type": "tabs",
+        "dimension": 63.608870967741936,
         "children": [
           {
             "id": "6fe38cbd59327d1f",
@@ -99,6 +90,23 @@
               "state": {},
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "89ade32f5876c801",
+        "type": "tabs",
+        "dimension": 36.391129032258064,
+        "children": [
+          {
+            "id": "85d0ff291f59da64",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -219,11 +227,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "6386307c12271da9",
+  "active": "635668dc7684552f",
   "lastOpenFiles": [
+    "Classes/Computer System Engineering/Operating System (OS)/Kernel.md",
     "Classes/Computer System Engineering/Computer System Engineering.md",
     "Classes/Archive/Algorithms/Algorithms.md",
-    "Classes/Computer System Engineering/Operating System (OS)/Kernel.md",
     "Classes/Archive/Computer Structures/Computer Structures.md",
     "Classes/Computer System Engineering/Operating System (OS)/Operating System (OS).md",
     "Blue Skies and Sunshine.md",

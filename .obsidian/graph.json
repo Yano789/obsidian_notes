@@ -11,14 +11,21 @@
       "query": "path:Algorithms  ",
       "color": {
         "a": 1,
-        "rgb": 14048348
+        "rgb": 15961000
       }
     },
     {
       "query": "path:\"Computer Structures\"  ",
       "color": {
         "a": 1,
-        "rgb": 14069084
+        "rgb": 16429959
+      }
+    },
+    {
+      "query": "path:\"Classes/Computer System Engineering\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 10937249
       }
     }
   ],
@@ -27,11 +34,11 @@
   "textFadeMultiplier": 1.5,
   "nodeSizeMultiplier": 1.37604166666667,
   "lineSizeMultiplier": 0.788002811418685,
-  "collapse-forces": false,
-  "centerStrength": 0.568115234375,
-  "repelStrength": 11.7415364583333,
-  "linkStrength": 0.409505208333333,
+  "collapse-forces": true,
+  "centerStrength": 0.569742838541667,
+  "repelStrength": 15.99609375,
+  "linkStrength": 0.393310546875,
   "linkDistance": 30,
-  "scale": 0.1634837056722049,
-  "close": false
+  "scale": 0.04843961649546812,
+  "close": true
 }
