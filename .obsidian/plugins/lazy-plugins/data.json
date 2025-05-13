@@ -56,6 +56,12 @@
       },
       "obsidian-file-color": {
         "startupType": "instant"
+      },
+      "persistent-graph": {
+        "startupType": "instant"
+      },
+      "waypoint": {
+        "startupType": "instant"
       }
     },
     "loadOrder": []
