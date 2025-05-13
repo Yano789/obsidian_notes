@@ -64,7 +64,7 @@
       {
         "id": "5774b83570472239",
         "type": "tabs",
-        "dimension": 63.60887096774193,
+        "dimension": 63.773965691220994,
         "children": [
           {
             "id": "6fe38cbd59327d1f",
@@ -109,9 +109,9 @@
         ]
       },
       {
-        "id": "89ade32f5876c801",
+        "id": "97bb361c1da07d35",
         "type": "tabs",
-        "dimension": 36.391129032258064,
+        "dimension": 36.226034308779006,
         "children": [
           {
             "id": "85d0ff291f59da64",
@@ -127,7 +127,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.0026054382324
+    "width": 321
   },
   "right": {
     "id": "c2f043489300821b",
@@ -237,18 +237,17 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "remotely-save:Remotely Save": false,
-      "omnisearch:Omnisearch": false
+      "remotely-save:Remotely Save": false
     }
   },
-  "active": "74f7f7ff831413cb",
+  "active": "85d0ff291f59da64",
   "lastOpenFiles": [
+    "Blue Skies and Sunshine.md",
     "Personal Adventures/Obsidian Sync Alternative.md",
     "Personal Adventures/Linux on Mac.md",
     "Personal Adventures/Self-Improvement/How To Win Friends & Influence People.md",
     "Personal Adventures/Self-Improvement/Self-Improvement.md",
     "Personal Adventures/Self-Improvement",
-    "Blue Skies and Sunshine.md",
     "Classes/Computer System Engineering/Operating System (OS)/Kernel.md",
     "Classes/Computer System Engineering/Computer System Engineering.md",
     "Classes/Archive/Algorithms/Algorithms.md",
