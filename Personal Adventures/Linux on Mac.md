@@ -40,24 +40,13 @@ There are 2 providers that make it easy to install apps
 
 
 ### Using AppImages
-There are many ways to launch AppImages. However, I prefer to use **AppImage-Integrator** by apapamarkou
+There are many ways to launch AppImages. However, I prefer to use AppImageLauncher - https://github.com/TheAssassin/AppImageLauncher/tree/v2.2.0
 
-Link - https://github.com/apapamarkou/appimage-integrator
-
-Make sure to install the dependency so that it runs smoothly:
+Once it is installed, simply download any AppImage and run the following command:
 
 ```
-sudo dnf install inotify-tools git wget
+ail-cli integrate <path to AppImage>
 ```
-
-
-Once you install the dependency, run this code is to auto create an Applications Folder in your home directory:
-
-```
-wget -qO- https://raw.githubusercontent.com/apapamarkou/appimage-integrator/main/src/appimage-integrator-install-git | bash
-```
-
-Once that is done, you can place your AppImages into this applications folder and you will be able to find it in rofi (Super + D).
 
 #### Optional
 There are times when your GPU can cause rendering issues that will cause apps to disappear after some time. If this does happen, you can go to the .desktop file of your application (located in `~/.local/share/applications`) and include this line of code in the *Exec line*

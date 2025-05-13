@@ -43,12 +43,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blue Skies and Sunshine.md",
+                "file": "Personal Adventures/Linux on Mac.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Blue Skies and Sunshine"
+              "title": "Linux on Mac"
             }
           }
         ],
@@ -237,10 +237,11 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "remotely-save:Remotely Save": false
+      "remotely-save:Remotely Save": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "85d0ff291f59da64",
+  "active": "74f7f7ff831413cb",
   "lastOpenFiles": [
     "Blue Skies and Sunshine.md",
     "Personal Adventures/Obsidian Sync Alternative.md",
