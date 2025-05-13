@@ -53,6 +53,9 @@
       },
       "various-complements": {
         "startupType": "short"
+      },
+      "obsidian-file-color": {
+        "startupType": "instant"
       }
     },
     "loadOrder": []
