@@ -4,8 +4,8 @@
 - **[[CSS]]**
 	- [[CSS]]
 - [[Elements of Software Construction]]
-- **[[HTML]]**
-	- [[HTML]]
+- **[[HTML (Hyper Text Markup Language)]]**
+	- [[HTML (Hyper Text Markup Language)]]
 - **[[JavaScript]]**
 	- [[JavaScript]]
 

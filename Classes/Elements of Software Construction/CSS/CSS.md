@@ -7,7 +7,7 @@ a language used in describing the presentation of a document
 example:
 ![[CSS-1.webp]]
 ## Selectors
-Selects [[HTML]] elements you want to style
+Selects [[HTML (Hyper Text Markup Language)]] elements you want to style
 1. **element** - HTML elements based on element name
 2. **id** - HTML elements based on id attribute **(#id)** 
 3. **class** - HTML elements with class=*class name* will be chosen **(.class)**
