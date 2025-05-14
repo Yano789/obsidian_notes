@@ -4,6 +4,8 @@ a language used in describing the presentation of a document
 - selector can be a reference to id, class, tag, attribute, combinations, and children/siblings of elements
 - declarations is written in *property:value* format
 
+example:
+![[CSS-1.webp]]
 ## Selectors
 Selects [[HTML]] elements you want to style
 1. **element** - HTML elements based on element name

@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Elements of Software Construction/CSS.md",
+                "file": "Classes/Elements of Software Construction/Elements of Software Construction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CSS"
+              "title": "Elements of Software Construction"
             }
           }
         ],
@@ -229,12 +229,14 @@
   },
   "active": "74f7f7ff831413cb",
   "lastOpenFiles": [
-    "Classes/Elements of Software Construction/Untitled.md",
-    "Classes/Elements of Software Construction/CSS.md",
+    "Classes/Elements of Software Construction/CSS/CSS.md",
+    "Classes/Elements of Software Construction/JavaScript.md",
+    "Classes/Elements of Software Construction/Elements of Software Construction.md",
+    "Classes/Elements of Software Construction/CSS",
+    "Classes/Elements of Software Construction/CSS/CSS-1.webp",
     "Classes/Elements of Software Construction/HTML/HTML.md",
     "Classes/Elements of Software Construction/HTML",
     "Classes/Elements of Software Construction/HTML/HTML-1.webp",
-    "Classes/Elements of Software Construction/Elements of Software Construction.md",
     "Classes/Elements of Software Construction/Untitled",
     "Classes/Computer System Engineering/Computer System Engineering.md",
     "Classes/Computer System Engineering/Operating System (OS)/Operating System (OS).md",
@@ -266,14 +268,11 @@
     "Classes/Database Systems/Database Systems.md",
     "Classes/Database Systems",
     "Classes/Computer System Engineering",
-    "50.003  Elements of Software Construction.md",
-    "Classes/The World Since 1400",
     "obsidian_notes/Classes/Computer Structures/Photos/Virtual Address-1.webp",
     "obsidian_notes/Classes/Computer Structures/Photos/The Cache Idea-1.webp",
     "obsidian_notes/Classes/Computer Structures/Photos/Unified Syntax for Abstract State Machines (UASM)-1.webp",
     "obsidian_notes/Classes/Computer Structures/Photos/Translation Lookaside Buffer (TLB)-1.webp",
     "obsidian_notes/Classes/Computer Structures/Photos/Screenshot 2025-04-01 at 5.20.56 PM.webp",
-    "obsidian_notes/Classes/Computer Structures/Photos/Process-1.webp",
-    "obsidian_notes/Classes/Computer Structures/Photos/Pasted image 20250401180900.webp"
+    "obsidian_notes/Classes/Computer Structures/Photos/Process-1.webp"
   ]
 }
