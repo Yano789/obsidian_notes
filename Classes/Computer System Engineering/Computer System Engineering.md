@@ -1,4 +1,4 @@
-https://natalieagus.github.io/50005/ - Reference Course Website
+**Reference Course Website** - https://natalieagus.github.io/50005/
 
 %% Begin Waypoint %%
 - [[Computer System Engineering]]
