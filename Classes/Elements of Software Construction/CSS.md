@@ -15,4 +15,5 @@ Selects [[HTML]] elements you want to style
 Something that explains the relationship between *selectors*
 1. **descendant** - matches all elements that are descendants of the elements **(div element)**
 2. **child** - all elements that are the children of the element **(div > element)**
-3. **sibling** - select and element directly after another element **(div + element**
+3. **sibling** - select an element directly after another element **(div + element)**
+4. **subsequent-sibling** - selects all elements that are next siblings of a specified element **(div ~ element)**
