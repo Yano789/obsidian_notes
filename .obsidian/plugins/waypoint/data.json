@@ -10,7 +10,8 @@
   "showEnclosingNote": false,
   "folderNoteType": "INSIDE_FOLDER",
   "ignorePaths": [
-    "_attachments"
+    "_attachments",
+    ".webp"
   ],
   "useSpaces": false,
   "numSpaces": 2
