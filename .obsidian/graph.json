@@ -29,10 +29,10 @@
       }
     },
     {
-      "query": "",
+      "query": "path:\"Classes/Elements of Software Construction\"  ",
       "color": {
         "a": 1,
-        "rgb": 5431378
+        "rgb": 9024762
       }
     }
   ],
@@ -46,6 +46,6 @@
   "repelStrength": 15.99609375,
   "linkStrength": 0.393310546875,
   "linkDistance": 30,
-  "scale": 0.0653698190606936,
-  "close": false
+  "scale": 0.06303260214924704,
+  "close": true
 }
