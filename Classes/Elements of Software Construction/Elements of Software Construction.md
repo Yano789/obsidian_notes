@@ -2,10 +2,7 @@
 
 %% Begin Waypoint %%
 - **[[CSS]]**
-	- [[CSS]]
-- [[Elements of Software Construction]]
 - **[[HTML]]**
-	- [[HTML]]
-- [[JavaScript]]
+- **[[JavaScript]]**
 
 %% End Waypoint %%
