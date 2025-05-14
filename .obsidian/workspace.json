@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Elements of Software Construction/HTML (Hyper Text Markup Language)/HTML (Hyper Text Markup Language).md",
+                "file": "Classes/Elements of Software Construction/CSS (Cascading Style Sheets)/CSS (Cascading Style Sheets).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HTML (Hyper Text Markup Language)"
+              "title": "CSS (Cascading Style Sheets)"
             }
           }
         ],
@@ -230,16 +230,16 @@
   },
   "active": "808619262949d9b2",
   "lastOpenFiles": [
+    "Classes/Elements of Software Construction/HTML (Hyper Text Markup Language)/HTML (Hyper Text Markup Language).md",
     "Blue Skies and Sunshine.md",
     "Classes/Elements of Software Construction/JavaScript/JavaScript.md",
     "Classes/Elements of Software Construction/JavaScript/JavaScript-1.webp",
     "Classes/Elements of Software Construction/JavaScript",
-    "Classes/Elements of Software Construction/HTML (Hyper Text Markup Language)/HTML (Hyper Text Markup Language).md",
     "Classes/Elements of Software Construction/HTML (Hyper Text Markup Language)/HTML-1.webp",
     "Classes/Elements of Software Construction/HTML (Hyper Text Markup Language)",
-    "Classes/Elements of Software Construction/CSS/CSS.md",
-    "Classes/Elements of Software Construction/CSS/CSS-1.webp",
-    "Classes/Elements of Software Construction/CSS",
+    "Classes/Elements of Software Construction/CSS (Cascading Style Sheets)/CSS (Cascading Style Sheets).md",
+    "Classes/Elements of Software Construction/CSS (Cascading Style Sheets)/CSS-1.webp",
+    "Classes/Elements of Software Construction/CSS (Cascading Style Sheets)",
     "Personal Adventures/Self-Improvement/How To Win Friends & Influence People.md",
     "Personal Adventures/Linux on Mac.md",
     "Personal Adventures/Obsidian Sync Alternative.md",

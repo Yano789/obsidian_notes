@@ -2,12 +2,22 @@ a language that defines content and structure of a web document
 
 Each *element* is defined by an **OPEN** and **CLOSE** tag
 
+Follows the following format:
+- html
+- head
+    - meta
+    - title
+    - text
+- body
+    - paragraph
+    - text
+
 ## `<head>`
 contains metadata (data about data)
 
 examples of metadata:
 - `<title>`: title of the document **(required)**
-- `<link>`:  used to link to external style sheets **([[CSS]] file)**
+- `<link>`:  used to link to external style sheets **([[CSS (Cascading Style Sheets)]] file)**
 - `<meta>`: to  specify
 	- character set
 	- page description
