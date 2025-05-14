@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Elements of Software Construction/HTML.md",
+                "file": "Classes/Elements of Software Construction/CSS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HTML"
+              "title": "CSS"
             }
           }
         ],
@@ -229,8 +229,11 @@
   },
   "active": "74f7f7ff831413cb",
   "lastOpenFiles": [
+    "Classes/Elements of Software Construction/HTML/HTML.md",
+    "Classes/Elements of Software Construction/CSS.md",
+    "Classes/Elements of Software Construction/HTML",
+    "Classes/Elements of Software Construction/HTML/HTML-1.webp",
     "Classes/Elements of Software Construction/Elements of Software Construction.md",
-    "Classes/Elements of Software Construction/HTML.md",
     "Classes/Elements of Software Construction/Untitled",
     "Classes/Computer System Engineering/Computer System Engineering.md",
     "Classes/Computer System Engineering/Operating System (OS)/Operating System (OS).md",
@@ -264,16 +267,13 @@
     "Classes/Computer System Engineering",
     "50.003  Elements of Software Construction.md",
     "Classes/The World Since 1400/The World Since 1400.md",
-    "Classes/Archive/Computer Structures/Virtual Memory/Virtual Memory.md",
     "Classes/The World Since 1400",
-    "Personal Adventures/Linux on Mac",
     "obsidian_notes/Classes/Computer Structures/Photos/Virtual Address-1.webp",
     "obsidian_notes/Classes/Computer Structures/Photos/The Cache Idea-1.webp",
     "obsidian_notes/Classes/Computer Structures/Photos/Unified Syntax for Abstract State Machines (UASM)-1.webp",
     "obsidian_notes/Classes/Computer Structures/Photos/Translation Lookaside Buffer (TLB)-1.webp",
     "obsidian_notes/Classes/Computer Structures/Photos/Screenshot 2025-04-01 at 5.20.56 PM.webp",
     "obsidian_notes/Classes/Computer Structures/Photos/Process-1.webp",
-    "obsidian_notes/Classes/Computer Structures/Photos/Pasted image 20250401180900.webp",
-    "obsidian_notes/Classes/Computer Structures/Photos/Pasted image 20250401173632.webp"
+    "obsidian_notes/Classes/Computer Structures/Photos/Pasted image 20250401180900.webp"
   ]
 }
