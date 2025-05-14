@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Elements of Software Construction/Elements of Software Construction.md",
+                "file": "Classes/Elements of Software Construction/HTML.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Elements of Software Construction"
+              "title": "HTML"
             }
           }
         ],
@@ -227,13 +227,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "6fe38cbd59327d1f",
+  "active": "74f7f7ff831413cb",
   "lastOpenFiles": [
+    "Classes/Elements of Software Construction/Elements of Software Construction.md",
+    "Classes/Elements of Software Construction/HTML.md",
+    "Classes/Elements of Software Construction/Untitled",
     "Classes/Computer System Engineering/Computer System Engineering.md",
     "Classes/Computer System Engineering/Operating System (OS)/Operating System (OS).md",
     "Classes/Computer System Engineering/Operating System (OS)/Booting/Booting.md",
     "Classes/Computer System Engineering/Operating System (OS)/Booting/Booting-1.webp",
-    "Classes/Elements of Software Construction/Elements of Software Construction.md",
     "Blue Skies and Sunshine.md",
     "Personal Adventures/Linux on Mac.md",
     "Personal Adventures/Obsidian Sync Alternative.md",
@@ -265,7 +267,6 @@
     "Classes/Archive/Computer Structures/Virtual Memory/Virtual Memory.md",
     "Classes/The World Since 1400",
     "Personal Adventures/Linux on Mac",
-    "Personal Adventures",
     "obsidian_notes/Classes/Computer Structures/Photos/Virtual Address-1.webp",
     "obsidian_notes/Classes/Computer Structures/Photos/The Cache Idea-1.webp",
     "obsidian_notes/Classes/Computer Structures/Photos/Unified Syntax for Abstract State Machines (UASM)-1.webp",
