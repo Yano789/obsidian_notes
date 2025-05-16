@@ -36,21 +36,9 @@
               "icon": "lucide-file",
               "title": "Trade and War in the Mediterranean and The Black Sea (1000-1350)"
             }
-          },
-          {
-            "id": "7e3328cfdbe3c48a",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -240,10 +228,11 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "remotely-save:Remotely Save": false
     }
   },
-  "active": "7e3328cfdbe3c48a",
+  "active": "4bc93876345df19e",
   "lastOpenFiles": [
     "Classes/The World Since 1400/World Trade 1000 - 1500 (The Economic Consequences of Genghis Khan)/World Trade 1000 - 1500 (The Economic Consequences of Genghis Khan).md",
     "Classes/The World Since 1400/World Trade 1000 - 1500 (The Economic Consequences of Genghis Khan)/Trade and War in the Mediterranean and The Black Sea (1000-1350).md",
