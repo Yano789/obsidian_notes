@@ -7,6 +7,6 @@ Terms:
 
 %% Begin Waypoint %%
 - **[[World Trade 1000 - 1500 (The Economic Consequences of Genghis Khan)]]**
-
+	- [[Trade and War in the Mediterranean and The Black Sea (1000-1350)]]
 
 %% End Waypoint %%
