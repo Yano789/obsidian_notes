@@ -6,6 +6,7 @@ Terms:
 3. **Modern Period** - post 1789
 
 %% Begin Waypoint %%
-- [[World Trade 1000 - 1500 (The Economic Consequences of Genghis Khan)]]
+- **[[World Trade 1000 - 1500 (The Economic Consequences of Genghis Khan)]]**
+
 
 %% End Waypoint %%
