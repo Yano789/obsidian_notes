@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/The World Since 1400/The World Since 1400.md",
+                "file": "Classes/The World Since 1400/World Trade 1000 - 1500 (The Economic Consequences of Genghis Khan).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The World Since 1400"
+              "title": "World Trade 1000 - 1500 (The Economic Consequences of Genghis Khan)"
             }
           }
         ],
@@ -235,8 +235,9 @@
   },
   "active": "91a5b9bc0d0c6b3b",
   "lastOpenFiles": [
-    "Classes/Database Systems/Database Systems.md",
     "Classes/The World Since 1400/The World Since 1400.md",
+    "Classes/The World Since 1400/World Trade 1000 - 1500 (The Economic Consequences of Genghis Khan).md",
+    "Classes/Database Systems/Database Systems.md",
     "Classes/Database Systems/Entity Relationship Model/Entity Relationship Model.md",
     "Classes/Database Systems/Entity Relationship Model/Entity Relationship Model-3.webp",
     "Classes/Database Systems/Entity Relationship Model/Entity Relationship Model-2.webp",
@@ -276,7 +277,6 @@
     "Classes/Computer System Engineering/Operating System (OS)/Booting/Booting-1.webp",
     "Classes/Computer System Engineering/Operating System (OS)/User Program.md",
     "Classes/Archive/Computer Structures/Virtual Machine/Scheduling and Multiple Interrupts.md",
-    "Classes/Archive/Computer Structures/Virtual Machine/Kernel.md",
     "Classes/Computer System Engineering/Operating System (OS)/The Computer System/The Computer System-1.webp",
     "Classes/Computer System Engineering/Operating System (OS)/The Computer System",
     "Classes/Computer System Engineering/Operating System (OS)",
