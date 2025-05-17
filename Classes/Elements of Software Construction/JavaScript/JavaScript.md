@@ -145,3 +145,4 @@ Accessing characters
 ```javascript
 myStr[0];
 ```
+
