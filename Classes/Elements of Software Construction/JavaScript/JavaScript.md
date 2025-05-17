@@ -34,7 +34,21 @@ alert(msg);
 ```
 
 ## Input/Output
-
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <script src="textandbutton.js"></script>
+    <meta charset="utf-8" />
+    <title>50.003 sample code: Text and Button</title>
+  </head>
+  <body>
+    <div>Your input: <input id="textbox1" type="text" /></div>
+    <div>Output: <span id="span1"></span></div>
+    <div><button id="button1">Submit</button></div>
+  </body>
+</html>
+```
 
 
 ## Variables
