@@ -71,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:review",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -92,7 +92,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "97bb361c1da07d35",
@@ -233,7 +234,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "6fe38cbd59327d1f",
+  "active": "5068220fa4308e47",
   "lastOpenFiles": [
     "Classes/Elements of Software Construction/CSS (Cascading Style Sheets)/CSS (Cascading Style Sheets).md",
     "Personal Adventures/Linux on Mac.md",

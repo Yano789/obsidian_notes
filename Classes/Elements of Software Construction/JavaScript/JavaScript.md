@@ -1,3 +1,9 @@
+---
+tags:
+  - review
+---
+
+
 a language designed to run in the browser to handle user interaction with document components
 
 ## Simple Example
@@ -38,18 +44,35 @@ alert(msg);
 <!DOCTYPE html>
 <html>
   <head>
-    <script src="textandbutton.js"></script>
+    <script src="textandbutton.js"></script> <!--javascript for input/output-->
     <meta charset="utf-8" />
     <title>50.003 sample code: Text and Button</title>
   </head>
   <body>
-    <div>Your input: <input id="textbox1" type="text" /></div>
-    <div>Output: <span id="span1"></span></div>
-    <div><button id="button1">Submit</button></div>
+    <div>Your input: <input id="textbox1" type="text" /></div> <!--Input-->
+    <div>Output: <span id="span1"></span></div> <!--Span is for output space-->
+    <div><button id="button1">Submit</button></div> <!--button to press-->
   </body>
 </html>
 ```
 
+Inside *textandbutton.js*:
+```javascript
+function handleButton1Click() {
+  var textbox1 = document.getElementById("textbox1");
+  var span1 = document.getElementById("span1");
+  span1.innerHTML = textbox1.value;
+}
+
+function run() {
+  var button1 = document.getElementById("button1");
+  button1.addEventListener("click", handleButton1Click);
+}
+
+document.addEventListener("DOMContentLoaded", run);
+```
+
+*NOTE: REVIEW AFTER LECTURE*
 
 ## Variables
 2 ways to declare variables:
