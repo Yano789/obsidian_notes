@@ -2,7 +2,7 @@ a language designed to run in the browser to handle user interaction with docume
 
 ## Simple Example
 
-This is an HTML document that contains a *script* element.
+This is an [[HTML (Hyper Text Markup Language)|HTML]] document that contains a *script* element.
 ```html
 <!DOCTYPE html>
 <html>
@@ -20,9 +20,20 @@ This is an HTML document that contains a *script* element.
 ```
 
 Inside *hello.js* is:
+
 ```javascript
 console.log("hello");
 ```
+
+This will output the *hello* message in the console. If we want the message to output as a **pop-up window**, we can use **alert()**
+
+```javascript
+var msg = "hello";
+// console.log(msg);
+alert(msg);
+```
+
+## Input/Output
 
 
 
