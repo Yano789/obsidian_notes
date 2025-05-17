@@ -112,3 +112,25 @@ function functionName(parameters) {
 // Invoke function
 functionName(args);
 ```
+
+An **Anonymous Function** is a function that is meant to be used only once:
+
+Without *Function Name*
+```javascript
+function (params) {
+  //function body
+  return output;
+}
+```
+
+or
+
+Without *Function Name* and *Function Declaration*
+```javascript
+(params) => {
+  //function body
+  return output;
+};
+```
+
+## Basic Data Structures

@@ -188,15 +188,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "followCursor": false,
+                "file": "Classes/Elements of Software Construction/JavaScript/JavaScript.md",
+                "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of JavaScript"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "acaf89a8407d638e",
