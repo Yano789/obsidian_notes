@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/The World Since 1400/World Trade 1000 - 1500 (The Economic Consequences of Genghis Khan)/Trade and War in the Mediterranean and The Black Sea (1000-1350).md",
+                "file": "Classes/Elements of Software Construction/Elements of Software Construction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Trade and War in the Mediterranean and The Black Sea (1000-1350)"
+              "title": "Elements of Software Construction"
             }
           }
         ],
@@ -228,11 +228,10 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
-      "remotely-save:Remotely Save": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4bc93876345df19e",
+  "active": "91a5b9bc0d0c6b3b",
   "lastOpenFiles": [
     "Classes/The World Since 1400/World Trade 1000 - 1500 (The Economic Consequences of Genghis Khan)/World Trade 1000 - 1500 (The Economic Consequences of Genghis Khan).md",
     "Classes/The World Since 1400/World Trade 1000 - 1500 (The Economic Consequences of Genghis Khan)/Trade and War in the Mediterranean and The Black Sea (1000-1350).md",
