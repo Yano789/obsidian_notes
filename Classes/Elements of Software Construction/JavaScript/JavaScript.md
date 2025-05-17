@@ -101,6 +101,7 @@ function outerFunc() {
 }
 outerFunc();
 ```
+
 ## Function and Anonymous Function
 The syntax of a [[Function]]:
 ```javascript
@@ -134,3 +135,13 @@ Without *Function Name* and *Function Declaration*
 ```
 
 ## Basic Data Structures
+### String
+Initialising a String
+```javascript
+var myStr = "hello";
+```
+
+Accessing characters
+```javascript
+myStr[0];
+```
