@@ -1,6 +1,8 @@
 a language designed to run in the browser to handle user interaction with document components
 
 ## Simple Example
+
+This is an HTML document that contains a *script* element.
 ```html
 <!DOCTYPE html>
 <html>
@@ -17,7 +19,12 @@ a language designed to run in the browser to handle user interaction with docume
 </html>
 ```
 
-This is an HTML document that contains a *script* element. Inside *hello.js* is 
+Inside *hello.js* is:
+```javascript
+console.log("hello");
+```
+
+
 
 ## Variables
 2 ways to declare variables:
