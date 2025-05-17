@@ -71,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:review",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -92,8 +92,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "97bb361c1da07d35",
@@ -234,8 +233,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "5068220fa4308e47",
+  "active": "91a5b9bc0d0c6b3b",
   "lastOpenFiles": [
+    "Classes/Archive/Computer Structures/Stack and Procedures/Function.md",
+    "Classes/Elements of Software Construction/JavaScript/JavaScript.md",
+    "Classes/The World Since 1400/The World Since 1400.md",
+    "Classes/Elements of Software Construction/HTML (Hyper Text Markup Language)/HTML (Hyper Text Markup Language).md",
     "Classes/Elements of Software Construction/CSS (Cascading Style Sheets)/CSS (Cascading Style Sheets).md",
     "Personal Adventures/Linux on Mac.md",
     "Personal Adventures/Obsidian Sync Alternative.md",
@@ -244,7 +247,6 @@
     "Classes/The World Since 1400/World Trade 1000 - 1500 (The Economic Consequences of Genghis Khan)/Trade and War in the Mediterranean and The Black Sea (1000-1350).md",
     "Classes/The World Since 1400/World Trade 1000 - 1500 (The Economic Consequences of Genghis Khan)/World Trade 1000 - 1500 (The Economic Consequences of Genghis Khan)-2.webp",
     "Classes/The World Since 1400/World Trade 1000 - 1500 (The Economic Consequences of Genghis Khan)",
-    "Classes/The World Since 1400/The World Since 1400.md",
     "Classes/The World Since 1400/World Trade 1000 - 1500 (The Economic Consequences of Genghis Khan)/World Trade 1000 - 1500 (The Economic Consequences of Genghis Khan)-1.webp",
     "Classes/Database Systems/Database Systems.md",
     "Classes/Database Systems/Entity Relationship Model/Entity Relationship Model.md",
@@ -260,8 +262,6 @@
     "Classes/Computer System Engineering/Computer System Engineering.md",
     "conflict-files-obsidian-git.md",
     "Blue Skies and Sunshine.md",
-    "Classes/Elements of Software Construction/HTML (Hyper Text Markup Language)/HTML (Hyper Text Markup Language).md",
-    "Classes/Elements of Software Construction/JavaScript/JavaScript.md",
     "Classes/Elements of Software Construction/JavaScript/JavaScript-1.webp",
     "Classes/Elements of Software Construction/JavaScript",
     "Classes/Elements of Software Construction/HTML (Hyper Text Markup Language)/HTML-1.webp",
@@ -279,7 +279,6 @@
     "Classes/Computer System Engineering/Operating System (OS)/The Computer System/The Computer System.md",
     "Classes/Computer System Engineering/Operating System (OS)/Booting/Booting.md",
     "Classes/Computer System Engineering/Operating System (OS)/Booting",
-    "Classes/Computer System Engineering/Operating System (OS)/User Program.md",
     "Classes/Computer System Engineering/Operating System (OS)/The Computer System",
     "Classes/Computer System Engineering/Operating System (OS)"
   ]

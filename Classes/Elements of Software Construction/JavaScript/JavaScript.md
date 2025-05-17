@@ -1,9 +1,9 @@
 ---
 tags:
   - review
+aliases:
+  - JS
 ---
-
-
 a language designed to run in the browser to handle user interaction with document components
 
 ## Simple Example
@@ -80,7 +80,35 @@ document.addEventListener("DOMContentLoaded", run);
 2. **let** - block/*local* scope *in a block ONLY*
 3. **const** - declares *constant*
 
-![[JavaScript-1.webp]]
+```javascript
+var varA = "varA"; // Global Scope
+let letA = "letA"; // Global Scope
 
+function globalAccess() {
+  console.log(varA); // Accessible anywhere
+  console.log(letA); // Accessible anywhere
+}
+globalAccess();
+
+function outerFunc() {
+  if (1 < 2) {
+    // Curly bracket defines a block
+    var varB = "varB"; // Function Scope
+    let letB = "letB"; // Block Scope
+  }
+  console.log(varB); // varB is accessible
+  console.log(letB); // Error, letB is NOT accessible
+}
+outerFunc();
+```
 ## Function and Anonymous Function
-**Function**:
+The syntax of a [[Function]]:
+```javascript
+function functionName(parameters) {
+  // function body
+  return output;
+}
+
+// Invoke function
+functionName(args);
+```
