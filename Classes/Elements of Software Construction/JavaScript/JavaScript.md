@@ -9,3 +9,4 @@ a language designed to run in the browser to handle user interaction with docume
 ![[JavaScript-1.webp]]
 
 ## Function and Anonymous Function
+**Function**:
