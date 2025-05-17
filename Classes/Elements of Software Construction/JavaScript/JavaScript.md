@@ -136,6 +136,7 @@ Without *Function Name* and *Function Declaration*
 
 ## Basic Data Structures
 ### String
+
 Initialising a String
 ```javascript
 var myStr = "hello";
