@@ -137,13 +137,30 @@ Without *Function Name* and *Function Declaration*
 ## Basic Data Structures
 ### String
 
-Initialising a String
+**Initialising a String**
 ```javascript
 var myStr = "hello";
 ```
 
-Accessing characters
+**Accessing characters**
 ```javascript
-myStr[0];
+myStr[0]; // returns first characters
+myStr[myStr.length - 1]; // returns last character
+var newStr = myStr + " 123"; // returns hello 123
+myStr.concat(" 123"); //produces the same thing (hello 123)
+```
+
+Embed a *String* into a **Template String**
+```javascript
+var newStr = `${myStr} 123`; // we use `` instead of "" to make multiline
+```
+
+*Note: we DONT use "" so that we can make the strings multi line*
+
+**Splitting a String**
+```javascript
+var myStrs = newStr.split(" "); //splits into an array: ["hello", "123"]
+var myChars = newStr.split (""); // ["h","e","l", ...]
+var notSplitted = newStr.split(); // return ["hello 123"]
 ```
 
