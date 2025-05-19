@@ -12,6 +12,3 @@ autorefresh: 5
 2. [[Computer System Engineering]]
 3. [[Database Systems]]
 4. [[The World Since 1400]] 
-
-
-Hello
