@@ -188,12 +188,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Classes/Elements of Software Construction/JavaScript/JavaScript.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of JavaScript"
             }
           }
         ],
@@ -234,10 +235,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "5a562f0c3744c873",
+  "active": "91a5b9bc0d0c6b3b",
   "lastOpenFiles": [
-    "Classes/Elements of Software Construction/JavaScript/JavaScript.md",
     "Classes/Elements of Software Construction/Elements of Software Construction.md",
+    "Classes/Elements of Software Construction/JavaScript/JavaScript.md",
     "Classes/Computer System Engineering/The Computer System/Operating System (OS)/Kernel.md",
     "Classes/Database Systems/Database Systems.md",
     "Personal Adventures/Linux on Mac.md",

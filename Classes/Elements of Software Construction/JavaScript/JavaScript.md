@@ -212,3 +212,82 @@ myArr.concat(["d"]); // Array["a","b","c","d"]
 myArr.join(","); // 'a,b,c'
 ```
 
+**Push and Pop**
+```javascript
+myArr.push("d");
+myArr; // Array["a,"b","c","d"]
+
+myArr.pop();
+myArr; // Array["a","b","c"]
+```
+
+**Unshift (insert element at the beginning)**
+```javascript
+myArr.unshift("d");
+myArr; // Array["d","a","b","c"]
+```
+
+*Note: Unshift can insert more than one element* $\rightarrow$ `myArr.unshift(e1, e2, ...)` 
+
+**Splice (Specific Insert/Delete)**
+```javascript
+myArr.splice(1,0,"z"); // (index to insert at, how many elements to remove after index, element)
+myArr; // Array["a","z","b","c"]
+
+myArr.splice(1,1);
+myArr; // Array["a","b","c"]
+```
+
+### Object (Dictionary)
+```javascript
+var myObj = { apple: 100, orange: 50 };
+myObj["apple"]; // 100
+
+myObj["durian"] = 200;
+myObj; // { 'apple': 100, 'orange': 50, 'durian': 200 }
+
+myObj[1] = 1000; // using integers as keys
+myObj[1]; // 1000
+```
+
+**Dot Operator (Access Values Another Way)**
+```javascript
+myObj.apple; // 100
+```
+
+*Note: You cannot use the dot operator on INTEGER KEYS*
+
+**Delete (Remove Key)**
+```javascript
+delete myObj[1];
+myObj; // { 'apple': 100, 'orange': 50, 'durian': 200 }
+```
+
+**Object.keys and Object.entries**
+```javascript
+Object.keys(myObj); // ['apple', 'orange', 'durian', 1]
+Object.entries(myObj); // [['apple', 100], ['orange', 50], ['durian', 200], [1, 1000]]
+```
+
+## Control Flow Statements
+
+### if-else
+```javascript
+var apple_count = null;
+if ("apple" in myObj) {
+  apple_count = myObj.apple;
+} else {
+  apple_count = 0;
+}
+```
+
+### for
+```javascript
+var sum = 0;
+var kvs = Object.entries(myObj);
+for (let i = 0; i < kvs.length; i++) {
+  sum = sum + kvs[i][1];
+}
+sum; // 350
+```
+
