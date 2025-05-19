@@ -291,9 +291,29 @@ for (let i = 0; i < kvs.length; i++) {
 sum; // 350
 ```
 
-**for-in**
+**for-in and for-of**
 ```javascript
-for (let i in kvs) {
+for (let i in kvs) { // goes through indeces of kvs
   sum = sum + kvs[i][1];
 }
+
+for (let kv of kvs) { // goes through elemnts in kvs
+  sum = sum + kv[1];
+}
+```
+
+### while
+```javascript
+var i = 0;
+while (i < kvs.length) {
+  sum = sum + kvs[i][1];
+  i++;
+}
+```
+
+### forEach and map
+```javascript
+kvs.forEach(function (kv) { // apply function (kv) 
+  sum = sum + kv[1];
+});
 ```
