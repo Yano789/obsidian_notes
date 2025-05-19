@@ -166,13 +166,49 @@ var notSplitted = newStr.split(); // return ["hello 123"]
 
 **Extracting Sub-string**
 ```javascript
-myStr.substring(1,3); // "he" (starting index, ending index excluded)
-myStr.substr(1,2); // "he" (starting index, length of the substring)
-myStr.slice(1,3); // "he" works the same as substring but can also be used to access characters if only one argument (myStr.slice(2)==myStr[2])
+myStr.substring(1,3); // "el" (starting index, ending index excluded)
+myStr.substr(1,2); // "el" (starting index, length of the substring)
+myStr.slice(1,3); // "el" works the same as substring but can also be used to access characters if only one argument (myStr.slice(2)==myStr[2])
 ```
 
 `.slice()` can also accept negative integers
 
 ```javascript
-myStr.slice(-3); // "abc"
+myStr.slice(-3); // "llo"
+myStr.slide(-3,-1); // "ll"
 ```
+
+### Array
+**Initialising an Array**
+```javascript
+var myArr = ["a","b","c"];
+```
+
+**Access Element in Array**
+```javascript
+myArr[0]; // "a"
+```
+
+**Slicing Array**
+```javascript
+myArr.slice(1,3); // Array["b","c"]
+```
+
+**Reverse**
+```javascript
+myArr.reverse(); 
+myArr; // Array["c","b","a"]
+```
+
+**Concat** 
+```javascript
+myArr.concat(["d"]); // Array["a","b","c","d"]
+```
+
+*Note: (+) does not concat* $\rightarrow$ `myArr + ["d"]; // 'a,b,cd`'
+
+**Joining and Array**
+```javascript
+myArr.join(","); // 'a,b,c'
+```
+
