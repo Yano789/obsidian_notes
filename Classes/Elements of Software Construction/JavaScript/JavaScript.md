@@ -313,7 +313,12 @@ while (i < kvs.length) {
 
 ### forEach and map
 ```javascript
-kvs.forEach(function (kv) { // apply function (kv) 
+kvs.forEach(function (kv) { // for each kv we will add the sum + kv[1];
   sum = sum + kv[1];
 });
+
+var kvs2 = kvs.map(function (kv) { // maps the function to each element
+  return [kv[0].toUpperCase(), kv[1]];
+});
+kvs2; // [['APPLE', 100], ['ORANGE', 50], ['DURIAN', 200]]
 ```
