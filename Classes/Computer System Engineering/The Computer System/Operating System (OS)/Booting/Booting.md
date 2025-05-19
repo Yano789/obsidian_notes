@@ -7,7 +7,7 @@ Initially loads the **Firmware (BIOS)**, and eventually the [[Operating System (
 
 1. Prepare Ready-to-go devices to be used by the [[Operating System (OS)]] 
 2. Loads other programs, which will load more complex programs
-3. Loads the [[Classes/Computer System Engineering/Operating System (OS)/Kernel|Kernel]] from the disk
+3. Loads the [[Classes/Computer System Engineering/The Computer System/Operating System (OS)/Kernel|Kernel]] from the disk
 4. Initialize in *kernel mode*, after setting up everything the [[Operating System (OS)]] is loaded and switched to *user mode*  
 
 ## The Booting Paradox

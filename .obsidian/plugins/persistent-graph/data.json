@@ -2,1423 +2,1478 @@
   "nodePositions": [
     {
       "id": "Blue Skies and Sunshine.md",
-      "x": 2411.1982421875,
-      "y": 124.52371978759766
+      "x": 1683.294677734375,
+      "y": 288.32977294921875
     },
     {
       "id": "Classes/Archive/Algorithms/Algorithms.md",
-      "x": -737.7179565429688,
-      "y": -817.8859252929688
+      "x": -615.7886352539062,
+      "y": -753.1592407226562
     },
     {
       "id": "Classes/Archive/Algorithms/Dynamic Programming/Bottom-Up Approach.md",
-      "x": 173.76283264160156,
-      "y": -368.7574768066406
+      "x": -9.244790077209473,
+      "y": -375.06500244140625
     },
     {
       "id": "Dependency Order",
-      "x": 551.5907592773438,
-      "y": -339.1610107421875
+      "x": 234.63832092285156,
+      "y": -320.2212829589844
     },
     {
       "id": "Classes/Archive/Algorithms/Dynamic Programming/Dynamic Programming (DP).md",
-      "x": -139.0217742919922,
-      "y": 42.246402740478516
+      "x": -80.58828735351562,
+      "y": -137.3114471435547
     },
     {
       "id": "Classes/Archive/Algorithms/Dynamic Programming/Memoization.md",
-      "x": -451.720703125,
-      "y": 404.1014099121094
+      "x": -259.4039306640625,
+      "y": -4.285934925079346
     },
     {
       "id": "Classes/Archive/Algorithms/Dynamic Programming/Optimal Substructure.md",
-      "x": -423.9256896972656,
-      "y": -224.40963745117188
+      "x": -219.7349853515625,
+      "y": -416.03240966796875
     },
     {
       "id": "Classes/Archive/Algorithms/Dynamic Programming/Space Complexity.md",
-      "x": -795.5206298828125,
-      "y": -139.29103088378906
+      "x": -625.2327880859375,
+      "y": -429.7375793457031
     },
     {
       "id": "Classes/Archive/Algorithms/Dynamic Programming/Tabulation.md",
-      "x": -542.3869018554688,
-      "y": -458.41094970703125
+      "x": -384.8495178222656,
+      "y": -412.6660461425781
     },
     {
       "id": "Classes/Archive/Algorithms/Dynamic Programming/Time Complexity vs Space Complexity.md",
-      "x": -1105.37548828125,
-      "y": 122.90465545654297
+      "x": -666.529052734375,
+      "y": -113.58451843261719
     },
     {
       "id": "Classes/Archive/Algorithms/Dynamic Programming/Time Complexity.md",
-      "x": -1681.0009765625,
-      "y": 59.69430923461914
+      "x": -1135.5858154296875,
+      "y": -152.08551025390625
     },
     {
       "id": "Classes/Archive/Algorithms/Dynamic Programming/Top-down Approach.md",
-      "x": -600.892333984375,
-      "y": 10.308128356933594
+      "x": -243.09500122070312,
+      "y": -246.10641479492188
     },
     {
       "id": "Classes/Archive/Algorithms/Graphs/Adjacency List.md",
-      "x": -96.57957458496094,
-      "y": -953.2979736328125
+      "x": -295.62799072265625,
+      "y": -894.283203125
     },
     {
       "id": "Classes/Archive/Algorithms/Graphs/Adjacency Matrix.md",
-      "x": -437.1574401855469,
-      "y": -1089.17529296875
+      "x": -562.8731689453125,
+      "y": -1090.51904296875
     },
     {
       "id": "Classes/Archive/Algorithms/Graphs/Bellman-Ford Algorithm.md",
-      "x": -2204.588623046875,
-      "y": 603.9622192382812
+      "x": -1520.7357177734375,
+      "y": 221.84616088867188
     },
     {
       "id": "Classes/Archive/Algorithms/Graphs/Breadth-First-Search (BFS).md",
-      "x": -954.0482788085938,
-      "y": -1942.5604248046875
+      "x": -333.91265869140625,
+      "y": -1786.72509765625
     },
     {
       "id": "Classes/Archive/Algorithms/Graphs/Clique.md",
-      "x": -1715.9031982421875,
-      "y": -1647.6402587890625
+      "x": -1235.7998046875,
+      "y": -1358.6881103515625
     },
     {
       "id": "Classes/Archive/Algorithms/Graphs/Connected Graph.md",
-      "x": -742.9739990234375,
-      "y": -2316.633056640625
+      "x": -657.1064453125,
+      "y": -1633.531494140625
     },
     {
       "id": "Connectedness",
-      "x": -1148.774658203125,
-      "y": -2434.563720703125
+      "x": -838.6547241210938,
+      "y": -1749.47119140625
     },
     {
       "id": "Classes/Archive/Algorithms/Graphs/Cycle.md",
-      "x": -168.91827392578125,
-      "y": -2009.06982421875
+      "x": -291.7802734375,
+      "y": -1360.616455078125
     },
     {
       "id": "Acyclic Graph",
-      "x": 129.49859619140625,
-      "y": -2536.339599609375
+      "x": -42.86357498168945,
+      "y": -1704.7945556640625
     },
     {
       "id": "Classes/Archive/Algorithms/Graphs/Depth-First Search (DFS).md",
-      "x": 226.45127868652344,
-      "y": -1585.654052734375
+      "x": 440.21331787109375,
+      "y": -1642.7353515625
     },
     {
       "id": "Tree Edges",
-      "x": 356.3536682128906,
-      "y": -1864.5047607421875
+      "x": 624.0253295898438,
+      "y": -1862.0252685546875
     },
     {
       "id": "Back Edges",
-      "x": 508.8678283691406,
-      "y": -1528.396484375
+      "x": 483.1451721191406,
+      "y": -1851.5648193359375
     },
     {
       "id": "Forward Edges",
-      "x": 608.34423828125,
-      "y": -1810.8387451171875
+      "x": 604.2763061523438,
+      "y": -1724.2724609375
     },
     {
       "id": "Cross Edges",
-      "x": 575.2340087890625,
-      "y": -2075.083740234375
+      "x": 755.6041870117188,
+      "y": -1782.105712890625
     },
     {
       "id": "Classes/Archive/Algorithms/Graphs/Dijkstra's Algorithm.md",
-      "x": -1914.316162109375,
-      "y": 831.6219482421875
+      "x": -1345.13330078125,
+      "y": 342.6708068847656
     },
     {
       "id": "Classes/Archive/Algorithms/Graphs/Directed Acyclic Graph (DAG).md",
-      "x": -135.005615234375,
-      "y": -1697.621337890625
+      "x": -198.22581481933594,
+      "y": -1236.9163818359375
     },
     {
       "id": "Classes/Archive/Algorithms/Graphs/Directed Graph.md",
-      "x": 85.12141418457031,
-      "y": -1895.210205078125
+      "x": 37.195228576660156,
+      "y": -1540.574462890625
     },
     {
       "id": "Classes/Archive/Algorithms/Graphs/Disjoint Graph.md",
-      "x": -748.0518798828125,
-      "y": -1604.17578125
+      "x": -672.5899658203125,
+      "y": -1292.83447265625
     },
     {
       "id": "Classes/Archive/Algorithms/Graphs/Forest Graph.md",
-      "x": -499.7001037597656,
-      "y": -1350.0986328125
+      "x": -540.9194946289062,
+      "y": -945.5380859375
     },
     {
       "id": "Classes/Archive/Algorithms/Graphs/Graph Searching.md",
-      "x": -244.27430725097656,
-      "y": -1465.876708984375
+      "x": -133.4919891357422,
+      "y": -1436.843017578125
     },
     {
       "id": "Classes/Archive/Algorithms/Graphs/Graph.md",
-      "x": -460.4250183105469,
-      "y": -1692.8717041015625
+      "x": -446.83367919921875,
+      "y": -1298.0203857421875
     },
     {
       "id": "Classes/Archive/Algorithms/Graphs/Incidence List.md",
-      "x": 878.4234619140625,
-      "y": -2169.2001953125
+      "x": 227.20901489257812,
+      "y": -1125.914794921875
     },
     {
       "id": "Classes/Archive/Algorithms/Graphs/Incidence Matrix.md",
-      "x": 70.55885314941406,
-      "y": -2204.47705078125
+      "x": 23.097867965698242,
+      "y": -1353.8909912109375
     },
     {
       "id": "Classes/Archive/Algorithms/Graphs/Incidence.md",
-      "x": 594.383056640625,
-      "y": -2377.682373046875
+      "x": 215.557861328125,
+      "y": -1272.45751953125
     },
     {
       "id": "Classes/Archive/Algorithms/Graphs/Independent Set.md",
-      "x": -1437.5072021484375,
-      "y": -1642.10546875
+      "x": -1046.839111328125,
+      "y": -1362.9576416015625
     },
     {
       "id": "Classes/Archive/Algorithms/Graphs/Minimal Spanning Tree.md",
-      "x": -489.0649108886719,
-      "y": -2287.12646484375
+      "x": -506.1893310546875,
+      "y": -1540.3046875
     },
     {
       "id": "Classes/Archive/Algorithms/Graphs/Path.md",
-      "x": -251.9800567626953,
-      "y": -776.5010986328125
+      "x": -544.4838256835938,
+      "y": -619.5433349609375
     },
     {
       "id": "Classes/Archive/Algorithms/Graphs/Predecessor Subgraph.md",
-      "x": -66.21521759033203,
-      "y": -1246.218994140625
+      "x": -0.6204624176025391,
+      "y": -1164.4417724609375
     },
     {
       "id": "Classes/Archive/Algorithms/Graphs/Relaxation of Edges.md",
-      "x": -1674.29638671875,
-      "y": 444.0758056640625
+      "x": -1195.302978515625,
+      "y": 18.333288192749023
     },
     {
       "id": "Classes/Archive/Algorithms/Graphs/Rooted Tree.md",
-      "x": -437.7552185058594,
-      "y": -1999.173583984375
+      "x": -333.57696533203125,
+      "y": -1516.0791015625
     },
     {
       "id": "Classes/Archive/Algorithms/Graphs/Shortest Path Problem.md",
-      "x": -1927.8468017578125,
-      "y": 523.4696044921875
+      "x": -1322.8212890625,
+      "y": 105.6981430053711
     },
     {
       "id": "Classes/Archive/Algorithms/Graphs/Topological Sorting.md",
-      "x": 240.10153198242188,
-      "y": -1320.27783203125
+      "x": 349.9903564453125,
+      "y": -1429.7061767578125
     },
     {
       "id": "Classes/Archive/Algorithms/Graphs/Tree Graph.md",
-      "x": -193.92092895507812,
-      "y": -2322.195556640625
+      "x": -234.8363800048828,
+      "y": -1652.7830810546875
     },
     {
       "id": "Classes/Archive/Algorithms/Graphs/Triangle Inequality.md",
-      "x": -1417.899658203125,
-      "y": -62.82048034667969
+      "x": -943.412353515625,
+      "y": -200.9093017578125
     },
     {
       "id": "Classes/Archive/Algorithms/Graphs/Undirected Graph.md",
-      "x": -1033.154052734375,
-      "y": -1593.5772705078125
+      "x": -692.4667358398438,
+      "y": -1446.836181640625
     },
     {
       "id": "Classes/Archive/Algorithms/Graphs/Vertex Cover.md",
-      "x": -1065.5513916015625,
-      "y": -1267.1903076171875
+      "x": -805.7823486328125,
+      "y": -1114.66357421875
     },
     {
       "id": "Classes/Archive/Algorithms/Graphs/Weight Function.md",
-      "x": -482.5989685058594,
-      "y": -755.4924926757812
+      "x": -438.8643798828125,
+      "y": -711.52587890625
     },
     {
       "id": "Classes/Archive/Algorithms/Graphs/k - Colorings of Graph.md",
-      "x": -1278.8367919921875,
-      "y": -1173.1312255859375
+      "x": -954.0881958007812,
+      "y": -1075.9354248046875
     },
     {
       "id": "Classes/Archive/Algorithms/Hashing/AVL Tree.md",
-      "x": 474.1810302734375,
-      "y": -1101.26123046875
+      "x": -17.77859878540039,
+      "y": -775.6705932617188
     },
     {
       "id": "Classes/Archive/Algorithms/Hashing/Direct Addressing.md",
-      "x": 1439.853271484375,
-      "y": -82.43541717529297
+      "x": 891.1343383789062,
+      "y": -157.0439453125
     },
     {
       "id": "Classes/Archive/Algorithms/Hashing/Hash Chaining.md",
-      "x": 1173.1260986328125,
-      "y": -1145.5311279296875
+      "x": 723.5317993164062,
+      "y": -818.0789184570312
     },
     {
       "id": "Classes/Archive/Algorithms/Hashing/Hash Collision.md",
-      "x": 1232.529052734375,
-      "y": -852.6539916992188
+      "x": 767.2077026367188,
+      "y": -431.29449462890625
     },
     {
       "id": "Classes/Archive/Algorithms/Hashing/Hash Function Division Method.md",
-      "x": 816.6453247070312,
-      "y": -516.2620239257812
+      "x": 631.5315551757812,
+      "y": -651.9188842773438
     },
     {
       "id": "Classes/Archive/Algorithms/Hashing/Hash Function Multiplication Method.md",
-      "x": 665.9122924804688,
-      "y": -792.4115600585938
+      "x": 755.3096923828125,
+      "y": -603.3317260742188
     },
     {
       "id": "Classes/Archive/Algorithms/Hashing/Hash Function.md",
-      "x": 1340.89404296875,
-      "y": -578.1582641601562
+      "x": 882.0311279296875,
+      "y": -712.549560546875
     },
     {
       "id": "Classes/Archive/Algorithms/Hashing/Hash Table.md",
-      "x": 1553.6348876953125,
-      "y": -912.75732421875
+      "x": 1071.1787109375,
+      "y": -807.2246704101562
     },
     {
       "id": "Python Dictionary",
-      "x": 1661.0831298828125,
-      "y": -683.721435546875
+      "x": 1298.0460205078125,
+      "y": -665.92236328125
     },
     {
       "id": "Classes/Archive/Algorithms/Hashing/Hash Value.md",
-      "x": 1044.9912109375,
-      "y": -592.0929565429688
+      "x": 516.2796020507812,
+      "y": -388.20001220703125
     },
     {
       "id": "Classes/Archive/Algorithms/Hashing/Hashing.md",
-      "x": 1492.8731689453125,
-      "y": -356.8588562011719
+      "x": 913.7266845703125,
+      "y": -356.8753356933594
     },
     {
       "id": "Classes/Archive/Algorithms/Hashing/Linked List.md",
-      "x": 1158.364501953125,
-      "y": -1754.3707275390625
+      "x": 303.17510986328125,
+      "y": -884.9722900390625
     },
     {
       "id": "Classes/Archive/Algorithms/Hashing/Open Addressing.md",
-      "x": 930.650390625,
-      "y": -1218.6243896484375
+      "x": 489.0272216796875,
+      "y": -516.2423706054688
     },
     {
       "id": "Probe Sequence",
-      "x": 1183.21435546875,
-      "y": -1451.151611328125
+      "x": 665.5503540039062,
+      "y": -316.5202941894531
     },
     {
       "id": "Classes/Archive/Algorithms/Hashing/Probing.md",
-      "x": 1570.4571533203125,
-      "y": -1379.4254150390625
+      "x": 934.1575927734375,
+      "y": -1135.7353515625
     },
     {
       "id": "Linear Probing",
-      "x": 1812.8016357421875,
-      "y": -1587.3477783203125
+      "x": 1130.8189697265625,
+      "y": -1354.009033203125
     },
     {
       "id": "Quadratic Probing",
-      "x": 1982.1412353515625,
-      "y": -1406.19287109375
+      "x": 1114.86767578125,
+      "y": -1214.6761474609375
     },
     {
       "id": "Double Hashing",
-      "x": 1976.8348388671875,
-      "y": -1811.1820068359375
+      "x": 1244.4583740234375,
+      "y": -1240.181884765625
     },
     {
       "id": "Classes/Archive/Algorithms/Types of Problems/Boolean Expression.md",
-      "x": -1156.45556640625,
-      "y": -481.302490234375
+      "x": -968.2407836914062,
+      "y": -375.008544921875
     },
     {
       "id": "Classes/Archive/Algorithms/Types of Problems/Boolean Satisfiability (SAT) Problem.md",
-      "x": -1429.0460205078125,
-      "y": -681.4775390625
+      "x": -1112.364013671875,
+      "y": -640.1289672851562
     },
     {
       "id": "Classes/Archive/Algorithms/Types of Problems/Boolean Variable.md",
-      "x": -964.3214721679688,
-      "y": -683.9589233398438
+      "x": -812.3282470703125,
+      "y": -553.158935546875
     },
     {
       "id": "Classes/Archive/Algorithms/Types of Problems/Certificate.md",
-      "x": -1714.9310302734375,
-      "y": -1236.770751953125
+      "x": -1209.45068359375,
+      "y": -964.7410278320312
     },
     {
       "id": "Classes/Archive/Algorithms/Types of Problems/Clause of Boolean Expression.md",
-      "x": -1094.4141845703125,
-      "y": -170.92840576171875
+      "x": -1110.156005859375,
+      "y": -358.1037902832031
     },
     {
       "id": "Classes/Archive/Algorithms/Types of Problems/Conjunction of Boolean Expression.md",
-      "x": -1170.0946044921875,
-      "y": -835.0718994140625
+      "x": -887.64306640625,
+      "y": -691.4150390625
     },
     {
       "id": "Classes/Archive/Algorithms/Types of Problems/Decision Problem.md",
-      "x": -2264.38623046875,
-      "y": -500.6100769042969
+      "x": -1683.87548828125,
+      "y": -501.7164306640625
     },
     {
       "id": "Classes/Archive/Algorithms/Types of Problems/Deterministic Algorithm.md",
-      "x": -1450.962890625,
-      "y": -971.3960571289062
+      "x": -1052.89501953125,
+      "y": -849.4619750976562
     },
     {
       "id": "Classes/Archive/Algorithms/Types of Problems/Disjunction of Boolean Expression.md",
-      "x": -1404.2291259765625,
-      "y": -333.74853515625
+      "x": -999.7598266601562,
+      "y": -525.2818603515625
     },
     {
       "id": "Classes/Archive/Algorithms/Types of Problems/Exponential Time (EXP).md",
-      "x": -1920.9620361328125,
-      "y": 154.994140625
+      "x": -1357.678466796875,
+      "y": -160.7524871826172
     },
     {
       "id": "Classes/Archive/Algorithms/Types of Problems/Fibonacci Number.md",
-      "x": -249.1932373046875,
-      "y": -448.9325256347656
+      "x": -281.8748474121094,
+      "y": -529.9078369140625
     },
     {
       "id": "Classes/Archive/Algorithms/Types of Problems/Independent Set Problem.md",
-      "x": -1947.4892578125,
-      "y": -1508.9166259765625
+      "x": -1326.504150390625,
+      "y": -1138.4678955078125
     },
     {
       "id": "Classes/Archive/Algorithms/Types of Problems/Intractable Problem.md",
-      "x": -2157.449462890625,
-      "y": -203.83853149414062
+      "x": -1581.7738037109375,
+      "y": -366.8731384277344
     },
     {
       "id": "Classes/Archive/Algorithms/Types of Problems/Literal Boolean Expression.md",
-      "x": -843.785888671875,
-      "y": -411.9557800292969
+      "x": -831.9468383789062,
+      "y": -390.76611328125
     },
     {
       "id": "Classes/Archive/Algorithms/Types of Problems/Longest Common Subsequence (LCS).md",
-      "x": 620.3799438476562,
-      "y": -75.47647857666016
+      "x": 421.9908142089844,
+      "y": -26.94395637512207
     },
     {
       "id": "Classes/Archive/Algorithms/Types of Problems/Matrix Chain Parenthesization Problem.md",
-      "x": -833.5991821289062,
-      "y": 253.10470581054688
+      "x": -353.01171875,
+      "y": 144.7115936279297
     },
     {
       "id": "Classes/Archive/Algorithms/Types of Problems/NP-complete.md",
-      "x": -1959.6153564453125,
-      "y": -999.259521484375
+      "x": -1380.3118896484375,
+      "y": -851.8019409179688
     },
     {
       "id": "Classes/Archive/Algorithms/Types of Problems/NP-hard.md",
-      "x": -2218.5458984375,
-      "y": -884.1497802734375
+      "x": -1552.546142578125,
+      "y": -870.68603515625
     },
     {
       "id": "Classes/Archive/Algorithms/Types of Problems/Non-deterministic Algorithms.md",
-      "x": -1970.1448974609375,
-      "y": -678.47119140625
+      "x": -1475.0745849609375,
+      "y": -684.4453735351562
     },
     {
       "id": "Classes/Archive/Algorithms/Types of Problems/Non-deterministic Polynomial Time (NP).md",
-      "x": -2514.729248046875,
-      "y": -814.4798583984375
+      "x": -1752.7200927734375,
+      "y": -829.6396484375
     },
     {
       "id": "Classes/Archive/Algorithms/Types of Problems/Optimization Problem.md",
-      "x": -1828.2489013671875,
-      "y": -210.28196716308594
+      "x": -1386.683349609375,
+      "y": -393.5746765136719
     },
     {
       "id": "Classes/Archive/Algorithms/Types of Problems/Polynomial Time (P).md",
-      "x": -2517.849365234375,
-      "y": -557.0729370117188
+      "x": -1780.9708251953125,
+      "y": -633.831298828125
     },
     {
       "id": "Classes/Archive/Algorithms/Types of Problems/Polynomial-time Reduction.md",
-      "x": -2307.05224609375,
-      "y": -1195.780517578125
+      "x": -1663.58837890625,
+      "y": -1003.5755004882812
     },
     {
       "id": "Classes/Archive/Algorithms/Types of Problems/Text Justification Problem.md",
-      "x": -1333.4263916015625,
-      "y": 606.7445068359375
+      "x": -888.3952026367188,
+      "y": 127.16947174072266
     },
     {
       "id": "Cost Function",
-      "x": -1343.2972412109375,
-      "y": 861.425048828125
+      "x": -977.3873291015625,
+      "y": 260.49505615234375
     },
     {
       "id": "Classes/Archive/Algorithms/Types of Problems/The Clique Problem.md",
-      "x": -2218.997314453125,
-      "y": -1516.429443359375
+      "x": -1531.458740234375,
+      "y": -1170.1805419921875
     },
     {
       "id": "Classes/Archive/Algorithms/Types of Problems/The Halting Problem.md",
-      "x": -2153.5078125,
-      "y": 46.040687561035156
+      "x": -1540.753662109375,
+      "y": -211.25616455078125
     },
     {
       "id": "Classes/Archive/Algorithms/Types of Problems/The Hamiltonian Path Problem.md",
-      "x": -807.3682861328125,
-      "y": -1316.8248291015625
+      "x": -430.3460388183594,
+      "y": -1049.5396728515625
     },
     {
       "id": "Classes/Archive/Algorithms/Types of Problems/The Knapsack Problem.md",
-      "x": -51.945518493652344,
-      "y": -215.0912628173828
+      "x": -423.9786682128906,
+      "y": -250.71070861816406
     },
     {
       "id": "Classes/Archive/Algorithms/Types of Problems/The Rod-cutting Problem.md",
-      "x": 33.606021881103516,
-      "y": -596.8508911132812
+      "x": -64.62291717529297,
+      "y": -523.4608764648438
     },
     {
       "id": "Classes/Archive/Algorithms/Types of Problems/The Traveling Salesman Problem.md",
-      "x": -1624.8741455078125,
-      "y": -520.2520751953125
+      "x": -1235.638916015625,
+      "y": -546.9332275390625
     },
     {
       "id": "Classes/Archive/Algorithms/Types of Problems/The Vertex Coloring Problem.md",
-      "x": -2044.0792236328125,
-      "y": -1255.972412109375
+      "x": -1396.5194091796875,
+      "y": -1017.1135864257812
     },
     {
       "id": "Classes/Archive/Algorithms/Types of Problems/The Vertex Cover Problem.md",
-      "x": -1449.3880615234375,
-      "y": -1379.869140625
+      "x": -1092.912841796875,
+      "y": -1187.625244140625
     },
     {
       "id": "Classes/Archive/Algorithms/Types of Problems/Tractable Problem.md",
-      "x": -1961.0780029296875,
-      "y": -420.68267822265625
+      "x": -1491.1573486328125,
+      "y": -522.7341918945312
     },
     {
       "id": "Classes/Archive/Algorithms/Types of Problems/Types of Problem.md",
-      "x": -2469.6806640625,
-      "y": -169.97386169433594
+      "x": -1781.55126953125,
+      "y": -290.6194152832031
     },
     {
       "id": "Classes/Archive/Algorithms/Types of Problems/Verification Algorithm.md",
-      "x": -1710.202880859375,
-      "y": -882.6461791992188
+      "x": -1254.4222412109375,
+      "y": -747.164306640625
     },
     {
       "id": "Classes/Archive/Computer Structures/Assembling and Compiling/Assembler.md",
-      "x": 1227.33837890625,
-      "y": 2093.474365234375
+      "x": 475.58575439453125,
+      "y": 1741.3505859375
     },
     {
       "id": "Classes/Archive/Computer Structures/Assembling and Compiling/Compiler.md",
-      "x": 750.8416748046875,
-      "y": 1573.118408203125
+      "x": 178.88619995117188,
+      "y": 1287.25244140625
     },
     {
       "id": "Classes/Archive/Computer Structures/Assembling and Compiling/Interpreter VS Compiler.md",
-      "x": 858.6868286132812,
-      "y": 1857.8216552734375
+      "x": 348.57208251953125,
+      "y": 1335.8828125
     },
     {
       "id": "Classes/Archive/Computer Structures/Assembling and Compiling/Interpreter.md",
-      "x": 551.4834594726562,
-      "y": 1824.7467041015625
+      "x": 227.61708068847656,
+      "y": 1432.13818359375
     },
     {
       "id": "Classes/Archive/Computer Structures/Assembling and Compiling/Language Abstraction.md",
-      "x": -21.325288772583008,
-      "y": 1808.1292724609375
+      "x": -119.59510040283203,
+      "y": 1474.2393798828125
     },
     {
       "id": "Classes/Archive/Computer Structures/Assembling and Compiling/Unified Syntax for Abstract State Machines (UASM).md",
-      "x": 1490.56201171875,
-      "y": 1919.3128662109375
+      "x": 590.251220703125,
+      "y": 1662.502197265625
     },
     {
       "id": "Classes/Archive/Computer Structures/Computer Structures.md",
-      "x": 159.74661254882812,
-      "y": 1607.288330078125
+      "x": -112.46775817871094,
+      "y": 1333.004150390625
     },
     {
       "id": "Classes/Archive/Computer Structures/Interrupts and Faults/Asynchronous Interrupt.md",
-      "x": 980.8292846679688,
-      "y": 2509.201171875
+      "x": 291.4237365722656,
+      "y": 1860.447265625
     },
     {
       "id": "Classes/Archive/Computer Structures/Interrupts and Faults/Exception.md",
-      "x": 128.66903686523438,
-      "y": 2311.737548828125
+      "x": -345.16656494140625,
+      "y": 1696.8721923828125
     },
     {
       "id": "Classes/Archive/Computer Structures/Interrupts and Faults/Fault.md",
-      "x": 309.4417419433594,
-      "y": 2164.21826171875
+      "x": -185.9687957763672,
+      "y": 1698.0657958984375
     },
     {
       "id": "Classes/Archive/Computer Structures/Interrupts and Faults/Hardware Interrupts.md",
-      "x": 590.568359375,
-      "y": 2088.38525390625
+      "x": 153.8507843017578,
+      "y": 1744.5057373046875
     },
     {
       "id": "Classes/Archive/Computer Structures/Interrupts and Faults/IRQ Signal.md",
-      "x": 744.28955078125,
-      "y": 2320.60791015625
+      "x": 263.6805114746094,
+      "y": 1626.880615234375
     },
     {
       "id": "Classes/Archive/Computer Structures/Interrupts and Faults/IRQ Unit.md",
-      "x": 952.0408935546875,
-      "y": 2160.44287109375
+      "x": 94.88796997070312,
+      "y": 1629.090576171875
     },
     {
       "id": "Classes/Archive/Computer Structures/Interrupts and Faults/Interrupt.md",
-      "x": 646.0441284179688,
-      "y": 2617.18505859375
+      "x": -48.21965026855469,
+      "y": 1826.6912841796875
     },
     {
       "id": "Classes/Archive/Computer Structures/Interrupts and Faults/Software Interrupt.md",
-      "x": 442.07757568359375,
-      "y": 2430.821044921875
+      "x": -254.61241149902344,
+      "y": 1827.0045166015625
     },
     {
       "id": "Classes/Archive/Computer Structures/Interrupts and Faults/Synchronous Interrupt.md",
-      "x": 284.0722351074219,
-      "y": 2696.368896484375
+      "x": -383.3982238769531,
+      "y": 1944.015625
     },
     {
       "id": "Classes/Archive/Computer Structures/Interrupts and Faults/System Call (Trap).md",
-      "x": 48.726280212402344,
-      "y": 2553.273681640625
+      "x": -454.1151123046875,
+      "y": 1768.692138671875
     },
     {
       "id": "Classes/Archive/Computer Structures/Memory Hierarchy and Cache Design/Bit Line.md",
-      "x": 177.6646728515625,
-      "y": 1013.7388916015625
+      "x": -84.3431625366211,
+      "y": 888.890380859375
     },
     {
       "id": "Classes/Archive/Computer Structures/Memory Hierarchy and Cache Design/Cache Hit.md",
-      "x": 28.146469116210938,
-      "y": 1268.5484619140625
+      "x": -275.2532043457031,
+      "y": 1106.0323486328125
     },
     {
       "id": "Classes/Archive/Computer Structures/Memory Hierarchy and Cache Design/Cache Miss.md",
-      "x": -168.920166015625,
-      "y": 1448.806640625
+      "x": -247.06838989257812,
+      "y": 972.8619995117188
     },
     {
       "id": "Classes/Archive/Computer Structures/Memory Hierarchy and Cache Design/Direct Mapped (DM) Cache.md",
-      "x": 282.0304870605469,
-      "y": 775.8051147460938
+      "x": -18.11888885498047,
+      "y": 728.7343139648438
     },
     {
       "id": "Classes/Archive/Computer Structures/Memory Hierarchy and Cache Design/Dual Port.md",
-      "x": 839.1800537109375,
-      "y": 981.31884765625
+      "x": 386.8485412597656,
+      "y": 1093.011474609375
     },
     {
       "id": "Classes/Archive/Computer Structures/Memory Hierarchy and Cache Design/Dynamic Random-Access Memory (DRAM).md",
-      "x": -226.1666259765625,
-      "y": 1142.7657470703125
+      "x": -428.9738464355469,
+      "y": 962.6763305664062
     },
     {
       "id": "Classes/Archive/Computer Structures/Memory Hierarchy and Cache Design/Fully Associative (FA) Cache.md",
-      "x": -480.7591247558594,
-      "y": 1276.3466796875
+      "x": -512.1539916992188,
+      "y": 821.5811157226562
     },
     {
       "id": "Classes/Archive/Computer Structures/Memory Hierarchy and Cache Design/Locality of Reference.md",
-      "x": -333.63873291015625,
-      "y": 2183.155029296875
+      "x": -451.27484130859375,
+      "y": 1479.2698974609375
     },
     {
       "id": "Classes/Archive/Computer Structures/Memory Hierarchy and Cache Design/Memory Addressing.md",
-      "x": -258.13616943359375,
-      "y": 2444.150146484375
+      "x": 13.098421096801758,
+      "y": 1960.49169921875
     },
     {
       "id": "Decoding",
-      "x": -247.0182342529297,
-      "y": 2703.03466796875
+      "x": 150.33377075195312,
+      "y": 2092.6748046875
     },
     {
       "id": "Classes/Archive/Computer Structures/Memory Hierarchy and Cache Design/Memory Hierarchy.md",
-      "x": 1099.165771484375,
-      "y": 801.8198852539062
+      "x": 452.3700866699219,
+      "y": 819.2152099609375
     },
     {
       "id": "Classes/Archive/Computer Structures/Memory Hierarchy and Cache Design/Sense Amplifier.md",
-      "x": 532.5266723632812,
-      "y": 1031.188232421875
+      "x": 91.21095275878906,
+      "y": 991.738037109375
     },
     {
       "id": "Classes/Archive/Computer Structures/Memory Hierarchy and Cache Design/Single Port.md",
-      "x": 920.6830444335938,
-      "y": 1266.0384521484375
+      "x": 247.0013427734375,
+      "y": 1091.7620849609375
     },
     {
       "id": "Classes/Archive/Computer Structures/Memory Hierarchy and Cache Design/Spatial Locality.md",
-      "x": -272.7610168457031,
-      "y": 1831.944580078125
+      "x": -340.4566955566406,
+      "y": 1360.629638671875
     },
     {
       "id": "Classes/Archive/Computer Structures/Memory Hierarchy and Cache Design/Static Random Access Memory (SRAM).md",
-      "x": 594.5275268554688,
-      "y": 755.1983032226562
+      "x": 157.11453247070312,
+      "y": 752.5304565429688
     },
     {
       "id": "Classes/Archive/Computer Structures/Memory Hierarchy and Cache Design/Swap Space.md",
-      "x": -1130.1951904296875,
-      "y": 1358.62744140625
+      "x": -901.2510986328125,
+      "y": 952.5835571289062
     },
     {
       "id": "Classes/Archive/Computer Structures/Memory Hierarchy and Cache Design/Temporal Locality.md",
-      "x": -86.79037475585938,
-      "y": 2116.7314453125
+      "x": -303.5716857910156,
+      "y": 1510.9840087890625
     },
     {
       "id": "Classes/Archive/Computer Structures/Memory Hierarchy and Cache Design/The Cache Idea.md",
-      "x": -213.3951873779297,
-      "y": 856.4569091796875
+      "x": -275.65716552734375,
+      "y": 753.9517822265625
     },
     {
       "id": "Classes/Archive/Computer Structures/Memory Hierarchy and Cache Design/Volatile.md",
-      "x": 661.6917114257812,
-      "y": 1289.8795166015625
+      "x": 287.5709228515625,
+      "y": 959.4867553710938
     },
     {
       "id": "Classes/Archive/Computer Structures/Memory Hierarchy and Cache Design/Word Line.md",
-      "x": 320.375,
-      "y": 1269.349609375
+      "x": -91.78511810302734,
+      "y": 1024.172119140625
     },
     {
       "id": "Classes/Archive/Computer Structures/Stack and Procedures/Allocate.md",
-      "x": 1601.239990234375,
-      "y": 1537.58349609375
+      "x": 834.4110717773438,
+      "y": 1430.530517578125
     },
     {
       "id": "Classes/Archive/Computer Structures/Stack and Procedures/Base Pointer (BP) R27.md",
-      "x": 2295.348388671875,
-      "y": 1410.3349609375
+      "x": 1267.6927490234375,
+      "y": 1411.53955078125
     },
     {
       "id": "Classes/Archive/Computer Structures/Stack and Procedures/Deallocate.md",
-      "x": 1125.255859375,
-      "y": 1807.8394775390625
+      "x": 520.97900390625,
+      "y": 1466.6866455078125
     },
     {
       "id": "Classes/Archive/Computer Structures/Stack and Procedures/Function.md",
-      "x": 1285.92529296875,
-      "y": 1314.9913330078125
+      "x": 942.2471923828125,
+      "y": 1142.2869873046875
     },
     {
       "id": "Classes/Archive/Computer Structures/Stack and Procedures/Linkage Pointer (LP) R28.md",
-      "x": 2177.235107421875,
-      "y": 1211.27734375
+      "x": 1304.040283203125,
+      "y": 1260.6148681640625
     },
     {
       "id": "Classes/Archive/Computer Structures/Stack and Procedures/Pop.md",
-      "x": 1100.9207763671875,
-      "y": 1532.1153564453125
+      "x": 600.5786743164062,
+      "y": 1332.8145751953125
     },
     {
       "id": "Classes/Archive/Computer Structures/Stack and Procedures/Procedure Linkage Convention.md",
-      "x": 1831.1151123046875,
-      "y": 1237.1024169921875
+      "x": 1176.3255615234375,
+      "y": 1158.665283203125
     },
     {
       "id": "Classes/Archive/Computer Structures/Stack and Procedures/Procedure Linkage Problem.md",
-      "x": 1535.9761962890625,
-      "y": 1223.7645263671875
+      "x": 758.1782836914062,
+      "y": 1198.6070556640625
     },
     {
       "id": "Classes/Archive/Computer Structures/Stack and Procedures/Push.md",
-      "x": 1353.0479736328125,
-      "y": 1659.43359375
+      "x": 655.78515625,
+      "y": 1483.8568115234375
     },
     {
       "id": "Classes/Archive/Computer Structures/Stack and Procedures/Stack Implementation.md",
-      "x": 1817.4400634765625,
-      "y": 1713.1463623046875
+      "x": 1032.2161865234375,
+      "y": 1485.580810546875
     },
     {
       "id": "Classes/Archive/Computer Structures/Stack and Procedures/Stack Pointer (SP) R29.md",
-      "x": 1956.871826171875,
-      "y": 1464.698486328125
+      "x": 1125.0130615234375,
+      "y": 1331.7008056640625
     },
     {
       "id": "Classes/Archive/Computer Structures/Virtual Machine/Effective Interrupt Load.md",
-      "x": 436.96026611328125,
-      "y": 1563.2755126953125
+      "x": -39.445430755615234,
+      "y": 1234.693359375
     },
     {
       "id": "Classes/Archive/Computer Structures/Virtual Machine/Kernel.md",
-      "x": 1209.5255126953125,
-      "y": 1045.732177734375
+      "x": 557.7777709960938,
+      "y": 992.1911010742188
     },
     {
       "id": "Classes/Archive/Computer Structures/Virtual Machine/Scheduling and Multiple Interrupts.md",
-      "x": 229.99380493164062,
-      "y": 1873.7415771484375
+      "x": 12.61486530303955,
+      "y": 1415.698486328125
     },
     {
       "id": "Classes/Archive/Computer Structures/Virtual Memory/Demand Paging.md",
-      "x": -839.6254272460938,
-      "y": 1425.9239501953125
+      "x": -857.6484375,
+      "y": 1082.4361572265625
     },
     {
       "id": "Classes/Archive/Computer Structures/Virtual Memory/Dirty Bit (D).md",
-      "x": -822.9220581054688,
-      "y": 1882.168212890625
+      "x": -776.2823486328125,
+      "y": 1480.9290771484375
     },
     {
       "id": "Classes/Archive/Computer Structures/Virtual Memory/Least Recently Used Bit (LRU).md",
-      "x": -1540.2879638671875,
-      "y": 2179.54345703125
+      "x": -1142.0025634765625,
+      "y": 1378.3648681640625
     },
     {
       "id": "Classes/Archive/Computer Structures/Virtual Memory/Memory Management Unit (MMU).md",
-      "x": -1296.682861328125,
-      "y": 1849.466064453125
+      "x": -867.6670532226562,
+      "y": 1291.472900390625
     },
     {
       "id": "Classes/Archive/Computer Structures/Virtual Memory/Memory Paging.md",
-      "x": -719.9251098632812,
-      "y": 2357.2158203125
+      "x": -890.6154174804688,
+      "y": 1718.7373046875
     },
     {
       "id": "Classes/Archive/Computer Structures/Virtual Memory/Page Fault Exception.md",
-      "x": -533.7320556640625,
-      "y": 1533.3709716796875
+      "x": -662.7760620117188,
+      "y": 1134.249267578125
     },
     {
       "id": "Classes/Archive/Computer Structures/Virtual Memory/Page Offset (PO).md",
-      "x": -943.6995849609375,
-      "y": 2208.795166015625
+      "x": -765.3765869140625,
+      "y": 1642.86865234375
     },
     {
       "id": "Classes/Archive/Computer Structures/Virtual Memory/Page Table.md",
-      "x": -1699.8189697265625,
-      "y": 2005.500732421875
+      "x": -1280.6424560546875,
+      "y": 1422.6353759765625
     },
     {
       "id": "Classes/Archive/Computer Structures/Virtual Memory/Physical Address (PA).md",
-      "x": -540.6983642578125,
-      "y": 1781.1461181640625
+      "x": -574.1762084960938,
+      "y": 1254.037353515625
     },
     {
       "id": "Classes/Archive/Computer Structures/Virtual Memory/Physical Page Number (PPN).md",
-      "x": -1237.2388916015625,
-      "y": 2405.209228515625
+      "x": -1149.05859375,
+      "y": 1599.1929931640625
     },
     {
       "id": "Classes/Archive/Computer Structures/Virtual Memory/Process.md",
-      "x": 1623.43115234375,
-      "y": 916.3473510742188
+      "x": 799.2306518554688,
+      "y": 980.772705078125
     },
     {
       "id": "Classes/Archive/Computer Structures/Virtual Memory/Resident Bit (R).md",
-      "x": -1252.9000244140625,
-      "y": 2152.40771484375
+      "x": -1012.30712890625,
+      "y": 1534.6549072265625
     },
     {
       "id": "Classes/Archive/Computer Structures/Virtual Memory/Super Locality of Reference.md",
-      "x": -593.4353637695312,
-      "y": 2087.759521484375
+      "x": -626.9524536132812,
+      "y": 1449.953125
     },
     {
       "id": "Classes/Archive/Computer Structures/Virtual Memory/Translation Lookaside Buffer (TLB).md",
-      "x": -1553.6568603515625,
-      "y": 1788.935302734375
+      "x": -1182.3289794921875,
+      "y": 1200.8878173828125
     },
     {
       "id": "Classes/Archive/Computer Structures/Virtual Memory/Virtual Address (VA).md",
-      "x": -1381.167236328125,
-      "y": 1527.4471435546875
+      "x": -1098.311279296875,
+      "y": 1022.6607055664062
     },
     {
       "id": "Classes/Archive/Computer Structures/Virtual Memory/Virtual Memory.md",
-      "x": -982.6022338867188,
-      "y": 1632.0194091796875
+      "x": -976.4992065429688,
+      "y": 1218.0780029296875
     },
     {
       "id": "Classes/Archive/Computer Structures/Virtual Memory/Virtual Page Number (VPN).md",
-      "x": -1068.6580810546875,
-      "y": 1906.8389892578125
+      "x": -884.035400390625,
+      "y": 1425.037109375
     },
     {
       "id": "Classes/Computer System Engineering/Computer System Engineering.md",
-      "x": 2476.6923828125,
-      "y": 439.37646484375
+      "x": 1427.55908203125,
+      "y": 435.5895080566406
     },
     {
       "id": "Classes/Computer System Engineering/Operating System (OS)/Booting/Booting.md",
-      "x": 1936.5472412109375,
-      "y": 430.6465148925781
+      "x": 1183.3326416015625,
+      "y": 427.8156433105469
     },
     {
       "id": "Classes/Computer System Engineering/Operating System (OS)/Kernel.md",
-      "x": 1745.3504638671875,
-      "y": 641.8827514648438
+      "x": 916.3350219726562,
+      "y": 689.078857421875
     },
     {
       "id": "Classes/Computer System Engineering/Operating System (OS)/Operating System (OS).md",
-      "x": 2211.001953125,
-      "y": 457.5069274902344
+      "x": 1336.9200439453125,
+      "y": 755.4508666992188
     },
     {
       "id": "Classes/Computer System Engineering/Operating System (OS)/The Computer System/Device Controllers.md",
-      "x": 2331.546875,
-      "y": 935.262451171875
+      "x": 1280.066162109375,
+      "y": 553.929931640625
     },
     {
       "id": "Classes/Computer System Engineering/Operating System (OS)/The Computer System/The Computer System.md",
-      "x": 2616.68701171875,
-      "y": 659.575927734375
+      "x": 1456.7896728515625,
+      "y": 638.1350708007812
     },
     {
       "id": "Classes/Computer System Engineering/Operating System (OS)/User Program.md",
-      "x": 2133.860107421875,
-      "y": 735.5347900390625
+      "x": 1188.2034912109375,
+      "y": 731.7089233398438
+    },
+    {
+      "id": "Classes/Database Systems/DBMS (Database Management System).md",
+      "x": 1725.6275634765625,
+      "y": -24.365968704223633
+    },
+    {
+      "id": "Classes/Database Systems/Data Modelling/Data Modelling.md",
+      "x": 1554.3433837890625,
+      "y": -75.07023620605469
     },
     {
       "id": "Classes/Database Systems/Database Systems.md",
-      "x": 2247.4990234375,
-      "y": -45.17470169067383
+      "x": 1627.67919921875,
+      "y": 69.49034118652344
+    },
+    {
+      "id": "Classes/Database Systems/Entity Relationship Model/Entity Relationship Model.md",
+      "x": 1781.7840576171875,
+      "y": -321.6665344238281
     },
     {
       "id": "Classes/Elements of Software Construction/CSS (Cascading Style Sheets)/CSS (Cascading Style Sheets).md",
-      "x": 2236.9375,
-      "y": -637.4857177734375
+      "x": 1910.6036376953125,
+      "y": 633.3580932617188
     },
     {
       "id": "Classes/Elements of Software Construction/Elements of Software Construction.md",
-      "x": 2139.04931640625,
-      "y": -322.0611572265625
+      "x": 1745.165771484375,
+      "y": 527.260009765625
     },
     {
       "id": "Classes/Elements of Software Construction/HTML (Hyper Text Markup Language)/HTML (Hyper Text Markup Language).md",
-      "x": 2551.497802734375,
-      "y": -651.2003784179688
+      "x": 1789.385986328125,
+      "y": 751.1611328125
     },
     {
       "id": "Classes/Elements of Software Construction/JavaScript/JavaScript.md",
-      "x": 2412.732177734375,
-      "y": -366.412353515625
+      "x": 1564.0577392578125,
+      "y": 951.7877197265625
     },
     {
       "id": "Classes/The World Since 1400/The World Since 1400.md",
-      "x": 2626.303955078125,
-      "y": -46.22145462036133
+      "x": 1888.3392333984375,
+      "y": 196.04185485839844
+    },
+    {
+      "id": "Classes/The World Since 1400/World Trade 1000 - 1500 (The Economic Consequences of Genghis Khan)/Trade and War in the Mediterranean and The Black Sea (1000-1350).md",
+      "x": 2037.5882568359375,
+      "y": 154.7850341796875
+    },
+    {
+      "id": "Classes/The World Since 1400/World Trade 1000 - 1500 (The Economic Consequences of Genghis Khan)/World Trade 1000 - 1500 (The Economic Consequences of Genghis Khan).md",
+      "x": 1993.838134765625,
+      "y": -0.09544695913791656
+    },
+    {
+      "id": "1350-1500",
+      "x": 2036.68896484375,
+      "y": -135.39271545410156
     },
     {
       "id": "Personal Adventures/Linux on Mac.md",
-      "x": -2118.9970703125,
-      "y": 1657.9403076171875
+      "x": -1689.6201171875,
+      "y": 1118.08740234375
     },
     {
       "id": "Personal Adventures/Obsidian Sync Alternative.md",
-      "x": 2726.314697265625,
-      "y": 242.773193359375
+      "x": 1870.82861328125,
+      "y": -780.4862060546875
     },
     {
       "id": "Personal Adventures/Self-Improvement/How To Win Friends & Influence People.md",
-      "x": 2354.54296875,
-      "y": -1251.30322265625
+      "x": 1761.6541748046875,
+      "y": -968.4392700195312
     },
     {
       "id": "Personal Adventures/Self-Improvement/Self-Improvement.md",
-      "x": 2253.943115234375,
-      "y": -1550.8948974609375
+      "x": 1660.63720703125,
+      "y": -1199.6810302734375
     },
     {
       "id": "The Tia File.md",
-      "x": -2295.72509765625,
-      "y": 1451.5677490234375
+      "x": -1780.519775390625,
+      "y": 922.2116088867188
+    },
+    {
+      "id": "#review",
+      "x": 1623.0472412109375,
+      "y": 1082.7203369140625
     },
     {
       "id": "Classes/Archive/Algorithms/Photos/Cliques 2.webp",
-      "x": -1774.3355712890625,
-      "y": -2042.8236083984375
+      "x": -1328.7884521484375,
+      "y": -1553.2415771484375
     },
     {
       "id": "Classes/Archive/Algorithms/Photos/Cliques in a Graph-1.webp",
-      "x": -2000.267822265625,
-      "y": -1823.4669189453125
+      "x": -1429.1041259765625,
+      "y": -1437.4970703125
     },
     {
       "id": "Classes/Archive/Algorithms/Photos/Exponential Time-1.webp",
-      "x": -2231.826904296875,
-      "y": 335.908935546875
+      "x": -1558.34326171875,
+      "y": 11.303436279296875
     },
     {
       "id": "Classes/Archive/Algorithms/Photos/Independent Set.webp",
-      "x": -1560.242919921875,
-      "y": -1904.70166015625
+      "x": -1131.8016357421875,
+      "y": -1568.2835693359375
     },
     {
       "id": "Classes/Archive/Algorithms/Photos/Pasted image 20250402121713.webp",
-      "x": 1219.79345703125,
-      "y": -2060.023681640625
+      "x": 336.8734130859375,
+      "y": -748.1561889648438
     },
     {
       "id": "Classes/Archive/Algorithms/Photos/Pasted image 20250402122317.webp",
-      "x": 1424.29052734375,
-      "y": -1882.8623046875
+      "x": 477.8025207519531,
+      "y": -763.040771484375
     },
     {
       "id": "Classes/Archive/Algorithms/Photos/Pasted image 20250402122458.webp",
-      "x": 1485.8309326171875,
-      "y": -1660.5679931640625
+      "x": 610.342041015625,
+      "y": -983.67333984375
     },
     {
       "id": "Classes/Archive/Algorithms/Photos/Pasted image 20250402122737.webp",
-      "x": 1691.6435546875,
-      "y": -1939.2501220703125
+      "x": 453.0489196777344,
+      "y": -1007.1013793945312
     },
     {
       "id": "Classes/Archive/Algorithms/Photos/Pasted image 20250402124355.webp",
-      "x": 1575.9766845703125,
-      "y": 167.08912658691406
+      "x": 1026.4742431640625,
+      "y": 3.5109939575195312
     },
     {
       "id": "Classes/Archive/Algorithms/Photos/Pasted image 20250402124500.webp",
-      "x": 1797.554931640625,
-      "y": -225.2629852294922
+      "x": 1138.3399658203125,
+      "y": -191.14013671875
     },
     {
       "id": "Classes/Archive/Algorithms/Photos/Pasted image 20250402124547.webp",
-      "x": 1807.8326416015625,
-      "y": 34.89885711669922
+      "x": 1146.7130126953125,
+      "y": -60.08622741699219
     },
     {
       "id": "Classes/Archive/Algorithms/Photos/Pasted image 20250402130410.webp",
-      "x": 1779.4736328125,
-      "y": -1079.0567626953125
+      "x": 1242.8546142578125,
+      "y": -972.9405517578125
     },
     {
       "id": "Classes/Archive/Algorithms/Photos/Pasted image 20250403182814.webp",
-      "x": 1868.5511474609375,
-      "y": -540.7977905273438
+      "x": 1391.88623046875,
+      "y": -774.0892333984375
     },
     {
       "id": "Classes/Archive/Algorithms/Photos/Pasted image 20250403182912.webp",
-      "x": 2036.404541015625,
-      "y": -1120.026611328125
+      "x": 1251.7265625,
+      "y": -816.1761474609375
     },
     {
       "id": "Classes/Archive/Algorithms/Photos/Pasted image 20250403183015.webp",
-      "x": 1951.5911865234375,
-      "y": -828.2942504882812
+      "x": 1372.7750244140625,
+      "y": -928.0875244140625
     },
     {
       "id": "Classes/Archive/Algorithms/Photos/Pasted image 20250403191811.webp",
-      "x": 1150.9696044921875,
-      "y": -285.84814453125
+      "x": 958.8123168945312,
+      "y": -585.6318969726562
     },
     {
       "id": "Classes/Archive/Algorithms/Photos/Pasted image 20250403193507.webp",
-      "x": 912.5479125976562,
-      "y": -883.312255859375
+      "x": 1100.2197265625,
+      "y": -495.1264953613281
     },
     {
       "id": "Classes/Archive/Algorithms/Photos/Pasted image 20250403195420.webp",
-      "x": 1450.427001953125,
-      "y": -1164.8309326171875
+      "x": 938.3185424804688,
+      "y": -939.97265625
     },
     {
       "id": "Classes/Archive/Algorithms/Photos/Pasted image 20250404111117.webp",
-      "x": -1215.968994140625,
-      "y": -1801.7108154296875
+      "x": -852.1231689453125,
+      "y": -1597.378662109375
     },
     {
       "id": "Classes/Archive/Algorithms/Photos/Pasted image 20250404111310.webp",
-      "x": 322.6041564941406,
-      "y": -2273.482666015625
+      "x": 216.28744506835938,
+      "y": -1748.8250732421875
     },
     {
       "id": "Classes/Archive/Algorithms/Photos/Pasted image 20250404111704.webp",
-      "x": 164.16317749023438,
-      "y": -1031.927001953125
+      "x": -159.24269104003906,
+      "y": -989.3104858398438
     },
     {
       "id": "Classes/Archive/Algorithms/Photos/Pasted image 20250404111923.webp",
-      "x": 1242.713134765625,
-      "y": -2344.476806640625
+      "x": 421.8715515136719,
+      "y": -1202.550048828125
     },
     {
       "id": "Classes/Archive/Algorithms/Photos/Pasted image 20250404112358.webp",
-      "x": -732.9617309570312,
-      "y": -1070.983154296875
+      "x": -682.6177978515625,
+      "y": -1082.72021484375
     },
     {
       "id": "Classes/Archive/Algorithms/Photos/Pasted image 20250404113736.webp",
-      "x": -810.2747192382812,
-      "y": -2599.4560546875
+      "x": -727.9855346679688,
+      "y": -1865.5382080078125
     },
     {
       "id": "Classes/Archive/Algorithms/Photos/Pasted image 20250404113747.webp",
-      "x": -701.0361328125,
-      "y": -1914.8587646484375
+      "x": -848.0267333984375,
+      "y": -1413.6038818359375
     },
     {
       "id": "Classes/Archive/Algorithms/Photos/Pasted image 20250404155319.webp",
-      "x": -22.755020141601562,
-      "y": -2723.033203125
+      "x": 24.695390701293945,
+      "y": -1884.0849609375
     },
     {
       "id": "Classes/Archive/Algorithms/Photos/Pasted image 20250404155336.webp",
-      "x": -257.6913757324219,
-      "y": -2618.547607421875
+      "x": -123.20001220703125,
+      "y": -1842.9053955078125
     },
     {
       "id": "Classes/Archive/Algorithms/Photos/Pasted image 20250404155529.webp",
-      "x": -510.8497009277344,
-      "y": -2599.53076171875
+      "x": -540.7001342773438,
+      "y": -1784.643310546875
     },
     {
       "id": "Classes/Archive/Algorithms/Photos/Pasted image 20250404160418.webp",
-      "x": 821.2413330078125,
-      "y": -1560.591796875
+      "x": 701.3933715820312,
+      "y": -1620.4573974609375
     },
     {
       "id": "Classes/Archive/Algorithms/Photos/Pasted image 20250404160428.webp",
-      "x": -995.2987670898438,
-      "y": -2230.2744140625
+      "x": -141.83326721191406,
+      "y": -2022.7647705078125
     },
     {
       "id": "Classes/Archive/Algorithms/Photos/Pasted image 20250404160513.webp",
-      "x": -1253.8306884765625,
-      "y": -2093.339111328125
+      "x": -413.2161865234375,
+      "y": -1995.6802978515625
     },
     {
       "id": "Classes/Archive/Algorithms/Photos/Pasted image 20250404160714.webp",
-      "x": -1439.6878662109375,
-      "y": -2256.135009765625
+      "x": -278.7286376953125,
+      "y": -2000.4705810546875
     },
     {
       "id": "Classes/Archive/Algorithms/Photos/Pasted image 20250404161409.webp",
-      "x": 863.5242309570312,
-      "y": -1843.4300537109375
+      "x": 831.88232421875,
+      "y": -1650.538330078125
     },
     {
       "id": "Classes/Archive/Algorithms/Photos/Pasted image 20250404162150.webp",
-      "x": 668.3682861328125,
-      "y": -1287.1939697265625
+      "x": 698.739501953125,
+      "y": -1441.7476806640625
     },
     {
       "id": "Classes/Archive/Algorithms/Photos/Pasted image 20250405120123.webp",
-      "x": 756.916748046875,
-      "y": -2601.421630859375
+      "x": 509.1122131347656,
+      "y": -1378.875244140625
     },
     {
       "id": "Classes/Archive/Algorithms/Photos/Pasted image 20250405120200.webp",
-      "x": 1020.7265014648438,
-      "y": -2447.07421875
+      "x": 569.4531860351562,
+      "y": -1200.8243408203125
     },
     {
       "id": "Classes/Archive/Algorithms/Photos/Pasted image 20250405120523.webp",
-      "x": 419.5040283203125,
-      "y": -2635.694580078125
+      "x": 216.65359497070312,
+      "y": -1521.4822998046875
     },
     {
       "id": "Classes/Archive/Algorithms/Photos/Pasted image 20250405120945.webp",
-      "x": 285.7806701660156,
-      "y": -826.4275512695312
+      "x": -129.13514709472656,
+      "y": -862.7023315429688
     },
     {
       "id": "Classes/Archive/Algorithms/Photos/Pasted image 20250405123723.webp",
-      "x": -2544.58544921875,
-      "y": 653.3056640625
+      "x": -1756.6290283203125,
+      "y": 274.5405578613281
     },
     {
       "id": "Classes/Archive/Algorithms/Photos/Pasted image 20250405123752.webp",
-      "x": -2285.913818359375,
-      "y": 840.539794921875
+      "x": -1635.779052734375,
+      "y": 381.2974853515625
     },
     {
       "id": "Classes/Archive/Algorithms/Photos/Pasted image 20250405124452.webp",
-      "x": -1999.6807861328125,
-      "y": 1072.233642578125
+      "x": -1476.8887939453125,
+      "y": 497.5506286621094
     },
     {
       "id": "Classes/Archive/Algorithms/Photos/Pasted image 20250405124614.webp",
-      "x": -1954.866943359375,
-      "y": 1321.3509521484375
+      "x": -1346.8834228515625,
+      "y": 575.143798828125
     },
     {
       "id": "Classes/Archive/Algorithms/Photos/Pasted image 20250405124642.webp",
-      "x": -2515.04248046875,
-      "y": 957.5209350585938
+      "x": -1755.344970703125,
+      "y": 423.65838623046875
     },
     {
       "id": "Classes/Archive/Algorithms/Photos/Pasted image 20250405124835.webp",
-      "x": -2275.74072265625,
-      "y": 1157.027587890625
+      "x": -1505.2613525390625,
+      "y": 621.9114379882812
     },
     {
       "id": "Classes/Archive/Algorithms/Photos/Polynomial Time-1.webp",
-      "x": -2708.46044921875,
-      "y": -374.18695068359375
+      "x": -1965.55322265625,
+      "y": -559.5045776367188
     },
     {
       "id": "Classes/Archive/Algorithms/Photos/Polynomial-time Reductions-1.webp",
-      "x": -2528.10498046875,
-      "y": -1100.0133056640625
+      "x": -1837.44873046875,
+      "y": -1030.9676513671875
     },
     {
       "id": "Classes/Archive/Algorithms/Photos/Screenshot 2025-04-02 at 12.13.35 PM.webp",
-      "x": 1535.4029541015625,
-      "y": -2163.86572265625
+      "x": 485.9950866699219,
+      "y": -886.51611328125
     },
     {
       "id": "Classes/Archive/Algorithms/Photos/The Halting Problem-1.webp",
-      "x": -2462.955322265625,
-      "y": 223.88531494140625
+      "x": -1755.201171875,
+      "y": -19.49806785583496
     },
     {
       "id": "Classes/Archive/Algorithms/Photos/Types of Problems-1 2.webp",
-      "x": -2692.50830078125,
-      "y": 322.1003112792969
+      "x": -1950.58935546875,
+      "y": -89.48909759521484
     },
     {
       "id": "Classes/Archive/Algorithms/Photos/Types of Problems-1.webp",
-      "x": -2707.800048828125,
-      "y": -3.2396159172058105
+      "x": -1974.7779541015625,
+      "y": -228.85098266601562
     },
     {
       "id": "Classes/Archive/Algorithms/Photos/image-10.webp",
-      "x": 113.8330078125,
-      "y": 134.11703491210938
+      "x": 52.58864974975586,
+      "y": -56.91478729248047
     },
     {
       "id": "Classes/Archive/Algorithms/Photos/image-11.webp",
-      "x": -178.77110290527344,
-      "y": 359.2685852050781
+      "x": 108.22021484375,
+      "y": 113.5136947631836
     },
     {
       "id": "Classes/Archive/Algorithms/Photos/image-13.webp",
-      "x": 1173.1502685546875,
-      "y": 49.8692741394043
+      "x": 507.9029235839844,
+      "y": 153.37008666992188
     },
     {
       "id": "Classes/Archive/Algorithms/Photos/image-19.webp",
-      "x": 1003.4761962890625,
-      "y": 211.2314910888672
+      "x": 643.30224609375,
+      "y": 181.067626953125
     },
     {
       "id": "Classes/Archive/Algorithms/Photos/image-2.webp",
-      "x": 90.20856475830078,
-      "y": 428.2132873535156
+      "x": 190.65255737304688,
+      "y": 1.8138490915298462
     },
     {
       "id": "Classes/Archive/Algorithms/Photos/image-3.webp",
-      "x": 307.81494140625,
-      "y": -115.86689758300781
+      "x": -446.2896728515625,
+      "y": -80.69456481933594
     },
     {
       "id": "Classes/Archive/Algorithms/Photos/image-4.webp",
-      "x": -1167.012939453125,
-      "y": 1037.5
+      "x": -819.580322265625,
+      "y": 310.5673522949219
     },
     {
       "id": "Classes/Archive/Algorithms/Photos/image-5.webp",
-      "x": -1424.9066162109375,
-      "y": 243.66001892089844
+      "x": -763.9570922851562,
+      "y": 6.66925048828125
     },
     {
       "id": "Classes/Archive/Algorithms/Photos/image-7.webp",
-      "x": -960.324462890625,
-      "y": 531.848876953125
+      "x": -492.2638854980469,
+      "y": 295.7576599121094
     },
     {
       "id": "Classes/Archive/Algorithms/Photos/image.webp",
-      "x": -368.2569885253906,
-      "y": 150.2402801513672
+      "x": -30.647830963134766,
+      "y": 55.79946517944336
     },
     {
       "id": "Classes/Archive/Algorithms/Photos/image0.webp",
-      "x": 364.5478820800781,
-      "y": 203.74729919433594
+      "x": 149.47776794433594,
+      "y": -143.42213439941406
     },
     {
       "id": "Classes/Archive/Algorithms/Photos/image1.webp",
-      "x": 422.1671447753906,
-      "y": -572.4583740234375
+      "x": 151.0117645263672,
+      "y": -523.3243408203125
     },
     {
       "id": "Classes/Archive/Algorithms/Photos/image10.webp",
-      "x": -1447.24169921875,
-      "y": 1177.860107421875
+      "x": -909.61376953125,
+      "y": 421.81610107421875
     },
     {
       "id": "Classes/Archive/Algorithms/Photos/image11.webp",
-      "x": -953.4780883789062,
-      "y": 819.0768432617188
+      "x": -385.60675048828125,
+      "y": 368.4534606933594
     },
     {
       "id": "Classes/Archive/Algorithms/Photos/image12.webp",
-      "x": 710.4811401367188,
-      "y": 157.8611602783203
+      "x": 609.3912963867188,
+      "y": -11.842325210571289
     },
     {
       "id": "Classes/Archive/Algorithms/Photos/image13.webp",
-      "x": 905.7471923828125,
-      "y": -121.1546401977539
+      "x": 724.6429443359375,
+      "y": 72.26630401611328
     },
     {
       "id": "Classes/Archive/Algorithms/Photos/image3.webp",
-      "x": -1659.4112548828125,
-      "y": 1054.862548828125
+      "x": -1049.0677490234375,
+      "y": 415.7965087890625
     },
     {
       "id": "Classes/Archive/Algorithms/Photos/image4.webp",
-      "x": -1207.3717041015625,
-      "y": 375.4898681640625
+      "x": -645.5401611328125,
+      "y": 82.6252212524414
     },
     {
       "id": "Classes/Archive/Algorithms/Photos/image6.webp",
-      "x": -650.6585693359375,
-      "y": 543.4385986328125
+      "x": -270.19952392578125,
+      "y": 304.3814697265625
     },
     {
       "id": "Classes/Archive/Algorithms/Photos/image8.webp",
-      "x": -702.6185913085938,
-      "y": 780.5721435546875
+      "x": -146.4169158935547,
+      "y": 270.44439697265625
     },
     {
       "id": "Classes/Archive/Algorithms/Photos/image9.webp",
-      "x": -1598.8309326171875,
-      "y": 767.9935302734375
+      "x": -1104.2391357421875,
+      "y": 273.2928466796875
     },
     {
       "id": "Classes/Archive/Computer Structures/Photos/Assembler-2.webp",
-      "x": 1567.5574951171875,
-      "y": 2194.926025390625
+      "x": 692.8634643554688,
+      "y": 1868.09375
     },
     {
       "id": "Classes/Archive/Computer Structures/Photos/Asynchronous Interrupt-1.webp",
-      "x": 1281.95166015625,
-      "y": 2405.94287109375
+      "x": 449.6107177734375,
+      "y": 1991.3804931640625
     },
     {
       "id": "Classes/Archive/Computer Structures/Photos/Fully Associative (FA) Cache-1.webp",
-      "x": -775.2742919921875,
-      "y": 1166.303466796875
+      "x": -706.5228881835938,
+      "y": 738.4234619140625
     },
     {
       "id": "Classes/Archive/Computer Structures/Photos/Pasted image 20250401161105.webp",
-      "x": 2122.341064453125,
-      "y": 1702.791259765625
+      "x": 1187.044921875,
+      "y": 1579.150390625
     },
     {
       "id": "Classes/Archive/Computer Structures/Photos/Pasted image 20250401171822.webp",
-      "x": 1228.44384765625,
-      "y": 515.605224609375
+      "x": 582.4083862304688,
+      "y": 623.9542846679688
     },
     {
       "id": "Classes/Archive/Computer Structures/Photos/Pasted image 20250401172509.webp",
-      "x": 723.9572143554688,
-      "y": 468.64178466796875
+      "x": 277.2679748535156,
+      "y": 556.5889282226562
     },
     {
       "id": "Classes/Archive/Computer Structures/Photos/Pasted image 20250401173136.webp",
-      "x": 949.5109252929688,
-      "y": 572.71337890625
+      "x": 356.6719055175781,
+      "y": 646.5603637695312
     },
     {
       "id": "Classes/Archive/Computer Structures/Photos/Pasted image 20250401173632.webp",
-      "x": -462.5127258300781,
-      "y": 978.5620727539062
+      "x": -614.7274780273438,
+      "y": 923.3162841796875
     },
     {
       "id": "Classes/Archive/Computer Structures/Photos/Pasted image 20250401175235.webp",
-      "x": -532.23291015625,
-      "y": 2609.672607421875
+      "x": -47.81829071044922,
+      "y": 2121.0595703125
     },
     {
       "id": "Classes/Archive/Computer Structures/Photos/Pasted image 20250401180900.webp",
-      "x": 1412.054931640625,
-      "y": 755.7615966796875
+      "x": 660.29296875,
+      "y": 784.5501708984375
     },
     {
       "id": "Classes/Archive/Computer Structures/Photos/Process-1.webp",
-      "x": 1933.0811767578125,
-      "y": 971.3043823242188
+      "x": 1027.5501708984375,
+      "y": 924.8351440429688
     },
     {
       "id": "Classes/Archive/Computer Structures/Photos/Screenshot 2025-04-01 at 5.20.56 PM.webp",
-      "x": 1457.203369140625,
-      "y": 455.5245666503906
+      "x": 711.8580322265625,
+      "y": 649.9473876953125
     },
     {
       "id": "Classes/Archive/Computer Structures/Photos/The Cache Idea-1.webp",
-      "x": -47.69853973388672,
-      "y": 696.7052612304688
+      "x": -325.3984680175781,
+      "y": 630.2767333984375
     },
     {
       "id": "Classes/Archive/Computer Structures/Photos/Translation Lookaside Buffer (TLB)-1.webp",
-      "x": -1919.7454833984375,
-      "y": 1823.029052734375
+      "x": -1394.26025390625,
+      "y": 1188.95068359375
     },
     {
       "id": "Classes/Archive/Computer Structures/Photos/Unified Syntax for Abstract State Machines (UASM)-1.webp",
-      "x": 1818.8291015625,
-      "y": 1993.7557373046875
+      "x": 844.9132080078125,
+      "y": 1743.44287109375
     },
     {
       "id": "Classes/Archive/Computer Structures/Photos/Virtual Address-1.webp",
-      "x": -1705.319580078125,
-      "y": 1517.1552734375
+      "x": -1303.70458984375,
+      "y": 974.525390625
     },
     {
       "id": "Classes/Archive/Computer Structures/Photos/image.webp",
-      "x": 422.6207275390625,
-      "y": 503.2135925292969
+      "x": 63.59552764892578,
+      "y": 561.75830078125
     },
     {
       "id": "Classes/Archive/Computer Structures/Photos/image2.webp",
-      "x": -883.5391845703125,
-      "y": 2575.838134765625
+      "x": -961.4721069335938,
+      "y": 1856.90087890625
     },
     {
       "id": "Classes/Computer System Engineering/Operating System (OS)/Booting/Booting-1.webp",
-      "x": 2071.82763671875,
-      "y": 197.06521606445312
+      "x": 1260.6151123046875,
+      "y": 283.5394287109375
     },
     {
       "id": "Classes/Computer System Engineering/Operating System (OS)/The Computer System/The Computer System-1.webp",
-      "x": 2579.3720703125,
-      "y": 924.1607666015625
+      "x": 1579.6072998046875,
+      "y": 685.302978515625
+    },
+    {
+      "id": "Classes/Database Systems/Data Modelling/Data Modelling-1.png",
+      "x": -1932.658203125,
+      "y": 713.96728515625
+    },
+    {
+      "id": "Classes/Database Systems/Data Modelling/Data Modelling-1.webp",
+      "x": 1561.5225830078125,
+      "y": -210.72584533691406
+    },
+    {
+      "id": "Classes/Database Systems/Entity Relationship Model/Entity Relationship Model-1.webp",
+      "x": 1697.507080078125,
+      "y": -452.4252014160156
+    },
+    {
+      "id": "Classes/Database Systems/Entity Relationship Model/Entity Relationship Model-2.webp",
+      "x": 1923.4761962890625,
+      "y": -366.9707336425781
+    },
+    {
+      "id": "Classes/Database Systems/Entity Relationship Model/Entity Relationship Model-3.webp",
+      "x": 1844.583984375,
+      "y": -500.63916015625
     },
     {
       "id": "Classes/Elements of Software Construction/CSS (Cascading Style Sheets)/CSS-1.webp",
-      "x": 2302.634765625,
-      "y": -938.4301147460938
+      "x": 1985.3048095703125,
+      "y": 523.582275390625
     },
     {
       "id": "Classes/Elements of Software Construction/HTML (Hyper Text Markup Language)/HTML-1.webp",
-      "x": 2569.884521484375,
-      "y": -902.3865356445312
-    },
-    {
-      "id": "Classes/Elements of Software Construction/JavaScript/JavaScript-1.webp",
-      "x": 2690.086669921875,
-      "y": -363.3354797363281
+      "x": 1843.1053466796875,
+      "y": 873.2122192382812
     }
   ],
   "automaticallyRestoreNodePositions": true
