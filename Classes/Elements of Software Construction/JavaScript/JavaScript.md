@@ -291,3 +291,9 @@ for (let i = 0; i < kvs.length; i++) {
 sum; // 350
 ```
 
+**for-in**
+```javascript
+for (let i in kvs) {
+  sum = sum + kvs[i][1];
+}
+```
