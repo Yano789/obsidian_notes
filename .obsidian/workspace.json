@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blue Skies and Sunshine.md",
+                "file": "Classes/Database Systems/Database Systems.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Blue Skies and Sunshine"
+              "title": "Database Systems"
             }
           }
         ],
@@ -186,13 +186,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blue Skies and Sunshine.md",
+                "file": "Classes/Database Systems/Database Systems.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Blue Skies and Sunshine"
+              "title": "Outline of Database Systems"
             }
           }
         ]
@@ -232,8 +232,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "91a5b9bc0d0c6b3b",
+  "active": "6fe38cbd59327d1f",
   "lastOpenFiles": [
+    "Personal Adventures/Linux on Mac.md",
+    "Blue Skies and Sunshine.md",
+    "Classes/Database Systems/Database Systems.md",
+    "Classes/Computer System Engineering/Computer System Engineering.md",
+    "Classes/Elements of Software Construction/JavaScript/JavaScript.md",
+    "Classes/Elements of Software Construction/Elements of Software Construction.md",
+    "Classes/Elements of Software Construction/HTML (Hyper Text Markup Language)/HTML (Hyper Text Markup Language).md",
+    "Classes/Elements of Software Construction/CSS (Cascading Style Sheets)/CSS (Cascading Style Sheets).md",
+    "Classes/Computer System Engineering/The Computer System/The Computer System.md",
     "Classes/Computer System Engineering/Operating System (OS)/Booting/Blue Skies and Sunshine-1.webp",
     "Classes/Computer System Engineering/Operating System (OS)/User Program.md",
     "Classes/Computer System Engineering/Operating System (OS)/Booting/Booting.md",
@@ -241,29 +250,20 @@
     "Classes/Computer System Engineering/Operating System (OS)/Booting",
     "Classes/Computer System Engineering/Operating System (OS)",
     "Classes/The World Since 1400/The World Since 1400.md",
-    "Blue Skies and Sunshine.md",
     "Classes/Computer System Engineering/The Computer System/Operating System (OS)/Kernel.md",
     "Classes/Computer System Engineering/The Computer System/User Program.md",
     "Classes/Computer System Engineering/The Computer System/Device Controllers.md",
     "Classes/Computer System Engineering/The Computer System/The Computer System-1.webp",
-    "Classes/Computer System Engineering/The Computer System/The Computer System.md",
     "Classes/Computer System Engineering/The Computer System/Operating System (OS)/Booting/Booting.md",
     "Classes/Computer System Engineering/The Computer System/Operating System (OS)/Operating System (OS).md",
-    "Classes/Computer System Engineering/Computer System Engineering.md",
     "The Tia File.md",
-    "Classes/Elements of Software Construction/JavaScript/JavaScript.md",
     "Classes/Archive/Computer Structures/Stack and Procedures/Function.md",
-    "Classes/Elements of Software Construction/HTML (Hyper Text Markup Language)/HTML (Hyper Text Markup Language).md",
-    "Classes/Elements of Software Construction/CSS (Cascading Style Sheets)/CSS (Cascading Style Sheets).md",
-    "Personal Adventures/Linux on Mac.md",
     "Personal Adventures/Obsidian Sync Alternative.md",
-    "Classes/Elements of Software Construction/Elements of Software Construction.md",
     "Classes/The World Since 1400/World Trade 1000 - 1500 (The Economic Consequences of Genghis Khan)/World Trade 1000 - 1500 (The Economic Consequences of Genghis Khan).md",
     "Classes/The World Since 1400/World Trade 1000 - 1500 (The Economic Consequences of Genghis Khan)/Trade and War in the Mediterranean and The Black Sea (1000-1350).md",
     "Classes/The World Since 1400/World Trade 1000 - 1500 (The Economic Consequences of Genghis Khan)/World Trade 1000 - 1500 (The Economic Consequences of Genghis Khan)-2.webp",
     "Classes/The World Since 1400/World Trade 1000 - 1500 (The Economic Consequences of Genghis Khan)",
     "Classes/The World Since 1400/World Trade 1000 - 1500 (The Economic Consequences of Genghis Khan)/World Trade 1000 - 1500 (The Economic Consequences of Genghis Khan)-1.webp",
-    "Classes/Database Systems/Database Systems.md",
     "Classes/Database Systems/Entity Relationship Model/Entity Relationship Model.md",
     "Classes/Database Systems/Entity Relationship Model/Entity Relationship Model-3.webp",
     "Classes/Database Systems/Entity Relationship Model/Entity Relationship Model-2.webp",
@@ -275,7 +275,6 @@
     "Classes/Database Systems/Data Modelling/Data Modelling-1.webp",
     "Classes/Elements of Software Construction/JavaScript/JavaScript-1.webp",
     "Classes/Elements of Software Construction/JavaScript",
-    "Classes/Elements of Software Construction/HTML (Hyper Text Markup Language)/HTML-1.webp",
     "Classes/Elements of Software Construction/HTML (Hyper Text Markup Language)",
     "Classes/Elements of Software Construction/CSS (Cascading Style Sheets)",
     "Personal Adventures/Self-Improvement",
