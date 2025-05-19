@@ -164,3 +164,15 @@ var myChars = newStr.split (""); // ["h","e","l", ...]
 var notSplitted = newStr.split(); // return ["hello 123"]
 ```
 
+**Extracting Sub-string**
+```javascript
+myStr.substring(1,3); // "he" (starting index, ending index excluded)
+myStr.substr(1,2); // "he" (starting index, length of the substring)
+myStr.slice(1,3); // "he" works the same as substring but can also be used to access characters if only one argument (myStr.slice(2)==myStr[2])
+```
+
+`.slice()` can also accept negative integers
+
+```javascript
+myStr.slice(-3); // "abc"
+```
