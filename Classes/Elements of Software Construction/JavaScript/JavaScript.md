@@ -322,3 +322,30 @@ var kvs2 = kvs.map(function (kv) { // maps the function to each element
 });
 kvs2; // [['APPLE', 100], ['ORANGE', 50], ['DURIAN', 200]]
 ```
+
+## Operators (Math Operations)
+symbols to compute results  such as $+,-,*,/,$ etc.
+
+### Binary
+
+**Type Mismatch**
+
+String and Number
+```javascript
+var a = "3";
+var b = 1;
+var c = a + b; // "31"
+```
+
+Binary Operator (isEquals?)
+```javascript
+var i = 100;
+
+var isEven2 = i % 2 == "0"; // true, string is converted to number
+var isEven3 = i % 2 == ""; // true, empty string is converted to 0
+var isEven4 = i % 2 === ""; // false, use triple equals to be coercion-free
+```
+
+### Unary
+`!` and `-` are unary operators because they only need one operand. Eg: !5 (not 5) and 5 $\rightarrow$ -5
+
