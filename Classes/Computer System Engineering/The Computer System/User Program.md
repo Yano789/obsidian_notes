@@ -1,1 +1,0 @@
-Individual [[Process|processes]] that run in a virtual machine

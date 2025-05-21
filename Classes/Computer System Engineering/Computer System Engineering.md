@@ -8,6 +8,5 @@
 
 		- [[Kernel]]
 		- [[User Program]]
-	- [[User Program]]
 
 %% End Waypoint %%
