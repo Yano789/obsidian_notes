@@ -24,17 +24,17 @@
             }
           },
           {
-            "id": "ee8963a3dc0b53c3",
+            "id": "d832aefd8989ad63",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Computer System Engineering/The Computer System/Device Controllers.md",
+                "file": "Classes/Database Systems/Entity Relationship Model/Entity Relationship Model.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Device Controllers"
+              "title": "Entity Relationship Model"
             }
           }
         ],
@@ -50,7 +50,7 @@
       {
         "id": "5774b83570472239",
         "type": "tabs",
-        "dimension": 65.35353535353535,
+        "dimension": 73.40425531914893,
         "children": [
           {
             "id": "6fe38cbd59327d1f",
@@ -95,12 +95,12 @@
         ]
       },
       {
-        "id": "4a1c9c6db1322eb8",
+        "id": "c8dffbc7e77e63cd",
         "type": "tabs",
-        "dimension": 34.64646464646465,
+        "dimension": 26.595744680851062,
         "children": [
           {
-            "id": "e6bc1b7a6085402e",
+            "id": "5a562f0c3744c873",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -113,7 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257
+    "width": 224.00404739379883
   },
   "right": {
     "id": "c2f043489300821b",
@@ -133,23 +133,6 @@
               "pinned": true,
               "icon": "lucide-file",
               "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "6cd3475eb05184ed",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Classes/Computer System Engineering/The Computer System/Operating System (OS)/Kernel.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "pinned": true,
-              "icon": "lucide-list",
-              "title": "Outline of Kernel"
             }
           },
           {
@@ -198,12 +181,26 @@
               "icon": "lucide-tags",
               "title": "Tags"
             }
+          },
+          {
+            "id": "6cd3475eb05184ed",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       },
       {
-        "id": "fa88fbda08e3ca12",
+        "id": "acaf89a8407d638e",
         "type": "tabs",
         "children": [
           {
@@ -222,7 +219,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284
+    "width": 287
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -233,56 +230,56 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "remotely-save:Remotely Save": false,
-      "omnisearch:Omnisearch": false
+      "remotely-save:Remotely Save": false
     }
   },
-  "active": "ee8963a3dc0b53c3",
+  "active": "5a562f0c3744c873",
   "lastOpenFiles": [
-    "Classes/Computer System Engineering/The Computer System/Operating System (OS)/Kernel.md",
-    "Classes/Computer System Engineering/The Computer System/Operating System (OS)/Dual Mode Operation (DMO)/Dual Mode Operation (DMO).md",
-    "Classes/Computer System Engineering/The Computer System/Operating System (OS)/Dual Mode Operation (DMO)",
-    "Classes/Computer System Engineering/The Computer System/Operating System (OS)/Dual Mode Operation (DMO)/Dual Mode Operation (DMO)-1.webp",
-    "Classes/Computer System Engineering/The Computer System/Operating System (OS)/Operating System (OS).md",
-    "Classes/Computer System Engineering/Computer System Engineering.md",
-    "Blue Skies and Sunshine.md",
-    "Classes/Computer System Engineering/The Computer System/Operating System (OS)/User Program.md",
-    "Classes/Computer System Engineering/The Computer System/The Computer System.md",
-    "Classes/Computer System Engineering/The Computer System/Operating System (OS)/Booting/Booting.md",
-    "Classes/Computer System Engineering/The Computer System/The Computer System-1.webp",
-    "Classes/Computer System Engineering/The Computer System/Device Controllers.md",
-    "Classes/Computer System Engineering/The Computer System/User Program.md",
-    "Classes/Computer System Engineering/The Computer System/Operating System (OS)/Booting/Booting-1.webp",
-    "conflict-files-obsidian-git.md",
-    "Classes/Database Systems/Data Modelling/Data Modelling-1.png",
-    "Classes/Database Systems/Data Modelling/Data Modelling-1.webp",
-    "Classes/Database Systems/Data Modelling/Data Modelling.md",
     "Classes/Database Systems/Data Modelling/Blue Skies and Sunshine-1.webp",
     "Classes/Database Systems/Data Modelling/Blue Skies and Sunshine-1.png",
-    "Classes/Database Systems/DBMS (Database Management System).md",
+    "Classes/Computer System Engineering/The Computer System/Operating System (OS)/User Program.md",
+    "Classes/Computer System Engineering/The Computer System/Operating System (OS)/Dual Mode Operation (DMO)/Dual Mode Operation (DMO).md",
+    "Classes/Computer System Engineering/The Computer System/Operating System (OS)/Dual Mode Operation (DMO)/Dual Mode Operation (DMO)-1.webp",
+    "Classes/Computer System Engineering/The Computer System/Operating System (OS)/Dual Mode Operation (DMO)",
     "Classes/Database Systems/Entity Relationship Model/Entity Relationship Model.md",
+    "Classes/Database Systems/Database Systems.md",
+    "Classes/Computer System Engineering/Computer System Engineering.md",
+    "Classes/Elements of Software Construction/CSS (Cascading Style Sheets)/CSS (Cascading Style Sheets).md",
+    "Classes/Elements of Software Construction/HTML (Hyper Text Markup Language)/HTML (Hyper Text Markup Language).md",
+    "Classes/Elements of Software Construction/Elements of Software Construction.md",
+    "Classes/Computer System Engineering/Operating System (OS)/Kernel.md",
+    "Blue Skies and Sunshine.md",
+    "Classes/Elements of Software Construction/JavaScript/JavaScript.md",
+    "Classes/Computer System Engineering/The Computer System/Operating System (OS)/Kernel.md",
+    "Personal Adventures/Linux on Mac.md",
+    "Classes/Computer System Engineering/The Computer System/The Computer System.md",
+    "Classes/Computer System Engineering/Operating System (OS)/Booting/Blue Skies and Sunshine-1.webp",
+    "Classes/Computer System Engineering/Operating System (OS)/User Program.md",
+    "Classes/Computer System Engineering/Operating System (OS)/Booting/Booting.md",
+    "Classes/Computer System Engineering/Operating System (OS)/Booting",
+    "Classes/Computer System Engineering/Operating System (OS)",
+    "Classes/The World Since 1400/The World Since 1400.md",
+    "Classes/Computer System Engineering/The Computer System/User Program.md",
+    "Classes/Computer System Engineering/The Computer System/Device Controllers.md",
+    "Classes/Computer System Engineering/The Computer System/The Computer System-1.webp",
+    "Classes/Computer System Engineering/The Computer System/Operating System (OS)/Booting/Booting.md",
+    "Classes/Computer System Engineering/The Computer System/Operating System (OS)/Operating System (OS).md",
+    "The Tia File.md",
+    "Classes/Archive/Computer Structures/Stack and Procedures/Function.md",
+    "Personal Adventures/Obsidian Sync Alternative.md",
+    "Classes/The World Since 1400/World Trade 1000 - 1500 (The Economic Consequences of Genghis Khan)/World Trade 1000 - 1500 (The Economic Consequences of Genghis Khan).md",
+    "Classes/The World Since 1400/World Trade 1000 - 1500 (The Economic Consequences of Genghis Khan)/World Trade 1000 - 1500 (The Economic Consequences of Genghis Khan)-2.webp",
+    "Classes/The World Since 1400/World Trade 1000 - 1500 (The Economic Consequences of Genghis Khan)",
+    "Classes/The World Since 1400/World Trade 1000 - 1500 (The Economic Consequences of Genghis Khan)/World Trade 1000 - 1500 (The Economic Consequences of Genghis Khan)-1.webp",
     "Classes/Database Systems/Entity Relationship Model/Entity Relationship Model-3.webp",
     "Classes/Database Systems/Entity Relationship Model/Entity Relationship Model-2.webp",
     "Classes/Database Systems/Entity Relationship Model/Entity Relationship Model-1.webp",
-    "Classes/The World Since 1400/World Trade 1000 - 1500 (The Economic Consequences of Genghis Khan)/Trade and War in the Mediterranean and The Black Sea (1000-1350).md",
-    "Classes/The World Since 1400/World Trade 1000 - 1500 (The Economic Consequences of Genghis Khan)/World Trade 1000 - 1500 (The Economic Consequences of Genghis Khan).md",
-    "Classes/Computer System Engineering/The Computer System/Operating System (OS)/Booting",
-    "Classes/Computer System Engineering/The Computer System/Operating System (OS)",
-    "Classes/Database Systems/Data Modelling",
     "Classes/Database Systems/Entity Relationship Model",
-    "Classes/Computer System Engineering/The Computer System",
-    "Classes/The World Since 1400/World Trade 1000 - 1500 (The Economic Consequences of Genghis Khan)",
-    "Classes/Elements of Software Construction/Elements of Software Construction.md",
-    "Classes/Database Systems/Database Systems.md",
-    "Classes/The World Since 1400/The World Since 1400.md",
-    "Classes/Elements of Software Construction/CSS (Cascading Style Sheets)/CSS (Cascading Style Sheets).md",
-    "Classes/Elements of Software Construction/HTML (Hyper Text Markup Language)/HTML (Hyper Text Markup Language).md",
-    "Classes/Elements of Software Construction/JavaScript/JavaScript.md",
+    "Classes/Database Systems/Data Modelling/Data Modelling-1.png",
+    "Classes/Database Systems/Data Modelling",
     "Classes/Elements of Software Construction/JavaScript",
     "Classes/Elements of Software Construction/HTML (Hyper Text Markup Language)",
     "Classes/Elements of Software Construction/CSS (Cascading Style Sheets)",
-    "Personal Adventures/Self-Improvement/How To Win Friends & Influence People.md",
-    "Personal Adventures/Linux on Mac.md",
-    "Personal Adventures/Obsidian Sync Alternative.md"
+    "Personal Adventures/Self-Improvement"
   ]
 }
