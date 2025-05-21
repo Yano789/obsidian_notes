@@ -3,7 +3,7 @@
 %% Begin Waypoint %%
 - **[[The Computer System]]**
 	- [[Device Controllers]]
-	- **Operating System (OS)**
+	- **[[Operating System (OS)]]**
 		- **[[Booting]]**
 
 		- [[Kernel]]
