@@ -12,13 +12,9 @@ The kernel is the **heart** of the [[Operating System (OS)]]
 ### Kernel Mode (PC31 MSB = 1)
 a specific privilege wherein the kernel has/can:
 1. **SECURITY**: Ultimate access and control to all hardware in the computer system (mouse, keyboard, display, network cards, disk, RAM, CPU, etc)
-
 2. **FILE MANAGEMENT**: Know (and lives in) the [[Physical Address (PA)]] space and manages the [[Memory Hierarchy]]
-
 3. **RESOURCE ALLOCATION**: Receive and manage I/O requests and interrupt other [[Classes/Computer System Engineering/The Computer System/Operating System (OS)/User Program|user programs]] 
-
 4. **PROCESS MANAGEMENT**: Manage other user program locations on the RAM, the [[Memory Management Unit (MMU)]], and schedule user program executions
-
 **Kernel Mode** 
 - needs *Kernel Code and Physical Address*
 - has access to hardware
@@ -30,17 +26,15 @@ a specific privilege wherein the kernel has/can:
 - needs [[Virtual Address (VA)]]
 - no access to the hardware
 
-## Types of Kernels
-### Reentrancy Kernel
-allows multiple processes to be executing in the kernel mode **at any given point of time** (*concurrent*)
-
-### Preemption
-allows the scheduler to **interrupt processes in Kernel Mode** to *execute the highest priority task* that are ready to run, thus enabling kernel functions to be interrupted as well
-
 ## Roles of the Kernel
 ### Resource Allocator and Coordinator: Interrupt Driven I/O Operations
-
 2 Types of Interrupts:
 1. [[System Call (Trap)|Software Interrupt]]
 2. [[Asynchronous Interrupt|Hardware Interrupt]] 
 
+### Process Management
+**Reentrancy Kernel**
+allows multiple processes to be executing in the kernel mode **at any given point of time** (*concurrent*)
+
+**Preemption Kernel**
+allows the scheduler to **interrupt processes in Kernel Mode** to *execute the highest priority task* that are ready to run, thus enabling kernel functions to be interrupted as well
