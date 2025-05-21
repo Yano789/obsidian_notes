@@ -232,12 +232,16 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "remotely-save:Remotely Save": false,
+      "omnisearch:Omnisearch": false
     }
   },
   "active": "a471f4fb08e781a6",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
+    "Classes/Archive/Computer Structures/Interrupts and Faults/Software Interrupt.md",
+    "Classes/Archive/Computer Structures/Interrupts and Faults/Hardware Interrupts.md",
     "Classes/Archive/Computer Structures/Interrupts and Faults/Asynchronous Interrupt.md",
     "Classes/Archive/Computer Structures/Interrupts and Faults/Asynchronous Interrupt-1.webp",
     "Classes/Archive/Computer Structures/Interrupts and Faults/Asynchronous Interrupt-2.webp",
@@ -257,9 +261,7 @@
     "Classes/Computer System Engineering/The Computer System/Operating System (OS)/Kernel.md",
     "Classes/Archive/Computer Structures/Interrupts and Faults/Synchronous Interrupt.md",
     "Classes/Archive/Computer Structures/Interrupts and Faults/Exception.md",
-    "Classes/Archive/Computer Structures/Interrupts and Faults/Software Interrupt.md",
     "Classes/Archive/Computer Structures/Interrupts and Faults/System Call (Trap).md",
-    "Classes/Archive/Computer Structures/Interrupts and Faults/Hardware Interrupts.md",
     "Classes/Archive/Computer Structures/Virtual Memory/Virtual Address (VA).md",
     "Classes/Computer System Engineering/The Computer System/Operating System (OS)/Operating System (OS).md",
     "Classes/Computer System Engineering/The Computer System/Operating System (OS)/Booting/Booting.md",
