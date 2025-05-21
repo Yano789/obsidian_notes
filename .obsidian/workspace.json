@@ -188,13 +188,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Classes/Database Systems/Entity Relationship Model/Entity Relationship Model.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Entity Relationship Model"
+              "title": "Outline"
             }
           }
         ],
@@ -230,13 +229,12 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
-      "remotely-save:Remotely Save": false,
-      "omnisearch:Omnisearch": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d832aefd8989ad63",
+  "active": "5a562f0c3744c873",
   "lastOpenFiles": [
+    "Classes/Database Systems/Entity Relationship Model/Entity Relationship Model.md",
     "Classes/Database Systems/Database Systems.md",
     "Classes/Computer System Engineering/Computer System Engineering.md",
     "Classes/Elements of Software Construction/CSS (Cascading Style Sheets)/CSS (Cascading Style Sheets).md",
@@ -267,7 +265,6 @@
     "Classes/The World Since 1400/World Trade 1000 - 1500 (The Economic Consequences of Genghis Khan)/World Trade 1000 - 1500 (The Economic Consequences of Genghis Khan)-2.webp",
     "Classes/The World Since 1400/World Trade 1000 - 1500 (The Economic Consequences of Genghis Khan)",
     "Classes/The World Since 1400/World Trade 1000 - 1500 (The Economic Consequences of Genghis Khan)/World Trade 1000 - 1500 (The Economic Consequences of Genghis Khan)-1.webp",
-    "Classes/Database Systems/Entity Relationship Model/Entity Relationship Model.md",
     "Classes/Database Systems/Entity Relationship Model/Entity Relationship Model-3.webp",
     "Classes/Database Systems/Entity Relationship Model/Entity Relationship Model-2.webp",
     "Classes/Database Systems/Entity Relationship Model/Entity Relationship Model-1.webp",
