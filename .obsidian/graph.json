@@ -5,7 +5,7 @@
   "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:Classes/Archive/Algorithms  ",
@@ -15,23 +15,37 @@
       }
     },
     {
-      "query": "path:Computer ",
+      "query": "path:\"Classes/Archive/Computer Structures\"  ",
       "color": {
         "a": 1,
         "rgb": 14725458
       }
+    },
+    {
+      "query": "path:\"Classes/Computer System Engineering\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:\"Classes/Elements of Software Construction\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": false,
-  "centerStrength": 0,
-  "repelStrength": 0,
-  "linkStrength": 1,
+  "nodeSizeMultiplier": 1.66471673254282,
+  "lineSizeMultiplier": 0.77528326745718,
+  "collapse-forces": true,
+  "centerStrength": 1,
+  "repelStrength": 18.2194616977226,
+  "linkStrength": 0.542179559570864,
   "linkDistance": 30,
-  "scale": 0.2265256714225735,
-  "close": false
+  "scale": 0.14280457673056215,
+  "close": true
 }
