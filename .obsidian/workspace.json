@@ -237,12 +237,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a471f4fb08e781a6",
+  "active": "d832aefd8989ad63",
   "lastOpenFiles": [
+    "Classes/Computer System Engineering/The Computer System/Device Controllers.md",
+    "Classes/Archive/Computer Structures/Interrupts and Faults/Asynchronous Interrupt.md",
+    "Classes/Computer System Engineering/The Computer System/The Computer System-1.webp",
     "conflict-files-obsidian-git.md",
     "Classes/Archive/Computer Structures/Interrupts and Faults/Software Interrupt.md",
     "Classes/Archive/Computer Structures/Interrupts and Faults/Hardware Interrupts.md",
-    "Classes/Archive/Computer Structures/Interrupts and Faults/Asynchronous Interrupt.md",
     "Classes/Archive/Computer Structures/Interrupts and Faults/Asynchronous Interrupt-1.webp",
     "Classes/Archive/Computer Structures/Interrupts and Faults/Asynchronous Interrupt-2.webp",
     "Classes/Archive/Computer Structures/Interrupts and Faults/Asynchronous Interrupt-1.png",
@@ -254,8 +256,6 @@
     "Classes/Computer System Engineering/Interrupts/Interrupt Vector.md",
     "Classes/Computer System Engineering/Interrupts/Hardware Interrupt Timeline.md",
     "Classes/Computer System Engineering/Interrupts",
-    "Classes/Computer System Engineering/The Computer System/The Computer System-1.webp",
-    "Classes/Computer System Engineering/The Computer System/Device Controllers.md",
     "Classes/Computer System Engineering/The Computer System/The Computer System.md",
     "Untitled",
     "Classes/Computer System Engineering/The Computer System/Operating System (OS)/Kernel.md",
@@ -274,7 +274,6 @@
     "Classes/Computer System Engineering/The Computer System/Operating System (OS)/Dual Mode Operation (DMO)",
     "Classes/Database Systems/Database Systems.md",
     "Classes/Elements of Software Construction/CSS (Cascading Style Sheets)/CSS (Cascading Style Sheets).md",
-    "Classes/Elements of Software Construction/HTML (Hyper Text Markup Language)/HTML (Hyper Text Markup Language).md",
     "Classes/Computer System Engineering/Operating System (OS)/Booting/Blue Skies and Sunshine-1.webp",
     "Classes/Computer System Engineering/Operating System (OS)/Booting",
     "Classes/Computer System Engineering/Operating System (OS)",
