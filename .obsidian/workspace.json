@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Computer System Engineering/Computer System Engineering.md",
+                "file": "Classes/Computer System Engineering/The Computer System/Operating System (OS)/Kernel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Computer System Engineering"
+              "title": "Kernel"
             }
           }
         ],
@@ -136,6 +136,23 @@
             }
           },
           {
+            "id": "6cd3475eb05184ed",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Classes/Computer System Engineering/The Computer System/Operating System (OS)/Kernel.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "pinned": true,
+              "icon": "lucide-list",
+              "title": "Outline of Kernel"
+            }
+          },
+          {
             "id": "2f49aed4c728e30e",
             "type": "leaf",
             "state": {
@@ -181,22 +198,9 @@
               "icon": "lucide-tags",
               "title": "Tags"
             }
-          },
-          {
-            "id": "6cd3475eb05184ed",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline"
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "fa88fbda08e3ca12",
@@ -233,8 +237,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "6a6d38808cff9936",
+  "active": "6cd3475eb05184ed",
   "lastOpenFiles": [
+    "Classes/Computer System Engineering/Computer System Engineering.md",
     "Classes/Computer System Engineering/The Computer System/Operating System (OS)/Kernel.md",
     "Classes/Computer System Engineering/The Computer System/Device Controllers.md",
     "Classes/Computer System Engineering/The Computer System/The Computer System-1.webp",
@@ -243,7 +248,6 @@
     "Classes/Computer System Engineering/The Computer System/Operating System (OS)/Booting/Booting.md",
     "Classes/Computer System Engineering/The Computer System/Operating System (OS)/User Program.md",
     "Classes/Computer System Engineering/The Computer System/Operating System (OS)/Booting/Booting-1.webp",
-    "Classes/Computer System Engineering/Computer System Engineering.md",
     "Classes/Computer System Engineering/The Computer System/Operating System (OS)/Operating System (OS).md",
     "Blue Skies and Sunshine.md",
     "conflict-files-obsidian-git.md",
