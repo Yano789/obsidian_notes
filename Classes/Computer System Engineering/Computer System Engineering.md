@@ -3,11 +3,18 @@
 %% Begin Waypoint %%
 - **Interrupts**
 	- [[Interrupt Vector]]
+	- [[IRQ and Service Delay]]
 	- [[Polled Interrupt System]]
 	- [[Raw Device Polling]]
 	- [[Vectored Interrupt System]]
 - **[[The Computer System]]**
 	- [[Device Controllers]]
 	- **[[Operating System (OS)]]**
+		- **[[Booting]]**
+
+		- **[[Dual Mode Operation (DMO)]]**
+
+		- [[Kernel]]
+		- [[User Program]]
 
 %% End Waypoint %%
