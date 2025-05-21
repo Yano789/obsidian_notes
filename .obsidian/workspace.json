@@ -36,9 +36,23 @@
               "icon": "lucide-file",
               "title": "Asynchronous Interrupt"
             }
+          },
+          {
+            "id": "14fa2bb93c2f6cf3",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -237,14 +251,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d832aefd8989ad63",
+  "active": "14fa2bb93c2f6cf3",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
+    "Classes/Archive/Computer Structures/Interrupts and Faults/Asynchronous Interrupt.md",
     "Classes/Archive/Computer Structures/Interrupts and Faults/Asynchronous Interrupt-1.webp",
     "Classes/Archive/Computer Structures/Interrupts and Faults/Asynchronous Interrupt-2.webp",
     "Classes/Archive/Computer Structures/Interrupts and Faults/Asynchronous Interrupt-1.png",
     "Classes/Computer System Engineering/Computer System Engineering.md",
-    "Classes/Archive/Computer Structures/Interrupts and Faults/Asynchronous Interrupt.md",
     "Classes/Archive/Computer Structures/Interrupts and Faults/Interrupt.md",
     "Classes/Computer System Engineering/Interrupts/Vectored Interrupt System.md",
     "Classes/Computer System Engineering/Interrupts/Raw Device Polling.md",
