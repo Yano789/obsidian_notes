@@ -24,17 +24,17 @@
             }
           },
           {
-            "id": "7bf4282cf7c1cf9d",
+            "id": "ff27a624ff3de6d4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Blue Skies and Sunshine.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Blue Skies and Sunshine"
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ],
@@ -233,8 +233,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "7bf4282cf7c1cf9d",
+  "active": "ff27a624ff3de6d4",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Blue Skies and Sunshine.md",
+    "Classes/Database Systems/Data Modelling/Data Modelling-1.png",
+    "Classes/Database Systems/Data Modelling/Data Modelling-1.webp",
+    "Classes/Database Systems/Data Modelling/Data Modelling.md",
+    "Classes/Database Systems/Data Modelling/Blue Skies and Sunshine-1.webp",
+    "Classes/Database Systems/Data Modelling/Blue Skies and Sunshine-1.png",
+    "Classes/Database Systems/DBMS (Database Management System).md",
     "Classes/Computer System Engineering/The Computer System/User Program.md",
     "Classes/Computer System Engineering/The Computer System/Device Controllers.md",
     "Classes/Computer System Engineering/The Computer System/The Computer System.md",
@@ -260,26 +268,17 @@
     "Classes/Computer System Engineering/Computer System Engineering.md",
     "Classes/Database Systems/Database Systems.md",
     "Classes/The World Since 1400/The World Since 1400.md",
-    "Blue Skies and Sunshine.md",
     "Classes/Elements of Software Construction/CSS (Cascading Style Sheets)/CSS (Cascading Style Sheets).md",
     "Classes/Elements of Software Construction/HTML (Hyper Text Markup Language)/HTML (Hyper Text Markup Language).md",
     "Classes/Elements of Software Construction/JavaScript/JavaScript.md",
-    "Classes/Elements of Software Construction/JavaScript/JavaScript-1.webp",
     "Classes/Elements of Software Construction/JavaScript",
-    "Classes/Elements of Software Construction/HTML (Hyper Text Markup Language)/HTML-1.webp",
     "Classes/Elements of Software Construction/HTML (Hyper Text Markup Language)",
-    "Classes/Elements of Software Construction/CSS (Cascading Style Sheets)/CSS-1.webp",
     "Classes/Elements of Software Construction/CSS (Cascading Style Sheets)",
     "Personal Adventures/Self-Improvement/How To Win Friends & Influence People.md",
     "Personal Adventures/Linux on Mac.md",
     "Personal Adventures/Obsidian Sync Alternative.md",
     "Personal Adventures/Self-Improvement/Self-Improvement.md",
     "Personal Adventures/Self-Improvement",
-    "Classes/Computer System Engineering/Operating System (OS)/Kernel.md",
-    "Classes/Archive/Algorithms/Algorithms.md",
-    "Classes/Archive/Computer Structures/Computer Structures.md",
-    "Classes/Computer System Engineering/Operating System (OS)/Operating System (OS).md",
-    "Classes/Computer System Engineering/Operating System (OS)/The Computer System/Device Controllers.md",
-    "Classes/Computer System Engineering/Operating System (OS)/Booting/Booting-1.webp"
+    "Classes/Computer System Engineering/Operating System (OS)/Kernel.md"
   ]
 }

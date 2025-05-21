@@ -3,7 +3,7 @@ the process of starting up a computer (usually *hardware initiated*)
 ## Bootstrapping
 Initially loads the **Firmware (BIOS)**, and eventually the [[Operating System (OS)]] to the main memory to be executed by the CPU
 
-![[Blue Skies and Sunshine-1.webp]]
+![[Classes/Computer System Engineering/Operating System (OS)/Booting/Blue Skies and Sunshine-1.webp]]
 
 1. Prepare Ready-to-go devices to be used by the [[Operating System (OS)]] 
 2. Loads other programs, which will load more complex programs

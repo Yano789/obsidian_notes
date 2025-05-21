@@ -13,7 +13,7 @@
         "startupType": "disabled"
       },
       "calendar": {
-        "startupType": "long"
+        "startupType": "short"
       },
       "obsidian-contextual-typography": {
         "startupType": "disabled"
