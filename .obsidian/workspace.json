@@ -24,17 +24,17 @@
             }
           },
           {
-            "id": "ee8963a3dc0b53c3",
+            "id": "9c6c75c9c5b09c3d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Classes/Archive/Computer Structures/Interrupts and Faults/Asynchronous Interrupt.md",
-                "mode": "source",
-                "source": false
+                "aFile": "conflict-files-obsidian-git.md",
+                "bFile": "conflict-files-obsidian-git.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Asynchronous Interrupt"
+              "icon": "diff",
+              "title": "Diff: conflict-files-obsidian-git"
             }
           }
         ],
@@ -237,11 +237,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "ee8963a3dc0b53c3",
+  "active": "9c6c75c9c5b09c3d",
   "lastOpenFiles": [
-    "Classes/Archive/Computer Structures/Interrupts and Faults/Asynchronous Interrupt-1.webp",
-    "Classes/Archive/Computer Structures/Interrupts and Faults/Asynchronous Interrupt-2.webp",
+    "conflict-files-obsidian-git.md",
+    "Blue Skies and Sunshine.md",
     "Classes/Archive/Computer Structures/Interrupts and Faults/Asynchronous Interrupt.md",
+    "Classes/Archive/Computer Structures/Interrupts and Faults/Asynchronous Interrupt-2.webp",
+    "Classes/Archive/Computer Structures/Interrupts and Faults/Asynchronous Interrupt-1.png",
+    "Classes/Archive/Computer Structures/Interrupts and Faults/Asynchronous Interrupt-1.webp",
     "Classes/Archive/Computer Structures/Interrupts and Faults/Asynchronous Interrupt-1.webp",
     "Classes/Archive/Computer Structures/Interrupts and Faults/Asynchronous Interrupt-2.png",
     "Classes/Archive/Computer Structures/Interrupts and Faults/Interrupt.md",
@@ -257,19 +260,15 @@
     "Classes/Computer System Engineering/The Computer System/Operating System (OS)/Dual Mode Operation (DMO)/Dual Mode Operation (DMO)-1.webp",
     "Classes/Computer System Engineering/The Computer System/Operating System (OS)/Operating System (OS).md",
     "Classes/Computer System Engineering/Computer System Engineering.md",
-    "Blue Skies and Sunshine.md",
     "Classes/Computer System Engineering/The Computer System/Operating System (OS)/User Program.md",
     "Classes/Computer System Engineering/The Computer System/The Computer System.md",
     "Classes/Computer System Engineering/The Computer System/Operating System (OS)/Booting/Booting.md",
     "Classes/Computer System Engineering/The Computer System/The Computer System-1.webp",
     "Classes/Computer System Engineering/The Computer System/User Program.md",
     "Classes/Computer System Engineering/The Computer System/Operating System (OS)/Booting/Booting-1.webp",
-    "conflict-files-obsidian-git.md",
     "Classes/Database Systems/Data Modelling/Data Modelling-1.png",
     "Classes/Database Systems/Data Modelling/Data Modelling-1.webp",
     "Classes/Database Systems/Data Modelling/Data Modelling.md",
-    "Classes/Database Systems/Data Modelling/Blue Skies and Sunshine-1.webp",
-    "Classes/Database Systems/Data Modelling/Blue Skies and Sunshine-1.png",
     "Classes/Database Systems/DBMS (Database Management System).md",
     "Classes/Database Systems/Entity Relationship Model/Entity Relationship Model.md",
     "Classes/The World Since 1400/World Trade 1000 - 1500 (The Economic Consequences of Genghis Khan)/Trade and War in the Mediterranean and The Black Sea (1000-1350).md",

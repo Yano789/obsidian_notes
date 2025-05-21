@@ -2,7 +2,6 @@
 aliases:
   - Hardware Interrupt
 ---
-
 Mainly comes from the [[IRQ Signal]] and [[IRQ Unit]] in the Beta CPU
 
 ![[Classes/Archive/Computer Structures/Photos/Asynchronous Interrupt-1.webp]]
