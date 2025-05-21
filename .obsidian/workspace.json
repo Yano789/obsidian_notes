@@ -22,23 +22,8 @@
               "icon": "lucide-file",
               "title": "Blue Skies and Sunshine"
             }
-          },
-          {
-            "id": "ff27a624ff3de6d4",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -233,7 +218,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "ff27a624ff3de6d4",
+  "active": "a471f4fb08e781a6",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Blue Skies and Sunshine.md",
