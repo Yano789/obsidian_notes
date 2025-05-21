@@ -11,4 +11,4 @@ Initially loads the **Firmware (BIOS)**, and eventually the [[Operating System (
 4. Initialize in *kernel mode*, after setting up everything the [[Operating System (OS)]] is loaded and switched to *user mode*  
 
 ## The Booting Paradox
-Load a *special program* onto the main memory from a **Read-Only-Memory (ROM)** that comes with the computer. This is called the **Firmware (BIOS)** 
+Load a *special program* onto the main memory from a **Read-Only-Memory (ROM)** that comes with the motherboard. This is called the **Firmware (BIOS)** 
