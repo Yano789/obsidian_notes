@@ -10,7 +10,7 @@ a specific privilege wherein the kernel has/can:
 2. Know (and lives in) the [[Physical Address (PA)]] space and manages the [[Memory Hierarchy]]
 3. **Interrupt** other [[Classes/Computer System Engineering/The Computer System/Operating System (OS)/User Program]]
 4. Receive and manage I/O requests
-5. **Manage other user program** locations on the RAM, the [[Memory Management Unit (MMU)]], and schedule user program executions
+5. **RESOURCE ALLOCATION**: Manage other user program locations on the RAM, the [[Memory Management Unit (MMU)]], and schedule user program executions
 
 **Kernel Mode** 
 - needs *Kernel Code and Physical Address*
@@ -22,3 +22,4 @@ a specific privilege wherein the kernel has/can:
 	- change mode to *kernel mode* $\rightarrow$ then back to *user mode* 
 - needs [[Virtual Address (VA)]]
 - no access to the hardware
+
