@@ -6,16 +6,13 @@
 	- [[Interpreter]]
 	- [[Language Abstraction]]
 	- [[Unified Syntax for Abstract State Machines (UASM)]]
-- [[Computer Structures]]
 - **Interrupts and Faults**
 	- [[Asynchronous Interrupt]]
 	- [[Exception]]
 	- [[Fault]]
-	- [[Hardware Interrupts]]
 	- [[Interrupt]]
 	- [[IRQ Signal]]
 	- [[IRQ Unit]]
-	- [[Software Interrupt]]
 	- [[Synchronous Interrupt]]
 	- [[System Call (Trap)]]
 - **Memory Hierarchy and Cache Design**
@@ -54,7 +51,7 @@
 	- [[Stack Pointer (SP) R29]]
 - **Virtual Machine**
 	- [[Effective Interrupt Load]]
-	- [[Classes/Archive/Computer Structures/Virtual Machine/Kernel]]
+	- [[Kernel]]
 	- [[Scheduling and Multiple Interrupts]]
 - **[[Virtual Memory]]**
 	- [[Demand Paging]]
@@ -72,7 +69,6 @@
 	- [[Super Locality of Reference]]
 	- [[Translation Lookaside Buffer (TLB)]]
 	- [[Virtual Address (VA)]]
-	- [[Virtual Memory]]
 	- [[Virtual Page Number (VPN)]]
 
 %% End Waypoint %%
