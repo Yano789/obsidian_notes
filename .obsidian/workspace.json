@@ -239,8 +239,9 @@
   },
   "active": "d832aefd8989ad63",
   "lastOpenFiles": [
-    "Classes/Computer System Engineering/The Computer System/Operating System (OS)/Kernel.md",
+    "Classes/Computer System Engineering/The Computer System/Interrupt Vector.md",
     "Classes/Computer System Engineering/The Computer System/Vectored Interrupt System.md",
+    "Classes/Computer System Engineering/The Computer System/Operating System (OS)/Kernel.md",
     "Classes/Computer System Engineering/The Computer System/The Computer System.md",
     "Classes/Computer System Engineering/The Computer System/Device Controllers.md",
     "Classes/Archive/Computer Structures/Interrupts and Faults/Asynchronous Interrupt.md",
@@ -269,7 +270,6 @@
     "Classes/Computer System Engineering/Operating System (OS)/Kernel.md",
     "Blue Skies and Sunshine.md",
     "Classes/Elements of Software Construction/JavaScript/JavaScript.md",
-    "Personal Adventures/Linux on Mac.md",
     "Classes/Computer System Engineering/Operating System (OS)/Booting/Blue Skies and Sunshine-1.webp",
     "Classes/Computer System Engineering/Operating System (OS)/Booting",
     "Classes/Computer System Engineering/Operating System (OS)",
