@@ -4,7 +4,10 @@ The kernel is the **heart** of the [[Operating System (OS)]]
 - it runs on the *physical space*, therefore it only knows [[Physical Address (PA)|physical addresses]]
 - is a collection of code containing interrupts and handlers for a variety of situations
 
-3 Ways to access kernel mode
+3 Ways to access kernel mode:
+1. Reset
+2. Supcall/[[System Call (Trap)]] *Software*
+3. [[Asynchronous Interrupt]] *Hardware*
 ## Types of Privileges
 ### Kernel Mode (PC31 MSB = 1)
 a specific privilege wherein the kernel has/can:

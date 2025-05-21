@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Computer System Engineering/The Computer System/Operating System (OS)/Kernel.md",
+                "file": "Classes/Computer System Engineering/The Computer System/Device Controllers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kernel"
+              "title": "Device Controllers"
             }
           }
         ],
@@ -233,11 +233,13 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "remotely-save:Remotely Save": false
+      "remotely-save:Remotely Save": false,
+      "omnisearch:Omnisearch": false
     }
   },
   "active": "ee8963a3dc0b53c3",
   "lastOpenFiles": [
+    "Classes/Computer System Engineering/The Computer System/Operating System (OS)/Kernel.md",
     "Classes/Computer System Engineering/The Computer System/Operating System (OS)/Dual Mode Operation (DMO)/Dual Mode Operation (DMO).md",
     "Classes/Computer System Engineering/The Computer System/Operating System (OS)/Dual Mode Operation (DMO)",
     "Classes/Computer System Engineering/The Computer System/Operating System (OS)/Dual Mode Operation (DMO)/Dual Mode Operation (DMO)-1.webp",
@@ -249,7 +251,6 @@
     "Classes/Computer System Engineering/The Computer System/Operating System (OS)/Booting/Booting.md",
     "Classes/Computer System Engineering/The Computer System/The Computer System-1.webp",
     "Classes/Computer System Engineering/The Computer System/Device Controllers.md",
-    "Classes/Computer System Engineering/The Computer System/Operating System (OS)/Kernel.md",
     "Classes/Computer System Engineering/The Computer System/User Program.md",
     "Classes/Computer System Engineering/The Computer System/Operating System (OS)/Booting/Booting-1.webp",
     "conflict-files-obsidian-git.md",

@@ -1,8 +1,7 @@
 electronic components inside a computer that are in charge of specific devices:
-1. Registers
-2. Local Memory Buffer
-3. A program to communicate with the *device driver*
-
+1. Registers **(mini-cpu)**
+2. Local Memory **Buffer** - stores hardware action
+3. A program to communicate with the *device driver* **(translator)**
 ## Device Drivers
 A specific program to *interpret* the behavior of each device type (translator between device and CPU)
 
