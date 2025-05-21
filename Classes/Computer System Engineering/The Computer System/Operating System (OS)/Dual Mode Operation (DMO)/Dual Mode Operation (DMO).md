@@ -1,0 +1,3 @@
+![[Dual Mode Operation (DMO)-1.webp|317x277]]
+
+The dual mode is possible **if** it is supported by the hardware. The kernel is also typically **uninterruptible** in older CPU designs, and this interruptible feature is also supported by the hardware. There are some more complex CPU designs that allows interrupt even when the CPU is in kernel mode (based on some kind of priority) but this requires more complex interrupt handling routine (need to save progress, etc).

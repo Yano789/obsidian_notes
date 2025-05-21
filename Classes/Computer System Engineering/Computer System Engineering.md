@@ -4,9 +4,5 @@
 - **[[The Computer System]]**
 	- [[Device Controllers]]
 	- **[[Operating System (OS)]]**
-		- **[[Booting]]**
-
-		- [[Kernel]]
-		- [[User Program]]
 
 %% End Waypoint %%
