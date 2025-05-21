@@ -1,11 +1,15 @@
 **Reference Course Website** - https://natalieagus.github.io/50005/
 
 %% Begin Waypoint %%
-- **[[Operating System (OS)]]**
+- **Operating System (OS)**
 	- **[[Booting]]**
+
 	- [[Kernel]]
-	- **[[The Computer System]]**
-		- [[Device Controllers]]
 	- [[User Program]]
+- **The Computer System**
+	- **[[Operating System (OS)]]**
+		- **[[Booting]]**
+
+		- [[Kernel]]
 
 %% End Waypoint %%

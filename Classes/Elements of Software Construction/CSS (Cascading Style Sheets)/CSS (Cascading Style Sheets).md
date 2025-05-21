@@ -1,3 +1,8 @@
+---
+aliases:
+  - CSS
+---
+
 a language used in describing the presentation of a document
 
 **Syntax:** *selector {declaration}* where *declaration = property:value* 

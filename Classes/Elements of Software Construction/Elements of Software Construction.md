@@ -2,11 +2,9 @@
 
 %% Begin Waypoint %%
 - **[[CSS (Cascading Style Sheets)]]**
-	- [[CSS (Cascading Style Sheets)]]
-- [[Elements of Software Construction]]
+
 - **[[HTML (Hyper Text Markup Language)]]**
-	- [[HTML (Hyper Text Markup Language)]]
+
 - **[[JavaScript]]**
-	- [[JavaScript]]
 
 %% End Waypoint %%
