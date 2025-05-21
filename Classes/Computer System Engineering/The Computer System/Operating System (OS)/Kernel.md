@@ -30,9 +30,17 @@ a specific privilege wherein the kernel has/can:
 - needs [[Virtual Address (VA)]]
 - no access to the hardware
 
+## Types of Kernels
+### Reentrancy Kernel
+allows multiple processes to be executing in the kernel mode **at any given point of time** (*concurrent*)
+
+### Preemption
+allows the scheduler to **interrupt processes in Kernel Mode** to *execute the highest priority task* that are ready to run, thus enabling kernel functions to be interrupted as well
+
 ## Roles of the Kernel
 ### Resource Allocator and Coordinator: Interrupt Driven I/O Operations
 
 2 Types of Interrupts:
 1. [[System Call (Trap)|Software Interrupt]]
 2. [[Asynchronous Interrupt|Hardware Interrupt]] 
+
