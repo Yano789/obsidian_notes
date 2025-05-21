@@ -2,7 +2,7 @@
 
 The kernel is the **heart** of the [[Operating System (OS)]]
 - it runs on the *physical space*, therefore it only knows [[Physical Address (PA)|physical addresses]]
-- is a collection of code containing interrups and handlers for a variety of situations
+- is a collection of code containing interrupts and handlers for a variety of situations
 
 ## Types of Privileges
 ### Kernel Mode (PC31 MSB = 1)
