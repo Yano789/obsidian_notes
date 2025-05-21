@@ -24,4 +24,3 @@ Thus the **Interrupt Handler** will do the following:
 1. **[[Device Controllers#I/O|I/O]] Devices**: Runs *asynchronously*, capable of being "smart" and *run its own instructions*
 2. **[[Device Controllers]]**: Attached to the *motherboard*, runs *asynchronously*, may run simple instructions. *Has its own buffers, registers, and simple instructions interpreter*. Data Transfer to and fro the I/O through standard protocols such as USB, A/C, HDMI, DP, etc.
 3. **Disk Controller:** same as [[Device Controllers]] but specific to control disks
-4. 

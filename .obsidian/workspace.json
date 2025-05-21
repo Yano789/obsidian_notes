@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Archive/Computer Structures/Interrupts and Faults/Asynchronous Interrupt.md",
+                "file": "Classes/Computer System Engineering/Interrupts/Polled Interrupt System.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Asynchronous Interrupt"
+              "title": "Polled Interrupt System"
             }
           }
         ],
@@ -239,8 +239,11 @@
   },
   "active": "d832aefd8989ad63",
   "lastOpenFiles": [
-    "Classes/Computer System Engineering/The Computer System/Device Controllers.md",
+    "Classes/Computer System Engineering/Interrupts/Interrupt Vector.md",
+    "Classes/Computer System Engineering/Interrupts/Raw Device Polling.md",
+    "Classes/Computer System Engineering/Interrupts/Vectored Interrupt System.md",
     "Classes/Archive/Computer Structures/Interrupts and Faults/Asynchronous Interrupt.md",
+    "Classes/Computer System Engineering/The Computer System/Device Controllers.md",
     "Classes/Computer System Engineering/The Computer System/The Computer System-1.webp",
     "conflict-files-obsidian-git.md",
     "Classes/Archive/Computer Structures/Interrupts and Faults/Software Interrupt.md",
@@ -250,10 +253,7 @@
     "Classes/Archive/Computer Structures/Interrupts and Faults/Asynchronous Interrupt-1.png",
     "Classes/Computer System Engineering/Computer System Engineering.md",
     "Classes/Archive/Computer Structures/Interrupts and Faults/Interrupt.md",
-    "Classes/Computer System Engineering/Interrupts/Vectored Interrupt System.md",
-    "Classes/Computer System Engineering/Interrupts/Raw Device Polling.md",
     "Classes/Computer System Engineering/Interrupts/Polled Interrupt System.md",
-    "Classes/Computer System Engineering/Interrupts/Interrupt Vector.md",
     "Classes/Computer System Engineering/Interrupts/Hardware Interrupt Timeline.md",
     "Classes/Computer System Engineering/Interrupts",
     "Classes/Computer System Engineering/The Computer System/The Computer System.md",
