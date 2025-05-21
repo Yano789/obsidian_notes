@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Computer System Engineering/The Computer System/Operating System (OS)/Dual Mode Operation (DMO)/Dual Mode Operation (DMO).md",
+                "file": "Classes/Computer System Engineering/The Computer System/Operating System (OS)/Kernel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dual Mode Operation (DMO)"
+              "title": "Kernel"
             }
           }
         ],
@@ -239,10 +239,10 @@
   },
   "active": "ee8963a3dc0b53c3",
   "lastOpenFiles": [
+    "Classes/Computer System Engineering/The Computer System/Operating System (OS)/Dual Mode Operation (DMO)/Dual Mode Operation (DMO).md",
     "Classes/Computer System Engineering/The Computer System/Operating System (OS)/Dual Mode Operation (DMO)",
     "Classes/Computer System Engineering/The Computer System/Operating System (OS)/Dual Mode Operation (DMO)/Dual Mode Operation (DMO)-1.webp",
     "Classes/Computer System Engineering/The Computer System/Operating System (OS)/Operating System (OS).md",
-    "Classes/Computer System Engineering/The Computer System/Operating System (OS)/Dual Mode Operation (DMO)/Dual Mode Operation (DMO).md",
     "Classes/Computer System Engineering/Computer System Engineering.md",
     "Blue Skies and Sunshine.md",
     "Classes/Computer System Engineering/The Computer System/Operating System (OS)/User Program.md",
@@ -283,7 +283,6 @@
     "Classes/Elements of Software Construction/CSS (Cascading Style Sheets)",
     "Personal Adventures/Self-Improvement/How To Win Friends & Influence People.md",
     "Personal Adventures/Linux on Mac.md",
-    "Personal Adventures/Obsidian Sync Alternative.md",
-    "Personal Adventures/Self-Improvement"
+    "Personal Adventures/Obsidian Sync Alternative.md"
   ]
 }
