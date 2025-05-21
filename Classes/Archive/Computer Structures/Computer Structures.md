@@ -10,11 +10,10 @@
 	- [[Asynchronous Interrupt]]
 	- [[Exception]]
 	- [[Fault]]
-	- [[Hardware Interrupts]]
+	- [[Interrupt Vector Table (IVT)]]
 	- [[Interrupt]]
 	- [[IRQ Signal]]
 	- [[IRQ Unit]]
-	- [[System Call (Trap)|Software Interrupt]]
 	- [[Synchronous Interrupt]]
 	- [[System Call (Trap)]]
 - **Memory Hierarchy and Cache Design**

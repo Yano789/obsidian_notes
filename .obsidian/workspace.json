@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Archive/Computer Structures/Interrupts and Faults/Exception.md",
+                "file": "Classes/Archive/Computer Structures/Interrupts and Faults/Interrupt Vector Table (IVT).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Exception"
+              "title": "Interrupt Vector Table (IVT)"
             }
           }
         ],
@@ -240,6 +240,8 @@
   },
   "active": "7f798ca6b5ac0e11",
   "lastOpenFiles": [
+    "Classes/Archive/Computer Structures/Interrupts and Faults/Hardware Interrupts.md",
+    "Classes/Archive/Computer Structures/Interrupts and Faults/Interrupt Vector Table (IVT).md",
     "Classes/Archive/Computer Structures/Interrupts and Faults/System Call (Trap).md",
     "Classes/Archive/Computer Structures/Interrupts and Faults/Exception.md",
     "Classes/Archive/Computer Structures/Computer Structures.md",
@@ -256,7 +258,6 @@
     "Classes/Computer System Engineering/The Computer System/Device Controllers.md",
     "Classes/Computer System Engineering/The Computer System/The Computer System-1.webp",
     "conflict-files-obsidian-git.md",
-    "Classes/Archive/Computer Structures/Interrupts and Faults/Hardware Interrupts.md",
     "Classes/Archive/Computer Structures/Interrupts and Faults/Asynchronous Interrupt-1.webp",
     "Classes/Archive/Computer Structures/Interrupts and Faults/Asynchronous Interrupt-2.webp",
     "Classes/Archive/Computer Structures/Interrupts and Faults/Asynchronous Interrupt-1.png",
@@ -271,7 +272,6 @@
     "Classes/Computer System Engineering/The Computer System/Operating System (OS)/Booting/Booting.md",
     "Classes/Computer System Engineering/The Computer System/Operating System (OS)/Dual Mode Operation (DMO)/Dual Mode Operation (DMO).md",
     "Classes/Computer System Engineering/The Computer System/Operating System (OS)/User Program.md",
-    "Classes/Database Systems/Entity Relationship Model/Entity Relationship Model.md",
     "Classes/Database Systems/Data Modelling/Blue Skies and Sunshine-1.webp",
     "Classes/Database Systems/Data Modelling/Blue Skies and Sunshine-1.png",
     "Classes/Computer System Engineering/The Computer System/Operating System (OS)/Dual Mode Operation (DMO)/Dual Mode Operation (DMO)-1.webp",
