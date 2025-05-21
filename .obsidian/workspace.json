@@ -24,17 +24,17 @@
             }
           },
           {
-            "id": "9c6c75c9c5b09c3d",
+            "id": "cf2e251843444b0d",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "conflict-files-obsidian-git.md",
-                "bFile": "conflict-files-obsidian-git.md",
-                "aRef": ""
+                "file": "Classes/Archive/Computer Structures/Interrupts and Faults/Asynchronous Interrupt.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: conflict-files-obsidian-git"
+              "icon": "lucide-file",
+              "title": "Asynchronous Interrupt"
             }
           }
         ],
@@ -237,18 +237,18 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "9c6c75c9c5b09c3d",
+  "active": "cf2e251843444b0d",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Classes/Archive/Computer Structures/Interrupts and Faults/Interrupt.md",
+    "Classes/Computer System Engineering/Interrupts/Vectored Interrupt System.md",
     "Blue Skies and Sunshine.md",
+    "conflict-files-obsidian-git.md",
     "Classes/Archive/Computer Structures/Interrupts and Faults/Asynchronous Interrupt.md",
     "Classes/Archive/Computer Structures/Interrupts and Faults/Asynchronous Interrupt-2.webp",
     "Classes/Archive/Computer Structures/Interrupts and Faults/Asynchronous Interrupt-1.png",
     "Classes/Archive/Computer Structures/Interrupts and Faults/Asynchronous Interrupt-1.webp",
     "Classes/Archive/Computer Structures/Interrupts and Faults/Asynchronous Interrupt-1.webp",
     "Classes/Archive/Computer Structures/Interrupts and Faults/Asynchronous Interrupt-2.png",
-    "Classes/Archive/Computer Structures/Interrupts and Faults/Interrupt.md",
-    "Classes/Computer System Engineering/Interrupts/Vectored Interrupt System.md",
     "Classes/Computer System Engineering/The Computer System/Device Controllers.md",
     "Classes/Computer System Engineering/Interrupts/Interrupt Vector.md",
     "Classes/Computer System Engineering/Interrupts/Raw Device Polling.md",
