@@ -33,4 +33,6 @@ a specific privilege wherein the kernel has/can:
 ## Roles of the Kernel
 ### Resource Allocator and Coordinator: Interrupt Driven I/O Operations
 
-
+2 Types of Interrupts:
+1. [[System Call (Trap)|Software Interrupt]]
+2. [[Asynchronous Interrupt|Hardware Interrupt]] 

@@ -1,4 +1,7 @@
-Also known as [[Hardware Interrupts]]
+---
+aliases:
+  - Hardware Interrupt
+---
 
 Mainly comes from the [[IRQ Signal]] and [[IRQ Unit]] in the Beta CPU
 
