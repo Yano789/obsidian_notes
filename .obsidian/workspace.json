@@ -24,17 +24,17 @@
             }
           },
           {
-            "id": "d832aefd8989ad63",
+            "id": "ee8963a3dc0b53c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Computer System Engineering/The Computer System/Polled Interrupt System.md",
+                "file": "Classes/Archive/Computer Structures/Interrupts and Faults/Asynchronous Interrupt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Polled Interrupt System"
+              "title": "Asynchronous Interrupt"
             }
           }
         ],
@@ -50,7 +50,7 @@
       {
         "id": "5774b83570472239",
         "type": "tabs",
-        "dimension": 73.40425531914893,
+        "dimension": 65.35353535353535,
         "children": [
           {
             "id": "6fe38cbd59327d1f",
@@ -71,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Asynch",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,12 +95,12 @@
         ]
       },
       {
-        "id": "c8dffbc7e77e63cd",
+        "id": "4a1c9c6db1322eb8",
         "type": "tabs",
-        "dimension": 26.595744680851062,
+        "dimension": 34.64646464646465,
         "children": [
           {
-            "id": "5a562f0c3744c873",
+            "id": "e6bc1b7a6085402e",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -113,7 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.00404739379883
+    "width": 257
   },
   "right": {
     "id": "c2f043489300821b",
@@ -131,8 +131,8 @@
               "type": "calendar",
               "state": {},
               "pinned": true,
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -142,14 +142,14 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Classes/Archive/Computer Structures/Interrupts and Faults/Asynchronous Interrupt.md",
-                "followCursor": true,
+                "file": "Classes/Computer System Engineering/The Computer System/Operating System (OS)/Kernel.md",
+                "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "pinned": true,
               "icon": "lucide-list",
-              "title": "Outline of Asynchronous Interrupt"
+              "title": "Outline of Kernel"
             }
           },
           {
@@ -203,7 +203,7 @@
         "currentTab": 1
       },
       {
-        "id": "acaf89a8407d638e",
+        "id": "fa88fbda08e3ca12",
         "type": "tabs",
         "children": [
           {
@@ -222,7 +222,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287
+    "width": 284
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -233,55 +233,57 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "remotely-save:Remotely Save": false
+      "remotely-save:Remotely Save": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "d832aefd8989ad63",
+  "active": "ee8963a3dc0b53c3",
   "lastOpenFiles": [
-    "Classes/Computer System Engineering/The Computer System/The Computer System-1.webp",
-    "Classes/Computer System Engineering/The Computer System/Device Controllers.md",
-    "Classes/Computer System Engineering/The Computer System/Polled Interrupt System.md",
-    "Classes/Computer System Engineering/Computer System Engineering.md",
-    "Classes/Computer System Engineering/The Computer System/The Computer System.md",
-    "Classes/Computer System Engineering/The Computer System/Vectored Interrupt System.md",
-    "Untitled",
-    "Classes/Computer System Engineering/The Computer System/Interrupt Vector.md",
-    "Classes/Computer System Engineering/The Computer System/Operating System (OS)/Kernel.md",
+    "Classes/Archive/Computer Structures/Interrupts and Faults/Asynchronous Interrupt-1.webp",
+    "Classes/Archive/Computer Structures/Interrupts and Faults/Asynchronous Interrupt-2.webp",
     "Classes/Archive/Computer Structures/Interrupts and Faults/Asynchronous Interrupt.md",
+    "Classes/Archive/Computer Structures/Interrupts and Faults/Asynchronous Interrupt-1.webp",
+    "Classes/Archive/Computer Structures/Interrupts and Faults/Asynchronous Interrupt-2.png",
     "Classes/Archive/Computer Structures/Interrupts and Faults/Interrupt.md",
-    "Classes/Archive/Computer Structures/Interrupts and Faults/Synchronous Interrupt.md",
-    "Classes/Archive/Computer Structures/Interrupts and Faults/Exception.md",
-    "Classes/Archive/Computer Structures/Interrupts and Faults/Software Interrupt.md",
-    "Classes/Archive/Computer Structures/Interrupts and Faults/System Call (Trap).md",
-    "Classes/Archive/Computer Structures/Interrupts and Faults/Hardware Interrupts.md",
-    "Classes/Archive/Computer Structures/Virtual Memory/Virtual Address (VA).md",
-    "Classes/Computer System Engineering/The Computer System/Operating System (OS)/Operating System (OS).md",
-    "Classes/Computer System Engineering/The Computer System/Operating System (OS)/Booting/Booting.md",
+    "Classes/Computer System Engineering/Interrupts/Vectored Interrupt System.md",
+    "Classes/Computer System Engineering/The Computer System/Device Controllers.md",
+    "Classes/Computer System Engineering/Interrupts/Interrupt Vector.md",
+    "Classes/Computer System Engineering/Interrupts/Raw Device Polling.md",
+    "Classes/Computer System Engineering/Interrupts/Polled Interrupt System.md",
+    "Classes/Computer System Engineering/Interrupts",
+    "Classes/Computer System Engineering/The Computer System/Operating System (OS)/Kernel.md",
     "Classes/Computer System Engineering/The Computer System/Operating System (OS)/Dual Mode Operation (DMO)/Dual Mode Operation (DMO).md",
+    "Classes/Computer System Engineering/The Computer System/Operating System (OS)/Dual Mode Operation (DMO)",
+    "Classes/Computer System Engineering/The Computer System/Operating System (OS)/Dual Mode Operation (DMO)/Dual Mode Operation (DMO)-1.webp",
+    "Classes/Computer System Engineering/The Computer System/Operating System (OS)/Operating System (OS).md",
+    "Classes/Computer System Engineering/Computer System Engineering.md",
+    "Blue Skies and Sunshine.md",
     "Classes/Computer System Engineering/The Computer System/Operating System (OS)/User Program.md",
-    "Classes/Database Systems/Entity Relationship Model/Entity Relationship Model.md",
+    "Classes/Computer System Engineering/The Computer System/The Computer System.md",
+    "Classes/Computer System Engineering/The Computer System/Operating System (OS)/Booting/Booting.md",
+    "Classes/Computer System Engineering/The Computer System/The Computer System-1.webp",
+    "Classes/Computer System Engineering/The Computer System/User Program.md",
+    "Classes/Computer System Engineering/The Computer System/Operating System (OS)/Booting/Booting-1.webp",
+    "conflict-files-obsidian-git.md",
+    "Classes/Database Systems/Data Modelling/Data Modelling-1.png",
+    "Classes/Database Systems/Data Modelling/Data Modelling-1.webp",
+    "Classes/Database Systems/Data Modelling/Data Modelling.md",
     "Classes/Database Systems/Data Modelling/Blue Skies and Sunshine-1.webp",
     "Classes/Database Systems/Data Modelling/Blue Skies and Sunshine-1.png",
-    "Classes/Computer System Engineering/The Computer System/Operating System (OS)/Dual Mode Operation (DMO)/Dual Mode Operation (DMO)-1.webp",
-    "Classes/Computer System Engineering/The Computer System/Operating System (OS)/Dual Mode Operation (DMO)",
-    "Classes/Database Systems/Database Systems.md",
-    "Classes/Elements of Software Construction/CSS (Cascading Style Sheets)/CSS (Cascading Style Sheets).md",
-    "Classes/Elements of Software Construction/HTML (Hyper Text Markup Language)/HTML (Hyper Text Markup Language).md",
-    "Classes/Elements of Software Construction/Elements of Software Construction.md",
-    "Classes/Computer System Engineering/Operating System (OS)/Kernel.md",
-    "Classes/Computer System Engineering/Operating System (OS)/Booting/Blue Skies and Sunshine-1.webp",
-    "Classes/Computer System Engineering/Operating System (OS)/Booting",
-    "Classes/Computer System Engineering/Operating System (OS)",
-    "Classes/The World Since 1400/World Trade 1000 - 1500 (The Economic Consequences of Genghis Khan)/World Trade 1000 - 1500 (The Economic Consequences of Genghis Khan)-2.webp",
-    "Classes/The World Since 1400/World Trade 1000 - 1500 (The Economic Consequences of Genghis Khan)",
-    "Classes/The World Since 1400/World Trade 1000 - 1500 (The Economic Consequences of Genghis Khan)/World Trade 1000 - 1500 (The Economic Consequences of Genghis Khan)-1.webp",
-    "Classes/Database Systems/Entity Relationship Model/Entity Relationship Model-3.webp",
-    "Classes/Database Systems/Entity Relationship Model/Entity Relationship Model-2.webp",
-    "Classes/Database Systems/Entity Relationship Model/Entity Relationship Model-1.webp",
-    "Classes/Database Systems/Entity Relationship Model",
+    "Classes/Database Systems/DBMS (Database Management System).md",
+    "Classes/Database Systems/Entity Relationship Model/Entity Relationship Model.md",
+    "Classes/The World Since 1400/World Trade 1000 - 1500 (The Economic Consequences of Genghis Khan)/Trade and War in the Mediterranean and The Black Sea (1000-1350).md",
+    "Classes/The World Since 1400/World Trade 1000 - 1500 (The Economic Consequences of Genghis Khan)/World Trade 1000 - 1500 (The Economic Consequences of Genghis Khan).md",
+    "Classes/Computer System Engineering/The Computer System/Operating System (OS)/Booting",
+    "Classes/Computer System Engineering/The Computer System/Operating System (OS)",
     "Classes/Database Systems/Data Modelling",
+    "Classes/Database Systems/Entity Relationship Model",
+    "Classes/Computer System Engineering/The Computer System",
+    "Classes/The World Since 1400/World Trade 1000 - 1500 (The Economic Consequences of Genghis Khan)",
+    "Classes/Elements of Software Construction/Elements of Software Construction.md",
+    "Classes/Database Systems/Database Systems.md",
+    "Classes/The World Since 1400/The World Since 1400.md",
     "Classes/Elements of Software Construction/JavaScript",
-    "Classes/Elements of Software Construction/HTML (Hyper Text Markup Language)",
-    "Classes/Elements of Software Construction/CSS (Cascading Style Sheets)"
+    "Classes/Elements of Software Construction/HTML (Hyper Text Markup Language)"
   ]
 }
