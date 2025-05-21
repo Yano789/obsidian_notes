@@ -3,3 +3,5 @@ an [[Interrupt]] signal that **INCLUDES** the *identity of the device* sending t
 - **complex to implement** but useful when the system throws many [[Interrupt|interrupts]] 
 
 This system accepts an **ADDRESS**, which is usually one of a small set of numbers for an offset into a table called the [[Interrupt Vector]]
+
+Each [[Interrupt]] source is associaed with a unique **vector address** which allows direct access to the appropriate interrupt handler

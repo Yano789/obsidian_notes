@@ -1,3 +1,8 @@
+---
+aliases:
+  - controllers
+---
+
 electronic components inside a computer that are in charge of specific devices:
 1. Registers **(mini-cpu)**
 2. Local Memory **Buffer** - stores hardware action
