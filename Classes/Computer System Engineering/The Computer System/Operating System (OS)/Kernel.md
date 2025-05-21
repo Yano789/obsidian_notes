@@ -32,9 +32,15 @@ a specific privilege wherein the kernel has/can:
 1. [[System Call (Trap)|Software Interrupt]]
 2. [[Asynchronous Interrupt|Hardware Interrupt]] 
 
-### Process Management
+### Security
 **Reentrancy Kernel**
 allows multiple processes to be executing in the kernel mode **at any given point of time** (*concurrent*)
 
 **Preemption Kernel**
 allows the scheduler to **interrupt processes in Kernel Mode** to *execute the highest priority task* that are ready to run, thus enabling kernel functions to be interrupted as well
+
+## Memory Management
+### [[Virtual Memory]] Implementation
+1. Support [[Demand Paging]] Protocol
+2. Keep Track of which parts of memory are currently being used and by whom
+3. Decide which processes to move in and out
