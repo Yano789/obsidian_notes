@@ -36,23 +36,9 @@
               "icon": "lucide-file",
               "title": "Asynchronous Interrupt"
             }
-          },
-          {
-            "id": "14fa2bb93c2f6cf3",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -145,8 +131,8 @@
               "type": "calendar",
               "state": {},
               "pinned": true,
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -246,12 +232,10 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
-      "remotely-save:Remotely Save": false,
-      "omnisearch:Omnisearch": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "14fa2bb93c2f6cf3",
+  "active": "a471f4fb08e781a6",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Classes/Archive/Computer Structures/Interrupts and Faults/Asynchronous Interrupt.md",
