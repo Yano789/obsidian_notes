@@ -15,9 +15,9 @@ a specific privilege wherein the kernel has/can:
 
 2. **FILE MANAGEMENT**: Know (and lives in) the [[Physical Address (PA)]] space and manages the [[Memory Hierarchy]]
 
-3. **PROCESS MANAGEMENT**: Receive and manage I/O requests and interrupt other [[Classes/Computer System Engineering/The Computer System/Operating System (OS)/User Program|user programs]] 
+3. **RESOURCE ALLOCATION**: Receive and manage I/O requests and interrupt other [[Classes/Computer System Engineering/The Computer System/Operating System (OS)/User Program|user programs]] 
 
-4. **RESOURCE ALLOCATION**: Manage other user program locations on the RAM, the [[Memory Management Unit (MMU)]], and schedule user program executions
+4. **PROCESS MANAGEMENT**: Manage other user program locations on the RAM, the [[Memory Management Unit (MMU)]], and schedule user program executions
 
 **Kernel Mode** 
 - needs *Kernel Code and Physical Address*
