@@ -18,4 +18,3 @@ This forces the CPU to transfer control to the interrupt handler. Requiring the 
 Thus the **Interrupt Handler** will do the following:
 1. Save the register states (interrupted program instruction) into the process table
 2. Transfer control to the appropriate interrupt service routing, depending on the [[Device Controllers|device controller]] that made the request
-3. 
