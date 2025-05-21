@@ -14,7 +14,7 @@
 	- [[Interrupt]]
 	- [[IRQ Signal]]
 	- [[IRQ Unit]]
-	- [[Software Interrupt]]
+	- [[System Call (Trap)|Software Interrupt]]
 	- [[Synchronous Interrupt]]
 	- [[System Call (Trap)]]
 - **Memory Hierarchy and Cache Design**
