@@ -30,3 +30,7 @@ a specific privilege wherein the kernel has/can:
 - needs [[Virtual Address (VA)]]
 - no access to the hardware
 
+## Roles of the Kernel
+### Resource Allocator and Coordinator: Interrupt Driven I/O Operations
+
+
