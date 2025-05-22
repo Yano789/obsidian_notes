@@ -60,3 +60,45 @@ South. India: Kling & Chettis
 
 Chinese [diaspora](https://www.google.com/search?client=firefox-b-d&q=diasporta) in SEA - commercial settlements
 Later Ming Dynasty Restrictions failed to stem the trade of the S. China Sea
+
+## Characteristics of Eastern Seas Trade
+- Indian Ocean & South China Sea
+- Dispersed military and political power
+- Cities are the main trade nodes
+	- part of empire, state, or city state
+
+- Commercial Entrepot (entreport: free trade)
+	- neutrality and low duties (Melaka)
+- Recognition of Resident Aliens
+	- Relative Autonomy
+	- Control of Ideas/Movement (Canton)
+- Collective Price Bargaining
+	- Captain Competitive pricing (Manila)
+
+## Motives: **Cash Crops**
+- Sugar grown Atlantic islands; Cape Verde Islands
+- off Cameroon: Sao Tome, Principe, Fernando Po
+
+Mongol Collapsed in 1400 (?)
+
+Africa attractive through slaves gold and ivory
+
+## Motive: **Missionary**
+- **Franciscans (Care for the Poor) and Dominicans (**: Mongol eras
+- Jesuits (Intellectuals)
+- Crusading Zeal: "Reconquista"
+	- Need to "bring light to the world" and fight against the muslims
+	- Got rid of the muslims AND jews
+	- Spanish conquest of Granada 1492
+- Dom Henrique (Prince Henry the Navigator) (Portuguese Prince)
+	- made alliances against Muslims
+- Vasco da Gama: "Joining Christians & Spices"
+	- Spreading this philosophy to the world
+
+## Means: Technology
+- Latitiude and Longitude
+- Compasses
+- Determine Latitiude
+	- [Astrolabes](https://www.google.com/search?client=firefox-b-d&q=astrolabes) 
+	- replaced by [Cross and Back Staffs](https://www.google.com/search?client=firefox-b-d&q=astrolabes)
+	- 
