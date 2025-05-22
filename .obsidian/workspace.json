@@ -22,23 +22,8 @@
               "icon": "lucide-file",
               "title": "Blue Skies and Sunshine"
             }
-          },
-          {
-            "id": "7bf6262bbd9003bd",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "Classes/The World Since 1400/The World Since 1400.md",
-                "bFile": "Classes/The World Since 1400/The World Since 1400.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: The World Since 1400"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -231,11 +216,10 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "remotely-save:Remotely Save": false,
-      "omnisearch:Omnisearch": false
+      "remotely-save:Remotely Save": false
     }
   },
-  "active": "7bf6262bbd9003bd",
+  "active": "a471f4fb08e781a6",
   "lastOpenFiles": [
     "Classes/The World Since 1400/World Trade 1000 - 1500 (The Economic Consequences of Genghis Khan)/World Trade 1000 - 1500 (The Economic Consequences of Genghis Khan).md",
     "Classes/The World Since 1400/The World Since 1400.md",
