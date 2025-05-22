@@ -101,4 +101,65 @@ Africa attractive through slaves gold and ivory
 - Determine Latitiude
 	- [Astrolabes](https://www.google.com/search?client=firefox-b-d&q=astrolabes) 
 	- replaced by [Cross and Back Staffs](https://www.google.com/search?client=firefox-b-d&q=astrolabes)
-	- 
+
+## Means: Sternpost Rudder, Sails
+- Square Sail vs Lateen
+- skill of "tack" (moving in the direction you want despite the direction of the wind)
+- sailing against the current
+
+## Means: Knowledge of Winds
+- Planetary Winds
+- Seasonal Winds: Monsoon
+
+## Mediterranean to Atlantic
+wanted a trade route to India from Mediterranean
+
+- Portugal - Dom Henrique (Prince Henry the Navigator)
+
+- Bartolomeu Dias: Rounded the cape of Good hope 1488
+- Vasco da Gama: established port in Calicu (1500)
+
+**Christopher Columbus** (1451-1506)
+- Western Route to Asia
+1492 Oct - Bahamas, Caribbean, Cuba
+
+## Atlantic to the Pacific
+- Reconnaissance of Pacific basin
+
+**Ferdinand Magellan**
+- thought that Asia was close to the west coast of Americas
+- Killed in the philippines; Crew members saild to malaku
+
+## Trading Post Empires
+- Portuguese - earliest Trading Post Empire
+
+**Alfonso D'Albuquerque** ("The Great")
+- Control India Ocean
+
+## English and Dutch
+- Faster, Cheaper, Powerful Ships
+- Joint Stock Company - Investors org expeditions; limited risk
+
+**East India Company (EIC) & Dutch East India Comapany (VOC)**
+- No political oversight
+- private merchant pooled ships, crews, commodities
+- make war in companies' interest
+- nautical tech, military arsenal, efficient org
+- doubled investment of its underwriters
+
+*Queen Elizabeth Crown Jewel is from Robert Clive, Bengal 1756*
+
+## Pre-Colubian Exchange (Islamic Golden Age)
+- 700 - 1100 
+- Islam Facilitated Exchanges
+- demographic and economic Growth
+- Splendor of gardens in islam
+
+- Conquest of Mexico (1519-1521) - Hernan Cortez vs Aztec
+- Conquest of Peru & S. Am (1535) - Francisco Pizarro vs Inca
+
+- Radically different flora n fauna n diseases
+- America & Pacific islands badly affected by diseases - **smallpox**, measles, diphtheria, whopping cough, influenza - no acquired resistance
+
+
+- After the village/area dies from smallpox, it is easier to conquer
