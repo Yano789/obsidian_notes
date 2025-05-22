@@ -110,7 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 247.00404739379883
+    "width": 222.00404739379883
   },
   "right": {
     "id": "c2f043489300821b",
@@ -222,12 +222,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Classes/The World Since 1400/The Origins of Global Interdependence.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of The Origins of Global Interdependence"
             }
           }
         ],
@@ -235,7 +236,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287
+    "width": 232
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -250,10 +251,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d832aefd8989ad63",
+  "active": "7f798ca6b5ac0e11",
   "lastOpenFiles": [
-    "Classes/The World Since 1400/The Origins of Global Interdependence.md",
     "Classes/The World Since 1400/The World Since 1400.md",
+    "Classes/The World Since 1400/World Trade 1000 - 1500 (The Economic Consequences of Genghis Khan)/World Trade 1000 - 1500 (The Economic Consequences of Genghis Khan).md",
+    "Classes/The World Since 1400/World Trade 1000 - 1500 (The Economic Consequences of Genghis Khan)/Trade and War in the Mediterranean and The Black Sea (1000-1350).md",
+    "Classes/The World Since 1400/The Origins of Global Interdependence.md",
     "Classes/Computer System Engineering/Computer System Engineering.md",
     "Classes/Computer System Engineering/Interrupts/Vectored Interrupt System.md",
     "Classes/Computer System Engineering/Interrupts/Raw Device Polling.md",
@@ -281,10 +284,8 @@
     "Classes/Archive/Computer Structures/Interrupts and Faults/Asynchronous Interrupt-1.webp",
     "Classes/Archive/Computer Structures/Interrupts and Faults/Asynchronous Interrupt-2.webp",
     "Classes/Archive/Computer Structures/Interrupts and Faults/Asynchronous Interrupt-1.png",
-    "Classes/Computer System Engineering/Interrupts/Hardware Interrupt Timeline.md",
     "Classes/Computer System Engineering/Interrupts",
     "Untitled",
-    "Classes/Archive/Computer Structures/Interrupts and Faults/Synchronous Interrupt.md",
     "Classes/Database Systems/Data Modelling/Blue Skies and Sunshine-1.webp",
     "Classes/Database Systems/Data Modelling/Blue Skies and Sunshine-1.png",
     "Classes/Computer System Engineering/The Computer System/Operating System (OS)/Dual Mode Operation (DMO)/Dual Mode Operation (DMO)-1.webp",

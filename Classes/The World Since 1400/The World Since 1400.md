@@ -1,9 +1,9 @@
 eDimension Link - https://edimension.sutd.edu.sg/ultra/courses/_5550_1/cl/outline
 
 Terms: 
-1. **Medieval / Middle Ages** - 6th to 14th Century
+1. **Medieval / Middle Ages** - 6th to 14th Century - AD 60 to 1500
 2. **Early Modern** - late 15th century to late 18th century
-3. **Modern Period** - post 1789
+3. **Modern Period** - post 18th Century
 
 %% Begin Waypoint %%
 - [[The Origins of Global Interdependence]]
