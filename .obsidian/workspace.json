@@ -24,21 +24,35 @@
             }
           },
           {
+            "id": "7bf6262bbd9003bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Classes/The World Since 1400/The World Since 1400.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The World Since 1400"
+            }
+          },
+          {
             "id": "7f798ca6b5ac0e11",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Computer System Engineering/Computer System Engineering.md",
+                "file": "Classes/The World Since 1400/The Origins of Global Interdependence.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Computer System Engineering"
+              "title": "The Origins of Global Interdependence"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -113,7 +127,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Kernel",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -208,13 +222,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Classes/Computer System Engineering/Computer System Engineering.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Computer System Engineering"
+              "title": "Outline"
             }
           }
         ],
@@ -233,17 +246,20 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "remotely-save:Remotely Save": false
+      "remotely-save:Remotely Save": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "6fe38cbd59327d1f",
+  "active": "d832aefd8989ad63",
   "lastOpenFiles": [
+    "Classes/The World Since 1400/The Origins of Global Interdependence.md",
+    "Classes/The World Since 1400/The World Since 1400.md",
+    "Classes/Computer System Engineering/Computer System Engineering.md",
     "Classes/Computer System Engineering/Interrupts/Vectored Interrupt System.md",
     "Classes/Computer System Engineering/Interrupts/Raw Device Polling.md",
     "Classes/Computer System Engineering/Interrupts/Polled Interrupt System.md",
     "Classes/Computer System Engineering/Interrupts/IRQ and Service Delay.md",
     "Classes/Computer System Engineering/Interrupts/Interrupt Vector.md",
-    "Classes/Computer System Engineering/Computer System Engineering.md",
     "Blue Skies and Sunshine.md",
     "Blue Skies and Sunshine-1.webp",
     "Classes/Computer System Engineering/The Computer System/The Computer System.md",
@@ -269,8 +285,6 @@
     "Classes/Computer System Engineering/Interrupts",
     "Untitled",
     "Classes/Archive/Computer Structures/Interrupts and Faults/Synchronous Interrupt.md",
-    "Classes/Archive/Computer Structures/Virtual Memory/Virtual Address (VA).md",
-    "Classes/Computer System Engineering/The Computer System/Operating System (OS)/Booting/Booting.md",
     "Classes/Database Systems/Data Modelling/Blue Skies and Sunshine-1.webp",
     "Classes/Database Systems/Data Modelling/Blue Skies and Sunshine-1.png",
     "Classes/Computer System Engineering/The Computer System/Operating System (OS)/Dual Mode Operation (DMO)/Dual Mode Operation (DMO)-1.webp",
