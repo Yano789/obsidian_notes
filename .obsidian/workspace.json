@@ -27,14 +27,14 @@
             "id": "7bf6262bbd9003bd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Classes/The World Since 1400/The World Since 1400.md",
-                "mode": "source",
-                "source": false
+                "aFile": "Classes/The World Since 1400/The World Since 1400.md",
+                "bFile": "Classes/The World Since 1400/The World Since 1400.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "The World Since 1400"
+              "icon": "diff",
+              "title": "Diff: The World Since 1400"
             }
           }
         ],
@@ -235,13 +235,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a471f4fb08e781a6",
+  "active": "7bf6262bbd9003bd",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Classes/The World Since 1400/World Trade 1000 - 1500 (The Economic Consequences of Genghis Khan)/World Trade 1000 - 1500 (The Economic Consequences of Genghis Khan).md",
     "Classes/The World Since 1400/The World Since 1400.md",
+    "conflict-files-obsidian-git.md",
     "Classes/Archive/Computer Structures/Interrupts and Faults/System Call (Trap).md",
     "Classes/The World Since 1400/The Origins of Global Interdependence.md",
-    "Classes/The World Since 1400/World Trade 1000 - 1500 (The Economic Consequences of Genghis Khan)/World Trade 1000 - 1500 (The Economic Consequences of Genghis Khan).md",
     "Classes/The World Since 1400/World Trade 1000 - 1500 (The Economic Consequences of Genghis Khan)/Trade and War in the Mediterranean and The Black Sea (1000-1350).md",
     "Classes/Computer System Engineering/Computer System Engineering.md",
     "Classes/Computer System Engineering/Interrupts/Vectored Interrupt System.md",
