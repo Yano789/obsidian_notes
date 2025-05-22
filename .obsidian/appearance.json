@@ -3,8 +3,5 @@
   "translucency": false,
   "cssTheme": "Catppuccin",
   "theme": "obsidian",
-  "baseFontSize": 12,
-  "textFontFamily": "SN Pro",
-  "interfaceFontFamily": "SN Pro",
-  "monospaceFontFamily": "SN Pro"
+  "baseFontSize": 12
 }
