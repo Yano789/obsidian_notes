@@ -163,3 +163,14 @@ wanted a trade route to India from Mediterranean
 
 
 - After the village/area dies from smallpox, it is easier to conquer
+
+- Food supply caused the increase in Population
+
+## Origins of Global Trade
+3 Factors:
+1. Trade Post Empires - allowed Europeans' "carrying trade"
+2. Manila Galleons - Trading between Manila, Mexico, and Spreading
+	1. Silver - used as currency in China
+	2. Luxury Goods from Asia 
+	3. Fueled wars in Europe
+3.  Late 16th C European Mariners linked the world
