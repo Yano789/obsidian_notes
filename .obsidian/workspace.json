@@ -22,23 +22,8 @@
               "icon": "lucide-file",
               "title": "Blue Skies and Sunshine"
             }
-          },
-          {
-            "id": "fbaef2a46ac6e415",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace-mobile.json",
-                "bFile": ".obsidian/workspace-mobile.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace-mobile.json"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -235,7 +220,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "fbaef2a46ac6e415",
+  "active": "a471f4fb08e781a6",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Classes/The World Since 1400/World Trade 1000 - 1500 (The Economic Consequences of Genghis Khan)/World Trade 1000 - 1500 (The Economic Consequences of Genghis Khan).md",
