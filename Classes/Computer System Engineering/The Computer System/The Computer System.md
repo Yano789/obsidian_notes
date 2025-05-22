@@ -6,4 +6,4 @@ Divided into four components:
 3. Application/[[User Program]]
 4. Users
 
-![[The Computer System-1.webp]]
+![[Classes/Computer System Engineering/The Computer System/conflict-files-obsidian-git-1.webp]]
