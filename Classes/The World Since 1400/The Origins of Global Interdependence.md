@@ -43,3 +43,20 @@ Trade was happening even before Europeans
 	- Crete - Aegean & Black Seas
 	- Negroponte, Modon, Coron - Peloponnesian
 	- Acre in Palestine
+
+## Changes in Asian Trade [1250-1500]
+- Cataclysmic Rise of the Mongolian Empire [1217-1280]
+- Genghis Khan said to his sons:
+> as far as your horse can ride, whatever you conquer is yours
+- claimed so much land that it eventually became a trade zone
+- 1250-1350 (Open Route)
+- Crises: Black Death & Invasions
+- Maritime Technology: Round ships, compasses, bulk commodities (eg. wheat)
+
+## New Commercial Centers [AD 1250]
+Africa: Somalia to Sofala $\rightarrow$ city-states
+North. India: West Ports in Gujarat esp Cambay
+South. India: Kling & Chettis
+
+Chinese [diaspora](https://www.google.com/search?client=firefox-b-d&q=diasporta) in SEA - commercial settlements
+Later Ming Dynasty Restrictions failed to stem the trade of the S. China Sea
