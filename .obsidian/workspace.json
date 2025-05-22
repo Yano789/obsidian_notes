@@ -22,8 +22,23 @@
               "icon": "lucide-file",
               "title": "Blue Skies and Sunshine"
             }
+          },
+          {
+            "id": "fbaef2a46ac6e415",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace-mobile.json",
+                "bFile": ".obsidian/workspace-mobile.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace-mobile.json"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -216,14 +231,15 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "remotely-save:Remotely Save": false
+      "remotely-save:Remotely Save": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "a471f4fb08e781a6",
+  "active": "fbaef2a46ac6e415",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Classes/The World Since 1400/World Trade 1000 - 1500 (The Economic Consequences of Genghis Khan)/World Trade 1000 - 1500 (The Economic Consequences of Genghis Khan).md",
     "Classes/The World Since 1400/The World Since 1400.md",
-    "conflict-files-obsidian-git.md",
     "Classes/Archive/Computer Structures/Interrupts and Faults/System Call (Trap).md",
     "Classes/The World Since 1400/The Origins of Global Interdependence.md",
     "Classes/The World Since 1400/World Trade 1000 - 1500 (The Economic Consequences of Genghis Khan)/Trade and War in the Mediterranean and The Black Sea (1000-1350).md",
