@@ -53,7 +53,4 @@ where:
 ### 3. Process Management
 The kernel allows the system to support concepts that aim to improve the efficiency and responsiveness of the computer:
 1. [[Mulitprogramming]]
-2. Timesharing
-
-
-#### Timesharing
+2. [[Timesharing]] 
