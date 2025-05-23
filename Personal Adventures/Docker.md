@@ -18,8 +18,14 @@ docker image pull apline
 ```shell
 docker container run alpine ...#runs whatever you put in ... in the alpine container
 docker container run -it alpine #opens the terminal of the alpine container
+docker container run --name *insert name* alpine #run container with custom name
 ```
 
 ```shell
 docker container ls -a # lista all containers in the history
+```
+
+## Purging Containers
+```shell
+docker container pruce #remove all containers in history
 ```
