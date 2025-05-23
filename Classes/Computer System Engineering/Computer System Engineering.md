@@ -14,7 +14,9 @@
 
 		- **[[Dual Mode Operation (DMO)]]**
 
+		- [[Kernel Mode (PC31 MSB = 1)]]
 		- [[Kernel]]
+		- [[User Mode(MSB = 0)]]
 		- [[User Program]]
 
 %% End Waypoint %%

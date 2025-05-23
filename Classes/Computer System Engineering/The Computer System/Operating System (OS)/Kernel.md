@@ -9,22 +9,8 @@ The kernel is the **heart** of the [[Operating System (OS)]]
 2. Supcall/[[System Call (Trap)]] *Software*
 3. [[Asynchronous Interrupt]] *Hardware*
 ## Types of Privileges
-### Kernel Mode (PC31 MSB = 1)
-a specific privilege wherein the kernel has/can:
-1. **SECURITY**: Ultimate access and control to all hardware in the computer system (mouse, keyboard, display, network cards, disk, RAM, CPU, etc)
-2. **FILE MANAGEMENT**: Know (and lives in) the [[Physical Address (PA)]] space and manages the [[Memory Hierarchy]]
-3. **RESOURCE ALLOCATION**: Receive and manage I/O requests and interrupt other [[Classes/Computer System Engineering/The Computer System/Operating System (OS)/User Program|user programs]] 
-4. **PROCESS MANAGEMENT**: Manage other user program locations on the RAM, the [[Memory Management Unit (MMU)]], and schedule user program executions
-**Kernel Mode** 
-- needs *Kernel Code and Physical Address*
-- has access to hardware
-
-### User Mode(MSB = 0)
-- All other [[Classes/Computer System Engineering/The Computer System/Operating System (OS)/User Program|user programs]] that run on a virtual machine
-- Has access to *system calls* (supervisor calls) when they require services from the kernel
-	- change mode to *kernel mode* $\rightarrow$ then back to *user mode* 
-- needs [[Virtual Address (VA)]]
-- no access to the hardware
+[[Kernel Mode (PC31 MSB = 1)]]
+[[User Mode(MSB = 0)]]
 
 ## Roles of the Kernel
 ### Resource Allocator and Coordinator: Interrupt Driven I/O Operations
@@ -52,3 +38,27 @@ allows the scheduler to **interrupt processes in Kernel Mode** to *execute the h
 *Note: CPU caches are managed by the hardware (cache replacement policy, determining a HIT or a MISS * 
 
 #### Configuring the [[Memory Management Unit (MMU)]]
+Data transfer from disk to memory and vice versa is usually controlled by the **kernel** *(requires context switching)*, while data transfer from CPU registers to CPU [[The Cache Idea|cache]] is usually a **hardware function** without intervention from the kernel. There is too much **overhead** if the kernel is also tasked to perform the latter.
+
+Recall that the Kernel is responsible to program and set up the cache and [[Memory Management Unit (MMU)]] hardware, and manage the entire virtual memory. Kernel memory management routines are **triggered** when processes running in user mode encounter **page-fault** related interrupts. Careful **selection** of the page size and of a replacement policy can result in a greatly increased performance.
+
+##### Cache Effective Access Time
+We can compute the cache **effective access time as**:
+$$
+\alpha\tau + (1-\alpha) \times \epsilon
+$$
+where:
+[[Cache Hit]] **ratio** $\alpha$, 
+[[Cache Miss]] **access time** $\epsilon$ , and 
+[[Cache Hit]] **access time** $\tau$ 
+
+### Process Management
+The kernel allows the system to support concepts that aim to improve the efficiency and responsiveness of the computer:
+1. Mulitprogramming
+2. Timesharing
+
+##### Multiprogramming
+**Goal**: Increase CPU utilization and system throughput.
+
+
+#### Timesharing
