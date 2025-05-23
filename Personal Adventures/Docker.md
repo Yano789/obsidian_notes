@@ -21,8 +21,10 @@ docker container run -it alpine #opens the terminal of the alpine container
 docker container run --name *insert name* alpine #run container with custom name
 ```
 
+## List Containers
 ```shell
-docker container ls -a # lista all containers in the history
+docker container ls #shows list of all containers
+docker container ls -a # lista all accessible containers in your history
 ```
 
 ## Purging Containers
@@ -39,7 +41,7 @@ docker container run -d -p 8080:80 httpd
 
 where:
 -p: port mapping
--d: 
+-d: detach (run in the background)
 
 ```
 curl localhost:8080
