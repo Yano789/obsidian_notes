@@ -7,7 +7,7 @@ run dockerd
 ___
 ## Alpine
 
-- one of the most popular OS to run Containers
+One of the most popular OS to run Containers because it is the **bare minimum** OS
 
 ```shell
 docker image pull apline
