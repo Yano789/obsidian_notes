@@ -1,0 +1,1 @@
+A **program** is a _passive entity_, just lines of instructions. It resides on disk and isn’t currently used. It does not take up resources: CPU cycles, RAM, I/O, etc 
