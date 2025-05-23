@@ -1,4 +1,4 @@
-Always start with this code:
+Always start with this code (if you have docker desktop you can skip this step):
 
 ```shell
 run dockerd
@@ -49,3 +49,19 @@ curl localhost:8080
 
 or if you want to open it in the browser: https://localhost:8080
 
+## Running NodeJS files in the Containers
+1. You need a folder with a JS file containing your JS code (call it app.js)
+2. You need a docker file (named Dockerfile):
+
+```dockerfile
+FROM node #download node image
+COPY ./app /app #copy the app file into your container
+WORKDIR /app #be inside the app directory when you open the container (will create if none)
+CMD node app.js #run app.js
+```
+
+Then run this code (*NOTE: Make sure you are in the project directory with the docker file*):
+
+```shell
+docker image build . #. refers to the current directory
+```
