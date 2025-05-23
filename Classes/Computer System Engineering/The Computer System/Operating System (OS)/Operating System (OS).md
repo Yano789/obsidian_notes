@@ -1,3 +1,8 @@
+---
+aliases:
+  - OS
+---
+
 Acts as the *middle man* between the **User** and the **Hardware** of the computer
 Provides an *environment* such that **[[User Program]]** can run smoothly
 
