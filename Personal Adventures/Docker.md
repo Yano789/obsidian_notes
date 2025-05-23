@@ -30,3 +30,9 @@ docker container ls -a # lista all containers in the history
 docker container pruce #remove all containers in history
 docker container run --rm alpine *insert code to run* #will remove the container after running
 ```
+
+## Web Server Containers
+Uses Apache WebServer
+```
+docker container run -d -p 8080:80 httpd
+```
