@@ -13,5 +13,5 @@ docker image pull apline
 ```
 
 ```docker
-docker container run alpine
+docker container run alpine #starts the alpine container
 ```
