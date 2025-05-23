@@ -28,4 +28,5 @@ docker container ls -a # lista all containers in the history
 ## Purging Containers
 ```shell
 docker container pruce #remove all containers in history
+docker container run --rm alpine *insert code to run* #will remove the container after running
 ```
