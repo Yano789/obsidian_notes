@@ -1,15 +1,15 @@
 **Reference Course Website** - https://natalieagus.github.io/50005/
 
 %% Begin Waypoint %%
-- **Interrupts**
-	- [[Interrupt Vector]]
-	- [[IRQ and Service Delay]]
-	- [[Polled Interrupt System]]
-	- [[Raw Device Polling]]
-	- [[Vectored Interrupt System]]
 - **[[The Computer System]]**
 	- [[Context Switch]]
 	- [[Device Controllers]]
+	- **Interrupts**
+		- [[Interrupt Vector]]
+		- [[IRQ and Service Delay]]
+		- [[Polled Interrupt System]]
+		- [[Raw Device Polling]]
+		- [[Vectored Interrupt System]]
 	- **[[Operating System (OS)]]**
 		- **[[Booting]]**
 
@@ -17,12 +17,12 @@
 
 		- **[[Kernel]]**
 			- [[Kernel Mode (PC31 MSB = 1)]]
-			- [[Mulitprogramming]]
 			- [[Preemption Kernel]]
-			- [[Quanta]]
 			- [[Reentrancy Kernel]]
-			- [[Timesharing]]
 			- [[User Mode(MSB = 0)]]
+		- [[Mulitprogramming]]
+		- [[Quanta]]
+		- [[Timesharing]]
 		- [[User Program]]
 
 %% End Waypoint %%
