@@ -86,13 +86,14 @@ sudo auto-cpufreq --install
 
 **NOTE: DO NOT RUN BOTH OF THESE AT THE SAME TIME!** 
 
-## Trackpad Optimization
-If your trackpad is being funny, use this optimization
+## Touch pad Optimization
+If your touch pad is being funny, use this optimization
 https://github.com/tascvh/trackpad-is-too-damn-big
 
-You can run `sudo evtest` to see which event is your trackpad
+You can run `sudo evtest` to see which event is your touch pad
 
-Run `sudo  ~/trackpad-is-too-damn-big/build/./titdb -d /dev/input/event#` in your terminal to activate or you can activate it automatically
+Run `sudo  ~/trackpad-is-too-damn-big/build/./titdb -d /dev/input/event#` in your terminal to activate it or you can activate it automatically
+
 *Note: Replace # with the correct event number of your touchpad*
 
 ## Something Fun for You!
