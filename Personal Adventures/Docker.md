@@ -19,3 +19,7 @@ docker image pull apline
 docker container run alpine ...#runs whatever you put in ... in the alpine container
 docker container run -it alpine #opens the terminal of the alpine container
 ```
+
+```shell
+docker container ls -a # lista all containers in the history
+```
