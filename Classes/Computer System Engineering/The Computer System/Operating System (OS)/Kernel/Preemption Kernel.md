@@ -1,0 +1,1 @@
+allows the scheduler to **interrupt processes in Kernel Mode** to *execute the highest priority task* that are ready to run, thus enabling kernel functions to be interrupted as well

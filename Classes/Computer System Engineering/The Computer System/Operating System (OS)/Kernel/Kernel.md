@@ -8,24 +8,22 @@ The kernel is the **heart** of the [[Operating System (OS)]]
 1. Reset
 2. Supcall/[[System Call (Trap)]] *Software*
 3. [[Asynchronous Interrupt]] *Hardware*
+
 ## Types of Privileges
 [[Kernel Mode (PC31 MSB = 1)]]
 [[User Mode(MSB = 0)]]
 
 ## Roles of the Kernel
-### Resource Allocator and Coordinator: Interrupt Driven I/O Operations
+### 1. Resource Allocator and Coordinator: Interrupt Driven I/O Operations
 2 Types of Interrupts:
 1. [[System Call (Trap)|Software Interrupt]]
 2. [[Asynchronous Interrupt|Hardware Interrupt]] 
 
 ### Security
-**Reentrancy Kernel**
-allows multiple processes to be executing in the kernel mode **at any given point of time** (*concurrent*)
+1. [[Reentrancy Kernel]]
+2. [[Preemption Kernel]]
 
-**Preemption Kernel**
-allows the scheduler to **interrupt processes in Kernel Mode** to *execute the highest priority task* that are ready to run, thus enabling kernel functions to be interrupted as well
-
-### Memory Management
+### 2. Memory Management
 #### [[Virtual Memory]] Implementation
 1. **Support** [[Demand Paging]] Protocol
 2. **Keep Track** of which parts of memory are currently being used and by whom
@@ -52,7 +50,7 @@ where:
 [[Cache Miss]] **access time** $\epsilon$ , and 
 [[Cache Hit]] **access time** $\tau$ 
 
-### Process Management
+### 3. Process Management
 The kernel allows the system to support concepts that aim to improve the efficiency and responsiveness of the computer:
 1. Mulitprogramming
 2. Timesharing

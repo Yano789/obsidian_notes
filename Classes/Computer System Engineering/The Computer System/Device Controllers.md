@@ -10,7 +10,7 @@ electronic components inside a computer that are in charge of specific devices:
 ## Device Drivers
 A specific program to *interpret* the behavior of each device type (translator between device and CPU)
 
-Many drivers run in [[Classes/Computer System Engineering/The Computer System/Operating System (OS)/Kernel|kernel mode]] (may require reboot upon installation), but they may also run in *user mode* 
+Many drivers run in [[Classes/Computer System Engineering/The Computer System/Operating System (OS)/Kernel/Kernel|kernel mode]] (may require reboot upon installation), but they may also run in *user mode* 
 
 Running in *user mode* will be **slower** because they must switch between the *kernel mode* and the *user mode* frequently (**however, this is good** because if the code is wrong it wont overwrite the kernel memory)
 

@@ -1,0 +1,1 @@
+allows multiple processes to be executing in the kernel mode **at any given point of time** (*concurrent*)
