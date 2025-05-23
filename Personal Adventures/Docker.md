@@ -2,9 +2,9 @@ Always start with this code (if you have docker desktop you can skip this step):
 
 ```shell
 run dockerd
-newgrp docker
 ```
 
+___
 ## Alpine
 
 - one of the most popular OS to run Containers
@@ -13,6 +13,7 @@ newgrp docker
 docker image pull apline
 ```
 
+___
 ## 2 Way to Run Commands in the Container
 
 ```shell
@@ -21,18 +22,21 @@ docker container run -it alpine #opens the terminal of the alpine container
 docker container run --name *insert name* alpine #run container with custom name
 ```
 
+___
 ## List Containers
 ```shell
 docker container ls #shows list of all containers
 docker container ls -a # lista all accessible containers in your history
 ```
 
+___
 ## Purging Containers
 ```shell
 docker container pruce #remove all containers in history
 docker container run --rm alpine *insert code to run* #will remove the container after running
 ```
 
+___
 ## Web Server Containers
 Uses Apache WebServer
 ```
@@ -49,6 +53,7 @@ curl localhost:8080
 
 or if you want to open it in the browser: https://localhost:8080
 
+___
 ## Running NodeJS files in the Containers
 1. You need a folder with a JS file containing your JS code (call it app.js)
 2. You need a docker file (named Dockerfile):
@@ -63,5 +68,11 @@ CMD node app.js #run app.js
 Then run this code (*NOTE: Make sure you are in the project directory with the docker file*):
 
 ```shell
-docker image build . #. refers to the current directory
+docker image build . # . refers to the current directory
+```
+
+Once you create the image you can run the ID of the container to run the JS file
+
+```shell
+docker container run *insert container ID* 
 ```
