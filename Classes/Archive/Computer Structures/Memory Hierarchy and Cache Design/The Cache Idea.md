@@ -12,6 +12,7 @@
 ## **Average Access Time**
 time to access a particular content in a system with a cache and a physical memory
 ![[The Cache Idea-1.webp]]
+*Note: DMA refers to direct memory access*
 
 $t_{ave} = \alpha t_c + (1-\alpha)(t_c + t_m)$ 
 $= t_c + (1 - \alpha ) t_m$ 

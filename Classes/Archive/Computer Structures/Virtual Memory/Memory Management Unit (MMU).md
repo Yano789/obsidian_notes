@@ -1,3 +1,8 @@
+---
+aliases:
+  - MMU
+---
+
 a **hardware** unit that sits on the CPU board, along with the CPU itself and the cache. It consists of a:
 
 1. **context** register, 

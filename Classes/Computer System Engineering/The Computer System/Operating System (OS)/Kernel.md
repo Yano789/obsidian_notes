@@ -50,3 +50,5 @@ allows the scheduler to **interrupt processes in Kernel Mode** to *execute the h
 - **Manage** the **[[Page Table]]** and any operations associated with it.
 
 *Note: CPU caches are managed by the hardware (cache replacement policy, determining a HIT or a MISS * 
+
+#### Configuring the [[Memory Management Unit (MMU)]]
