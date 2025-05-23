@@ -69,10 +69,14 @@ Then run this code (*NOTE: Make sure you are in the project directory with the d
 
 ```shell
 docker image build . # . refers to the current directory
+docker image build -t *insert name*:*insert tag* # build image with a specific name and tag, if no tag is specified it will auto to "latest"
 ```
+
+where
+-t: tag
 
 Once you create the image you can run the ID of the container to run the JS file
 
 ```shell
-docker container run *insert container ID* 
+docker container run *insert container ID or name* 
 ```
