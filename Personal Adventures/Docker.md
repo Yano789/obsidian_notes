@@ -1,7 +1,7 @@
 Always start with this code (if you have docker desktop you can skip this step):
 
 ```shell
-run dockerd
+sudo run dockerd
 ```
 
 ___
