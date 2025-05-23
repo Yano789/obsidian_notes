@@ -56,11 +56,12 @@ The kernel allows the system to support concepts that aim to improve the efficie
 2. [[Timesharing]] 
 
 Key Differences:
-|Feature|Multiprogramming|Time-Sharing|
-|---|---|---|
-|**Primary Goal**|Maximize CPU utilization and throughput|Provide responsive, interactive user experience|
-|**User Interaction**|Minimal, often non-interactive (batch processing)|High, interactive user experience|
-|**CPU Scheduling**|Job-based, switches when I/O is needed|Time-based, fixed time slices (quanta)|
-|**Response Time**|Can be longer, not optimized for interactivity|Short, optimized for user interaction|
-|**Implementation**|Multiple jobs loaded in memory, CPU switches on I/O|Multiple user processes, rapid context switching|
-|**Examples**|Early mainframe systems, batch processing|Modern operating systems, interactive applications|
+
+| Feature          | [[Mulitprogramming]]                                | [[Timesharing]]                                 |
+| :--------------- | :-------------------------------------------------- | :---------------------------------------------- |
+| Primary Goal     | Maximize CPU utilization and throughput             | Provide responsive, interactive user experience |
+| User Interaction | Minimal, often non-interactive (batch processing)   | High, interactive user experience               |
+|                  | Job-based, switches when I/O is needed              | Time-based, fixed time slices ([[Quanta]])      |
+|                  | Can be longer, not optimized for interactivity      |                                                 |
+|                  | Multiple jobs loaded in memory, CPU switches on I/O |                                                 |
+|                  | Early mainframe systems, batch processing           |                                                 |

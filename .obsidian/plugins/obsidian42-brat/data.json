@@ -1,8 +1,13 @@
 {
   "pluginList": [
+    "Stardusten/ob-table-enhancer",
     "alangrainger/obsidian-lazy-plugins"
   ],
   "pluginSubListFrozenVersion": [
+    {
+      "repo": "Stardusten/ob-table-enhancer",
+      "version": "latest"
+    },
     {
       "repo": "alangrainger/obsidian-lazy-plugins",
       "version": "latest"
