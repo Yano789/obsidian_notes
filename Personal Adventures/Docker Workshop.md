@@ -2,6 +2,7 @@ Always start with this code:
 
 ```shell
 run dockerd
+newgrp docker
 ```
 
 ## Alpine
