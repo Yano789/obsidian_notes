@@ -1,0 +1,1 @@
+short, fixed intervals of time during which a [[Process]] or thread is allowed to execute
