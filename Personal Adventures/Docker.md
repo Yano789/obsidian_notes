@@ -36,3 +36,13 @@ Uses Apache WebServer
 ```
 docker container run -d -p 8080:80 httpd
 ```
+
+where:
+-p: port mapping
+-d: 
+
+```
+curl localhost:8080
+```
+
+or if you want to open it in the browser: https://localhost:8080
