@@ -1,6 +1,7 @@
 ---
 aliases:
   - event-vector table
+  - IVT
 ---
 A table of pointers to **interrupt service routines (ISRs)** used to handle [[Interrupt|interrupts]] in computing systems
 
