@@ -49,6 +49,7 @@ where:
 [[Cache Hit]] **ratio** $\alpha$, 
 [[Cache Miss]] **access time** $\epsilon$ , and 
 [[Cache Hit]] **access time** $\tau$ 
+*Note: Cache Miss = $\alpha-1$*
 
 ### 3. Process Management
 The kernel allows the system to support concepts that aim to improve the efficiency and responsiveness of the computer:

@@ -3,8 +3,5 @@
   "translucency": false,
   "cssTheme": "Catppuccin",
   "theme": "obsidian",
-  "baseFontSize": 14,
-  "enabledCssSnippets": [
-    "custom_fonts"
-  ]
+  "baseFontSize": 12
 }

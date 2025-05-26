@@ -52,7 +52,7 @@
 	- [[Stack Pointer (SP) R29]]
 - **Virtual Machine**
 	- [[Effective Interrupt Load]]
-	- [[Classes/Archive/Computer Structures/Virtual Machine/Kernel]]
+	- [[Kernel]]
 	- [[Scheduling and Multiple Interrupts]]
 - **[[Virtual Memory]]**
 	- [[Demand Paging]]
