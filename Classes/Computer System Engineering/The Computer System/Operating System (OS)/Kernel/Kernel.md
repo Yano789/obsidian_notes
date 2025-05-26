@@ -20,8 +20,8 @@ The kernel is the **heart** of the [[Operating System (OS)]]
 2. [[Asynchronous Interrupt|Hardware Interrupt]] 
 
 ### Security
-1. [[Reentrancy Kernel]]
-2. [[Preemption Kernel]]
+1. [[Reentrancy Kernel]] - Concurrent processes
+2. [[Preemption Kernel]] - Interrupt to run the highest priority task
 
 ### 2. Memory Management
 #### [[Virtual Memory]] Implementation
