@@ -10,12 +10,6 @@
 - **[[The Computer System]]**
 	- [[Context Switch]]
 	- [[Device Controllers]]
-	- **Interrupts**
-		- [[Interrupt Vector]]
-		- [[IRQ and Service Delay]]
-		- [[Polled Interrupt System]]
-		- [[Raw Device Polling]]
-		- [[Vectored Interrupt System]]
 	- **[[Operating System (OS)]]**
 		- **[[Booting]]**
 
