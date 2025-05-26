@@ -8,7 +8,7 @@ The kernel is the **heart** of the [[Operating System (OS)]]
 1. Reset
 2. Supcall/[[System Call (Trap)]] *Software*
 3. [[Asynchronous Interrupt]] *Hardware*
-
+___
 ## Types of Privileges
 [[Kernel Mode (PC31 MSB = 1)]]
 [[User Mode(MSB = 0)]]
@@ -19,11 +19,11 @@ The kernel is the **heart** of the [[Operating System (OS)]]
 1. [[System Call (Trap)|Software Interrupt]]
 2. [[Asynchronous Interrupt|Hardware Interrupt]] 
 
-### Security
+### 2. Security
 1. [[Reentrancy Kernel]] - Concurrent processes
 2. [[Preemption Kernel]] - Interrupt to run the highest priority task
 
-### 2. Memory Management
+### 3. Memory Management
 #### [[Virtual Memory]] Implementation
 1. **Support** [[Demand Paging]] Protocol
 2. **Keep Track** of which parts of memory are currently being used and by whom
@@ -51,7 +51,7 @@ where:
 [[Cache Hit]] **access time** $\tau$ 
 *Note: Cache Miss = $\alpha-1$*
 
-### 3. Process Management
+### 4. Process Management
 The kernel allows the system to support concepts that aim to improve the efficiency and responsiveness of the computer:
 1. [[Mulitprogramming]]
 2. [[Timesharing]] 

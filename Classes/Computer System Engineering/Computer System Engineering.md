@@ -27,9 +27,11 @@
 			- [[Reentrancy Kernel]]
 			- [[User Mode(MSB = 0)]]
 		- [[Kernel]]
-		- [[Mulitprogramming]]
+		- **[[Mulitprogramming]]**
+
 		- [[Quanta]]
-		- [[Timesharing]]
+		- **[[Timesharing]]**
+
 		- [[User Program]]
 	- [[Process vs Program]]
 	- [[Program]]
