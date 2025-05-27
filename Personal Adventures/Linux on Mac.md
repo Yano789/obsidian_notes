@@ -92,7 +92,12 @@ https://github.com/tascvh/trackpad-is-too-damn-big
 
 You can run `sudo evtest` to see which event is your touch pad
 
-Run `sudo  ~/trackpad-is-too-damn-big/build/./titdb -d /dev/input/event2` in your terminal to activate it or you can activate it automatically
+Run 
+```
+sudo  ~/trackpad-is-too-damn-big/build/./titdb -d /dev/input/event2
+``` 
+
+in your terminal to activate it or you can activate it automatically
 
 *Note: Replace # with the correct event number of your touchpad*
 
