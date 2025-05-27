@@ -34,6 +34,13 @@
         "a": 1,
         "rgb": 9024762
       }
+    },
+    {
+      "query": "path:\"Classes/Elements of Software Construction\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11845374
+      }
     }
   ],
   "collapse-display": true,
@@ -43,9 +50,9 @@
   "lineSizeMultiplier": 0.788002811418685,
   "collapse-forces": false,
   "centerStrength": 1,
-  "repelStrength": 20,
+  "repelStrength": 15.6800301148127,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.12008504182924361,
+  "scale": 0.1560046406051299,
   "close": true
 }

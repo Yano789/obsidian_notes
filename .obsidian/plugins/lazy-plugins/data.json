@@ -65,6 +65,9 @@
       },
       "ob-table-enhancer": {
         "startupType": "instant"
+      },
+      "obsidian-icon-folder": {
+        "startupType": "disabled"
       }
     },
     "loadOrder": []
