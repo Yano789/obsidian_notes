@@ -6,5 +6,6 @@
   "baseFontSize": 12,
   "textFontFamily": "Cambria Math,Cambria",
   "monospaceFontFamily": "Cambria Math,Cambria",
-  "interfaceFontFamily": "Cambria,Cambria Math"
+  "interfaceFontFamily": "Cambria,Cambria Math",
+  "enabledCssSnippets": []
 }

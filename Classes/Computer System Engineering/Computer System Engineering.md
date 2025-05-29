@@ -28,7 +28,6 @@
 		- **[[Timesharing]]**
 
 		- [[User Program]]
-	- [[Process vs Program]]
 	- [[Program]]
 
 %% End Waypoint %%
