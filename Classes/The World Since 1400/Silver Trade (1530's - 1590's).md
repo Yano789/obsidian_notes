@@ -9,3 +9,9 @@
 ## Insatiable Japanese Demand for Chinese Silk
 
 ## World Demand for Chinese Porcelain
+
+## New World Silver
+Spain give Silver to China for 1. Porcelain, 2. Silk, and other materials/minerals
+
+## 1581 Land Taxes
+Chinese currency became all silver
