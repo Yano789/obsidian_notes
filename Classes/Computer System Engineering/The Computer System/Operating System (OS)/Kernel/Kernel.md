@@ -13,15 +13,19 @@ ___
 [[Kernel Mode (PC31 MSB = 1)]]
 [[User Mode(MSB = 0)]]
 
+___
 ## Roles of the Kernel
 ### 1. Resource Allocator and Coordinator: Interrupt Driven I/O Operations
 2 Types of Interrupts:
 1. [[System Call (Trap)|Software Interrupt]]
 2. [[Asynchronous Interrupt|Hardware Interrupt]] 
 
-### 2. Security
-1. [[Reentrancy Kernel]] - Concurrent processes
-2. [[Preemption Kernel]] - Interrupt to run the highest priority task
+### 2. Security and Protection
+- [[Reentrancy Kernel]] - Concurrent processes 
+- [[Preemption Kernel]] - Interrupt to run the highest priority tasked
+Kernel provides **defensive security measures**, protecting itself against internal or external attacks
+1. Identify Users
+2. Associate users with files and processes
 
 ### 3. Memory Management
 #### [[Virtual Memory]] Implementation
@@ -69,3 +73,14 @@ The kernel allows the system to support concepts that aim to improve the efficie
 [[Mulitprogramming]] focuses on **maximizing CPU usage** by **running multiple jobs simultaneously**
 
 [[Timesharing]] aims to **provide a responsive, interactive experience for multiple users** by rapidly switching between processes
+
+#### Process Manager
+- part of the kernel code
+- may be called either when there's timed [[Interrupt]] by the timed interrupt handler or trap handler
+- keeps track of the system-wide [[Process Table]]
+
+Responsible for:
+1. **Creation and Termination** of both user and system processes
+2. **Pausing and Resuming** processes in the event of [[Interrupt]] or [[System Call (Trap)]]
+3. **Synchrnizing** processes and provides communications between virtual spaces
+4. Provide mechanism to handle deadlocks

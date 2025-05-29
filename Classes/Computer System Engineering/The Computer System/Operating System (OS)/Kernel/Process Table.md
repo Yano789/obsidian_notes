@@ -1,0 +1,1 @@
+a data structure containing all sorts of information about current processes in the system
