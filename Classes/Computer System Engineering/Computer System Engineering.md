@@ -14,6 +14,7 @@
 	- **[[Operating System (OS)]]**
 		- **[[Booting]]**
 
+		- [[Command-Line Interpreter]]
 		- **[[Dual Mode Operation (DMO)]]**
 
 		- **[[Kernel]]**
@@ -28,6 +29,7 @@
 		- [[Quanta]]
 		- **[[Timesharing]]**
 
+		- [[User Interface]]
 		- [[User Program]]
 	- [[Program]]
 	- [[Untitled]]
