@@ -14,4 +14,7 @@
 Spain give Silver to China for 1. Porcelain, 2. Silk, and other materials/minerals
 
 ## 1581 Land Taxes
-Chinese currency became all silver
+Chinese currency became all silver $\rightarrow$ China silver demand shot through the roof
+
+China became the "silver sink" 
+

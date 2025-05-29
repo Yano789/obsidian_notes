@@ -8,6 +8,7 @@ Terms:
 %% Begin Waypoint %%
 - [[Silver Trade (1530's - 1590's)]]
 - [[The Origins of Global Interdependence]]
+- [[Wako (1551-1560)]]
 - **[[World Trade 1000 - 1500 (The Economic Consequences of Genghis Khan)]]**
 	- [[Trade and War in the Mediterranean and The Black Sea (1000-1350)]]
 
