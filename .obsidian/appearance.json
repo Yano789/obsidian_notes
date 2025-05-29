@@ -4,7 +4,7 @@
   "cssTheme": "Catppuccin",
   "theme": "obsidian",
   "baseFontSize": 12,
-  "textFontFamily": "Cambria Math",
-  "monospaceFontFamily": "Cambria Math",
-  "interfaceFontFamily": "Cambria Math"
+  "textFontFamily": "Cambria Math,Cambria",
+  "monospaceFontFamily": "Cambria Math,Cambria",
+  "interfaceFontFamily": "Cambria,Cambria Math"
 }
