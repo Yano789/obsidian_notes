@@ -19,3 +19,9 @@ Ask the system for information:
 - date
 - time
 - amount of available memory or disk space
+
+## Programming-Language Support
+[[Compiler]], [[Assembler]], Debuggers, and [[Interpreter]] for common programming languages are available. 
+[[System Programs#Package Managers File Management and Modification|Package Managers]] such as `npm`, and `pip` may be installed for easier development
+
+## Program Loading and Execution
