@@ -25,3 +25,9 @@ Ask the system for information:
 [[System Programs#Package Managers File Management and Modification|Package Managers]] such as `npm`, and `pip` may be installed for easier development
 
 ## Program Loading and Execution
+
+
+## Communications
+
+
+## Background Services

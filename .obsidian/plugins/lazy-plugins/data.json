@@ -68,6 +68,9 @@
       },
       "obsidian-icon-folder": {
         "startupType": "disabled"
+      },
+      "obsidian-style-settings": {
+        "startupType": "instant"
       }
     },
     "loadOrder": []
