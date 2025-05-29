@@ -7,3 +7,5 @@
 - **Not enough time spent on policy to rethink about paper currency**
 
 ## Insatiable Japanese Demand for Chinese Silk
+
+## World Demand for Chinese Porcelain
