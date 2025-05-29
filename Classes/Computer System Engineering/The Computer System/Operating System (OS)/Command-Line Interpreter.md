@@ -1,6 +1,6 @@
 The [[Interpreter]] of UNIX Systems are known as shells
 
-Users typically interact with a Unix Shell via a Terminal Emulator, or by writing a shell script that contains a bunch of successive commands to be executed
+Users typically interact with a Unix Shell via a [[Terminal Emulator]], or by writing a shell script that contains a bunch of successive commands to be executed
 
 # Common Shells
 ## Bourne-Again Shell (Bash)
