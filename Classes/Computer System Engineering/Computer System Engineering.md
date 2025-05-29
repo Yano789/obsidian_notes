@@ -8,7 +8,10 @@
 	- [[Polled Interrupt System]]
 	- [[Raw Device Polling]]
 	- [[Vectored Interrupt System]]
+- [[Parameter Passing]]
 - **[[The Computer System]]**
+	- **[[Application Programming Interface]]**
+
 	- [[Context Switch]]
 	- [[Device Controllers]]
 	- **[[Operating System (OS)]]**
@@ -27,6 +30,7 @@
 		- **[[Mulitprogramming]]**
 
 		- [[Quanta]]
+		- [[System Programs]]
 		- [[Terminal Emulator]]
 		- **[[Timesharing]]**
 
