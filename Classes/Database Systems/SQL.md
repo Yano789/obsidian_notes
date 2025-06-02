@@ -1,3 +1,8 @@
+---
+tags:
+  - review
+---
+
 ## Data Definition
 
 ### Create Database and Tables
@@ -57,7 +62,7 @@ select UserID, Salary from Payroll // specific attributes
 where Salary > 70000; // Condition / sigma (σ)
 ```
 
-### Merging Tables
+### Searching in SQL
 ```SQl
 select p.Name, r.Car
 from Payroll p, Registr r
@@ -78,3 +83,51 @@ and r1.UserID = r2.UserID
 and r1.Car = "Civic" and r2.Car = "Pinto"
 ```
 
+### Distinct
+
+```SQL
+select distinct Job from Payroll;
+
+select distinct Name, Job from Payroll;
+```
+
+### Aggregates
+
+1. AVG
+2. MIN
+3. MAX
+4. SUM
+5. COUNT
+
+```SQL
+
+```
+
+### Group By
+- **USEFUL**
+- Project tuples into *distinct groups*, then compute aggregate
+- You cannot double group by because the 1st group by isnt finished processing yet
+```SQL
+select Job, avg(Salary) as 'AvgPerJob'
+from Payroll group by Job;
+```
+
+### Having
+- selects the output from **GROUP BY**
+```SQL
+select Job, avg(Salary) as 'AvgPerJob'
+from Payroll group by Job
+HAVING AvgPerJob > 60000;
+```
+
+### Limit
+- Restrict the number of output tuples
+
+### Order By
+- sort the tuples 
+```SQL
+select Name, Salary from Payroll
+order by Salary desc;
+```
+
+## Nested Queries

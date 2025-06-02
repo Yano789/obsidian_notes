@@ -1,8 +1,8 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": true,
-  "showAttachments": true,
+  "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
@@ -36,10 +36,17 @@
       }
     },
     {
-      "query": "path:\"Classes/Elements of Software Construction\"  ",
+      "query": "path:\"Classes/Database Systems\"  ",
       "color": {
         "a": 1,
-        "rgb": 11845374
+        "rgb": 16376495
+      }
+    },
+    {
+      "query": "path:\"Classes/The World Since 1400\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 13346551
       }
     }
   ],
@@ -50,9 +57,9 @@
   "lineSizeMultiplier": 0.788002811418685,
   "collapse-forces": false,
   "centerStrength": 1,
-  "repelStrength": 15.6800301148127,
+  "repelStrength": 13.8525588952071,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.13093910777625153,
+  "scale": 0.26268506801513614,
   "close": true
 }
