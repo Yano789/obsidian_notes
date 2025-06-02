@@ -73,7 +73,8 @@ on p.UserID = r.UserID
 ```SQl
 select p.Name, r.Car
 from Payroll p, Registr r
-where r.UserID = "Civic"
-and r.UserID = "Pinto"
+where p.UserID = r.UserID
+and r.Car = "Civic"
+and r.Car = "Pinto"
 ```
 
