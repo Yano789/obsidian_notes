@@ -123,6 +123,14 @@ ___
 ## Left Outer Join
 - Same as inner join but:
 	- all tuples of R appear in the result
-$$
-(R \bowtie)
-$$
+![[Relational Algebra-5.png|174x45]]
+
+Example:
+```SQL
+select * from R 
+left outer join S on R.A = S.D;
+```
+
+![[Relational Algebra-6.png|336x358]]
+
+___
