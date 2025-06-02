@@ -1,7 +1,8 @@
 %% Begin Waypoint %%
 - **[[Layered Approach]]**
 
-- [[Microkernel]]
+- **[[Microkernel]]**
+
 - **[[Monolithic Structure]]**
 
 
