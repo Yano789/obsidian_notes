@@ -1,6 +1,7 @@
 ---
 aliases:
   - Application Program
+  - User Program
 ---
 
 Individual [[Process|processes]] that run in a virtual machine

@@ -16,4 +16,5 @@ Object-oriented shell developed originally for Windows OS
  Built-In
 - The command [[Interpreter]] itself contains the code to execute the command
 
-[[System Programs]] - typically found in default `PATH` such as `/usr/bin`
+[[System Programs]]
+- typically found in default `PATH` such as `/usr/bin`

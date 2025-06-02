@@ -2,9 +2,9 @@ A **program** is a _passive entity_, just lines of instructions. It resides on d
 
 # 2 Types of Programs
 1. [[System Programs]]
-2. [[User Program|Application (User) Programs]]
+2. [[Application (User) Program|Application (User) Programs]]
 
-| [[System Programs]]                                                        | [[User Program]]                            |
+| [[System Programs]]                                                        | [[Application (User) Program]]              |
 | :------------------------------------------------------------------------- | :------------------------------------------ |
 | Used for operating computer hardware and very common system-usage purposes | Used to perform specific user-related tasks |
 | Typically comes with [[Operating System (OS)]]                             | Installed according to user requirements    |

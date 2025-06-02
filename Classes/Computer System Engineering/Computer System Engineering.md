@@ -14,6 +14,7 @@
 		- [[Raw Device Polling]]
 		- [[Vectored Interrupt System]]
 	- **[[Operating System (OS)]]**
+		- [[Application (User) Program]]
 		- **[[Booting]]**
 
 		- [[Command-Line Interpreter]]
@@ -35,7 +36,6 @@
 		- **[[Timesharing]]**
 
 		- [[User Interface]]
-		- [[User Program]]
 	- [[Parameter Passing]]
 	- [[Program]]
 

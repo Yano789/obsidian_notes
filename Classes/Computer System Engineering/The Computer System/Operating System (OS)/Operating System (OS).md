@@ -4,7 +4,7 @@ aliases:
 ---
 
 Acts as the *middle man* between the **User** and the **Hardware** of the computer
-Provides an *environment* such that **[[User Program]]** can run smoothly
+Provides an *environment* such that **[[Application (User) Program]]** can run smoothly
 
 Three essential roles of the operating system
 1. **Resource Allocator and Coordinator** - manage what is pressed and what it does
