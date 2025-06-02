@@ -74,29 +74,13 @@ $$
 (R-S)
 $$
 Example:
-R(A,B)
-
-| A   | B   |
-| --- | --- |
-| a1  | 101 |
-| a3  | 102 |
-
-S(A,B)
-
-| A   | B   |
-| --- | --- |
-| a3  | 102 |
-| a4  | 104 |
-
-R - S
-
-| A   | B   |
-| --- | --- |
-| a1  | 101 |
-
+[[relation]]
 ___
 ## Product ($\times$)
 - Matrix Multiplication
 $$
 (R \times S)
 $$
+```SQL
+select * from R cross join S;
+```
