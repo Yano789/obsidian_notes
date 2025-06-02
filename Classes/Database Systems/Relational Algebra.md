@@ -134,7 +134,7 @@ left outer join S on R.A = S.D;
 ![[Relational Algebra-6.png|336x358]]
 
 ___
-### Rename
+## Rename
 $$
 \rho_{R'(A1,...,An)}(R)
 $$
@@ -148,3 +148,11 @@ select * from R natural join
 ![[Relational Algebra-7.png|302x325]]
 
 ___
+## Aggregation
+- F1,Aggregation Functions:
+	- SUM()
+	- AVG()
+	- MIN()
+	- MAX()
+	- COUNT()
+	- 
