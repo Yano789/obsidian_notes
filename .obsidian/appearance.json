@@ -7,5 +7,7 @@
   "textFontFamily": "Cambria Math,Cambria",
   "monospaceFontFamily": "Cambria Math,Cambria",
   "interfaceFontFamily": "Cambria,Cambria Math",
-  "enabledCssSnippets": []
+  "enabledCssSnippets": [
+    "custom_fonts"
+  ]
 }
