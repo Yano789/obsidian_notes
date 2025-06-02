@@ -74,7 +74,8 @@ $$
 (R-S)
 $$
 Example:
-[[relation]]
+![[Relational Algebra-1.png|371x140]]
+
 ___
 ## Product ($\times$)
 - Matrix Multiplication
@@ -84,3 +85,6 @@ $$
 ```SQL
 select * from R cross join S;
 ```
+
+Example:
+![[Relational Algebra-2.png|339x419]]
