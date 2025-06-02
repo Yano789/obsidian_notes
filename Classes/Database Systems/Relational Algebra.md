@@ -149,10 +149,14 @@ select * from R natural join
 
 ___
 ## Aggregation
-- F1,Aggregation Functions:
+- A1,...,An = Attributes
+- F1,...,Fm = Aggregation Functions:
 	- SUM()
 	- AVG()
 	- MIN()
 	- MAX()
 	- COUNT()
-	- 
+- B1,...,Bm attributes that are arguments for aggregation functions
+$$
+_{A1}
+$$
