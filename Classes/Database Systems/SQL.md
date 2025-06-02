@@ -131,3 +131,11 @@ order by Salary desc;
 ```
 
 ## Nested Queries
+```SQL
+SELECT ..... WHERE EXISTS (nest); //if there are values
+SELECT ..... WHERE NOT EXISTS (nest); //if there are not values
+SELECT ..... WHERE attribute IN (nest); //value exists in the returned typle
+SELECT ..... WHERE attribute NOT IN (nest);
+SELECT ..... WHERE value > ANY (nest); //condition met by any tuple
+SELECT ..... WHERE value > ALL (nest); //condition met by returned tuple
+```
