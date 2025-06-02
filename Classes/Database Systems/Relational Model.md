@@ -12,7 +12,7 @@ $r(R) \rightarrow \text{relation instance "r" over schema R}$
 element *t* of r is a touple
 
 Entities (Primary Keys, Attributes)
-- includes relationships (merge with the same key if they are unique)
+- **Entities includes relationships** (merge with the same key if they are unique)
 - *1 to Many = 1 ID will suffice*
 - *Many to Many = you need both IDs*
 
