@@ -26,10 +26,10 @@
 			- [[Process Table]]
 			- [[Reentrancy Kernel]]
 			- [[User Mode(MSB = 0)]]
-		- [[Kernel]]
 		- **[[Mulitprogramming]]**
 
 		- [[OS Design and Implementation]]
+		- [[OS Structures]]
 		- [[Quanta]]
 		- [[System Programs]]
 		- [[Terminal Emulator]]
