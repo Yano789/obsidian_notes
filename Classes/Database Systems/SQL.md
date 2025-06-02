@@ -56,3 +56,9 @@ where Salary > 70000; // Condition
 select UserID, Salary from Payroll // specific attributes
 where Salary > 70000; // Condition / sigma (σ)
 ```
+
+```SQl
+select p.Name, r.Car
+from Payroll p, Registr r
+where p.UserID = r.UserID
+```
