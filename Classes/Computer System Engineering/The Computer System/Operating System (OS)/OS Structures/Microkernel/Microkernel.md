@@ -7,3 +7,4 @@ a very small [[Classes/Computer System Engineering/The Computer System/Operating
 ![[Microkernel-1.webp|416x288]]
 
 - all new services are added to user space - so theres no need to modify the [[Classes/Computer System Engineering/The Computer System/Operating System (OS)/Kernel/Kernel|Kernel]] 
+- increased overhead due to frequent [[Context Switch]]

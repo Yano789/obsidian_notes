@@ -29,7 +29,17 @@
 		- **[[Mulitprogramming]]**
 
 		- [[OS Design and Implementation]]
-		- **[[OS Structures]]**
+		- **OS Structures**
+			- **[[Hyprid Approach]]**
+
+			- **[[Java Operating System (JX)]]**
+
+			- **[[Layered Approach]]**
+
+			- **[[Microkernel]]**
+
+			- **[[Monolithic Structure]]**
+
 		- [[Quanta]]
 		- [[System Programs]]
 		- [[Terminal Emulator]]
