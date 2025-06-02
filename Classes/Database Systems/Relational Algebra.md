@@ -120,7 +120,7 @@ select * from R natural join S;
 ![[Relational Algebra-4.png|342x382]]
 
 ___
-## Left Outer Join
+### Left Outer Join
 - Same as inner join but:
 	- all tuples of R appear in the result
 ![[Relational Algebra-5.png|174x45]]
@@ -134,3 +134,4 @@ left outer join S on R.A = S.D;
 ![[Relational Algebra-6.png|336x358]]
 
 ___
+### Rename
