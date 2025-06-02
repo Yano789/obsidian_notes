@@ -6,6 +6,7 @@
 - [[DBMS (Database Management System)]]
 - **[[Entity Relationship Model]]**
 
+- [[Relational Model]]
 
 %% End Waypoint %%
 
