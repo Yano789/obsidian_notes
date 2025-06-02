@@ -20,6 +20,7 @@ Are programming interfaces provided by the OS [[Classes/Computer System Engineer
 - require [[Parameter Passing]] 
 
 # Types of System Calls
+___
 ## Process Control
 anything you gotta do related to [[Process]]
 
@@ -35,22 +36,23 @@ jobs or [[Process]] may need to communicate to wait for the other jobs to finish
 - [[Single-Tasking System]]
 - [[Multi-tasking System]]
 
+___
 ## File Manipulation
 anything related to files
-
+___
 ## Device Manipulation
 anything related to [[Device Controllers]] or devices
-
+___
 ## Information Maintenance
 getters and setters
-
+___
 ## Communication
 anything related to network
-
+___
 ## Protection 
 anything related to security
 
-
+___
 # Blocking vs Non-Blocking 
 ## Blocking
 a system call that must **WAIT** until the action can be completed
