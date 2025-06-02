@@ -70,7 +70,10 @@ $R \cap S$
 ___
 ## Difference ($-$)
 - Return tuples appearing in R but not S
-
+$$
+(R-S)
+$$
+Example:
 R(A,B)
 
 | A   | B   |
@@ -90,3 +93,10 @@ R - S
 | A   | B   |
 | --- | --- |
 | a1  | 101 |
+
+___
+## Product ($\times$)
+- Matrix Multiplication
+$$
+(R \times S)
+$$
