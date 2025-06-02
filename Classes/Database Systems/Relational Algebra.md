@@ -10,7 +10,7 @@
 | $\times$  | Product      |
 | $\rho$    | Rename       |
 | $\gamma$  | Aggregation  |
-
+___
 ## Selection ($\sigma$)
 - Acts as a filter
 - You can use conjunction (AND)  and disjunction (OR)
@@ -25,6 +25,7 @@ select * from R
 where A = 'a2' and B > 102;
 ```
 
+___
 ## Projection $\pi$
 - Return tuples with specific attributes
 - Corresponds to [[SQL#Query|SELECT in SQL]]
@@ -39,3 +40,53 @@ select B-100, A from R
 where A = 'a2';
 ```
 
+___
+## Union ($\cup$)
+- Return Tuples appearing in any of the two relations
+	- No Duplicates
+$$
+(R \cup S)
+$$
+
+Example:
+$R \cup S$
+```SQL
+(select * from R) UNION (select * from S);
+```
+
+___
+## Intersection ($\cap$)
+- Return Tuples appearing in both relations
+$$
+(R \cap S)
+$$
+
+Example:
+$R \cap S$
+```SQL
+(select * from R) INTERSECT (select * from S);
+```
+
+___
+## Difference ($-$)
+- Return tuples appearing in R but not S
+
+R(A,B)
+
+| A   | B   |
+| --- | --- |
+| a1  | 101 |
+| a3  | 102 |
+
+S(A,B)
+
+| A   | B   |
+| --- | --- |
+| a3  | 102 |
+| a4  | 104 |
+
+R - S
+
+| A   | B   |
+| --- | --- |
+| a1  | 101 |
