@@ -57,8 +57,23 @@ select UserID, Salary from Payroll // specific attributes
 where Salary > 70000; // Condition / sigma (σ)
 ```
 
+### Merging Tables
 ```SQl
 select p.Name, r.Car
 from Payroll p, Registr r
-where p.UserID = r.UserID
+where p.UserID = r.UserID // Join Condition
 ```
+
+```SQl
+select p.Name, r.Car
+from Payroll p left outer join Registr r // Joining based on the first column of Payroll
+on p.UserID = r.UserID
+```
+
+```SQl
+select p.Name, r.Car
+from Payroll p, Registr r
+where r.UserID = "Civic"
+and r.UserID = "Pinto"
+```
+
