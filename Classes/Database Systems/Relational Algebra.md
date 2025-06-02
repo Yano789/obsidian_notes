@@ -136,5 +136,15 @@ left outer join S on R.A = S.D;
 ___
 ### Rename
 $$
-\rho_{R'(A1,...,An)}
+\rho_{R'(A1,...,An)}(R)
 $$
+
+Example:
+```SQL
+select * from R natural join
+(select D as A, E, F from S) as S2;
+```
+
+![[Relational Algebra-7.png|302x325]]
+
+___
