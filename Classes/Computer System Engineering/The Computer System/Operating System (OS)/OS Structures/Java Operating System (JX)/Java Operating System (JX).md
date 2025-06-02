@@ -11,4 +11,3 @@ written almost entirely in Java*
 Each domain represents an independent Java Virtual Machine (JVM)
 - * Domain 0 is written in C and assembly language; everything else is Java
 - Communication between domains is done through **portals**
-- 
