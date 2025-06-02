@@ -71,10 +71,10 @@ on p.UserID = r.UserID
 ```
 
 ```SQl
-select p.Name, r.Car
-from Payroll p, Registr r
-where p.UserID = r.UserID
-and r.Car = "Civic"
-and r.Car = "Pinto"
+select p.Name, r1.Car as 'car1', r2.Car as 'car2'
+from Payroll p, Registr r1, Regist r2
+where p.UserID = r1.UserID
+and r1.UserID = r2.UserID
+and r1.Car = "Civic" and r2.Car = "Pinto"
 ```
 
