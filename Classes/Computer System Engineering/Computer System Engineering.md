@@ -29,7 +29,7 @@
 		- **[[Mulitprogramming]]**
 
 		- [[OS Design and Implementation]]
-		- [[OS Structures]]
+		- **[[OS Structures]]**
 		- [[Quanta]]
 		- [[System Programs]]
 		- [[Terminal Emulator]]
