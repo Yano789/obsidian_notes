@@ -158,5 +158,5 @@ ___
 	- COUNT()
 - B1,...,Bm attributes that are arguments for aggregation functions
 $$
-_{A1}
+_{A1,...An} \gamma_{F1(B1),F2(B2),...} (R)
 $$
