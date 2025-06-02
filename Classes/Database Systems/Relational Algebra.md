@@ -87,4 +87,42 @@ select * from R cross join S;
 ```
 
 Example:
-![[Relational Algebra-2.png|339x419]]
+![[Relational Algebra-2.png|323x399]]
+
+___
+## Join ($\bowtie$)
+### Inner Join
+- Return tuples in $R\times S$ and satisfying a condition
+$$
+(R \bowtie_{R.A = S.D}S)
+$$
+
+Example:
+```SQL
+select * from R, S
+where R.A = S.D;
+```
+![[Relational Algebra-3.png|345x327]]
+
+___
+### Natural Join
+- Inner join but:
+	- detect attributes with same names
+	- remove duplicates
+$$
+(R \bowtie S)
+$$
+Example:
+```SQL
+select * from R natural join S;
+```
+
+![[Relational Algebra-4.png|342x382]]
+
+___
+## Left Outer Join
+- Same as inner join but:
+	- all tuples of R appear in the result
+$$
+(R \bowtie)
+$$
