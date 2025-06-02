@@ -27,3 +27,13 @@ insert into Payroll values (001, "Kenny", "Prof", 10000),
 							(002, "Fiona", "TA", 10000); //same thing except shorter
 ```
 
+### Extract, Transform, Load (ETL)
+
+```SQL
+load data infile "payroll.csv" into table Payroll
+fields terminated by ',' Enclosed by '"'
+lines terminated by '\n'
+ignore 1 rows;
+```
+
+*Note: search ETL for your DBMS because it is different for all*
