@@ -27,5 +27,6 @@ Object-oriented shell developed originally for Windows OS
 ![[Command-Line Interpreter-1.png|511x301]]
 
 *wait() refers to [[System Call (Trap)#Blocking|Blocking System Call]]*
+- the wait() synchronizes 2 independent [[Process|processes]] 
 - not all application requires parent to wait
 - eg. [[Daemons]]
