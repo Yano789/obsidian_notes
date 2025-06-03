@@ -40,7 +40,7 @@ Kernel provides **defensive security measures**, protecting itself against inter
 *Note: CPU caches are managed by the hardware (cache replacement policy, determining a HIT or a MISS * 
 
 #### Configuring the [[Memory Management Unit (MMU)]]
-Data transfer from disk to memory and vice versa is usually controlled by the **kernel** *(requires context switching)*, while data transfer from CPU registers to CPU [[The Cache Idea|cache]] is usually a **hardware function** without intervention from the kernel. There is too much **overhead** if the kernel is also tasked to perform the latter.
+Data transfer from disk to memory and vice versa is usually controlled by the **kernel** *(requires context switching)*, while data transfer from CPU registers to CPU [[The Cache Idea|cache]] is usually a **hardware function** without intervention from the kernel. There is too much [[Overhead]] if the kernel is also tasked to perform the latter.
 
 Recall that the Kernel is responsible to program and set up the cache and [[Memory Management Unit (MMU)]] hardware, and manage the entire virtual memory. Kernel memory management routines are **triggered** when processes running in user mode encounter **page-fault** related interrupts. Careful **selection** of the page size and of a replacement policy can result in a greatly increased performance.
 
