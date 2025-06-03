@@ -6,7 +6,7 @@ Divided into four components:
 3. Application/[[Application (User) Program]]
 4. Users
 
-![[The-Computer-System-1.webp]]
+![[The-Computer-System-1.webp|451x279]]
 
 ## System Structure
 ### Multiprocessor System
@@ -16,12 +16,12 @@ Main advantages:
 - **Increased Reliability**: If one core fails, we still have other cores to do the work 
 
 #### Symmetric Architechture
-![[The Computer System-1.webp]]
+![[The Computer System-1.webp|386x247]]
 
 *Notice how we have multiple CPU's*
 
 #### Multi-Core Architechture
-![[The Computer System-2.webp]]
+![[The Computer System-2.webp|402x371]]
 
 *On-chip communication is faster than across chip communication*
 
