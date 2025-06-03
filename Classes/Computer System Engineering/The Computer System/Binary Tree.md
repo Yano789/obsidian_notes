@@ -1,0 +1,1 @@
+a [[Tree Graph]] in which each node has at most two children, referred to as the _left child_ and the _right child_.
