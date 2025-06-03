@@ -51,5 +51,5 @@ The **src attribute** of `<img>` specifies the **path to the image** to be displ
 collects input from the user to be sent to a server
 
 ```html
-<form action="a_URL" method = "post">
+<form action="a_URL" method = "post">  </form>
 ```
