@@ -24,7 +24,7 @@ Object-oriented shell developed originally for Windows OS
 - typically found in default `PATH` such as `/usr/bin`
 
 # Shell Main loop
-![[Command-Line Interpreter-1.png|511x301]]
+![[Command-Line Interpreter-1.webp|511x301]]
 
 *wait() refers to [[System Call (Trap)#Blocking|Blocking System Call]]*
 - the wait() synchronizes 2 independent [[Process|processes]] 

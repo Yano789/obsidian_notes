@@ -74,7 +74,7 @@ $$
 (R-S)
 $$
 Example:
-![[Relational Algebra-1.png|371x140]]
+![[Relational Algebra-1.webp|371x140]]
 
 ___
 ## Product ($\times$)
@@ -87,7 +87,7 @@ select * from R cross join S;
 ```
 
 Example:
-![[Relational Algebra-2.png|323x399]]
+![[Relational Algebra-2.webp|323x399]]
 
 ___
 ## Join ($\bowtie$)
@@ -102,7 +102,7 @@ Example:
 select * from R, S
 where R.A = S.D;
 ```
-![[Relational Algebra-3.png|345x327]]
+![[Relational Algebra-3.webp|345x327]]
 
 ___
 ### Natural Join
@@ -117,13 +117,13 @@ Example:
 select * from R natural join S;
 ```
 
-![[Relational Algebra-4.png|342x382]]
+![[Relational Algebra-4.webp|342x382]]
 
 ___
 ### Left Outer Join
 - Same as inner join but:
 	- all tuples of R appear in the result
-![[Relational Algebra-5.png|174x45]]
+![[Relational Algebra-5.webp|174x45]]
 
 Example:
 ```SQL
@@ -131,7 +131,7 @@ select * from R
 left outer join S on R.A = S.D;
 ```
 
-![[Relational Algebra-6.png|336x358]]
+![[Relational Algebra-6.webp|336x358]]
 
 ___
 ## Rename
@@ -145,7 +145,7 @@ select * from R natural join
 (select D as A, E, F from S) as S2;
 ```
 
-![[Relational Algebra-7.png|302x325]]
+![[Relational Algebra-7.webp|302x325]]
 
 ___
 ## Aggregation
@@ -161,6 +161,6 @@ $$
 _{A1,...An} \gamma_{F1(B1),F2(B2),...} (R)
 $$
 
-| ![[Relational Algebra-10.png\|190x190]] | ![[Relational Algebra-9.png\|190x190]] | ![[Relational Algebra-11.png\|190x190]] |
+| ![[Relational Algebra-10.webp\|190x190]] | ![[Relational Algebra-9.webp\|190x190]] | ![[Relational Algebra-11.webp\|190x190]] |
 | --------------------------------------- | -------------------------------------- | --------------------------------------- |
 
