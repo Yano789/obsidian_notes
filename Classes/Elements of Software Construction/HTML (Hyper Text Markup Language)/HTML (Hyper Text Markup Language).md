@@ -46,3 +46,10 @@ The **href attribute** of `<a>` specifies the **URL of the page** the link goes 
 <img src=”Elephant.jpg" width="500" height="600">
 ```
 The **src attribute** of `<img>` specifies the **path to the image** to be displayed. The *width* and *height* specify the *image size*
+
+## `<form>`
+collects input from the user to be sent to a server
+
+```html
+<form action="a_URL" method = "post">
+```
