@@ -12,7 +12,9 @@
 		- [[IRQ and Service Delay]]
 		- [[Polled Interrupt System]]
 		- [[Raw Device Polling]]
+		- [[Timer IRQ]]
 		- [[Vectored Interrupt System]]
+		- [[Wait IRQ]]
 	- **[[Operating System (OS)]]**
 		- [[Application (User) Program]]
 		- **[[Booting]]**

@@ -1,0 +1,1 @@
+When there is an [[Asynchronous Interrupt]]/[[Asynchronous Interrupt|Hardware Interrupt]] the [[Classes/Computer System Engineering/The Computer System/Operating System (OS)/Kernel/Kernel|Kernel]] will pause the [[Process]] and [[Context Switch]] to the [[Process]] with priority.
