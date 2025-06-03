@@ -1,3 +1,7 @@
+---
+aliases:
+  - Shell
+---
 The [[Interpreter]] of UNIX Systems are known as shells
 
 Users typically interact with a Unix Shell via a [[Terminal Emulator]], or by writing a shell script that contains a bunch of successive commands to be executed
@@ -18,3 +22,10 @@ Object-oriented shell developed originally for Windows OS
 
 [[System Programs]]
 - typically found in default `PATH` such as `/usr/bin`
+
+# Shell Main loop
+![[Command-Line Interpreter-1.png|511x301]]
+
+*wait() refers to [[System Call (Trap)#Blocking|Blocking System Call]]*
+- not all application requires parent to wait
+- eg. [[Daemons]]

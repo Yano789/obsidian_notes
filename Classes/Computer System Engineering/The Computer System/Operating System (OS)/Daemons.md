@@ -1,0 +1,1 @@
+a [[System Programs|system program]] that runs as a background [[Process]], rather than being under the direct control of an interactive user.

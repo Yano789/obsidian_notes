@@ -33,4 +33,4 @@ After assembling and compiling, we must load the program into the memory so that
 create virtual connections among the system
 
 ## Background Services
-constantly running system-programs known as *services, subsystems,* or *daemons*
+constantly running system-programs known as *services, subsystems,* or *[[Daemons]]*
