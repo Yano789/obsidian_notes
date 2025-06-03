@@ -1,1 +1,1 @@
-Any extra work, time, memory, or resource that is require to ... or support a task
+Any extra work, time, memory, or resource usage that is required to manage or support a task, but is not directly contributing to the task’s core goal
