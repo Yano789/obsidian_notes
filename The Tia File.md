@@ -1,4 +1,3 @@
-
 ## Personal Information
 
 - **Full Name**: Bettina Famke Therese Yu Palang
