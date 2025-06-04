@@ -40,6 +40,11 @@ ___
 
 ![[Process Management-1.png|359x261]]
 
+## [[Process Table]]
+
+
+
+## Process Control Block
 
 
 
