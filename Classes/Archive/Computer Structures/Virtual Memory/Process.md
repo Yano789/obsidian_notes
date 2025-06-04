@@ -54,7 +54,7 @@ ___
 	- [[Scheduling and Multiple Interrupts|Scheduling Information]]
 	- Memory Management Information
 	- Accounting Information
-	- 
+	- [[Device Controllers#I/O]] status
  
 
 ___

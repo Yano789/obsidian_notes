@@ -1,7 +1,6 @@
 ---
 aliases:
-  - controllers
-  - I/O
+  - Controllers
 ---
 
 electronic components inside a computer that are in charge of specific devices:
