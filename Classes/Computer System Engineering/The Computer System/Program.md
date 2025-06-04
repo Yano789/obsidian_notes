@@ -9,3 +9,5 @@ A **program** is a _passive entity_, just lines of instructions. It resides on d
 | Used for operating computer hardware and very common system-usage purposes | Used to perform specific user-related tasks |
 | Typically comes with [[Operating System (OS)]]                             | Installed according to user requirements    |
 | Commonly runs in the background, require minimal to no user interactions   | Requires interaction with the User          |
+
+A program becomes a 
