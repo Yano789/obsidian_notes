@@ -9,7 +9,8 @@
 	- **[[Context Switching]]**
 
 	- [[Device Controllers]]
-	- [[Fork()]]
+	- [[exit()]]
+	- [[fork()]]
 	- **Interrupts**
 		- [[Interrupt Vector]]
 		- [[IRQ and Service Delay]]
@@ -57,5 +58,6 @@
 	- **Process Management**
 
 	- [[Program]]
+	- [[wait()]]
 
 %% End Waypoint %%

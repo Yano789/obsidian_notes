@@ -1,9 +1,10 @@
 ---
+aliases:
+  - processes
 tags:
   - ComputationStructures
   - ComputerSystemEngineering
 ---
-
 A **process** is a unit of work in the system. It is an active entity, with its states changing over time as the instructions are executed
 
 ![[Process-1.webp|514x445]]
@@ -17,6 +18,9 @@ Each Box above represents a *process' context*:
 5. [[Stack Implementation|Stack]] (temporary data)
 6. **Data** (allocated memory during compile time; global and static variables)
 7. **Heap** (dynamically allocated memory)
+___
+# Process ID (pid)
+an integer used to identify each [[Process]], unique in the system
 
 ___
 # Concurrency and Protection
@@ -78,19 +82,17 @@ Each queue contains a pointer to the corresponding [[Process#Process Control Blo
 ___
 # Process Operations
 ## Process Creation
-We can create new [[Process|processes]] using [[Fork()]] [[System Call (Trap)]] 
+We can create new [[Process|processes]] using [[fork()]] [[System Call (Trap)]] 
 1. The [[Process]] creator is called a **Parent Process**, the new [[Process|processes]] are called the *children* of that [[Process]]
+	- The child [[Process]] inherits all the address space (includes state) of the original parent [[Process]] at the point of [[fork()]]
+	- They operate in different address spaces and thus work [[Process#Concurrency|concurrently]]
+	- The parent will wait for the child to [[wait()]] to read the child process' exit status, only then will the [[Process#Process Control Block (PCB)|PCB]] be removed
 2. Each of these [[Process|processes]] may create more **Child Processes** forming a tree of [[Process|processes]]
 
 ### Process Tree
+P0 (Parent [[Process]]) creates 3 child [[Process|processes]], and one child [[Process]] creates another child [[Process]]
 ![[Process-1.png|236x246]]
-___
-## Termination / exit() [[System Call (Trap)|System Call]]
-- Orphaned
-	- Parents terminate before child
-	- Adopted by init/equivalent
-- Zombies (when terminated, [[Operating System (OS)]] will [[Deallocate]] its [[Virtual Memory]] but keep its metadata until parent [[Process]] calls *wait()/waitpid()*)
-	- Once parent calls wait, the [[Classes/Computer System Engineering/The Computer System/Operating System (OS)/Kernel/Kernel|Kernel]] will remove the zombie child and unassign the pid ([[Process]] ID)
-	- Dead Children
-	- Parents don't know yet
+
+
+
 
