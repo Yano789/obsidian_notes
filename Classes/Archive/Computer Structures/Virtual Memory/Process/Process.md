@@ -7,7 +7,7 @@ tags:
 ---
 A **process** is a unit of work in the system. It is an active entity, with its states changing over time as the instructions are executed
 
-![[Process-1.webp|514x445]]
+![[Classes/Archive/Computer Structures/Photos/Process-1.webp|514x445]]
 *Sample Memory Allocation for a Single Process* 
 
 Each Box above represents a *process' context*:
@@ -48,7 +48,7 @@ ___
 4. **Ready**: The [[Process]] is *waiting to be assigned* to a processor
 5. **Terminated**: The [[Process]] has *finished execution*
 
-![[Process Management-1.png|359x261]]
+![[Process Management-1.webp|359x261]]
 
 ## Process Table
 - a data structure containing all sorts of information about current [[Process|processes]] in the system
@@ -92,10 +92,10 @@ We can create new [[Process|processes]] using [[fork()]] [[System Call (Trap)]]
 ### Process Tree
 P0 (Parent [[Process]]) creates 3 child [[Process|processes]], and one child [[Process]] creates another child [[Process]]
 
-| ![[Process-1.png\|200x200]] | ![[Process-2.png\|350]]                                                                                            |
+| ![[Classes/Archive/Computer Structures/Virtual Memory/Process/Process-1.webp\|200x200]] | ![[Process-2.webp\|350]]                                                                                            |
 | --------------------------- | ------------------------------------------------------------------------------------------------------------------ |
 |                             | *Note: the pid variable of the parent is the actual pid of the child, HOWEVER, the pid variable of the child is 0* |
-![[Process-3.png|411x279]]
+![[Process-3.webp|411x279]]
 
 **Parent**
 - [[fork()]] to create a child and [[wait()]] for it to [[exit()]] to continue

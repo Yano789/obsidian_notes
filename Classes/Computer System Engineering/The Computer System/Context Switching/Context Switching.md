@@ -11,5 +11,5 @@ Benefits:
 Drawbacks:
 - [[Overhead]]
 
-![[Context Switch-1.png|377x328]]
+![[Context Switch-1.webp|377x328]]
 
