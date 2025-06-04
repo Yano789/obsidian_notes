@@ -27,8 +27,7 @@ the two abstractions of a [[Process]]
 
 ___
 # Piggybacking
-
-
+- The process can *piggyback* on the [[System Call (Trap)]] to get access to the [[Kernel Mode (PC31 MSB = 1)|kernel mode]]
 
 ___
 # Termination / exit() [[System Call (Trap)]]
