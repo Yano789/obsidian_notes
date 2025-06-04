@@ -30,6 +30,20 @@ ___
 - The process can *piggyback* on the [[System Call (Trap)]] to get access to the [[Kernel Mode (PC31 MSB = 1)|kernel mode]]
 
 ___
+# Process Management
+## Process Scheduling States
+1. **New**: *Created* [[Process]]
+2. **Running**: Instructions are *being executed*
+3. **Waiting**: The [[Process]] is *waiting for an event* to continue
+4. **Ready**: The [[Process]] is *waiting to be assigned* to a processor
+5. **Terminated**: The [[Process]] has *finished execution*
+
+![[Process Management-1.png|359x261]]
+
+
+
+
+___
 # Termination / exit() [[System Call (Trap)]]
 - Orphaned
 	- Parents terminate before child
