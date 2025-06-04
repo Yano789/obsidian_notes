@@ -49,7 +49,11 @@ ___
 ## Process Control Block (PCB)
 - stores each [[Process|process']] metadata:
 	- [[Process#Process Scheduling States|Process Scheduling State]]
-	- [[Process#Process Scheduling States]] 
+	-  Program Counter (PC) - address for the next instruction
+	- CPU Registers - [[Stack Implementation]]
+	- [[Scheduling and Multiple Interrupts|Scheduling Information]]
+	- Memory Management Information
+	- Accounting Information
 	- 
  
 

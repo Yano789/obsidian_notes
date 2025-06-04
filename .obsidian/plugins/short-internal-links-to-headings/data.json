@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "shortLinksToFiles": true,
+  "shortLinksToHeadings": true,
+  "showSubheadings": true,
+  "showHash": false,
+  "shortLinksToBlocks": true,
+  "showCaret": false,
+  "showIcons": false,
+  "replaceExternalLinkIcons": false,
+  "iconPosition": "start"
+}
