@@ -6,7 +6,8 @@
 	- **[[Application Programming Interface]]**
 
 	- [[Binary Tree]]
-	- [[Context Switch]]
+	- **[[Context Switching]]**
+
 	- [[Device Controllers]]
 	- [[Fork]]
 	- **Interrupts**

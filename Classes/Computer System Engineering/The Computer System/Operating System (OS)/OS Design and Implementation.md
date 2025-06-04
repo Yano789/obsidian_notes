@@ -18,7 +18,7 @@ tags: []
 
 ### Mechanism
 low-level operations or [[Function|functions]] from the [[Operating System (OS)]] to do basic tasks. They define how the following are done:
-- [[Context Switch]] - how the [[Operating System (OS)]] switches between different [[Process]] or threads
+- [[Context Switching]] - how the [[Operating System (OS)]] switches between different [[Process]] or threads
 - [[Classes/Computer System Engineering/The Computer System/Operating System (OS)/Kernel/Kernel#3. Memory Management|Memory Management]] - how memory is accessed, allocated, and deallocated
 - [[Kernel Mode (PC31 MSB = 1)|File Management]] -how files are add, modified, and deleted
 - **Synchronization Primitives** - how synchronous tools are implements

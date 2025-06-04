@@ -5,3 +5,5 @@ Benefits:
 
 Drawbacks:
 - [[Overhead]]
+
+![[Context Switch-1.png|377x328]]
