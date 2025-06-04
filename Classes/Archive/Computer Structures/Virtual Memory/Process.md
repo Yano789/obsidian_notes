@@ -49,7 +49,7 @@ ___
 ## Process Control Block (PCB)
 - stores each [[Process|process']] metadata:
 	- [[Process#Process Scheduling States|Process Scheduling State]]
-	- 
+	- [[Process#Process Scheduling States]] 
 	- 
  
 
