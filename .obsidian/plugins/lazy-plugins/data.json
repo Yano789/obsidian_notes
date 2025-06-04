@@ -71,6 +71,9 @@
       },
       "obsidian-style-settings": {
         "startupType": "instant"
+      },
+      "link-headers-directly": {
+        "startupType": "instant"
       }
     },
     "loadOrder": []
