@@ -92,9 +92,9 @@ We can create new [[Process|processes]] using [[fork()]] [[System Call (Trap)]]
 ### Process Tree
 P0 (Parent [[Process]]) creates 3 child [[Process|processes]], and one child [[Process]] creates another child [[Process]]
 
-| ![[Classes/Archive/Computer Structures/Virtual Memory/Process/Process-1.webp\|200x200]] | ![[Process-2.webp\|350]]                                                                                            |
-| --------------------------- | ------------------------------------------------------------------------------------------------------------------ |
-|                             | *Note: the pid variable of the parent is the actual pid of the child, HOWEVER, the pid variable of the child is 0* |
+| ![[Classes/Archive/Computer Structures/Virtual Memory/Process/Process-1.webp\|200x200]] | ![[Process-2.webp\|350]]                                                                                           |
+| --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+|                                                                                         | *Note: the pid variable of the parent is the actual pid of the child, HOWEVER, the pid variable of the child is 0* |
 ![[Process-3.webp|411x279]]
 
 **Parent**
