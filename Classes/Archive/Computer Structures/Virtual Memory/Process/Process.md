@@ -106,12 +106,12 @@ P0 (Parent [[Process]]) creates 3 child [[Process|processes]], and one child [[P
 ## Process Termination
 resources for [[Process|processes]] are limited, thus we must kill/[[exit()]] [[Process|processes]] to save or reuse these resources
 
-**Orphaned Processes**
+### Orphaned Processes
 - Parents terminate before child
 - Adopted by init/equivalent
 
-**Zombie Processes**
-- when terminated, [[Operating System (OS)|OS]] will [[Deallocate]] its [[Virtual Memory]] but keep its metadata until parent [[Process]] calls *[[wait()]]/waitpid()*)
+### Zombie Processes
+- when terminated, [[Operating System (OS)|OS]] will [[Deallocate]] its [[Virtual Memory]] but keep its metadata until parent [[Process]] calls *[[wait()]]
 - Once parent calls [[wait()]], the [[Classes/Computer System Engineering/The Computer System/Operating System (OS)/Kernel/Kernel|Kernel]] will remove the zombie child and unassign the [[Process#Process ID (pid)]]
-- Dead Children
-- Parents don't know yet
+- Parents don't know that the child is dead yet
+- *Zombie Processes take up one bit for pid in the [[Process#Process Control Block (PCB)]] so we need to get rid of it to run more processes* 
