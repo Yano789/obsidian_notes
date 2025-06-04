@@ -1,3 +1,8 @@
+---
+aliases:
+  - Kernel Scheduler
+---
+
 1. **Weak Policy:** Machine has a fixed-ordering of Priority, and will **wait for the process to finish** before starting the next one
 2. **Strong Policy:** Machine will **interrupt/cut-in** based on Ranking
 	a. If higher priority interrupts happen at a high rate, requests with lower priorities might be interrupted repeatedly – potentially resulting in **starvation** 

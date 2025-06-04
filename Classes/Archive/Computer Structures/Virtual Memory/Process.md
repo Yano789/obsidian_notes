@@ -12,6 +12,25 @@ Each Box above represents a *process' context or state*:
 6. **Data** (allocated memory during compile time; global and static variables)
 7. **Heap** (dynamically allocated memory)
 
+___
+# Concurrency and Protection
+the two abstractions of a [[Process]]
+
+## Protection
+- Each [[Process]] runs in a different address space and sees itself running in a virtual machine
+- They think they are the only process running
+- Each [[Process]] is managed by the [[Scheduling and Multiple Interrupts|Kernel Scheduler]] 
+
+## Concurrency
+- Mutliple processes being in progress at the same time, sharing system resources
+- [[Timesharing]]/[[Mulitprogramming]]
+
+___
+# Piggybacking
+
+
+
+___
 # Termination / exit() [[System Call (Trap)]]
 - Orphaned
 	- Parents terminate before child
@@ -20,3 +39,4 @@ Each Box above represents a *process' context or state*:
 	- Once parent calls wait, the [[Classes/Computer System Engineering/The Computer System/Operating System (OS)/Kernel/Kernel|Kernel]] will remove the zombie child and unassign the pid ([[Process]] ID)
 	- Dead Children
 	- Parents don't know yet
+

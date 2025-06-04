@@ -10,4 +10,4 @@ A **program** is a _passive entity_, just lines of instructions. It resides on d
 | Typically comes with [[Operating System (OS)]]                             | Installed according to user requirements    |
 | Commonly runs in the background, require minimal to no user interactions   | Requires interaction with the User          |
 
-A program becomes a 
+A [[Program]] becomes a [[Process]] when an executable (binary) file is loaded into the memory (by opening the program)
