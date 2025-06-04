@@ -47,13 +47,14 @@ ___
 
 
 ## Process Control Block (PCB)
+- also known as **Task Control Block (TCB)**
 - stores each [[Process|process']] metadata:
 	- [[Process#Process Scheduling States|Process Scheduling State]]
 	-  Program Counter (PC) - address for the next instruction
 	- CPU Registers - [[Stack Implementation]]
 	- [[Scheduling and Multiple Interrupts|Scheduling Information]]
 	- Memory Management Information
-	- Accounting Information
+	- Accounting Information - amount of CPU and real time used, time limits, accounting numbers, process id (pid)
 	- [[Device Controllers#I/O]] status
  
 
