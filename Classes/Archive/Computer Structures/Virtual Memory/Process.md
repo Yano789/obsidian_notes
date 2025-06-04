@@ -4,12 +4,13 @@ A **process** is a unit of work in the system. It is an active entity, with its 
 *Sample Memory Allocation for a Single Process* 
 
 Each Box above represents a process' context:
-1. Text: Code or Instructions
-2. Value of Program Counter (PC)
-3. Contents of the processors register
-4. Dedicated Address Space (block of location) in the memory
+1. **Text**: Code or Instructions
+2. **Value of Program Counter (PC)**
+3. **Contents of the processors register**
+4. **Dedicated Address Space** (block of location) in the memory
 5. [[Stack Implementation|Stack]] (temporary data)
-6. Data (allocated memory during compile time; global and static variables)
+6. **Data** (allocated memory during compile time; global and static variables)
+7. **Heap** (dynamically allocated memory)
 
 # Termination / exit() [[System Call (Trap)]]
 - Orphaned
