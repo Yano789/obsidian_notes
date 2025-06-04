@@ -3,7 +3,7 @@ A **process** is a unit of work in the system. It is an active entity, with its 
 ![[Process-1.webp|514x445]]
 *Sample Memory Allocation for a Single Process* 
 
-Each Box above represents a process' context:
+Each Box above represents a *process' context or state*:
 1. **Text**: Code or Instructions
 2. **Value of Program Counter (PC)**
 3. **Contents of the processors register**
