@@ -91,8 +91,26 @@ We can create new [[Process|processes]] using [[fork()]] [[System Call (Trap)]]
 
 ### Process Tree
 P0 (Parent [[Process]]) creates 3 child [[Process|processes]], and one child [[Process]] creates another child [[Process]]
-![[Process-1.png|236x246]]
 
+| ![[Process-1.png\|200x200]] | ![[Process-2.png\|350]]                                                                                            |
+| --------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+|                             | *Note: the pid variable of the parent is the actual pid of the child, HOWEVER, the pid variable of the child is 0* |
+![[Process-3.png|411x279]]
 
+**Parent**
+- [[fork()]] to create a child and [[wait()]] for it to [[exit()]] to continue
 
+**Child**
+- gets created by parent [[fork()]] and will run until [[exit()]]
 
+## Process Termination
+resources for [[Process|processes]] are limited, thus we must kill/[[exit()]] [[Process|processes]] to save or reuse these resources
+
+**Orphaned Processes**
+- Parents terminate before child
+- Adopted by init/equivalent
+
+**Zombie Processes** (when terminated, [[Operating System (OS)]] will [[Deallocate]] its [[Virtual Memory]] but keep its metadata until parent [[Process]] calls *wait()/waitpid()*)
+	- Once parent calls wait, the [[Classes/Computer System Engineering/The Computer System/Operating System (OS)/Kernel/Kernel|Kernel]] will remove the zombie child and unassign the [[Process#Process ID (pid)]]
+	- Dead Children
+	- Parents don't know yet

@@ -1,6 +1,8 @@
 ---
 aliases:
   - Software Interrupt
+  - System Call
+  - Trap
 ---
 
 Application requests to use the operating system, which switches the CPU into kernel mode (uses operating system code).

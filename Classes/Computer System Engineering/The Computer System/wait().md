@@ -1,0 +1,1 @@
+a [[System Call (Trap)|System Call]] that suspends execution waiting for something
