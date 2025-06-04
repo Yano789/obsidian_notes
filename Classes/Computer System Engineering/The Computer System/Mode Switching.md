@@ -1,0 +1,4 @@
+- the privilege of a [[Process]] changes
+- elevates privilege from [[User Mode (MSB = 0)|User Mode]] to [[Kernel Mode (PC31 MSB = 1)|Kernel Mode]] to access the [[Classes/Computer System Engineering/The Computer System/Operating System (OS)/Kernel/Kernel|Kernel]] Services
+- Done by [[Asynchronous Interrupt|Hardware Interrupt]], [[System Call (Trap)]], [[Exception]], or Reset
+- Mode switch **MAY NOT** always lead to [[Context Switching|Context Switch]], the [[Classes/Computer System Engineering/The Computer System/Operating System (OS)/Kernel/Kernel|Kernel]] will decide whether it is necessary or not 

@@ -1,6 +1,6 @@
 **Goal**: Provide interactive user experience and fast response times.
 
-Naturally, [[Mulitprogramming]] allows for **timesharing**. Therefore it is **an extension** by allows multiple people to use the system at the same time. We do this by slices the CPU into multiple time slices, [[Quanta]].
+Naturally, [[Mulitprogramming]] allows for **timesharing**. Therefore it is **an extension** by allows multiple people to use the system at the same time. We do this by slicing the CPU into multiple time slices, [[Quanta]].
 
 **Simplified implementation**:
 - The [[Operating System (OS)]] maintains a list of active user [[Process|proccesses]].

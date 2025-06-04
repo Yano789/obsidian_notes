@@ -56,8 +56,17 @@ ___
 	- Memory Management Information
 	- Accounting Information - amount of CPU and real time used, time limits, accounting numbers, process id (pid)
 	- [[Device Controllers#I/O]] status
- 
 
+## Process Scheduling Detail
+- selects an available [[Process]] for [[Program]] execution on the CPU
+	- **single-processor system**: 
+		- there will never be more than one actual running [[Process]] at any instant
+		- if there are more, they will have to wait in the queue
+
+### Process Scheduling Queues
+1. **Job** Queue - all [[Process|processes]] in the system
+2. **Ready** Queue - all [[Process|processes]] residing in main memory, ready and waiting to be executing
+3. **Device** Queue - all [[Process|processes]] waiting for an [[Device Controllers#I/O]] device (*one queue for each device*)
 ___
 # Termination / exit() [[System Call (Trap)]]
 - Orphaned

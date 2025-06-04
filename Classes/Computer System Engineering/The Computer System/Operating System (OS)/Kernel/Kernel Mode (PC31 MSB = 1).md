@@ -1,3 +1,8 @@
+---
+aliases:
+  - Kernel Mode
+---
+
 a specific privilege wherein the kernel has/can:
 1. **SECURITY**: Ultimate access and control to all hardware in the computer system (mouse, keyboard, display, network cards, disk, RAM, CPU, etc)
 2. **FILE MANAGEMENT**: Know (and lives in) the [[Physical Address (PA)]] space and manages the [[Memory Hierarchy]]

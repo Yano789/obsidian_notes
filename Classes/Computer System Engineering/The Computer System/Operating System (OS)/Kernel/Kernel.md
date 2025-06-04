@@ -11,7 +11,7 @@ The kernel is the **heart** of the [[Operating System (OS)]]
 ___
 ## Types of Privileges
 [[Kernel Mode (PC31 MSB = 1)]]
-[[User Mode(MSB = 0)]]
+[[User Mode (MSB = 0)]]
 
 ___
 ## Roles of the Kernel

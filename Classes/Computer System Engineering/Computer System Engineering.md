@@ -18,6 +18,7 @@
 		- [[Timer IRQ]]
 		- [[Vectored Interrupt System]]
 		- [[Wait IRQ]]
+	- [[Mode Switching]]
 	- **[[Operating System (OS)]]**
 		- [[Application (User) Program]]
 		- **[[Booting]]**
@@ -31,7 +32,7 @@
 			- [[Kernel Mode (PC31 MSB = 1)]]
 			- [[Preemption Kernel]]
 			- [[Reentrancy Kernel]]
-			- [[User Mode(MSB = 0)]]
+			- [[User Mode (MSB = 0)]]
 		- **[[Mulitprogramming]]**
 
 		- [[OS Design and Implementation]]
