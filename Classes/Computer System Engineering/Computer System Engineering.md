@@ -9,7 +9,7 @@
 	- **[[Context Switching]]**
 
 	- [[Device Controllers]]
-	- [[Fork]]
+	- [[Fork()]]
 	- **Interrupts**
 		- [[Interrupt Vector]]
 		- [[IRQ and Service Delay]]

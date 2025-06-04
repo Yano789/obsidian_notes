@@ -70,7 +70,16 @@ ___
 
 Each queue contains a pointer to the corresponding [[Process#Process Control Block (PCB)]] that are waiting for either CPU or [[Device Controllers#I/O]] 
 ___
-# Termination / exit() [[System Call (Trap)]]
+# Process Operations
+## Process Creation
+We can create new [[Process|processes]] using [[Fork()]] [[System Call (Trap)]] 
+1. The [[Process]] creator is called a **Parent Process**, the new [[Process|processes]] are called the *children* of that [[Process]]
+2. Each of these [[Process|processes]] may create more **Child Processes** forming a tree of [[Process|processes]]
+
+### Process Tree
+![[Process-1.png|236x246]]
+___
+## Termination / exit() [[System Call (Trap)|System Call]]
 - Orphaned
 	- Parents terminate before child
 	- Adopted by init/equivalent
