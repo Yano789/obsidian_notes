@@ -67,6 +67,8 @@ ___
 1. **Job** Queue - all [[Process|processes]] in the system
 2. **Ready** Queue - all [[Process|processes]] residing in main memory, ready and waiting to be executing
 3. **Device** Queue - all [[Process|processes]] waiting for an [[Device Controllers#I/O]] device (*one queue for each device*)
+
+Each queue contains a pointer to the corresponding [[Process#Process Control Block (PCB)]] that are waiting for either CPU or [[Device Controllers#I/O]] 
 ___
 # Termination / exit() [[System Call (Trap)]]
 - Orphaned
