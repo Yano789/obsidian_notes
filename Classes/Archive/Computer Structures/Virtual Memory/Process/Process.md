@@ -48,7 +48,7 @@ ___
 4. **Ready**: The [[Process]] is *waiting to be assigned* to a processor
 5. **Terminated**: The [[Process]] has *finished execution*
 
-![[Process Management-1.webp|359x261]]
+![[Process-4.webp|359x261]]
 
 ## Process Table
 - a data structure containing all sorts of information about current [[Process|processes]] in the system

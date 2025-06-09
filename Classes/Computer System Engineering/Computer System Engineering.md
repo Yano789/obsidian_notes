@@ -55,8 +55,6 @@
 
 		- [[User Interface]]
 	- [[Parameter Passing]]
-	- **Process Management**
-
 	- [[Program]]
 	- [[wait()]]
 
