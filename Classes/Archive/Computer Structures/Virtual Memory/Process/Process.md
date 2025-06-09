@@ -1,13 +1,10 @@
 ---
 aliases:
   - processes
-tags:
-  - ComputationStructures
-  - ComputerSystemEngineering
 ---
 A **process** is a unit of work in the system. It is an active entity, with its states changing over time as the instructions are executed
 
-![[Classes/Archive/Computer Structures/Photos/Process-1.webp|514x445]]
+![[Classes/Archive/Computer Structures/Photos/Process-1.webp|284x284]]
 *Sample Memory Allocation for a Single Process* 
 
 Each Box above represents a *process' context*:
@@ -91,10 +88,13 @@ We can create new [[Process|processes]] using [[fork()]] [[System Call (Trap)]]
 
 ### Process Tree
 P0 (Parent [[Process]]) creates 3 child [[Process|processes]], and one child [[Process]] creates another child [[Process]]
+![[Classes/Archive/Computer Structures/Virtual Memory/Process/Process-1.webp|284x284]]
 
-| ![[Classes/Archive/Computer Structures/Virtual Memory/Process/Process-1.webp\|200x200]] | ![[Process-2.webp\|350]]                                                                                           |
-| --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
-|                                                                                         | *Note: the pid variable of the parent is the actual pid of the child, HOWEVER, the pid variable of the child is 0* |
+
+![[Process-2.webp|350]]
+*Note: the pid variable of the parent is the actual pid of the child, HOWEVER, the pid variable of the child is 0*
+
+
 ![[Process-3.webp|411x279]]
 
 **Parent**
