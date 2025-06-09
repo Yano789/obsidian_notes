@@ -10,7 +10,7 @@
 
 	- [[Device Controllers]]
 	- [[exit()]]
-	- [[fork()]]
+	- [[Fork()]]
 	- **Interrupts**
 		- [[Interrupt Vector]]
 		- [[IRQ and Service Delay]]
