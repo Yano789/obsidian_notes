@@ -19,7 +19,7 @@ columns:
     isDragDisabled: false
     csvCandidate: true
     position: 0
-    isHidden: true
+    isHidden: false
     sortIndex: -1
     width: 337
     config:
@@ -44,7 +44,7 @@ columns:
     skipPersist: false
     isHidden: false
     sortIndex: -1
-    width: 122
+    width: 115
     options:
       - { label: "In Progress", value: "In Progress", color: "hsl(318, 95%, 90%)"}
       - { label: "Not Started", value: "Not Started", color: "hsl(256, 95%, 90%)"}
