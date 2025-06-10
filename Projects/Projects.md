@@ -40,7 +40,7 @@ columns:
     skipPersist: false
     isHidden: false
     sortIndex: -1
-    width: 168
+    width: 122
     options:
       - { label: "In Progress", value: "In Progress", color: "hsl(318, 95%, 90%)"}
     config:
