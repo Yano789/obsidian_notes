@@ -21,6 +21,7 @@ columns:
     position: 0
     isHidden: false
     sortIndex: -1
+    width: 337
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -30,6 +31,9 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
+      content_alignment: text-align-left
+      content_vertical_alignment: align-middle
+      wrap_content: true
   Status:
     input: tags
     accessorKey: Status
@@ -43,6 +47,7 @@ columns:
     width: 122
     options:
       - { label: "In Progress", value: "In Progress", color: "hsl(318, 95%, 90%)"}
+      - { label: "Not Started", value: "Not Started", color: "hsl(256, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -52,6 +57,10 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
+      option_source: manual
+      content_alignment: text-align-center
+      content_vertical_alignment: align-middle
+      wrap_content: true
 config:
   remove_field_when_delete_column: false
   cell_size: normal
