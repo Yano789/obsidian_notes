@@ -13,5 +13,5 @@ autorefresh: 5
 3. [[Database Systems]]
 4. [[The World Since 1400]] 
 
-# Projects![[Projects]] 
+![[Projects]] 
  
