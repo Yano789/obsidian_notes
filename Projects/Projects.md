@@ -6,7 +6,7 @@ database-plugin: basic
 
 ```yaml:dbfolder
 name: Projects
-description: Project List
+description: 
 columns:
   __file__:
     key: __file__
