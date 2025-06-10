@@ -8,14 +8,14 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:Algorithms  ",
+      "query": "path:Classes/Archive/Algorithms  ",
       "color": {
         "a": 1,
         "rgb": 15961000
       }
     },
     {
-      "query": "path:\"Computer Structures\"  ",
+      "query": "path:\"Classes/Archive/Computer Structures\"  ",
       "color": {
         "a": 1,
         "rgb": 16429959
@@ -58,8 +58,8 @@
   "collapse-forces": false,
   "centerStrength": 1,
   "repelStrength": 20,
-  "linkStrength": 0.407933929054969,
+  "linkStrength": 0.676620587840558,
   "linkDistance": 30,
-  "scale": 0.20921092005371314,
+  "scale": 0.07973583272379757,
   "close": true
 }

@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🌞",
       "🔨",
       "🔧",
       "⚡",
-      "LiCodeXml",
-      "🧠"
+      "LiCodeXml"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -34,7 +34,6 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "Blue Skies and Sunshine.md": "🌞",
   "The Tia File.md": "👩‍❤️‍👨",
   "Classes": "🏫",
   "Classes/Archive": "LiTrash",
@@ -43,5 +42,7 @@
   "Personal Adventures": "⚡",
   "Classes/Elements of Software Construction": "LiCodeXml",
   "Classes/Computer System Engineering": "🔧",
-  "Projects": "🔨"
+  "Projects": "🔨",
+  "Blue Skies and Sunshine/Blue Skies and Sunshine.md": "🌞",
+  "Blue Skies and Sunshine": "🌞"
 }
