@@ -1,2 +1,5 @@
 ```dataview
+LIST
+FROM "Projects"
 ```
+
