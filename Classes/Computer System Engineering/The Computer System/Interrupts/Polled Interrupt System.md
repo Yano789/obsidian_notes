@@ -2,7 +2,7 @@ The interrupted program enters a general **interrupt polling routine protocol** 
 
 No interrupt signal that includes the identity of the device sending the signal
 
-The [[Classes/Computer System Engineering/The Computer System/Operating System (OS)/Kernel|Kernel]] must send a signal out to each [[Device Controllers]] and read the interrupt status register or other means
+The [[Classes/Computer System Engineering/The Computer System/Operating System (OS)/Kernel/Kernel|Kernel]] must send a signal out to each [[Device Controllers]] and read the interrupt status register or other means
 
 *Note: This is easier to implement but more time-consuming to run*
 
