@@ -1,5 +1,7 @@
 {
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",
-  "defaultViewMode": "source"
+  "defaultViewMode": "source",
+  "showLineNumber": false,
+  "readableLineLength": true
 }
