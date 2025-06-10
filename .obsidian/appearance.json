@@ -3,11 +3,9 @@
   "translucency": false,
   "cssTheme": "Blue Topaz",
   "theme": "obsidian",
-  "baseFontSize": 12,
-  "textFontFamily": "Cambria Math,Cambria",
-  "monospaceFontFamily": "Cambria Math,Cambria",
+  "baseFontSize": 14,
+  "textFontFamily": "",
+  "monospaceFontFamily": "",
   "interfaceFontFamily": "",
-  "enabledCssSnippets": [
-    "custom_fonts"
-  ]
+  "enabledCssSnippets": []
 }
