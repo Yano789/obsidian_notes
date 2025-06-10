@@ -1,5 +1,0 @@
-```dataview
-LIST
-FROM "Projects"
-```
-

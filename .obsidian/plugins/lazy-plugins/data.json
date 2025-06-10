@@ -77,6 +77,12 @@
       },
       "short-internal-links-to-headings": {
         "startupType": "instant"
+      },
+      "dataview": {
+        "startupType": "instant"
+      },
+      "dbfolder": {
+        "startupType": "instant"
       }
     },
     "loadOrder": []
