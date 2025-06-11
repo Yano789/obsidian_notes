@@ -2,6 +2,10 @@
 Status:
   - In Progress
 ---
+https://docs.google.com/document/d/1BPjozYRCMfPSBYGisJ-GIStBv0Ri68XGfIYQIW1HQB0/edit?tab=t.orezp0w5luh5
+
+https://www.canva.com/design/DAGqCph5lrY/ZSVf79nlVUHQ0dTDN0Y7NA/edit
+
 Our focused service:
 **Community Well-Being & Support Service (CW2S)**
 
