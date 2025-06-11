@@ -83,6 +83,9 @@
       },
       "dbfolder": {
         "startupType": "instant"
+      },
+      "pexels-banner": {
+        "startupType": "instant"
       }
     },
     "loadOrder": []
