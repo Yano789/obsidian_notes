@@ -2,7 +2,6 @@
 aliases:
   - Siesta Cycle
 ---
-
 https://en.wikipedia.org/wiki/Polyphasic_sleep
 https://www.youtube.com/watch?v=r82yGH3LWho
 
