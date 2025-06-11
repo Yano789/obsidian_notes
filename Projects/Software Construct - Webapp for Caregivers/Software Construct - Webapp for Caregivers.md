@@ -39,7 +39,5 @@ Common CareGiver Struggles in Singapore
 3. Financial Stress
 4. Workcare
 5. Lack of Support and Isolation
-	1. 
 6. Navigating complex healthcare systems
-	1. 
 7. Emotional Guilt and Cultural Expectations
