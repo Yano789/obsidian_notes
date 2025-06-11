@@ -16,3 +16,10 @@ Our focused pillar:
 **Mainly related to CW2S**
 Prevention: Health education
 Intervention: Health coaching
+
+IM-OKAY: Daily Checkin
+IM-HEALTHY: Health Scanner
+IM-HAPPY: Facial Emotion Recognition
+Treasure Box: Redeem items from points
+
+Project AIDEN (Autonomous Intelligence for Delivery and Engagement)
