@@ -26,6 +26,7 @@ Project AIDEN (Autonomous Intelligence for Delivery and Engagement)
 
 Caregivers can be any age and even the same age as the person they are caregiving
 
+Common CareGiver Struggles in Singapore
 1. Physical and Emotional Burnout
 	1. make it easy to use and fun for both users
 2.  Lack of Formal Training
