@@ -17,7 +17,7 @@ Our focused pillar:
 Prevention: Health education
 Intervention: Health coaching
 
-IM-OKAY: Daily Checkin
+IM-OKAY: Daily Check-in
 IM-HEALTHY: Health Scanner
 IM-HAPPY: Facial Emotion Recognition
 Treasure Box: Redeem items from points
