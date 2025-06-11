@@ -38,7 +38,7 @@
 
 		- [[OS Design and Implementation]]
 		- **OS Structures**
-			- **[[Hyprid Approach]]**
+			- **[[Hybrid Approach]]**
 
 			- **[[Java Operating System (JX)]]**
 
