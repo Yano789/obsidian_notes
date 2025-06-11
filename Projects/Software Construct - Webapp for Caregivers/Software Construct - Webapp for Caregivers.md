@@ -8,3 +8,5 @@ Our focused service:
 Sending a staff to help the seniors with their personal homes
 
 to include: medical care
+
+![[Software Construct - Webapp for Caregivers-1.png]]
