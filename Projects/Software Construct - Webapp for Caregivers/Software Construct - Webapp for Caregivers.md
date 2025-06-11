@@ -27,13 +27,14 @@ Project AIDEN (Autonomous Intelligence for Delivery and Engagement)
 Caregivers can be any age and even the same age as the person they are caregiving
 
 1. Physical and Emotional Burnout
-	a. Physical: Juggling too much
-	b. Emotional: Watching the loved one suffer
+	1. make it easy to use and fun for both users
 2.  Lack of Formal Training
-	a. caregivers are informal and untrained
-	b. lack of 
+	2. provide medical training videos
+	3. common situations and what to do
 3. Financial Stress
 4. Workcare
 5. Lack of Support and Isolation
+	1. 
 6. Navigating complex healthcare systems
-7. Cultural Guilt and 
+	1. 
+7. Emotional Guilt and Cultural Expectations
