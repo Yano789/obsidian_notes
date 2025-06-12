@@ -1,5 +1,5 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": true,
   "showAttachments": false,
@@ -8,14 +8,14 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:Classes/Archive/Algorithms  ",
+      "query": "path:Algorithms  ",
       "color": {
         "a": 1,
         "rgb": 15961000
       }
     },
     {
-      "query": "path:\"Classes/Archive/Computer Structures\"  ",
+      "query": "path:\"Computer Structures\"  ",
       "color": {
         "a": 1,
         "rgb": 16429959
@@ -34,20 +34,6 @@
         "a": 1,
         "rgb": 9024762
       }
-    },
-    {
-      "query": "path:\"Classes/Database Systems\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 16376495
-      }
-    },
-    {
-      "query": "path:\"Classes/The World Since 1400\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 13346551
-      }
     }
   ],
   "collapse-display": true,
@@ -58,8 +44,8 @@
   "collapse-forces": false,
   "centerStrength": 1,
   "repelStrength": 20,
-  "linkStrength": 0.676620587840558,
+  "linkStrength": 0.864056852294309,
   "linkDistance": 30,
-  "scale": 0.07973583272379757,
+  "scale": 0.07181695539753355,
   "close": true
 }
