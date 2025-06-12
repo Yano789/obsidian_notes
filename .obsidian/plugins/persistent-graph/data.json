@@ -1,1259 +1,1234 @@
 {
   "nodePositions": [
     {
+      "id": "Blue Skies and Sunshine.md",
+      "x": 1162.001708984375,
+      "y": -109.50414276123047
+    },
+    {
       "id": "Classes/Archive/Algorithms/Algorithms.md",
-      "x": -716.9359741210938,
-      "y": -68.43444061279297
+      "x": -226.6381072998047,
+      "y": -618.7708740234375
     },
     {
       "id": "Classes/Archive/Algorithms/Dynamic Programming/Bottom-Up Approach.md",
-      "x": -935.498779296875,
-      "y": -161.1059112548828
+      "x": -618.0885620117188,
+      "y": -58.236785888671875
     },
     {
       "id": "Dependency Order",
-      "x": -1118.089111328125,
-      "y": -362.3617858886719
+      "x": -712.8372802734375,
+      "y": 77.01695251464844
     },
     {
       "id": "Classes/Archive/Algorithms/Dynamic Programming/Dynamic Programming (DP).md",
-      "x": -1164.133544921875,
-      "y": 232.94363403320312
+      "x": -448.77032470703125,
+      "y": -106.51936340332031
     },
     {
       "id": "Classes/Archive/Algorithms/Dynamic Programming/Memoization.md",
-      "x": -411.84674072265625,
-      "y": 240.42013549804688
+      "x": -499.6813049316406,
+      "y": 39.46945571899414
     },
     {
       "id": "Classes/Archive/Algorithms/Dynamic Programming/Optimal Substructure.md",
-      "x": -1176.7008056640625,
-      "y": 71.76063537597656
+      "x": -293.8486328125,
+      "y": -338.3901062011719
     },
     {
       "id": "Classes/Archive/Algorithms/Dynamic Programming/Space Complexity.md",
-      "x": -1141.5699462890625,
-      "y": 553.9583129882812
+      "x": -56.27280044555664,
+      "y": -614.0090942382812
     },
     {
       "id": "Classes/Archive/Algorithms/Dynamic Programming/Tabulation.md",
-      "x": -982.0834350585938,
-      "y": -41.907379150390625
+      "x": -575.8540649414062,
+      "y": -219.80726623535156
     },
     {
       "id": "Classes/Archive/Algorithms/Dynamic Programming/Time Complexity vs Space Complexity.md",
-      "x": -1178.6475830078125,
-      "y": 397.8056640625
+      "x": -161.5880889892578,
+      "y": -474.2733154296875
     },
     {
       "id": "Classes/Archive/Algorithms/Dynamic Programming/Time Complexity.md",
-      "x": -1317.4482421875,
-      "y": 45.85783767700195
+      "x": -385.0702819824219,
+      "y": -637.2745971679688
     },
     {
       "id": "Classes/Archive/Algorithms/Dynamic Programming/Top-down Approach.md",
-      "x": -798.4209594726562,
-      "y": 68.65023040771484
+      "x": -291.09161376953125,
+      "y": -26.955652236938477
     },
     {
       "id": "Classes/Archive/Algorithms/Graphs/Adjacency List.md",
-      "x": -972.9756469726562,
-      "y": 535.4198608398438
+      "x": 54.488311767578125,
+      "y": -717.823974609375
     },
     {
       "id": "Classes/Archive/Algorithms/Graphs/Adjacency Matrix.md",
-      "x": -988.7816162109375,
-      "y": 396.0732116699219
+      "x": 254.24075317382812,
+      "y": -877.3269653320312
     },
     {
       "id": "Classes/Archive/Algorithms/Graphs/Bellman-Ford Algorithm.md",
-      "x": -1321.72119140625,
-      "y": -260.4497985839844
+      "x": -798.9488525390625,
+      "y": -428.3111877441406
     },
     {
       "id": "Classes/Archive/Algorithms/Graphs/Breadth-First-Search (BFS).md",
-      "x": -519.9964599609375,
-      "y": 183.33924865722656
+      "x": 367.70849609375,
+      "y": -979.909423828125
     },
     {
       "id": "Classes/Archive/Algorithms/Graphs/Clique.md",
-      "x": -442.1289367675781,
-      "y": -380.3691711425781
+      "x": 128.93695068359375,
+      "y": -1171.0015869140625
     },
     {
       "id": "Classes/Archive/Algorithms/Graphs/Connected Graph.md",
-      "x": -270.8681335449219,
-      "y": 29.53801727294922
-    },
-    {
-      "id": "Connectedness",
-      "x": -129.74899291992188,
-      "y": 51.64838409423828
+      "x": 647.0611572265625,
+      "y": -1071.6048583984375
     },
     {
       "id": "Classes/Archive/Algorithms/Graphs/Cycle.md",
-      "x": -189.79551696777344,
-      "y": -207.2334442138672
-    },
-    {
-      "id": "Acyclic Graph",
-      "x": -28.534826278686523,
-      "y": -205.56640625
+      "x": 526.345458984375,
+      "y": -665.0848999023438
     },
     {
       "id": "Classes/Archive/Algorithms/Graphs/Depth-First Search (DFS).md",
-      "x": -932.1401977539062,
-      "y": 701.004638671875
-    },
-    {
-      "id": "Tree Edges",
-      "x": -1076.4046630859375,
-      "y": 747.02587890625
-    },
-    {
-      "id": "Back Edges",
-      "x": -1019.2479858398438,
-      "y": 868.7084350585938
-    },
-    {
-      "id": "Forward Edges",
-      "x": -884.6885986328125,
-      "y": 859.3185424804688
-    },
-    {
-      "id": "Cross Edges",
-      "x": -875.3154907226562,
-      "y": 978.9242553710938
+      "x": 458.5259094238281,
+      "y": -524.1400756835938
     },
     {
       "id": "Classes/Archive/Algorithms/Graphs/Dijkstra's Algorithm.md",
-      "x": -1316.140380859375,
-      "y": -113.60234832763672
+      "x": -712.4803466796875,
+      "y": -561.7539672851562
     },
     {
       "id": "Classes/Archive/Algorithms/Graphs/Directed Acyclic Graph (DAG).md",
-      "x": -292.92156982421875,
-      "y": 256.4402160644531
+      "x": 363.8302307128906,
+      "y": -674.7271728515625
     },
     {
       "id": "Classes/Archive/Algorithms/Graphs/Directed Graph.md",
-      "x": -603.4168701171875,
-      "y": 513.0039672851562
+      "x": 605.6222534179688,
+      "y": -794.427978515625
     },
     {
       "id": "Classes/Archive/Algorithms/Graphs/Disjoint Graph.md",
-      "x": -438.71051025390625,
-      "y": 66.79258728027344
+      "x": 466.1290588378906,
+      "y": -1101.1197509765625
     },
     {
       "id": "Classes/Archive/Algorithms/Graphs/Forest Graph.md",
-      "x": -722.9689331054688,
-      "y": 179.76034545898438
+      "x": 160.33734130859375,
+      "y": -986.5013427734375
     },
     {
       "id": "Classes/Archive/Algorithms/Graphs/Graph Searching.md",
-      "x": -739.8384399414062,
-      "y": 387.23187255859375
+      "x": 206.27801513671875,
+      "y": -739.4786987304688
     },
     {
       "id": "Classes/Archive/Algorithms/Graphs/Graph.md",
-      "x": -622.2394409179688,
-      "y": 273.89605712890625
+      "x": 533.0930786132812,
+      "y": -949.5792846679688
     },
     {
       "id": "Classes/Archive/Algorithms/Graphs/Incidence List.md",
-      "x": -774.997802734375,
-      "y": 730.0324096679688
+      "x": 125.76791381835938,
+      "y": -393.0579528808594
     },
     {
       "id": "Classes/Archive/Algorithms/Graphs/Incidence Matrix.md",
-      "x": -575.5056762695312,
-      "y": 389.22515869140625
+      "x": 255.1688995361328,
+      "y": -573.628173828125
     },
     {
       "id": "Classes/Archive/Algorithms/Graphs/Incidence.md",
-      "x": -729.3433227539062,
-      "y": 593.73828125
+      "x": 243.36668395996094,
+      "y": -278.179931640625
     },
     {
       "id": "Classes/Archive/Algorithms/Graphs/Independent Set.md",
-      "x": -536.2518920898438,
-      "y": -303.3243408203125
+      "x": 261.0081787109375,
+      "y": -1285.5870361328125
     },
     {
       "id": "Classes/Archive/Algorithms/Graphs/Minimal Spanning Tree.md",
-      "x": -274.11846923828125,
-      "y": -112.78010559082031
+      "x": 426.3139343261719,
+      "y": -815.8638916015625
     },
     {
       "id": "Classes/Archive/Algorithms/Graphs/Path.md",
-      "x": -587.4590454101562,
-      "y": -185.79832458496094
+      "x": -240.3188934326172,
+      "y": -770.1937866210938
     },
     {
       "id": "Classes/Archive/Algorithms/Graphs/Predecessor Subgraph.md",
-      "x": -863.7200927734375,
-      "y": 368.069580078125
+      "x": 102.5481185913086,
+      "y": -552.6761474609375
     },
     {
       "id": "Classes/Archive/Algorithms/Graphs/Relaxation of Edges.md",
-      "x": -1190.8211669921875,
-      "y": -188.5742950439453
+      "x": -628.8128051757812,
+      "y": -432.3768615722656
     },
     {
       "id": "Classes/Archive/Algorithms/Graphs/Rooted Tree.md",
-      "x": -201.85108947753906,
-      "y": 158.01898193359375
+      "x": 704.8087768554688,
+      "y": -923.3495483398438
     },
     {
       "id": "Classes/Archive/Algorithms/Graphs/Shortest Path Problem.md",
-      "x": -1251.7193603515625,
-      "y": -388.3944396972656
+      "x": -719.8619384765625,
+      "y": -293.9949645996094
     },
     {
       "id": "Classes/Archive/Algorithms/Graphs/Topological Sorting.md",
-      "x": -838.8735961914062,
-      "y": 534.6493530273438
+      "x": 289.58502197265625,
+      "y": -432.009521484375
     },
     {
       "id": "Classes/Archive/Algorithms/Graphs/Tree Graph.md",
-      "x": -76.20330810546875,
-      "y": -55.72151565551758
+      "x": 738.4645385742188,
+      "y": -686.7703247070312
     },
     {
       "id": "Classes/Archive/Algorithms/Graphs/Triangle Inequality.md",
-      "x": -1048.1231689453125,
-      "y": -237.9337615966797
+      "x": -495.37225341796875,
+      "y": -503.3031311035156
     },
     {
       "id": "Classes/Archive/Algorithms/Graphs/Undirected Graph.md",
-      "x": -419.8150329589844,
-      "y": -69.16480255126953
+      "x": 406.0811767578125,
+      "y": -1242.7967529296875
     },
     {
       "id": "Classes/Archive/Algorithms/Graphs/Vertex Cover.md",
-      "x": -574.2116088867188,
-      "y": -59.752071380615234
+      "x": 277.34783935546875,
+      "y": -1113.8448486328125
     },
     {
       "id": "Classes/Archive/Algorithms/Graphs/Weight Function.md",
-      "x": -755.2764282226562,
-      "y": -208.22930908203125
+      "x": -104.3621826171875,
+      "y": -792.4286499023438
     },
     {
       "id": "Classes/Archive/Algorithms/Graphs/k - Colorings of Graph.md",
-      "x": -379.4311218261719,
-      "y": -259.3893127441406
+      "x": 10.405994415283203,
+      "y": -1059.0606689453125
     },
     {
       "id": "Classes/Archive/Algorithms/Hashing/AVL Tree.md",
-      "x": -455.6711120605469,
-      "y": 383.0137023925781
+      "x": -34.76251220703125,
+      "y": -229.86216735839844
     },
     {
       "id": "Classes/Archive/Algorithms/Hashing/Direct Addressing.md",
-      "x": -268.4300231933594,
-      "y": 408.4286193847656
+      "x": -947.3533935546875,
+      "y": -403.61834716796875
     },
     {
       "id": "Classes/Archive/Algorithms/Hashing/Hash Chaining.md",
-      "x": -549.3674926757812,
-      "y": 827.5626831054688
+      "x": -867.74560546875,
+      "y": -10.401583671569824
     },
     {
       "id": "Classes/Archive/Algorithms/Hashing/Hash Collision.md",
-      "x": -351.57244873046875,
-      "y": 923.6329345703125
+      "x": -1165.5164794921875,
+      "y": -270.4273986816406
     },
     {
       "id": "Classes/Archive/Algorithms/Hashing/Hash Function Division Method.md",
-      "x": -538.9468383789062,
-      "y": 653.0517578125
+      "x": -992.3364868164062,
+      "y": -110.39215850830078
     },
     {
       "id": "Classes/Archive/Algorithms/Hashing/Hash Function Multiplication Method.md",
-      "x": -445.6064758300781,
-      "y": 565.0166625976562
+      "x": -759.8197631835938,
+      "y": -118.35931396484375
     },
     {
       "id": "Classes/Archive/Algorithms/Hashing/Hash Function.md",
-      "x": -416.9127197265625,
-      "y": 792.162109375
+      "x": -1050.8841552734375,
+      "y": 28.973299026489258
     },
     {
       "id": "Classes/Archive/Algorithms/Hashing/Hash Table.md",
-      "x": -652.0782470703125,
-      "y": 930.3314208984375
-    },
-    {
-      "id": "Python Dictionary",
-      "x": -713.607177734375,
-      "y": 1076.7430419921875
+      "x": -893.2339477539062,
+      "y": 133.53611755371094
     },
     {
       "id": "Classes/Archive/Algorithms/Hashing/Hash Value.md",
-      "x": -331.0381774902344,
-      "y": 682.332275390625
+      "x": -1018.3248291015625,
+      "y": -272.87164306640625
     },
     {
       "id": "Classes/Archive/Algorithms/Hashing/Hashing.md",
-      "x": -265.4685974121094,
-      "y": 574.670166015625
+      "x": -872.9840698242188,
+      "y": -222.75765991210938
     },
     {
       "id": "Classes/Archive/Algorithms/Hashing/Linked List.md",
-      "x": -655.3246459960938,
-      "y": 738.7792358398438
+      "x": -69.85104370117188,
+      "y": -78.77987670898438
     },
     {
       "id": "Classes/Archive/Algorithms/Hashing/Open Addressing.md",
-      "x": -251.7654571533203,
-      "y": 814.1572265625
-    },
-    {
-      "id": "Probe Sequence",
-      "x": -185.25857543945312,
-      "y": 975.0025024414062
+      "x": -1139.0928955078125,
+      "y": -433.3453674316406
     },
     {
       "id": "Classes/Archive/Algorithms/Hashing/Probing.md",
-      "x": -504.8422546386719,
-      "y": 999.6295166015625
-    },
-    {
-      "id": "Linear Probing",
-      "x": -372.6173095703125,
-      "y": 1101.2271728515625
-    },
-    {
-      "id": "Quadratic Probing",
-      "x": -585.5545654296875,
-      "y": 1155.4639892578125
-    },
-    {
-      "id": "Double Hashing",
-      "x": -468.7258605957031,
-      "y": 1186.9351806640625
+      "x": -1175.1031494140625,
+      "y": -110.70738220214844
     },
     {
       "id": "Classes/Archive/Algorithms/Types of Problems/Boolean Expression.md",
-      "x": -118.96695709228516,
-      "y": -531.5606079101562
+      "x": -1202.7998046875,
+      "y": -576.955078125
     },
     {
       "id": "Classes/Archive/Algorithms/Types of Problems/Boolean Satisfiability (SAT) Problem.md",
-      "x": -203.1064910888672,
-      "y": -786.7100219726562
+      "x": -967.361328125,
+      "y": -930.7337036132812
     },
     {
       "id": "Classes/Archive/Algorithms/Types of Problems/Boolean Variable.md",
-      "x": -236.72418212890625,
-      "y": -390.507080078125
+      "x": -911.0841674804688,
+      "y": -566.6425170898438
     },
     {
       "id": "Classes/Archive/Algorithms/Types of Problems/Certificate.md",
-      "x": -479.9233093261719,
-      "y": -571.0864868164062
+      "x": -124.72395324707031,
+      "y": -966.6903686523438
     },
     {
       "id": "Classes/Archive/Algorithms/Types of Problems/Clause of Boolean Expression.md",
-      "x": -110.6612548828125,
-      "y": -656.0855102539062
+      "x": -1109.9434814453125,
+      "y": -740.1929931640625
     },
     {
       "id": "Classes/Archive/Algorithms/Types of Problems/Conjunction of Boolean Expression.md",
-      "x": -325.5149841308594,
-      "y": -493.9161071777344
+      "x": -856.2317504882812,
+      "y": -695.3948364257812
     },
     {
       "id": "Classes/Archive/Algorithms/Types of Problems/Decision Problem.md",
-      "x": -871.8490600585938,
-      "y": -774.5564575195312
+      "x": -584.235595703125,
+      "y": -1004.67578125
     },
     {
       "id": "Classes/Archive/Algorithms/Types of Problems/Deterministic Algorithm.md",
-      "x": -596.2308959960938,
-      "y": -490.4879455566406
+      "x": -271.0528564453125,
+      "y": -956.5355224609375
     },
     {
       "id": "Classes/Archive/Algorithms/Types of Problems/Disjunction of Boolean Expression.md",
-      "x": -252.57920837402344,
-      "y": -620.5271606445312
+      "x": -974.4164428710938,
+      "y": -787.38671875
     },
     {
       "id": "Classes/Archive/Algorithms/Types of Problems/Exponential Time (EXP).md",
-      "x": -984.0155639648438,
-      "y": -344.17559814453125
+      "x": -552.3023071289062,
+      "y": -646.3150024414062
     },
     {
       "id": "Classes/Archive/Algorithms/Types of Problems/Fibonacci Number.md",
-      "x": -938.5775146484375,
-      "y": 69.91127014160156
+      "x": -159.4361114501953,
+      "y": -295.1232604980469
     },
     {
       "id": "Classes/Archive/Algorithms/Types of Problems/Independent Set Problem.md",
-      "x": -603.7968139648438,
-      "y": -660.5894165039062
+      "x": -40.277442932128906,
+      "y": -1213.7862548828125
     },
     {
       "id": "Classes/Archive/Algorithms/Types of Problems/Intractable Problem.md",
-      "x": -1107.8690185546875,
-      "y": -569.6425170898438
+      "x": -823.333251953125,
+      "y": -1030.28466796875
     },
     {
       "id": "Classes/Archive/Algorithms/Types of Problems/Literal Boolean Expression.md",
-      "x": -105.89431762695312,
-      "y": -402.6840515136719
+      "x": -1048.2181396484375,
+      "y": -595.7423095703125
     },
     {
       "id": "Classes/Archive/Algorithms/Types of Problems/Longest Common Subsequence (LCS).md",
-      "x": -907.0850219726562,
-      "y": 197.44183349609375
+      "x": -216.7871551513672,
+      "y": -143.86505126953125
     },
     {
       "id": "Classes/Archive/Algorithms/Types of Problems/Matrix Chain Parenthesization Problem.md",
-      "x": -1029.10205078125,
-      "y": 249.41427612304688
+      "x": -337.2099304199219,
+      "y": -473.5715026855469
     },
     {
       "id": "Classes/Archive/Algorithms/Types of Problems/NP-complete.md",
-      "x": -367.77313232421875,
-      "y": -832.691650390625
+      "x": -451.59991455078125,
+      "y": -1100.98681640625
     },
     {
       "id": "Classes/Archive/Algorithms/Types of Problems/NP-hard.md",
-      "x": -565.086669921875,
-      "y": -915.04443359375
+      "x": -310.679443359375,
+      "y": -1138.04541015625
     },
     {
       "id": "Classes/Archive/Algorithms/Types of Problems/Non-deterministic Algorithms.md",
-      "x": -769.9378051757812,
-      "y": -687.0739135742188
+      "x": -434.1112060546875,
+      "y": -951.2551879882812
     },
     {
       "id": "Classes/Archive/Algorithms/Types of Problems/Non-deterministic Polynomial Time (NP).md",
-      "x": -739.6714477539062,
-      "y": -930.0626831054688
+      "x": -417.4471130371094,
+      "y": -1275.086669921875
     },
     {
       "id": "Classes/Archive/Algorithms/Types of Problems/Optimization Problem.md",
-      "x": -878.859619140625,
-      "y": -585.6112060546875
+      "x": -805.243408203125,
+      "y": -865.3397216796875
     },
     {
       "id": "Classes/Archive/Algorithms/Types of Problems/Polynomial Time (P).md",
-      "x": -914.0092163085938,
-      "y": -893.8302001953125
+      "x": -570.7230224609375,
+      "y": -1195.55712890625
     },
     {
       "id": "Classes/Archive/Algorithms/Types of Problems/Polynomial-time Reduction.md",
-      "x": -664.1302490234375,
-      "y": -815.8965454101562
+      "x": -252.1620330810547,
+      "y": -1296.0323486328125
     },
     {
       "id": "Classes/Archive/Algorithms/Types of Problems/Text Justification Problem.md",
-      "x": -1304.9290771484375,
-      "y": 262.02294921875
-    },
-    {
-      "id": "Cost Function",
-      "x": -1320.8768310546875,
-      "y": 416.72406005859375
+      "x": -22.833864212036133,
+      "y": -421.5239562988281
     },
     {
       "id": "Classes/Archive/Algorithms/Types of Problems/The Clique Problem.md",
-      "x": -501.9873352050781,
-      "y": -783.3028564453125
+      "x": -82.93102264404297,
+      "y": -1342.29931640625
     },
     {
       "id": "Classes/Archive/Algorithms/Types of Problems/The Halting Problem.md",
-      "x": -966.37158203125,
-      "y": -490.86151123046875
+      "x": -690.0360717773438,
+      "y": -730.9378662109375
     },
     {
       "id": "Classes/Archive/Algorithms/Types of Problems/The Hamiltonian Path Problem.md",
-      "x": -622.544921875,
-      "y": 77.5835189819336
+      "x": 46.21103286743164,
+      "y": -881.630859375
     },
     {
       "id": "Classes/Archive/Algorithms/Types of Problems/The Knapsack Problem.md",
-      "x": -1112.011962890625,
-      "y": -37.11750030517578
+      "x": -483.87164306640625,
+      "y": -345.6331787109375
     },
     {
       "id": "Classes/Archive/Algorithms/Types of Problems/The Rod-cutting Problem.md",
-      "x": -1060.94287109375,
-      "y": 116.91378021240234
+      "x": -374.2195129394531,
+      "y": -223.93653869628906
     },
     {
       "id": "Classes/Archive/Algorithms/Types of Problems/The Traveling Salesman Problem.md",
-      "x": -816.4205932617188,
-      "y": -408.2733459472656
+      "x": -528.67919921875,
+      "y": -798.2280883789062
     },
     {
       "id": "Classes/Archive/Algorithms/Types of Problems/The Vertex Coloring Problem.md",
-      "x": -392.9345703125,
-      "y": -687.9186401367188
+      "x": -167.3075408935547,
+      "y": -1133.5439453125
     },
     {
       "id": "Classes/Archive/Algorithms/Types of Problems/The Vertex Cover Problem.md",
-      "x": -668.761474609375,
-      "y": -348.8104248046875
+      "x": 112.39192199707031,
+      "y": -1322.4530029296875
     },
     {
       "id": "Classes/Archive/Algorithms/Types of Problems/Tractable Problem.md",
-      "x": -997.6443481445312,
-      "y": -659.1099853515625
+      "x": -672.73193359375,
+      "y": -902.4215698242188
     },
     {
       "id": "Classes/Archive/Algorithms/Types of Problems/Types of Problem.md",
-      "x": -1040.376708984375,
-      "y": -789.374267578125
+      "x": -705.7367553710938,
+      "y": -1110.6688232421875
     },
     {
       "id": "Classes/Archive/Algorithms/Types of Problems/Verification Algorithm.md",
-      "x": -710.4771118164062,
-      "y": -544.038818359375
+      "x": -376.9957580566406,
+      "y": -806.2808837890625
     },
     {
       "id": "Classes/Archive/Computer Structures/Assembling and Compiling/Assembler.md",
-      "x": 727.1466674804688,
-      "y": 723.6463012695312
+      "x": 306.3695068359375,
+      "y": 1115.9530029296875
     },
     {
       "id": "Classes/Archive/Computer Structures/Assembling and Compiling/Compiler.md",
-      "x": 677.2118530273438,
-      "y": 345.7206115722656
+      "x": 399.4704895019531,
+      "y": 1238.8565673828125
     },
     {
       "id": "Classes/Archive/Computer Structures/Assembling and Compiling/Interpreter VS Compiler.md",
-      "x": 462.56005859375,
-      "y": 369.0340881347656
+      "x": 164.39076232910156,
+      "y": 1204.9111328125
     },
     {
       "id": "Classes/Archive/Computer Structures/Assembling and Compiling/Interpreter.md",
-      "x": 355.2763366699219,
-      "y": 92.9090576171875
+      "x": 478.88702392578125,
+      "y": 1082.98486328125
     },
     {
       "id": "Classes/Archive/Computer Structures/Assembling and Compiling/Language Abstraction.md",
-      "x": 582.08447265625,
-      "y": 648.3313598632812
+      "x": -399.95660400390625,
+      "y": 906.5386962890625
     },
     {
       "id": "Classes/Archive/Computer Structures/Assembling and Compiling/Unified Syntax for Abstract State Machines (UASM).md",
-      "x": 847.1480712890625,
-      "y": 743.3489990234375
+      "x": -235.8267822265625,
+      "y": 930.3359375
     },
     {
       "id": "Classes/Archive/Computer Structures/Computer Structures.md",
-      "x": 579.2748413085938,
-      "y": 500.4363098144531
+      "x": -276.742919921875,
+      "y": 645.4899291992188
     },
     {
       "id": "Classes/Archive/Computer Structures/Interrupts and Faults/Asynchronous Interrupt.md",
-      "x": 1124.81884765625,
-      "y": -122.3050537109375
+      "x": 121.0255126953125,
+      "y": 359.54412841796875
     },
     {
       "id": "Classes/Archive/Computer Structures/Interrupts and Faults/Exception.md",
-      "x": 1068.87548828125,
-      "y": 26.189043045043945
+      "x": 331.23675537109375,
+      "y": 953.7154541015625
     },
     {
       "id": "Classes/Archive/Computer Structures/Interrupts and Faults/Fault.md",
-      "x": 860.4749755859375,
-      "y": 299.6767272949219
+      "x": -162.60528564453125,
+      "y": 1079.863525390625
     },
     {
       "id": "Classes/Archive/Computer Structures/Interrupts and Faults/IRQ Signal.md",
-      "x": 1164.318603515625,
-      "y": 164.63536071777344
+      "x": 6.544152736663818,
+      "y": 622.179931640625
     },
     {
       "id": "Classes/Archive/Computer Structures/Interrupts and Faults/IRQ Unit.md",
-      "x": 904.648681640625,
-      "y": 151.90176391601562
+      "x": -136.7013397216797,
+      "y": 548.6707763671875
     },
     {
       "id": "Classes/Archive/Computer Structures/Interrupts and Faults/Interrupt Vector Table (IVT).md",
-      "x": 1276.101318359375,
-      "y": 65.71952056884766
+      "x": 242.72714233398438,
+      "y": 807.3102416992188
     },
     {
       "id": "Classes/Archive/Computer Structures/Interrupts and Faults/Interrupt.md",
-      "x": 1237.375,
-      "y": -51.620826721191406
+      "x": 248.70816040039062,
+      "y": 636.8161010742188
+    },
+    {
+      "id": "Classes/Archive/Computer Structures/Interrupts and Faults/Multi-tasking System.md",
+      "x": 102.78646850585938,
+      "y": 898.0671997070312
+    },
+    {
+      "id": "Classes/Archive/Computer Structures/Interrupts and Faults/Single-Tasking System.md",
+      "x": 81.63581848144531,
+      "y": 750.50537109375
     },
     {
       "id": "Classes/Archive/Computer Structures/Interrupts and Faults/Synchronous Interrupt.md",
-      "x": 1038.5235595703125,
-      "y": 171.16940307617188
+      "x": 181.7260284423828,
+      "y": 1023.4871215820312
     },
     {
       "id": "Classes/Archive/Computer Structures/Interrupts and Faults/System Call (Trap).md",
-      "x": 938.1658325195312,
-      "y": -68.54539489746094
+      "x": 385.3504333496094,
+      "y": 755.9525146484375
     },
     {
       "id": "Classes/Archive/Computer Structures/Memory Hierarchy and Cache Design/Bit Line.md",
-      "x": 396.5035095214844,
-      "y": 1141.8818359375
+      "x": -897.6373291015625,
+      "y": 361.0827941894531
     },
     {
       "id": "Classes/Archive/Computer Structures/Memory Hierarchy and Cache Design/Cache Hit.md",
-      "x": 560.2024536132812,
-      "y": 276.77001953125
+      "x": -215.1145782470703,
+      "y": 208.2070770263672
     },
     {
       "id": "Classes/Archive/Computer Structures/Memory Hierarchy and Cache Design/Cache Miss.md",
-      "x": 450.7135314941406,
-      "y": 212.92330932617188
+      "x": -132.53175354003906,
+      "y": 88.24299621582031
     },
     {
       "id": "Classes/Archive/Computer Structures/Memory Hierarchy and Cache Design/Direct Mapped (DM) Cache.md",
-      "x": 442.19915771484375,
-      "y": 896.6279907226562
+      "x": -746.384521484375,
+      "y": 425.2034912109375
     },
     {
       "id": "Classes/Archive/Computer Structures/Memory Hierarchy and Cache Design/Dual Port.md",
-      "x": 874.2125854492188,
-      "y": 911.6702270507812
+      "x": -473.7251892089844,
+      "y": 409.9501037597656
     },
     {
       "id": "Classes/Archive/Computer Structures/Memory Hierarchy and Cache Design/Dynamic Random-Access Memory (DRAM).md",
-      "x": 178.93533325195312,
-      "y": 1070.3681640625
+      "x": -1001.640869140625,
+      "y": 265.7980651855469
     },
     {
       "id": "Classes/Archive/Computer Structures/Memory Hierarchy and Cache Design/Fully Associative (FA) Cache.md",
-      "x": 219.1382598876953,
-      "y": 946.5646362304688
+      "x": -895.76416015625,
+      "y": 520.2080078125
     },
     {
       "id": "Classes/Archive/Computer Structures/Memory Hierarchy and Cache Design/Locality of Reference.md",
-      "x": 502.81884765625,
-      "y": 1024.9813232421875
+      "x": -980.7381591796875,
+      "y": 645.8833618164062
     },
     {
       "id": "Classes/Archive/Computer Structures/Memory Hierarchy and Cache Design/Memory Addressing.md",
-      "x": 1189.0126953125,
-      "y": 317.8701477050781
-    },
-    {
-      "id": "Decoding",
-      "x": 1328.494873046875,
-      "y": 267.815673828125
+      "x": -116.81982421875,
+      "y": 729.6393432617188
     },
     {
       "id": "Classes/Archive/Computer Structures/Memory Hierarchy and Cache Design/Memory Hierarchy.md",
-      "x": 685.2932739257812,
-      "y": 1115.6309814453125
+      "x": -783.5255126953125,
+      "y": 252.9856414794922
     },
     {
       "id": "Classes/Archive/Computer Structures/Memory Hierarchy and Cache Design/Sense Amplifier.md",
-      "x": 624.7997436523438,
-      "y": 985.8561401367188
+      "x": -769.5082397460938,
+      "y": 597.1162109375
     },
     {
       "id": "Classes/Archive/Computer Structures/Memory Hierarchy and Cache Design/Single Port.md",
-      "x": 715.6610717773438,
-      "y": 877.4498901367188
+      "x": -611.205322265625,
+      "y": 375.0355529785156
     },
     {
       "id": "Classes/Archive/Computer Structures/Memory Hierarchy and Cache Design/Spatial Locality.md",
-      "x": 451.5174865722656,
-      "y": 761.3644409179688
+      "x": -719.2884521484375,
+      "y": 767.9820556640625
     },
     {
       "id": "Classes/Archive/Computer Structures/Memory Hierarchy and Cache Design/Static Random Access Memory (SRAM).md",
-      "x": 518.959716796875,
-      "y": 1204.99609375
+      "x": -1136.4359130859375,
+      "y": 354.0179138183594
     },
     {
       "id": "Classes/Archive/Computer Structures/Memory Hierarchy and Cache Design/Swap Space.md",
-      "x": 295.93426513671875,
-      "y": 305.4608154296875
+      "x": -351.47747802734375,
+      "y": 300.3373718261719
     },
     {
       "id": "Classes/Archive/Computer Structures/Memory Hierarchy and Cache Design/Temporal Locality.md",
-      "x": 570.450927734375,
-      "y": 827.5716552734375
+      "x": -605.3818969726562,
+      "y": 683.8408813476562
     },
     {
       "id": "Classes/Archive/Computer Structures/Memory Hierarchy and Cache Design/The Cache Idea.md",
-      "x": 319.80767822265625,
-      "y": 642.7823486328125
+      "x": -630.260986328125,
+      "y": 212.4188995361328
     },
     {
       "id": "Classes/Archive/Computer Structures/Memory Hierarchy and Cache Design/Volatile.md",
-      "x": 789.9520874023438,
-      "y": 997.187255859375
+      "x": -593.7017822265625,
+      "y": 540.5936279296875
     },
     {
       "id": "Classes/Archive/Computer Structures/Memory Hierarchy and Cache Design/Word Line.md",
-      "x": 340.343994140625,
-      "y": 1035.843017578125
+      "x": -1046.982177734375,
+      "y": 479.5778503417969
     },
     {
       "id": "Classes/Archive/Computer Structures/Stack and Procedures/Allocate.md",
-      "x": 1010.7369384765625,
-      "y": 331.2882080078125
+      "x": -34.74570846557617,
+      "y": 990.03369140625
     },
     {
       "id": "Classes/Archive/Computer Structures/Stack and Procedures/Base Pointer (BP) R27.md",
-      "x": 1066.432861328125,
-      "y": 818.726318359375
+      "x": -147.44435119628906,
+      "y": 1336.18310546875
     },
     {
       "id": "Classes/Archive/Computer Structures/Stack and Procedures/Deallocate.md",
-      "x": 762.2913818359375,
-      "y": 104.88094329833984
+      "x": 128.8380126953125,
+      "y": 534.1527099609375
     },
     {
       "id": "Classes/Archive/Computer Structures/Stack and Procedures/Function.md",
-      "x": 556.9006958007812,
-      "y": 54.44853973388672
+      "x": 470.0536804199219,
+      "y": 900.2197265625
     },
     {
       "id": "Classes/Archive/Computer Structures/Stack and Procedures/Linkage Pointer (LP) R28.md",
-      "x": 1169.38232421875,
-      "y": 670.5348510742188
+      "x": -423.6859436035156,
+      "y": 1269.110107421875
     },
     {
       "id": "Classes/Archive/Computer Structures/Stack and Procedures/Pop.md",
-      "x": 916.5367431640625,
-      "y": 601.5161743164062
+      "x": -442.63287353515625,
+      "y": 1088.5614013671875
     },
     {
       "id": "Classes/Archive/Computer Structures/Stack and Procedures/Procedure Linkage Convention.md",
-      "x": 1040.1112060546875,
-      "y": 685.8555297851562
+      "x": 43.471107482910156,
+      "y": 1324.8834228515625
     },
     {
       "id": "Classes/Archive/Computer Structures/Stack and Procedures/Procedure Linkage Problem.md",
-      "x": 855.3412475585938,
-      "y": 441.145751953125
+      "x": 48.74098205566406,
+      "y": 1119.203125
     },
     {
       "id": "Classes/Archive/Computer Structures/Stack and Procedures/Push.md",
-      "x": 987.3468017578125,
-      "y": 502.51959228515625
+      "x": -308.80108642578125,
+      "y": 1085.985107421875
     },
     {
       "id": "Classes/Archive/Computer Structures/Stack and Procedures/Stack Implementation.md",
-      "x": 1131.3602294921875,
-      "y": 459.2969970703125
+      "x": -79.34046936035156,
+      "y": 1209.270263671875
     },
     {
       "id": "Classes/Archive/Computer Structures/Stack and Procedures/Stack Pointer (SP) R29.md",
-      "x": 1231.791015625,
-      "y": 539.0929565429688
+      "x": -276.4643249511719,
+      "y": 1263.9854736328125
     },
     {
       "id": "Classes/Archive/Computer Structures/Virtual Machine/Effective Interrupt Load.md",
-      "x": 723.7124633789062,
-      "y": 585.358642578125
+      "x": -294.4449768066406,
+      "y": 780.3368530273438
     },
     {
       "id": "Classes/Archive/Computer Structures/Virtual Machine/Kernel.md",
-      "x": 651.698974609375,
-      "y": 166.4123992919922
+      "x": -72.6241455078125,
+      "y": 275.1880798339844
     },
     {
       "id": "Classes/Archive/Computer Structures/Virtual Machine/Scheduling and Multiple Interrupts.md",
-      "x": 476.9216613769531,
-      "y": -64.97323608398438
+      "x": 235.44931030273438,
+      "y": 251.2510986328125
     },
     {
       "id": "Classes/Archive/Computer Structures/Virtual Memory/Demand Paging.md",
-      "x": 221.96180725097656,
-      "y": 424.629150390625
+      "x": -485.4913635253906,
+      "y": 211.88233947753906
     },
     {
       "id": "Classes/Archive/Computer Structures/Virtual Memory/Dirty Bit (D).md",
-      "x": 86.89351654052734,
-      "y": 411.4737854003906
+      "x": -595.5530395507812,
+      "y": 991.189697265625
     },
     {
       "id": "Classes/Archive/Computer Structures/Virtual Memory/Least Recently Used Bit (LRU).md",
-      "x": -43.458885192871094,
-      "y": 807.8171997070312
+      "x": -843.5575561523438,
+      "y": 1043.89306640625
     },
     {
       "id": "Classes/Archive/Computer Structures/Virtual Memory/Memory Management Unit (MMU).md",
-      "x": -30.291336059570312,
-      "y": 305.9989929199219
+      "x": -460.0624694824219,
+      "y": 752.844970703125
     },
     {
       "id": "Classes/Archive/Computer Structures/Virtual Memory/Memory Paging.md",
-      "x": 154.2890625,
-      "y": 777.0592041015625
+      "x": -1040.465087890625,
+      "y": 810.6350708007812
     },
     {
       "id": "Classes/Archive/Computer Structures/Virtual Memory/Page Fault Exception.md",
-      "x": 340.9446105957031,
-      "y": 483.5986633300781
+      "x": -353.66229248046875,
+      "y": 118.92572784423828
     },
     {
       "id": "Classes/Archive/Computer Structures/Virtual Memory/Page Offset (PO).md",
-      "x": 178.56805419921875,
-      "y": 618.4789428710938
+      "x": -765.3458862304688,
+      "y": 912.9174194335938
     },
     {
       "id": "Classes/Archive/Computer Structures/Virtual Memory/Page Table.md",
-      "x": -57.47705078125,
-      "y": 485.2182922363281
+      "x": -945.1571655273438,
+      "y": 916.0442504882812
     },
     {
       "id": "Classes/Archive/Computer Structures/Virtual Memory/Physical Address (PA).md",
-      "x": 104.05491638183594,
-      "y": 120.9941177368164
+      "x": -323.12640380859375,
+      "y": 473.98541259765625
     },
     {
       "id": "Classes/Archive/Computer Structures/Virtual Memory/Physical Page Number (PPN).md",
-      "x": 28.694198608398438,
-      "y": 698.9880981445312
+      "x": -711.641357421875,
+      "y": 1099.271484375
     },
     {
       "id": "Classes/Archive/Computer Structures/Virtual Memory/Resident Bit (R).md",
-      "x": -75.88947296142578,
-      "y": 622.0881958007812
+      "x": -580.993408203125,
+      "y": 1172.43603515625
     },
     {
       "id": "Classes/Archive/Computer Structures/Virtual Memory/Super Locality of Reference.md",
-      "x": 293.366455078125,
-      "y": 847.6771240234375
+      "x": -872.3009643554688,
+      "y": 750.0796508789062
     },
     {
       "id": "Classes/Archive/Computer Structures/Virtual Memory/Translation Lookaside Buffer (TLB).md",
-      "x": 33.72678756713867,
-      "y": 947.4524536132812
+      "x": -1130.212890625,
+      "y": 673.6846313476562
     },
     {
       "id": "Classes/Archive/Computer Structures/Virtual Memory/Virtual Address (VA).md",
-      "x": 77.36209869384766,
-      "y": 540.0111694335938
+      "x": -431.0705261230469,
+      "y": 598.0686645507812
     },
     {
       "id": "Classes/Archive/Computer Structures/Virtual Memory/Virtual Memory.md",
-      "x": 227.70079040527344,
-      "y": 181.52232360839844
+      "x": -195.09228515625,
+      "y": 392.55877685546875
     },
     {
       "id": "Classes/Archive/Computer Structures/Virtual Memory/Virtual Page Number (VPN).md",
-      "x": 103.04998016357422,
-      "y": 282.1941833496094
+      "x": -564.1934814453125,
+      "y": 862.3268432617188
     },
     {
       "id": "Classes/Computer System Engineering/Computer System Engineering.md",
-      "x": 590.312744140625,
-      "y": -697.5606689453125
-    },
-    {
-      "id": "Classes/Computer System Engineering/The Computer System/Device Controllers.md",
-      "x": 962.5877685546875,
-      "y": -229.314453125
-    },
-    {
-      "id": "Classes/Computer System Engineering/The Computer System/Operating System (OS)/Booting/Booting.md",
-      "x": 899.60498046875,
-      "y": -651.975830078125
-    },
-    {
-      "id": "Classes/Computer System Engineering/The Computer System/Operating System (OS)/Dual Mode Operation (DMO)/Dual Mode Operation (DMO).md",
-      "x": 642.876708984375,
-      "y": -1086.1436767578125
-    },
-    {
-      "id": "Classes/Computer System Engineering/The Computer System/Operating System (OS)/Kernel/Kernel Mode (PC31 MSB = 1).md",
-      "x": 333.0054931640625,
-      "y": -91.19550323486328
-    },
-    {
-      "id": "Classes/Computer System Engineering/The Computer System/Operating System (OS)/Kernel/Kernel.md",
-      "x": 654.5496215820312,
-      "y": -95.26936340332031
-    },
-    {
-      "id": "Classes/Computer System Engineering/The Computer System/Operating System (OS)/Kernel/Preemption Kernel.md",
-      "x": 518.0372924804688,
-      "y": -359.5072326660156
-    },
-    {
-      "id": "Classes/Computer System Engineering/The Computer System/Operating System (OS)/Kernel/Reentrancy Kernel.md",
-      "x": 636.1107177734375,
-      "y": -440.9552307128906
-    },
-    {
-      "id": "Classes/Computer System Engineering/The Computer System/Operating System (OS)/Mulitprogramming/Mulitprogramming.md",
-      "x": 713.6318359375,
-      "y": -552.4447631835938
-    },
-    {
-      "id": "Classes/Computer System Engineering/The Computer System/Operating System (OS)/Operating System (OS).md",
-      "x": 1048.930419921875,
-      "y": -756.8031005859375
-    },
-    {
-      "id": "Classes/Computer System Engineering/The Computer System/Operating System (OS)/Quanta.md",
-      "x": 693.3753051757812,
-      "y": -313.30670166015625
-    },
-    {
-      "id": "Classes/Computer System Engineering/The Computer System/Operating System (OS)/Timesharing/Timesharing.md",
-      "x": 1002.307373046875,
-      "y": -541.2035522460938
-    },
-    {
-      "id": "Classes/Computer System Engineering/The Computer System/Program.md",
-      "x": 413.4894104003906,
-      "y": -756.9962768554688
-    },
-    {
-      "id": "Classes/Computer System Engineering/The Computer System/The Computer System.md",
-      "x": 1128.7933349609375,
-      "y": -633.4417114257812
-    },
-    {
-      "id": "Classes/Database Systems/DBMS (Database Management System).md",
-      "x": -347.09368896484375,
-      "y": -1017.2896118164062
-    },
-    {
-      "id": "Classes/Database Systems/Data Modelling/Data Modelling.md",
-      "x": -458.9583740234375,
-      "y": -1103.000244140625
-    },
-    {
-      "id": "Classes/Database Systems/Database Systems.md",
-      "x": -298.2675476074219,
-      "y": -1142.18505859375
-    },
-    {
-      "id": "Classes/Database Systems/Entity Relationship Model/Entity Relationship Model.md",
-      "x": -182.06881713867188,
-      "y": -1186.4232177734375
-    },
-    {
-      "id": "Classes/Elements of Software Construction/CSS (Cascading Style Sheets)/CSS (Cascading Style Sheets).md",
-      "x": 492.9007873535156,
-      "y": -1240.2449951171875
-    },
-    {
-      "id": "Classes/Elements of Software Construction/Elements of Software Construction.md",
-      "x": 304.5851745605469,
-      "y": -1136.3192138671875
-    },
-    {
-      "id": "Classes/Elements of Software Construction/HTML (Hyper Text Markup Language)/HTML (Hyper Text Markup Language).md",
-      "x": 368.1285400390625,
-      "y": -1248.1494140625
-    },
-    {
-      "id": "Classes/Elements of Software Construction/JavaScript/JavaScript.md",
-      "x": 109.75653839111328,
-      "y": -852.654541015625
-    },
-    {
-      "id": "Classes/The World Since 1400/The Origins of Global Interdependence.md",
-      "x": 5.4154133796691895,
-      "y": -1167.79638671875
-    },
-    {
-      "id": "Classes/The World Since 1400/The World Since 1400.md",
-      "x": 137.64208984375,
-      "y": -1195.4970703125
-    },
-    {
-      "id": "Classes/The World Since 1400/World Trade 1000 - 1500 (The Economic Consequences of Genghis Khan)/Trade and War in the Mediterranean and The Black Sea (1000-1350).md",
-      "x": 208.37123107910156,
-      "y": -1324.894775390625
-    },
-    {
-      "id": "Classes/The World Since 1400/World Trade 1000 - 1500 (The Economic Consequences of Genghis Khan)/World Trade 1000 - 1500 (The Economic Consequences of Genghis Khan).md",
-      "x": 66.15101623535156,
-      "y": -1336.9942626953125
-    },
-    {
-      "id": "1350-1500",
-      "x": -64.19669342041016,
-      "y": -1336.7305908203125
-    },
-    {
-      "id": "Personal Adventures/Docker.md",
-      "x": -1214.7222900390625,
-      "y": -686.8382568359375
-    },
-    {
-      "id": "Personal Adventures/Linux on Mac.md",
-      "x": -98.05729675292969,
-      "y": 1121.6688232421875
-    },
-    {
-      "id": "Personal Adventures/Obsidian Sync Alternative.md",
-      "x": 19.29998016357422,
-      "y": 1205.0181884765625
-    },
-    {
-      "id": "#review",
-      "x": -33.410701751708984,
-      "y": -886.0198364257812
-    },
-    {
-      "id": "Classes/Archive/Computer Structures/Interrupts and Faults/conflict-files-obsidian-git-1.webp",
-      "x": 1301.051513671875,
-      "y": -182.06378173828125
-    },
-    {
-      "id": "Blue Skies and Sunshine/Blue Skies and Sunshine.md",
-      "x": 187.3568878173828,
-      "y": -1026.811767578125
-    },
-    {
-      "id": "User Program",
-      "x": 1247.38623046875,
-      "y": -516.9718627929688
-    },
-    {
-      "id": "User Mode(MSB = 0)",
-      "x": 775.8519897460938,
-      "y": -55.16316604614258
-    },
-    {
-      "id": "Classes/Computer System Engineering/The Computer System/Operating System (OS)/User Program",
-      "x": 200.03419494628906,
-      "y": -43.68146514892578
-    },
-    {
-      "id": "Classes/Archive/Computer Structures/Virtual Memory/Process/Process.md",
-      "x": 433.5953369140625,
-      "y": -253.16404724121094
-    },
-    {
-      "id": "Classes/Computer System Engineering/The Computer System/Interrupts/Interrupt Vector.md",
-      "x": 1221.86767578125,
-      "y": -354.93658447265625
-    },
-    {
-      "id": "Classes/Computer System Engineering/The Computer System/Interrupts/Polled Interrupt System.md",
-      "x": 789.6513671875,
-      "y": -403.1678771972656
-    },
-    {
-      "id": "Classes/Computer System Engineering/The Computer System/Interrupts/IRQ and Service Delay.md",
-      "x": 487.2169494628906,
-      "y": -855.8578491210938
-    },
-    {
-      "id": "Classes/Computer System Engineering/The Computer System/Interrupts/Timer IRQ.md",
-      "x": 558.5712890625,
-      "y": -555.8555297851562
-    },
-    {
-      "id": "Classes/Computer System Engineering/The Computer System/Interrupts/Vectored Interrupt System.md",
-      "x": 1098.6331787109375,
-      "y": -284.955810546875
-    },
-    {
-      "id": "Classes/Computer System Engineering/The Computer System/Interrupts/Raw Device Polling.md",
-      "x": 382.1365661621094,
-      "y": -978.3941650390625
-    },
-    {
-      "id": "Classes/Computer System Engineering/The Computer System/Interrupts/Wait IRQ.md",
-      "x": 903.8297119140625,
-      "y": -354.5741882324219
-    },
-    {
-      "id": "Classes/Computer System Engineering/The Computer System/Mode Switching.md",
-      "x": 1057.8629150390625,
-      "y": -413.6017150878906
-    },
-    {
-      "id": "Classes/Computer System Engineering/The Computer System/Operating System (OS)/Application (User) Program.md",
-      "x": 277.17010498046875,
-      "y": -834.1421508789062
-    },
-    {
-      "id": "Classes/Computer System Engineering/The Computer System/Operating System (OS)/OS Design and Implementation.md",
-      "x": 800.4826049804688,
-      "y": -224.63168334960938
-    },
-    {
-      "id": "Classes/Computer System Engineering/The Computer System/Operating System (OS)/OS Structures/Hybrid Approach/Hybrid Approach.md",
-      "x": 539.310791015625,
-      "y": -995.8256225585938
-    },
-    {
-      "id": "Classes/Computer System Engineering/The Computer System/Operating System (OS)/OS Structures/Layered Approach/Layered Approach.md",
-      "x": 929.216552734375,
-      "y": -953.1161499023438
-    },
-    {
-      "id": "Classes/Computer System Engineering/The Computer System/Operating System (OS)/OS Structures/Java Operating System (JX)/Java Operating System (JX).md",
-      "x": 145.16799926757812,
-      "y": -156.5265350341797
-    },
-    {
-      "id": "Classes/Computer System Engineering/The Computer System/Operating System (OS)/OS Structures/Monolithic Structure/Monolithic Structure.md",
-      "x": 735.0745239257812,
-      "y": -942.4179077148438
-    },
-    {
-      "id": "Classes/Computer System Engineering/The Computer System/Operating System (OS)/OS Structures/Microkernel/Microkernel.md",
-      "x": 461.48138427734375,
-      "y": -479.7906188964844
-    },
-    {
-      "id": "Classes/Computer System Engineering/The Computer System/Operating System (OS)/OS Structures/Microkernel/Overhead.md",
-      "x": 740.8798828125,
-      "y": -813.6631469726562
-    },
-    {
-      "id": "Classes/Computer System Engineering/The Computer System/exit().md",
-      "x": 361.68017578125,
-      "y": -547.3858642578125
-    },
-    {
-      "id": "Classes/Computer System Engineering/The Computer System/fork().md",
-      "x": 130.7252960205078,
-      "y": -333.2984313964844
-    },
-    {
-      "id": "Classes/Computer System Engineering/The Computer System/wait().md",
-      "x": 590.362060546875,
-      "y": -235.1708984375
-    },
-    {
-      "id": "Classes/Database Systems/Relational Algebra/Relational Algebra.md",
-      "x": -412.44415283203125,
-      "y": -1265.28271484375
-    },
-    {
-      "id": "Personal Adventures/Self Improvement/How To Win Friends & Influence People.md",
-      "x": -115.13629913330078,
-      "y": 1335.72705078125
-    },
-    {
-      "id": "Personal Adventures/Self Improvement/Consistency and Discipline.md",
-      "x": 59.62898635864258,
-      "y": 1349.50537109375
-    },
-    {
-      "id": "Personal Adventures/Self Improvement/Biphasic Sleep Cycle/Biphasic Sleep Cycle.md",
-      "x": 204.01333618164062,
-      "y": 1273.5360107421875
-    },
-    {
-      "id": "Personal Adventures/Self Improvement/Biphasic Sleep Cycle/June 12, 2025.md",
-      "x": 311.6612243652344,
-      "y": 1326.5550537109375
-    },
-    {
-      "id": "Projects/BeanThereDoneThat.md",
-      "x": -683.115234375,
-      "y": -1102.007568359375
-    },
-    {
-      "id": "Projects/Computer Engineering - CSEShell.md",
-      "x": -330.5842590332031,
-      "y": 1315.1898193359375
-    },
-    {
-      "id": "Projects/Projects.md",
-      "x": 48.538021087646484,
-      "y": -1024.8145751953125
-    },
-    {
-      "id": "Projects/World Since 1400 Assignment 1.md",
-      "x": -841.6488037109375,
-      "y": -1082.4158935546875
-    },
-    {
-      "id": "Projects/World Since 1400 Assignment 2.md",
-      "x": -592.1451416015625,
-      "y": -1210.6063232421875
-    },
-    {
-      "id": "Projects/Software Construct - Webapp for Caregivers/Software Construct - Webapp for Caregivers.md",
-      "x": -216.64024353027344,
-      "y": 1220.923828125
+      "x": 843.3557739257812,
+      "y": 242.07098388671875
     },
     {
       "id": "Classes/Computer System Engineering/The Computer System/Application Programming Interface/Application Programming Interface.md",
-      "x": 877.7980346679688,
-      "y": -502.7755432128906
+      "x": 533.3973999023438,
+      "y": 736.3645629882812
     },
     {
-      "id": "Classes/Computer System Engineering/The Computer System/Context Switching/Context Switching.md",
-      "x": 758.5433349609375,
-      "y": -677.2952270507812
+      "id": "Classes/Computer System Engineering/The Computer System/Binary Tree.md",
+      "x": 914.59814453125,
+      "y": -328.8273010253906
+    },
+    {
+      "id": "Classes/Computer System Engineering/The Computer System/Device Controllers.md",
+      "x": 375.13031005859375,
+      "y": 358.8105163574219
+    },
+    {
+      "id": "Classes/Computer System Engineering/The Computer System/Interrupts/IRQ and Service Delay.md",
+      "x": 952.0656127929688,
+      "y": 416.1680908203125
+    },
+    {
+      "id": "Classes/Computer System Engineering/The Computer System/Interrupts/Interrupt Vector.md",
+      "x": 585.5181884765625,
+      "y": 589.1011962890625
+    },
+    {
+      "id": "Classes/Computer System Engineering/The Computer System/Interrupts/Polled Interrupt System.md",
+      "x": 734.720458984375,
+      "y": 584.0366821289062
+    },
+    {
+      "id": "Classes/Computer System Engineering/The Computer System/Interrupts/Raw Device Polling.md",
+      "x": 790.3382568359375,
+      "y": 407.4355773925781
+    },
+    {
+      "id": "Classes/Computer System Engineering/The Computer System/Interrupts/Timer IRQ.md",
+      "x": 632.6821899414062,
+      "y": -75.98918914794922
+    },
+    {
+      "id": "Classes/Computer System Engineering/The Computer System/Interrupts/Vectored Interrupt System.md",
+      "x": 681.0477905273438,
+      "y": 738.9412841796875
+    },
+    {
+      "id": "Classes/Computer System Engineering/The Computer System/Interrupts/Wait IRQ.md",
+      "x": 307.44549560546875,
+      "y": -103.63346862792969
+    },
+    {
+      "id": "Classes/Computer System Engineering/The Computer System/Operating System (OS)/Application (User) Program.md",
+      "x": 632.4955444335938,
+      "y": 418.0915222167969
+    },
+    {
+      "id": "Classes/Computer System Engineering/The Computer System/Operating System (OS)/Booting/Booting.md",
+      "x": 735.2594604492188,
+      "y": 80.969970703125
     },
     {
       "id": "Classes/Computer System Engineering/The Computer System/Operating System (OS)/Command-Line Interpreter/Command-Line Interpreter.md",
-      "x": 277.8088684082031,
-      "y": -301.48345947265625
+      "x": 851.538330078125,
+      "y": 777.8403930664062
     },
     {
-      "id": "User Mode (MSB = 0)",
-      "x": 923.0059204101562,
-      "y": -789.2246704101562
+      "id": "Classes/Computer System Engineering/The Computer System/Operating System (OS)/Daemons.md",
+      "x": 750.200439453125,
+      "y": 872.8133544921875
     },
     {
-      "id": "User Interface",
-      "x": 798.8557739257812,
-      "y": -1048.7781982421875
+      "id": "Classes/Computer System Engineering/The Computer System/Operating System (OS)/Dual Mode Operation (DMO)/Dual Mode Operation (DMO).md",
+      "x": 1174.057373046875,
+      "y": 234.1751708984375
+    },
+    {
+      "id": "Classes/Computer System Engineering/The Computer System/Operating System (OS)/Kernel/Kernel Mode (PC31 MSB = 1).md",
+      "x": 33.11114501953125,
+      "y": 55.7642707824707
+    },
+    {
+      "id": "Classes/Computer System Engineering/The Computer System/Operating System (OS)/Kernel/Kernel.md",
+      "x": 184.28587341308594,
+      "y": 102.90535736083984
+    },
+    {
+      "id": "Classes/Computer System Engineering/The Computer System/Operating System (OS)/Kernel/Preemption Kernel.md",
+      "x": 489.3721923828125,
+      "y": 59.702484130859375
+    },
+    {
+      "id": "Classes/Computer System Engineering/The Computer System/Operating System (OS)/Kernel/Reentrancy Kernel.md",
+      "x": 331.44781494140625,
+      "y": 48.48677444458008
+    },
+    {
+      "id": "Classes/Computer System Engineering/The Computer System/Operating System (OS)/Mulitprogramming/Mulitprogramming.md",
+      "x": 887.701416015625,
+      "y": 81.40339660644531
+    },
+    {
+      "id": "Classes/Computer System Engineering/The Computer System/Operating System (OS)/OS Design and Implementation.md",
+      "x": 388.3432312011719,
+      "y": 196.3843994140625
+    },
+    {
+      "id": "Classes/Computer System Engineering/The Computer System/Operating System (OS)/OS Structures/Hyprid Approach/Hyprid Approach.md",
+      "x": 1042.2418212890625,
+      "y": -227.0596923828125
+    },
+    {
+      "id": "Classes/Computer System Engineering/The Computer System/Operating System (OS)/OS Structures/Java Operating System (JX)/Java Operating System (JX).md",
+      "x": -14.454825401306152,
+      "y": 435.30377197265625
+    },
+    {
+      "id": "Classes/Computer System Engineering/The Computer System/Operating System (OS)/OS Structures/Layered Approach/Layered Approach.md",
+      "x": 1128.5274658203125,
+      "y": 409.0340881347656
+    },
+    {
+      "id": "Classes/Computer System Engineering/The Computer System/Operating System (OS)/OS Structures/Microkernel/Microkernel.md",
+      "x": 611.7493286132812,
+      "y": -236.8832550048828
+    },
+    {
+      "id": "Classes/Computer System Engineering/The Computer System/Operating System (OS)/OS Structures/Microkernel/Overhead.md",
+      "x": 428.25030517578125,
+      "y": -219.5258026123047
+    },
+    {
+      "id": "Classes/Computer System Engineering/The Computer System/Operating System (OS)/OS Structures/Monolithic Structure/Monolithic Structure.md",
+      "x": 1170.4132080078125,
+      "y": 62.21036148071289
+    },
+    {
+      "id": "Classes/Computer System Engineering/The Computer System/Operating System (OS)/Operating System (OS).md",
+      "x": 1004.375732421875,
+      "y": 285.45843505859375
+    },
+    {
+      "id": "Classes/Computer System Engineering/The Computer System/Operating System (OS)/Quanta.md",
+      "x": 483.9357604980469,
+      "y": -88.38431549072266
+    },
+    {
+      "id": "Classes/Computer System Engineering/The Computer System/Operating System (OS)/System Programs.md",
+      "x": 798.4638671875,
+      "y": 1043.62939453125
+    },
+    {
+      "id": "Classes/Computer System Engineering/The Computer System/Operating System (OS)/Terminal Emulator.md",
+      "x": 966.650390625,
+      "y": 697.88525390625
+    },
+    {
+      "id": "Classes/Computer System Engineering/The Computer System/Operating System (OS)/Timesharing/Timesharing.md",
+      "x": 789.3132934570312,
+      "y": -60.42658233642578
+    },
+    {
+      "id": "Classes/Computer System Engineering/The Computer System/Operating System (OS)/User Interface.md",
+      "x": 1042.952880859375,
+      "y": 558.8363647460938
+    },
+    {
+      "id": "Classes/Computer System Engineering/The Computer System/Parameter Passing.md",
+      "x": 608.2674560546875,
+      "y": 937.0345458984375
+    },
+    {
+      "id": "Classes/Computer System Engineering/The Computer System/Program.md",
+      "x": 873.1314697265625,
+      "y": 560.4976806640625
+    },
+    {
+      "id": "Classes/Computer System Engineering/The Computer System/The Computer System.md",
+      "x": 703.4529418945312,
+      "y": 268.65252685546875
+    },
+    {
+      "id": "Classes/Database Systems/DBMS (Database Management System).md",
+      "x": 1215.490966796875,
+      "y": -539.775146484375
+    },
+    {
+      "id": "Classes/Database Systems/Data Modelling/Data Modelling.md",
+      "x": 1116.5858154296875,
+      "y": -398.20611572265625
+    },
+    {
+      "id": "Classes/Database Systems/Database Systems.md",
+      "x": 1227.1768798828125,
+      "y": -268.3025817871094
+    },
+    {
+      "id": "Classes/Database Systems/Entity Relationship Model/Entity Relationship Model.md",
+      "x": 1285.7349853515625,
+      "y": -390.6234436035156
+    },
+    {
+      "id": "Classes/Database Systems/Relational Algebra/Relational Algebra.md",
+      "x": 1325.239501953125,
+      "y": -0.636954665184021
+    },
+    {
+      "id": "Classes/Database Systems/Relational Model.md",
+      "x": 1328.6717529296875,
+      "y": -154.72015380859375
+    },
+    {
+      "id": "Classes/Database Systems/SQL.md",
+      "x": 1324.1038818359375,
+      "y": 169.29632568359375
+    },
+    {
+      "id": "Classes/Elements of Software Construction/CSS (Cascading Style Sheets)/CSS (Cascading Style Sheets).md",
+      "x": 1226.6783447265625,
+      "y": 539.0059204101562
+    },
+    {
+      "id": "Classes/Elements of Software Construction/Elements of Software Construction.md",
+      "x": 1284.2086181640625,
+      "y": 362.6116943359375
+    },
+    {
+      "id": "Classes/Elements of Software Construction/HTML (Hyper Text Markup Language)/HTML (Hyper Text Markup Language).md",
+      "x": 1145.1405029296875,
+      "y": 690.7786865234375
+    },
+    {
+      "id": "Classes/Elements of Software Construction/JavaScript/JavaScript.md",
+      "x": 926.2909545898438,
+      "y": 952.8782958984375
+    },
+    {
+      "id": "Classes/The World Since 1400/Silver Trade (1530's - 1590's).md",
+      "x": 1066.1837158203125,
+      "y": -600.6517944335938
+    },
+    {
+      "id": "Classes/The World Since 1400/The Origins of Global Interdependence.md",
+      "x": 976.0410766601562,
+      "y": -481.3325500488281
+    },
+    {
+      "id": "Classes/The World Since 1400/The World Since 1400.md",
+      "x": 942.7327880859375,
+      "y": -704.0860595703125
+    },
+    {
+      "id": "Classes/The World Since 1400/Wako (1551-1560).md",
+      "x": 1120.5958251953125,
+      "y": -733.971923828125
+    },
+    {
+      "id": "Classes/The World Since 1400/World Trade 1000 - 1500 (The Economic Consequences of Genghis Khan)/Trade and War in the Mediterranean and The Black Sea (1000-1350).md",
+      "x": 859.8021850585938,
+      "y": -569.8284912109375
+    },
+    {
+      "id": "Classes/The World Since 1400/World Trade 1000 - 1500 (The Economic Consequences of Genghis Khan)/World Trade 1000 - 1500 (The Economic Consequences of Genghis Khan).md",
+      "x": 1013.6570434570312,
+      "y": -844.5238647460938
+    },
+    {
+      "id": "Personal Adventures/Docker.md",
+      "x": -1218.6556396484375,
+      "y": 532.2493896484375
+    },
+    {
+      "id": "Personal Adventures/Linux on Mac.md",
+      "x": -1286.0135498046875,
+      "y": 371.0377502441406
+    },
+    {
+      "id": "Personal Adventures/Obsidian Sync Alternative.md",
+      "x": 806.4669189453125,
+      "y": -1070.6171875
+    },
+    {
+      "id": "Personal Adventures/Self-Improvement/How To Win Friends & Influence People.md",
+      "x": 586.5337524414062,
+      "y": 1217.5614013671875
+    },
+    {
+      "id": "Personal Adventures/Self-Improvement/Self-Improvement.md",
+      "x": -1310.6524658203125,
+      "y": 207.2264862060547
+    },
+    {
+      "id": "#review",
+      "x": 1043.6265869140625,
+      "y": 834.3603515625
+    },
+    {
+      "id": "Connectedness",
+      "x": 588.559326171875,
+      "y": -1215.03759765625
+    },
+    {
+      "id": "Acyclic Graph",
+      "x": 813.4388427734375,
+      "y": -815.2139892578125
+    },
+    {
+      "id": "Tree Edges",
+      "x": 440.50408935546875,
+      "y": -374.4384765625
+    },
+    {
+      "id": "Back Edges",
+      "x": 746.8627319335938,
+      "y": -436.97027587890625
+    },
+    {
+      "id": "Forward Edges",
+      "x": 646.601318359375,
+      "y": -559.6476440429688
+    },
+    {
+      "id": "Cross Edges",
+      "x": 597.5833129882812,
+      "y": -402.8614807128906
+    },
+    {
+      "id": "Python Dictionary",
+      "x": -1123.025390625,
+      "y": 174.26124572753906
+    },
+    {
+      "id": "Probe Sequence",
+      "x": -1288.7412109375,
+      "y": -375.93121337890625
+    },
+    {
+      "id": "Linear Probing",
+      "x": -1223.670654296875,
+      "y": 54.417869567871094
+    },
+    {
+      "id": "Quadratic Probing",
+      "x": -1316.02099609375,
+      "y": -174.470947265625
+    },
+    {
+      "id": "Double Hashing",
+      "x": -1341.519775390625,
+      "y": -4.207624912261963
+    },
+    {
+      "id": "Cost Function",
+      "x": 102.71075439453125,
+      "y": -226.0596466064453
+    },
+    {
+      "id": "Classes/Archive/Computer Structures/Interrupts and Faults/conflict-files-obsidian-git-1.webp",
+      "x": 62.58309555053711,
+      "y": 215.3370361328125
+    },
+    {
+      "id": "Classes/Computer System Engineering/The Computer System/Operating System (OS)/Kernel",
+      "x": 665.4480590820312,
+      "y": 1083.041748046875
+    },
+    {
+      "id": "Decoding",
+      "x": -92.41531372070312,
+      "y": 865.8587646484375
+    },
+    {
+      "id": "Process Table",
+      "x": 148.3876190185547,
+      "y": -63.59428787231445
+    },
+    {
+      "id": "1350-1500",
+      "x": 918.8429565429688,
+      "y": -958.6347045898438
+    },
+    {
+      "id": "Classes/Computer System Engineering/The Computer System/Context Switching/Context Switching.md",
+      "x": 761.9912719726562,
+      "y": -249.21194458007812
+    },
+    {
+      "id": "Classes/Computer System Engineering/The Computer System/Mode Switching.md",
+      "x": 270.60400390625,
+      "y": 455.9657897949219
+    },
+    {
+      "id": "Classes/Computer System Engineering/The Computer System/Operating System (OS)/Kernel/User Mode (MSB = 0).md",
+      "x": 400.7770080566406,
+      "y": 590.8923950195312
+    },
+    {
+      "id": "Classes/Archive/Computer Structures/Virtual Memory/Process/Process.md",
+      "x": 606.29833984375,
+      "y": 138.114990234375
     },
     {
       "id": "#ComputerSystemEngineering",
-      "x": 135.0156707763672,
-      "y": -694.5988159179688
+      "x": 1027.4111328125,
+      "y": 140.11573791503906
     },
     {
-      "id": "SQL",
-      "x": -283.8958435058594,
-      "y": -1307.5958251953125
+      "id": "Classes/Computer System Engineering/The Computer System/exit().md",
+      "x": 1013.3665771484375,
+      "y": -25.086057662963867
     },
     {
-      "id": "Binary Tree",
-      "x": 124.7639389038086,
-      "y": -526.2203979492188
+      "id": "Classes/Computer System Engineering/The Computer System/fork().md",
+      "x": 901.697509765625,
+      "y": -151.99542236328125
     },
     {
-      "id": "Terminal Emulator",
-      "x": 231.76461791992188,
-      "y": -580.5404663085938
+      "id": "Classes/Computer System Engineering/The Computer System/wait().md",
+      "x": 490.5887756347656,
+      "y": 460.8798828125
     },
     {
-      "id": "System Programs",
-      "x": 283.8274841308594,
-      "y": -443.65228271484375
+      "id": "#ComputationStructures",
+      "x": 527.1128540039062,
+      "y": 273.763916015625
     },
     {
-      "id": "Daemons",
-      "x": 318.3066101074219,
-      "y": -673.4443969726562
-    },
-    {
-      "id": "Multi-tasking System",
-      "x": 476.48529052734375,
-      "y": 568.0870971679688
-    },
-    {
-      "id": "Single-Tasking System",
-      "x": 702.3179931640625,
-      "y": 467.2842102050781
-    },
-    {
-      "id": "Parameter Passing",
-      "x": 607.810302734375,
-      "y": -859.1466674804688
-    },
-    {
-      "id": "Relational Model",
-      "x": -192.544189453125,
-      "y": -1032.904296875
+      "id": "The Tia File.md",
+      "x": 257.7571105957031,
+      "y": 1324.106201171875
     }
   ],
   "automaticallyRestoreNodePositions": true

@@ -1,7 +1,6 @@
 ---
 Status:
   - In Progress
-Due_Date: 2025-06-26T00:00:00.000+08:00
 ---
 https://docs.google.com/document/d/1BPjozYRCMfPSBYGisJ-GIStBv0Ri68XGfIYQIW1HQB0/edit?tab=t.orezp0w5luh5
 

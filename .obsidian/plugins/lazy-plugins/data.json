@@ -1,0 +1,71 @@
+{
+  "dualConfigs": false,
+  "showConsoleLog": false,
+  "desktop": {
+    "shortDelaySeconds": 5,
+    "longDelaySeconds": 15,
+    "delayBetweenPlugins": 40,
+    "defaultStartupType": null,
+    "showDescriptions": true,
+    "enableDependencies": false,
+    "plugins": {
+      "obsidian42-brat": {
+        "startupType": "instant"
+      },
+      "calendar": {
+        "startupType": "instant"
+      },
+      "dataview": {
+        "startupType": "instant"
+      },
+      "dbfolder": {
+        "startupType": "instant"
+      },
+      "obsidian-file-color": {
+        "startupType": "instant"
+      },
+      "folder-notes": {
+        "startupType": "instant"
+      },
+      "obsidian-git": {
+        "startupType": "instant"
+      },
+      "obsidian-icon-folder": {
+        "startupType": "instant"
+      },
+      "image-converter": {
+        "startupType": "instant"
+      },
+      "omnisearch": {
+        "startupType": "instant"
+      },
+      "obsidian-paste-image-rename": {
+        "startupType": "instant"
+      },
+      "persistent-graph": {
+        "startupType": "instant"
+      },
+      "pexels-banner": {
+        "startupType": "disabled"
+      },
+      "short-internal-links-to-headings": {
+        "startupType": "instant"
+      },
+      "obsidian-style-settings": {
+        "startupType": "instant"
+      },
+      "ob-table-enhancer": {
+        "startupType": "instant"
+      },
+      "todoist-sync-plugin": {
+        "startupType": "instant"
+      },
+      "various-complements": {
+        "startupType": "disabled"
+      },
+      "waypoint": {
+        "startupType": "instant"
+      }
+    }
+  }
+}
