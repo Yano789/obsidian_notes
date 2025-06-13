@@ -4,12 +4,12 @@
 - **[[Data Modelling]]**
 
 - [[DBMS (Database Management System)]]
+- [[Decomposition]]
 - **[[Entity Relationship Model]]**
 
 - **[[Relational Algebra]]**
 
-- [[Relational Model]]
-- [[SQL]]
+- [[Relational [[Decomposition]]SQL]]
 
 %% End Waypoint %%
 
