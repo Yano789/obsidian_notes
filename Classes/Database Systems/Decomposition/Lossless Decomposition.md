@@ -1,0 +1,1 @@
+The process in which where we can regain the original relation R with the help of [[Relational Algebra#Join ($ bowtie$)|Join]] from the multiple relations formed after decomposition. It is used to remove the redundant data from the database while retaining the useful information.
