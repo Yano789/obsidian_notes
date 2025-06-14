@@ -1,4 +1,5 @@
 **Reference Course Website** - https://natalieagus.github.io/50005/
+
 **Course Handout** - https://docs.google.com/document/d/1lbudJwX11JK6JOjwq5fDTwfycz9GcAqAoNL-NjbpU4M/edit?tab=t.0#heading=h.2axn1ghn0yup
 
 %% Begin Waypoint %%
@@ -34,6 +35,7 @@
 			- [[Preemption Kernel]]
 			- [[Reentrancy Kernel]]
 			- [[User Mode (MSB = 0)]]
+		- [[Kernel]]
 		- **[[Mulitprogramming]]**
 
 		- [[OS Design and Implementation]]
@@ -55,6 +57,8 @@
 
 		- [[User Interface]]
 	- [[Parameter Passing]]
+	- **[[Process]]**
+
 	- [[Program]]
 	- [[wait()]]
 

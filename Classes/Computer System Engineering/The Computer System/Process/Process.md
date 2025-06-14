@@ -88,7 +88,7 @@ We can create new [[Process|processes]] using [[fork()]] [[System Call (Trap)]]
 
 ### Process Tree
 P0 (Parent [[Process]]) creates 3 child [[Process|processes]], and one child [[Process]] creates another child [[Process]]
-![[Classes/Archive/Computer Structures/Virtual Memory/Process/Process-1.webp|284x284]]
+![[Classes/Computer System Engineering/The Computer System/Process/Process-1.webp|284x284]]
 
 
 ![[Process-2.webp|350]]

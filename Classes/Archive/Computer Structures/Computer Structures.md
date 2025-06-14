@@ -67,8 +67,6 @@
 	- [[Page Table]]
 	- [[Physical Address (PA)]]
 	- [[Physical Page Number (PPN)]]
-	- **[[Process]]**
-
 	- [[Resident Bit (R)]]
 	- [[Super Locality of Reference]]
 	- [[Translation Lookaside Buffer (TLB)]]
