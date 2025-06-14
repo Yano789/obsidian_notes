@@ -20,5 +20,5 @@ autorefresh: 5
 4. [[The World Since 1400]] 
 
 # Projects
-![[Projects]]
+![[Projects]] 
  
