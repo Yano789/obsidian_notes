@@ -35,7 +35,6 @@
 			- [[Preemption Kernel]]
 			- [[Reentrancy Kernel]]
 			- [[User Mode (MSB = 0)]]
-		- [[Kernel]]
 		- **[[Mulitprogramming]]**
 
 		- [[OS Design and Implementation]]
@@ -58,6 +57,14 @@
 		- [[User Interface]]
 	- [[Parameter Passing]]
 	- **[[Process]]**
+		- **[[Interprocess Communication]]**
+			- **[[Message Passing]]**
+
+			- **[[Shared Memory]]**
+
+		- **[[Threads]]**
+			- **[[Multicore Programming]]**
+			- **[[Thread Mapping]]**
 
 	- [[Program]]
 	- [[wait()]]

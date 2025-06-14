@@ -1,3 +1,4 @@
+
 ![[Classes/Archive/Computer Structures/Virtual Machine/Kernel|Kernel]]
 
 The kernel is the **heart** of the [[Operating System (OS)]]
