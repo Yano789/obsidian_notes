@@ -64,6 +64,7 @@
 
 		- **[[Threads]]**
 			- **[[Multicore Programming]]**
+				- [[Amdahl's Law]]
 			- **[[Thread Mapping]]**
 
 	- [[Program]]

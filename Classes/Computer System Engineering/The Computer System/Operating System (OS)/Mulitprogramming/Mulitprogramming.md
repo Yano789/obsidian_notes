@@ -3,7 +3,6 @@
 Multiprogramming involves running multiple programs (or [[Process|processes]]) **on a single processor system**, a concept that is needed for **efficiency**. The [[Operating System (OS)]] keeps several jobs in memory simultaneously. When one job waits for I/O operations to complete, the CPU can execute another job. This approach **maximizes CPU usage by reducing idle time.**
 
 **Simplified implementation**:
-
 - The [[Operating System (OS)]] maintains a **pool of jobs** in the job queue.
 - **Jobs are selected** and loaded into memory.
 - The CPU **switches between jobs** when they are waiting for I/O, ensuring that it is **always busy executing some job.**

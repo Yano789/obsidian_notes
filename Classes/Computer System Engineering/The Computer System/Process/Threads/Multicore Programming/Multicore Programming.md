@@ -2,4 +2,4 @@ On a system with multiple cores and supported [[Classes/Computer System Engineer
 
 A possible parallel execution sequence on a multicore system is as shown (Ti stands for Thread i, 4 threads in total in this example):
 
-![[Classes/Computer System Engineering/The Computer System/Process/Threads/Thread Mapping/image.webp]]
+![[Classes/Computer System Engineering/The Computer System/Process/Threads/Multicore Programming/image.webp]]
