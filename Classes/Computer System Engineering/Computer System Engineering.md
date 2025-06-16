@@ -3,6 +3,11 @@
 **Course Handout** - https://docs.google.com/document/d/1lbudJwX11JK6JOjwq5fDTwfycz9GcAqAoNL-NjbpU4M/edit?tab=t.0#heading=h.2axn1ghn0yup
 
 %% Begin Waypoint %%
+- [[Atomic Operations]]
+- [[Critical Section (CS)]]
+- [[Race Condition]]
+- **Software Mutex Algoritm**
+	- [[Peterson's Solution]]
 - **[[The Computer System]]**
 	- **[[Application Programming Interface]]**
 
