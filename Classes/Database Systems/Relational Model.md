@@ -22,14 +22,13 @@ Entities (Primary Keys, Attributes)
 
 *null = unknown = no specification*
 
-## Database
-### Database Schema
+### Schema
 - logical structure of a database
 
-### Database Instance
+### Instance
 - snapshot at a given time
 
-## Keys
+### Keys
 - $K\subset R$ 
 - K is a **superkey** of R if it can identify a touple
 	- superkey K is a **candidate key** if K is *minimal* (least amount of attributes to identify an item/object)

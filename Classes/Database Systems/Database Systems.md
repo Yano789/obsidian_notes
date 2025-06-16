@@ -8,6 +8,9 @@
 	- [[Lossless Decomposition]]
 - **[[Entity Relationship Model]]**
 
+- **[[Functional Dependencies (FD)]]**
+	- [[Canonical Cover]]
+	- [[Closure Set]]
 - **[[Relational Algebra]]**
 
 - [[Relational Model]]

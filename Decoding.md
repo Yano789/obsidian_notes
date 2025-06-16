@@ -1,0 +1,1 @@
+splitting the address into N (rows) and M (columns) then read the information

@@ -19,7 +19,6 @@ Thus the **Interrupt Handler** will do the following:
 2. Transfer control to the appropriate interrupt service routing, depending on the [[Device Controllers|device controller]] that made the request
 
 ## Hardware Interrupt Timeline
-![[Classes/Archive/Computer Structures/Interrupts and Faults/conflict-files-obsidian-git-1.webp]]
 
 1. **[[Device Controllers#I/O|I/O]] Devices**: Runs *asynchronously*, capable of being "smart" and *run its own instructions*
 2. **[[Device Controllers]]**: Attached to the *motherboard*, runs *asynchronously*, may run simple instructions. *Has its own buffers, registers, and simple instructions interpreter*. Data Transfer to and fro the I/O through standard protocols such as USB, A/C, HDMI, DP, etc.
