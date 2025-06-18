@@ -8,31 +8,21 @@ $$
 $$
 X \ \text{determines} \ Y
 $$
-
 Check if:
  1. FD is violated in the table
  2. Even if FD is not in the [[Relational Model#Instance]] doesn't mean it's not in the [[Relational Model#Schema]]
-
 $$
 \text{If} \ X \rightarrow Y, \text{and} \ X\rightarrow Z, \text{then} \ X \rightarrow YZ
 $$
-
 >[!WARNING]
 >$XY\rightarrow Z \neq X \rightarrow Z, Y \rightarrow Z$
+___
 
-# Armstrongs Axioms
-## Reflexivity
-$$
-Y \subseteq X \Rightarrow X \rightarrow Y, \ X \subseteq Z \Rightarrow XZ \rightarrow X
-$$
+# Solving FD Problems
+1. Compute [[Closure Set]]($F^+$) w.r.t. one of the attributes
+	1. eg. $A \rightarrow BC \Rightarrow C\rightarrow E$
+	2. $A\rightarrow B \ A \rightarrow C \Rightarrow A \rightarrow E$
+	3. Therefore $A\rightarrow \{A,B,C,E\}$  
+	4. Since it is missing D, our candidate key becomes $AD \rightarrow \{A,B,C,D,E\}$
 
-## Augmentation
-$$
-X \rightarrow Y \Rightarrow XZ \rightarrow YZ
-$$
-
-## Transitivity
-$$
-X \rightarrow Y \land Y \rightarrow Z  \Rightarrow X \rightarrow Z
-$$
-
+>[!NOTE] If only 1 attribute is your candidate key, it will definitely be 2NF because there will be no partial dependency

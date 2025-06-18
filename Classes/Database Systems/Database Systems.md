@@ -9,6 +9,7 @@
 - **[[Entity Relationship Model]]**
 
 - **[[Functional Dependencies (FD)]]**
+	- [[Armstrongs Axioms]]
 	- [[Canonical Cover]]
 	- [[Closure Set]]
 - **[[Relational Algebra]]**
