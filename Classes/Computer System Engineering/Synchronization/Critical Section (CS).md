@@ -1,4 +1,9 @@
-A predefined section of the [[Program]] that can guarantee and [[Atomic Operations|atomic operation]] is called the **Critical Section (CS)**
+---
+aliases:
+  - CS
+---
+
+A predefined section of the Program that can guarantee and atomic operation is called the Critical Section (CS)
 
 > [!IMPORTANT] 
 > When one [[Process]] is executing its critical section, no other [[Process]] is allowed to execute its critical section 

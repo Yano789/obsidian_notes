@@ -3,11 +3,17 @@
 **Course Handout** - https://docs.google.com/document/d/1lbudJwX11JK6JOjwq5fDTwfycz9GcAqAoNL-NjbpU4M/edit?tab=t.0#heading=h.2axn1ghn0yup
 
 %% Begin Waypoint %%
-- [[Atomic Operations]]
-- [[Critical Section (CS)]]
-- [[Race Condition]]
-- **Software Mutex Algoritm**
-	- [[Peterson's Solution]]
+- **Synchronization**
+	- [[Critical Section (CS)]]
+	- [[Producer Consumer Problem]]
+	- **Software Mutex**
+		- [[Atomic Operation]]
+		- [[Peterson's Solution]]
+		- [[Race Condition]]
+	- **[[Synchronization Hardware]]**
+		- [[Mutex Lock]]
+		- [[Semaphores]]
+		- [[Spinlock]]
 - **[[The Computer System]]**
 	- **[[Application Programming Interface]]**
 
@@ -41,7 +47,6 @@
 			- [[Process Table]]
 			- [[Reentrancy Kernel]]
 			- [[User Mode (MSB = 0)]]
-		- [[Kernel]]
 		- **[[Mulitprogramming]]**
 
 		- [[OS Design and Implementation]]
@@ -76,6 +81,5 @@
 
 	- [[Program]]
 	- [[wait()]]
-- [[The Producer Consumer Problem]]
 
 %% End Waypoint %%

@@ -4,7 +4,7 @@ a *software-based* approach to solve The [[Critical Section (CS)]] Problem with 
 >[!NOTE] 
 >Single core environment only
 
-2. Architectures where `LD` and `ST` are [[Atomic Operations]]
+2. Architectures where `LD` and `ST` are [[Atomic Operation]]
 
 # Key Idea
 This solution works by initializing two global variables
@@ -34,4 +34,5 @@ do{
 
 > [!NOTE] 
 > Similarly, the code for process $P_j$ is just the same with flipped letters
+
 

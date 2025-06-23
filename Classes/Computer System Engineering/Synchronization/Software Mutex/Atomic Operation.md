@@ -6,3 +6,8 @@ An indivisible operation that completes in a single step relative to other [[Thr
 
 > [!NOTE] Once an atomic operation begins, it will complete without interference
 
+# Atomic Instructions
+implemented set of atomic operations
+
+>[!WARNING]
+>Implementing atomic instructions **locks the memory bus**. Thus, [[Critical Section (CS)#Mutual Exclusion (MutEx)|mutual exclusion]] us trivial
