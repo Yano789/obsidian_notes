@@ -5,15 +5,15 @@
 %% Begin Waypoint %%
 - **Synchronization**
 	- [[Critical Section (CS)]]
+	- **[[Hardware Synchronization]]**
+		- [[Mutex Lock]]
+		- [[Spinlock]]
 	- [[Producer Consumer Problem]]
-	- **Software Mutex**
+	- [[Semaphores]]
+	- **Software Synchronization**
 		- [[Atomic Operation]]
 		- [[Peterson's Solution]]
 		- [[Race Condition]]
-	- **[[Synchronization Hardware]]**
-		- [[Mutex Lock]]
-		- [[Semaphores]]
-		- [[Spinlock]]
 - **[[The Computer System]]**
 	- **[[Application Programming Interface]]**
 

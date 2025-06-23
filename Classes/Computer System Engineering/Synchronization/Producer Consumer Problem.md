@@ -4,7 +4,8 @@ Two [[Process#Asynchronous Processing|Asynchronous Processes]] or [[Threads]] ar
 - Producer cannot produce too much before consumer consumes
 - Consumer cannot consume before producer produces
 
- >[!WARNING] Without proper synchronization attempts, the precedence condition will be violated
+ >[!WARNING] 
+ >Without proper synchronization attempts, the precedence condition will be violated
 
 This is due to the presence of the [[Race Condition]] 
 

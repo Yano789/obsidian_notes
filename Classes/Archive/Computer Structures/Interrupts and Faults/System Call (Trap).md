@@ -55,7 +55,7 @@ ___
 anything related to security
 
 ___
-# Blocking vs Non-Blocking 
+# Blocking vs Non-Blocking System Call
 ## Blocking
 a system call that must **WAIT** until the action can be completed
 
