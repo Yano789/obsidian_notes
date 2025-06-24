@@ -1,0 +1,1 @@
+Using this method, we can wake up all [[Thread|threads]] in the wait set.

@@ -9,6 +9,10 @@
 		- [[Condition Variable]]
 		- [[Mutex Lock]]
 		- [[Spinlock]]
+	- **[[Java Synchronization]]**
+		- [[Entry Set]]
+		- [[NotifyAll()]]
+		- [[Reentrant Lock]]
 	- [[Producer Consumer Problem]]
 	- [[Semaphore]]
 	- **Software Synchronization**
