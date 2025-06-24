@@ -7,3 +7,7 @@ If you use a **non-reentrant lock** and try to acquire it again, you will experi
 >[!NOTE]
 >For some locks, you must **release** the lock `N` times after **acquiring** it `N` times
 
+
+
+
+*Related to [[Java Synchronization]]*
