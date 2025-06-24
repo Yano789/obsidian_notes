@@ -1,9 +1,9 @@
-mappings between the [[Threads#2. Kernel Level Threads|Kernel Level Threads]] and [[Threads#1. User Level Threads|User Level Threads]] 
+mappings between the [[Thread#2. Kernel Level Threads|Kernel Level Threads]] and [[Thread#1. User Level Threads|User Level Threads]] 
 
 # Types of Thread Mappings
 
 ## Many to One 
-- many [[Threads#1. User Level Threads|User Level Threads]] to one [[Threads#2. Kernel Level Threads|Kernel Level Threads]] 
+- many [[Thread#1. User Level Threads|User Level Threads]] to one [[Thread#2. Kernel Level Threads|Kernel Level Threads]] 
 
 **Advantage**:
 - Thread management is done by the thread library in user space, so it is more **efficient** as opposed to kernel thread management.

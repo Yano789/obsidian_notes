@@ -27,9 +27,9 @@ integer value: `0` or `1`
 integer value: between `0` to `N`
 
 # Implementation
-Whenever the [[Process]]/[[Threads]] need to [[wait()]], it **reduces the semaphore**
+Whenever the [[Process]]/[[Thread]] need to [[wait()]], it **reduces the semaphore**
 - if the current semaphore value is **negative**, it blocks itself
-- The [[Process]]/[[Threads]] are then added to the **waiting queue** associated with that semaphore
+- The [[Process]]/[[Thread]] are then added to the **waiting queue** associated with that semaphore
 
 When a [[Process]] is completed, it will call the `signal()` function, and one [[Process]] in the queue is resumed by using the `wakeup()` [[System Call (Trap)|System Call]]
 

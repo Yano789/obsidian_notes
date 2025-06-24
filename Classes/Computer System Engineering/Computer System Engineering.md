@@ -6,10 +6,11 @@
 - **Synchronization**
 	- [[Critical Section (CS)]]
 	- **[[Hardware Synchronization]]**
+		- [[Condition Variable]]
 		- [[Mutex Lock]]
 		- [[Spinlock]]
 	- [[Producer Consumer Problem]]
-	- [[Semaphores]]
+	- [[Semaphore]]
 	- **Software Synchronization**
 		- [[Atomic Operation]]
 		- [[Peterson's Solution]]
@@ -74,7 +75,7 @@
 
 			- **[[Shared Memory]]**
 
-		- **[[Threads]]**
+		- **[[Thread]]**
 			- **[[Multicore Programming]]**
 				- [[Amdahl's Law]]
 			- **[[Thread Mapping]]**

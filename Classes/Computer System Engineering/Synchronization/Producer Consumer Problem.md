@@ -1,4 +1,4 @@
-Two [[Process#Asynchronous Processing|Asynchronous Processes]] or [[Threads]] are trying to write to and read from the same bounded buffer [[Process#Concurrency|concurrently]] 
+Two [[Process#Asynchronous Processing|Asynchronous Processes]] or [[Thread]] are trying to write to and read from the same bounded buffer [[Process#Concurrency|concurrently]] 
 
 # Precedence Constraints
 - Producer cannot produce too much before consumer consumes

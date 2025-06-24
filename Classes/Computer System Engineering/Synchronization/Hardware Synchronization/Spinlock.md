@@ -4,7 +4,7 @@ aliases:
 ---
 a simple variable that provides [[Critical Section (CS)#Mutual Exclusion (MutEx)|mutual exclusion]]
 
-An attempt to `acquire()` the lock causes a [[Process]] or [[Threads|Thread]] to wait in a loop *("spin")* while checking whether the lock is available
+An attempt to `acquire()` the lock causes a [[Process]] or [[Thread|Thread]] to wait in a loop *("spin")* while checking whether the lock is available
 
 >[!NOTE]
 >This *busy waiting* wastes the caller's quantum until the caller acquires the lock to progress
