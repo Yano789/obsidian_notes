@@ -89,6 +89,8 @@
 		- [[wait()]]
 - **Week 8-14**
 	- **[[Network Performance]]**
+		- **[[Processing Delay]]**
 
+		- **[[Queueing Delay]]**
 
 %% End Waypoint %%
