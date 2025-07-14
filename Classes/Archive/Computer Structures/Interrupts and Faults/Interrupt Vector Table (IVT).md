@@ -18,6 +18,6 @@ A table of pointers to **interrupt service routines (ISRs)** used to handle [[In
 
 CPU must be configured to receive [[IRQ Signal]] and invoke correct interrupt handling using the IVT
 
-[[Classes/Computer System Engineering/The Computer System/Operating System (OS)/Kernel/Kernel|Operating System Kernel]] must provide the ISRs to handle the interrupts
+[[Classes/Computer System Engineering/Week 1-6/The Computer System/Operating System (OS)/Kernel/Kernel|Operating System Kernel]] must provide the ISRs to handle the interrupts
 
 *Note: Interrupt Descriptor Table (IDT) is a data structure used by the x86 architecture to implement an interrupt vector table*

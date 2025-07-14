@@ -12,7 +12,7 @@ CPU will continuously check if IRQ:
 - If IRQ == 1: the CPU will store the OPCODE Address and Handle the Interrupt
 - If IRQ != 1: The CPU will run as normal
 
-This forces the CPU to transfer control to the interrupt handler. Requiring the [[Application (User) Program]] to enter [[Classes/Computer System Engineering/The Computer System/Operating System (OS)/Kernel/Kernel#Kernel Mode (PC31 MSB = 1)|Kernel Mode]] 
+This forces the CPU to transfer control to the interrupt handler. Requiring the [[Application (User) Program]] to enter [[Classes/Computer System Engineering/Week 1-6/The Computer System/Operating System (OS)/Kernel/Kernel#Kernel Mode (PC31 MSB = 1)|Kernel Mode]] 
 
 Thus the **Interrupt Handler** will do the following:
 1. Save the register states (interrupted program instruction) into the process table

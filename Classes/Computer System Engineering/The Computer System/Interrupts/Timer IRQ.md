@@ -1,1 +1,0 @@
-After a given amount of time, the [[Classes/Computer System Engineering/The Computer System/Operating System (OS)/Kernel/Kernel|Kernel]] will pause the [[Process]] and [[Context Switching]] to another [[Process]] based on priority
