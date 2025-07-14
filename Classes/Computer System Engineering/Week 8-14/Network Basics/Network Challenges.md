@@ -1,0 +1,5 @@
+- **Operability**: How do the independent devices communicate and synchronize, what medium or protocols do they use?
+	- Solution: [[]]
+- **Sharing**: How do we control traffic of packets? How do we share resources between N hosts that wish to communicate with one another?
+- **Complex interacting components**: How do we manage the interaction between so many different types of devices, e.g: phones, micro controllers, computers, database servers, cars, etc?
+- **Scalability**: How do we scale the network, so that it is able to support the growing number of devices?

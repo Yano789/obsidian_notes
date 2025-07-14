@@ -93,6 +93,7 @@
 		- [[End Systems]]
 		- **[[Internet Service Provider (ISP)]]**
 
+		- [[Network Challenges]]
 		- **[[Packets]]**
 			- [[Packet Switches]]
 	- **[[Network Performance]]**
