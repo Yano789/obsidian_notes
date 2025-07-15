@@ -1,5 +1,9 @@
 - **Operability**: How do the independent devices communicate and synchronize, what medium or protocols do they use?
-	- Solution: [[]]
+	- Solution: [[Protocols]] and [[Application Programming Interface|API]] 
 - **Sharing**: How do we control traffic of packets? How do we share resources between N hosts that wish to communicate with one another?
+	- Solution: [[Packet Switching]] 
+	- *NOTE: NOT [[Packet Switches]]*
 - **Complex interacting components**: How do we manage the interaction between so many different types of devices, e.g: phones, micro controllers, computers, database servers, cars, etc?
+	- Solution: [[Circuit Switching]]
 - **Scalability**: How do we scale the network, so that it is able to support the growing number of devices?
+	- Solution: [[Network Layering]] through the [[5 Layer OSI Model]]

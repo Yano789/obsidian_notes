@@ -1,0 +1,1 @@
+A Request for Comments (RFC) is a publication in a series from the principal technical development and standards-setting bodies for the Internet, most prominently the [**IETF** (Internet Engineering Task Force)](https://www.ietf.org).
