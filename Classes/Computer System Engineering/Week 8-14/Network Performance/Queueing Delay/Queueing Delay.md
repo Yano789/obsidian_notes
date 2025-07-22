@@ -1,6 +1,6 @@
 Queueing delay is the time [[Packets]] spends waiting in a queue before it can be transmitted onto the network link
 
-![[Queueing Delay - 1.png]]
+![[Queueing Delay - 1.webp]]
 
 **Duration**: varies, depending on traffic (congestion level). It is non trivial to compute.
 

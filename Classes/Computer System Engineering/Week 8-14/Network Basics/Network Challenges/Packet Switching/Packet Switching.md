@@ -2,7 +2,7 @@ Packet switching is a method of data transmission where messages are broken into
 
 It is an alternative way to share resources between [[End Systems]] (apart from [[Circuit Switching]]). Remember that the internet is a shared resource. It does not belong to just 1 or 2 end hosts.
 
-![[Packet Switching - 1.png]]
+![[Packet Switching - 1.webp]]
 *As you can see in the figure above, unlike circuit switching, packet switching resources are **shared** among many end users. Packets occupy network resources on **demand**. This is better for bursty data.*
 
 >[!Important]

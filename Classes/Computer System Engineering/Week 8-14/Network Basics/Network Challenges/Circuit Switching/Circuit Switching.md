@@ -1,6 +1,6 @@
 A type of network **configuration** where we reserve all resources (physical path) required to provide for communication between two [[End Systems]] for the duration of their designated communication session (not forever).
 
-![[Circuit Switching - 1.png]]
+![[Circuit Switching - 1.webp]]
 *In the figure above, there are three resources (routers / switches) that’s required for host A and B to communicate. For as long as A and B are communicating, the three resources: R1, R2, and R3 are reserved for them.* 
 
 **Pros:** The **advantage** of circuit switching is that we have a guaranteed stable connection for that reserved slot / bandwidth.

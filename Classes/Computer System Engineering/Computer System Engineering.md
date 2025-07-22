@@ -108,15 +108,22 @@
 			- **[[Software-Defined Networking (SDN)]]**
 
 		- **[[Packets]]**
+			- **[[Packet Loss]]**
+
 			- [[Packet Switches]]
 		- [[Protocols]]
 		- [[RFC (Request for Comments)]]
 	- **[[Network Performance]]**
+		- [[Average Link Utilisation]]
+		- **[[Ping]]**
+
 		- **[[Processing Delay]]**
 
 		- [[Propagation Delay]]
 		- **[[Queueing Delay]]**
 
+		- **[[Traceroute]]**
+			- [[Internet Control Message Protocol (ICMP)]]
 		- **[[Transmission Delay]]**
 
 

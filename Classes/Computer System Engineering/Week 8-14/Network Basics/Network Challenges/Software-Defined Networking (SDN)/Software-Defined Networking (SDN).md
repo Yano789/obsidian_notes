@@ -4,7 +4,7 @@ aliases:
 ---
 Software-Defined Networking (SDN) is a **modern** networking architecture that separates the control plane from the data plane in network devices.
 
-![[Software-Defined Networking (SDN) - 1.png]]
+![[Software-Defined Networking (SDN) - 1.webp]]
 
 This separation allows for more flexible and efficient network management.
 - In SDN, a **centralized** controller dynamically manages network behavior through software applications, providing a global view and centralized control over the network.

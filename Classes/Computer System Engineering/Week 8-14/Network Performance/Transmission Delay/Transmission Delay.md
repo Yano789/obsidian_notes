@@ -1,6 +1,6 @@
 Transmission delay (also known as transmission time) is primarily determined by how **fast** the bits are pushed into the link
 
-![[Transmission Delay - 1.png]]
+![[Transmission Delay - 1.webp]]
 
 **Duration**: varies, depends on bandwidth (link technology). The amount of transmission delay is computed as: 
 $$

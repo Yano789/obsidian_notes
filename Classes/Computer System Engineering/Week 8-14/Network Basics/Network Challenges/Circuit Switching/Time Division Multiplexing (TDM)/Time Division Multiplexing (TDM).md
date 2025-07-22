@@ -1,1 +1,1 @@
-![[Time Division Multiplexing (TDM) - 1.png]]
+![[Time Division Multiplexing (TDM) - 1.webp]]

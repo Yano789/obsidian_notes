@@ -1,1 +1,1 @@
-![[Frequency Division Multiplexing (FDM) -1.png]]
+![[Frequency Division Multiplexing (FDM) -1.webp]]

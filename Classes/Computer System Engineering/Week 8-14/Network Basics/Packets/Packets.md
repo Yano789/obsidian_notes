@@ -9,4 +9,4 @@ When one end system has data to send to another end system, the sending [[End Sy
 
 The resulting packages of information, known as **packets** in the jargon of computer networks, are then sent through the network to the destination end system, where they are **reassembled** into the original data. *This means they follow encapsulation* 
 
-![[Packets - 1.png]]
+![[Packets - 1.webp]]

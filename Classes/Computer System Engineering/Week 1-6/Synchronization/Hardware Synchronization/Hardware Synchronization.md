@@ -10,4 +10,3 @@ only works in **single-core systems** and is **NOT** feasible in [[Multicore Pro
 - Decreases efficiency
 
 Can be done using [[Atomic Operation#Atomic Instructions]]
-
