@@ -1,0 +1,3 @@
+Two integers are said to be “relatively prime” (also known as “coprime” or “mutually prime”) if they have no common positive factors other than 1. In other words, their greatest common divisor (GCD) is 1. This concept is crucial in various fields of mathematics and [[Cryptography]], particularly in algorithms involving modular arithmetic.
+
+Example: the numbers 12 and 13 are **relatively** prime because 12 is divisible by 1, 2, 3, 4, 6, 12 and 13 is divisible by 1 and 13, with their only common divisor being 1.

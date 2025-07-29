@@ -69,3 +69,11 @@ If Host A wish to send packets to host C, where the _throughput_ of each link is
 >
 >Therefore, while “throughput” refers to the actual observed data transfer rate, in theoretical scenarios or when designing networks, it’s often assumed that the link operates at its maximum capacity (bandwidth) under ideal conditions. Therefore, using “bandwidth” in such contexts is appropriate for simplicity and clarity in calculations and network design discussions.
 
+# Visualization
+## Space Time Diagram
+- **Vertical** = **time**, while **horizontal** = **space** between source and destination points (distance). You can compute the last bit transmitted given **$L$ (packet length)** and **$R$ (bandwidth)**.
+- Here we often **omit the illustration of queueing delay**
+- We also **omit the illustration of transmission delay for negligible-sized packets** (e.g: packets so small that transmission delay won’t matter)
+- We also **severely simplify the diagram** and assume that there are no other nodes between the source and destination (this is not true in practice, as the packets between source and destination would need to go through several routers)
+
+![[Network Performance-1.png]]
