@@ -113,6 +113,9 @@ RSA involves a set of algorithms for key generation, encryption, and decryption:
 Example:
 https://natalieagus.github.io/50005/ns/04-network-security#a-simple-example
 
+### Security of RSA
+The security of RSA relies on the practical difficulty of factoring the product of two large prime numbers, the factoring problem. The larger the key size, the more secure the RSA system, although this also increases computational overhead. Common key lengths are 2048 and 4096 bits.
+
 ### Message Segmentation
 Messages that are long will be separated into segments such that the size of these segments is less than $n$.
 
@@ -131,3 +134,21 @@ Segmenting the message into smaller blocks ensures that RSA encryption and decry
 **Encryption**: The primary goal is confidentiality. Encryption with a public key ensures that only the holder of the corresponding private key can decrypt and read the message. 
 
 **Signing**: The primary goals are authenticity and integrity. Signing with a private key allows anyone with the public key to verify who sent the message and that it has not been altered.
+
+### Practical Uses
+**Secure communications**: RSA can be used to encrypt data transmissions or to secure sensitive data by encrypting it with a public key, ensuring that only the holder of the private key can decrypt it. **Digital Signatures**: RSA is also used for digital signatures, where a message is signed with a sender’s private key and can be verified by anyone who has access to the sender’s public key.
+
+Since public key $(n,e)$ is known to everybody and private key $(n,d)$ is only known to receiver, an attacker only need to guess the value of $d$
+
+to decrypt the message: 
+- $e$ is known and $d$ is related to $e$, $(ed−1)\ mod\ z=0$
+- To find $z$, one has to know $p$ and $q$
+- $p$ and $q$ is related to $n$, $n=p\times q$
+
+Hence, one has to be able to perform **prime factorization** of n to guess p and q correctly. If n is sufficiently large, e.g: 1024 bits, it is hard to find the correct prime factors of n
+
+(exponential complexity). To crack a simple 128-bit key, a supercomputer (in 2022) on estimate, requires ~10^(39) seconds. The universe is younger than that.
+
+The **prime factorization** problem falls under [[Non-deterministic Polynomial Time (NP)]] Problem
+
+RSA has stood the test of time, remaining robust against various attacks when correctly implemented and used with a sufficient key size. However, in the era of quantum computing, RSA’s security could potentially be compromised, leading to interest in developing quantum-resistant algorithms.
