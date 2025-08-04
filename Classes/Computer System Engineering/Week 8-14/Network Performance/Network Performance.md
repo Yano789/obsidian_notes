@@ -61,7 +61,7 @@ Link bandwidth varies depending on its material/technology:
 This capacity of a link (bandwidth) is a **combination** of the physical characteristics of the transmission medium, the technology and standards applied, the quality and configuration of the network equipment, and the environmental conditions in which the network operates. You will learn more about it if you take a full Networks class, but you can read this [appendix](https://natalieagus.github.io/50005/ns/03-network-performance#factors-affecting-bandwidth) section if you’re curious about what factors affect bandwidth.
 
 We can compute end-to-end throughput based on the bottleneck link. For instance, given the following network topology and bandwidth:
-![[Network Performance.png]]
+![[Network Performance.webp]]
 If Host A wish to send packets to host C, where the _throughput_ of each link is as shown in the diagram above, Host A can only do so with throughput of 3 MBps.
 
 >[!NOTE]
@@ -76,4 +76,4 @@ If Host A wish to send packets to host C, where the _throughput_ of each link is
 - We also **omit the illustration of transmission delay for negligible-sized packets** (e.g: packets so small that transmission delay won’t matter)
 - We also **severely simplify the diagram** and assume that there are no other nodes between the source and destination (this is not true in practice, as the packets between source and destination would need to go through several routers)
 
-![[Network Performance-1.png]]
+![[Network Performance-1.webp]]

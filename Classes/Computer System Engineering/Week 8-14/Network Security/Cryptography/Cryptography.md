@@ -11,14 +11,14 @@ The **ciphertext** (resulting encrypted value) will not be decodable anymore (wh
 A substitution cipher is a method of encryption where each unit of plaintext is replaced with ciphertext according to a fixed system.
 
 A naive attempt to encrypt your text message is by mapping from a set of letters to another set as such:
-![[Classes/Computer System Engineering/Week 8-14/Network Security/Cryptography/Photos/Cryptography-1.png]]
+![[Cryptography-1.webp]]
 
 >[!MAIN DISADVANTAGE]
 The **frequency** of the letters are not masked at all. Once you have deciphered some common letters, it is easy to fill in the gaps.
 
 ## Symmetric Key Cryptography
 Symmetric key cryptography is a type of encryption where the same key is used for both encrypting and decrypting the data.
-![[Classes/Computer System Engineering/Week 8-14/Network Security/Cryptography/Photos/Cryptography-2.png]]
+![[Cryptography-2.webp]]
 
 Sender and receiver can encrypt plain text and decrypt ciphertext with the same key. In short, any plaintext can be converted into bits (e.g: with UTF8 encoding, ASCII encoding, etc). We can segment our message into bits of X bytes in length, and then generate a K bits key, and perform arithmetic operations between the two.
 
@@ -53,7 +53,7 @@ Asymmetric key cryptography, also known as public key cryptography, is an encryp
 
 This method enables not only secure encryption but also **digital signatures** and **key exchanges**
 
-![[Classes/Computer System Engineering/Week 8-14/Network Security/Cryptography/Photos/Cryptography-4.png]]
+![[Cryptography-4.webp]]
 
 ### Rivest–Shamir–Adleman (RSA)
 one of the first public-key cryptosystems and is **widely used for secure data transmission**. Invented in 1977 by Ron Rivest, Adi Shamir, and Leonard Adleman, it remains an important element in digital security and is used in a variety of applications like SSL/TLS for securing websites and digital signatures
@@ -161,7 +161,7 @@ One solution is to use [[Session Key]]
 
 # Application Scenarios of Cryptography
 ## Case 1: Plain Message
-![[Classes/Computer System Engineering/Week 8-14/Network Security/Cryptography/Cryptography.png]]
+![[Cryptography 1.webp]]
 
 Suppose A would like to communicate with B via the internet. Without any cryptography features, an intruder T can send a fake message to B (claiming that it’s sent by A). There’s no way B can differentiate whether the message comes from T or the intended host A:
 
@@ -170,7 +170,7 @@ Suppose A would like to communicate with B via the internet. Without any cryptog
 - Confidentiality is also breached
 
 ## Case 2: Plain Message + IP Header
-![[Classes/Computer System Engineering/Week 8-14/Network Security/Cryptography/Cryptography-1.png]]
+![[Cryptography-1 1.webp]]
 
 In an attempt to prove A’s identity, A will send a message to B along with their IP. However without any encryption T knows A’s IP and will be able to craft a message with A’s IP and send it B. B won’t be able to differentiate whether the message comes from T or A:
 
@@ -187,7 +187,7 @@ In yet another attempt to prove A’s identity, suppose A and B both share a sec
 > [!Eavesdrop Attack]
 > This attack involves eavesdropping the messages exchanged between A and B and use the information for malicious intent.
 
-![[Classes/Computer System Engineering/Week 8-14/Network Security/Cryptography/Cryptography-2.png]]
+![[Cryptography-2 1.webp]]
 
 T can echo back A’s IP + A’s “secret” password to B, but with a new message that does not come from A. Similarly, B cannot differentiate whether the message comes from A or T. Hence still without any form of encryption:
 
@@ -201,7 +201,7 @@ T can echo back A’s IP + A’s “secret” password to B, but with a new mess
 ## Case 4: Encrypted message + encrypted password + IP header
 >[!Note] In this scenario, Symmetric Key Cryptography is used since it’s faster than Asymmetric Key Cryptography.
 
-![[Classes/Computer System Engineering/Week 8-14/Network Security/Cryptography/Cryptography-3.png]]
+![[Cryptography-3 1.webp]]
 
 Now suppose both the message and “secret message” between A and B are now encrypted using symmetric key cryptography, such as 3DES. Even though now T cannot tell what the “secret message” between A and B is, nor can it read the content of the message. However, they can just **record** and **replay** or **playback** the cipher to B. This is called the replay/playback attack.
 
@@ -241,7 +241,7 @@ Case 4’s issue is that it is susceptible to replay attack. To tackle this issu
 
 >[!Important] To do this, host A should **digitally sign** (encrypts with a private key) a 1-time generated number called **Nonce** (Number used only once).
 
-![[Classes/Computer System Engineering/Week 8-14/Network Security/Cryptography/Cryptography-4.png]]
+![[Cryptography-4 1.webp]]
 
 The scenario goes as follows:
 
@@ -261,7 +261,7 @@ There’s still one issue with this: there’s no way that B can tell that the p
 
 B’s intended “confidential” message to A is also susceptible to *Man-in-the-middle*:
 
-![[Cryptography-5.png]]
+![[Cryptography-5.webp]]
 
 
 > [!Important] Man in the middle attack
