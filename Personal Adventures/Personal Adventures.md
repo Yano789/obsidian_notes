@@ -7,6 +7,6 @@
 	- [[Consistency and Discipline]]
 	- [[How To Win Friends & Influence People]]
 	- **Sleep**
-		- **[[Biphasic Sleep Cycle]]**
+		- [[Biphasic Sleep Cycle]]
 
 %% End Waypoint %%
