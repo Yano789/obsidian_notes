@@ -1,6 +1,6 @@
 ---
 Status:
-  - In Progress
+  - Done
 ---
 https://github.com/Yano789/database_labs
 

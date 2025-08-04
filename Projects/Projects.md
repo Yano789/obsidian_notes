@@ -76,7 +76,7 @@ config:
   show_metadata_inlinks: false
   show_metadata_outlinks: false
   show_metadata_tags: false
-  source_data: current_folder
+  source_data: current_folder_without_subfolders
   source_form_result: 
   source_destination_path: /
   row_templates_folder: /
