@@ -88,6 +88,10 @@
 		- [[Program]]
 		- [[wait()]]
 - **Week 8-14**
+	- **Internet Naming and Addressing**
+		- **[[Domain Name System (DNS)]]**
+
+		- [[IP Address]]
 	- **Network Basics**
 		- [[Communications Links]]
 		- [[End Systems]]
