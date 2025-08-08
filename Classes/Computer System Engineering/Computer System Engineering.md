@@ -104,9 +104,14 @@
 			- **[[Internet Service Provider (ISP)]]**
 
 			- **[[Network Layering]]**
-				- [[5 Layer OSI Model]]
-				- [[Transmission Control Protocol (TCP)]]
-				- [[User Datagram Protocol (UDP)]]
+				- **[[5 Layer OSI Model]]**
+
+				- **[[Socket]]**
+
+				- **[[Transmission Control Protocol (TCP)]]**
+
+				- **[[User Datagram Protocol (UDP)]]**
+
 			- **[[Packet Switching]]**
 
 			- **[[Software-Defined Networking (SDN)]]**

@@ -1,3 +1,5 @@
+![[5 Layer OSI Model-1.png]]
+
 # Application Layer
 This is implemented as software, typically the user application(s) needing to communicate via the internet itself. This layer is where network **applications** and their application-layer protocols reside: the layer that provides [[Application Programming Interface|API's]] for web-applications to rely on.
 
@@ -12,7 +14,7 @@ Examples of [[Protocols]] in the Application Layer and their associated librarie
     - Libraries/Frameworks: dnsjava (Java), dnspython (Python), Net::DNS (Perl), etc.
 5. **SSH** (Secure Shell): used for secure remote access and secure file transfer over an insecure network.
     - Libraries/Frameworks: JSch (Java), Paramiko (Python), Net::SSH (Perl), etc.
-6. **WebSocket**: provides full-duplex communication channels over a single TCP connection.
+6. **[[Socket]] / WebSocket**: provides full-duplex communication channels over a single TCP connection.
     - Libraries/Frameworks: ws (Node.js), websocket-client (Python), WebSocket API (JavaScript), etc.
 
 >[!NOTE]
@@ -33,6 +35,31 @@ Application layer protocols **rely** on transport layer protocols. For instance,
 
 >[!NOTE] 
 >A transport layer packet of information is called a **segment**
+
+## Packet Header Format
+
+Information from the **packet header** will be used to demultiplex incoming packets to the correct socket, depending on whether the socket is UDP or TCP:
+
+![](https://natalieagus.github.io/50005//docs/NS/images/08-app-layer/2024-05-09-12-28-38.png)
+
+Note that this is a very simplified illustration. In practice, the packet header has all sorts of information, like source and destination port, source IP and destination IP, but **not all** may be used to identify sockets in the destination host, depending on whether the Socket in question relies on TCP or UDP.
+
+Further information like IP addresses, MAC addresses, network topology information, and port number are typically accessible even at application layer even though application layer protocols dont directly manage these stuffs. These further information is made available for several reasons like diagnostics and logging, access control, security, session management, and many more.
+
+## Multiplexing and Demultiplexing
+Since there are **many** applications that can be running on the hosts, the transport layer protocol multiplex at sender and demultiplex at receiver:
+
+- **Multiplexing**: Multiplexing at the transport layer involves **combining** data from multiple application processes into a **single stream** of packets that can be sent over the network. The transport layer adds necessary **headers** (including source and destination port numbers) to each packet before passing them to the network layer.
+- **Demultiplexing**: Demultiplexing is the process by which the transport layer **receives** packets from the network layer and **directs** them to the appropriate application process. This involves examining the headers of incoming packets to determine which application process should receive the data.
+
+![[5 Layer OSI Model.png]]
+
+>[!Note]
+>In the context of TCP and UDP, multiplexing and demultiplexing are handled by the **kernel’s transport layer**. The kernel uses port numbers in the transport layer headers to route incoming packets to the correct application process and to send outgoing data from multiple processes over the network efficiently.
+
+When a TCP segment arrives, the kernel uses the **destination** **port** number, along with the **source** **IP**, **source** **port**, and **destination** **IP**, to identify the socket that is managing the connection. The segment is then passed to the appropriate socket buffer for the corresponding application process to read.
+
+When a UDP datagram arrives, the kernel uses the **destination** **port** number + destination (this host’s) IP number to find the UDP socket _bound_ to that number. It does not utilise source IP and source port to identify the UDP socket since UDP socket is _connectionless_.
 
 # Network Layer
 The network layer can consist of both software and hardware components. Devices or softwares in this layer is responsible for routing datagrams through a series of routers between the source and destination (i.e: it does path planning).
