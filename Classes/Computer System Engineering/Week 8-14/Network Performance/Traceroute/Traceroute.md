@@ -9,7 +9,7 @@ It works by sending a series of [[Packets]], each forming a **probe** with an in
 2. When the TTL reaches zero, the router discards the packet and sends an **ICMP Time Exceeded** message back to the sender.
 
 # Probe
-At each probe $i$, traceroute sends 3 [[Packets]] that will reach router $i$ (means the router reached after i hops) on path towards destination. These packets are **ICMP Echo Packets** with TTL (time to live) value of $i$. Each router in the path will decrease the TTL by 1.
+At each probe $i$, traceroute sends 3 [[Packets]] that will reach router $i$ (means the router reached after $i$ hops) on path towards destination. These packets are **ICMP Echo Packets** with TTL (time to live) value of $i$. Each router in the path will decrease the TTL by 1.
 
 The final value of $i$ is unknown in the beginning. 
 - It starts from 1 and it will be increased by 1 at each iteration. 
